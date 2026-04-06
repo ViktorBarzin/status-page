@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T09:10:19.905053+00:00",
+  "last_updated": "2026-04-06T09:11:09.911536+00:00",
   "groups": {
     "HTTP": [
       {
@@ -138,7 +138,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 95.9,
+        "uptime_24h": 96.2,
         "uptime_7d": 95.8,
         "uptime_30d": 82.4
       },
@@ -187,21 +187,21 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 58.2,
-        "uptime_7d": 66.8,
-        "uptime_30d": 66.0
+        "uptime_24h": 58.4,
+        "uptime_7d": 66.9,
+        "uptime_30d": 66.1
       },
       {
         "name": "snmp-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 62.7,
-        "uptime_7d": 69.9,
+        "uptime_7d": 70.0,
         "uptime_30d": 68.9
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 58.1,
+        "uptime_24h": 57.9,
         "uptime_7d": 65.7,
         "uptime_30d": 65.3
       },
@@ -291,10 +291,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 60.4,
-        "uptime_7d": 67.7,
-        "uptime_30d": 61.7
+        "status": "down",
+        "uptime_24h": 60.2,
+        "uptime_7d": 67.5,
+        "uptime_30d": 61.6
       },
       {
         "name": "Audiobookshelf",
@@ -418,9 +418,9 @@
       {
         "name": "Insta2Spotify",
         "status": "up",
-        "uptime_24h": 92.1,
-        "uptime_7d": 92.1,
-        "uptime_30d": 92.1
+        "uptime_24h": 92.2,
+        "uptime_7d": 92.2,
+        "uptime_30d": 92.2
       },
       {
         "name": "K8s Portal",
@@ -536,10 +536,10 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "down",
-        "uptime_24h": 42.6,
-        "uptime_7d": 42.6,
-        "uptime_30d": 42.6
+        "status": "up",
+        "uptime_24h": 42.8,
+        "uptime_7d": 42.8,
+        "uptime_30d": 42.8
       },
       {
         "name": "QBittorrent",
