@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T10:41:12.144132+00:00",
+  "last_updated": "2026-04-06T10:50:18.119728+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 96.5,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 57.0,
-        "uptime_7d": 68.0,
-        "uptime_30d": 67.5,
+        "uptime_7d": 68.2,
+        "uptime_30d": 67.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 96.0,
-        "uptime_30d": 83.0,
+        "uptime_30d": 83.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.5,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -199,30 +199,30 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 62.1,
-        "uptime_7d": 69.2,
-        "uptime_30d": 68.1,
+        "uptime_24h": 62.7,
+        "uptime_7d": 69.3,
+        "uptime_30d": 68.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 61.5,
+        "uptime_24h": 61.4,
         "uptime_7d": 68.4,
-        "uptime_30d": 67.5,
+        "uptime_30d": 67.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
         "name": "snmp-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 64.2,
-        "uptime_7d": 71.2,
+        "uptime_24h": 64.6,
+        "uptime_7d": 71.3,
         "uptime_30d": 70.2,
         "url": "https://snmp-exporter.viktorbarzin.lan"
       },
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 60.6,
-        "uptime_7d": 67.0,
-        "uptime_30d": 66.7,
+        "uptime_7d": 67.2,
+        "uptime_30d": 66.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 97.4,
+        "uptime_7d": 97.5,
         "uptime_30d": 94.9,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -323,6 +323,22 @@
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
+        "name": "ha-london",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 7.0,
+        "url": "https://ha-london.viktorbarzin.me"
+      },
+      {
+        "name": "Changedetection",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 7.5,
+        "url": "https://changedetection.viktorbarzin.me"
+      },
+      {
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 97.2,
@@ -332,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "down",
-        "uptime_24h": 55.9,
-        "uptime_7d": 65.2,
-        "uptime_30d": 60.3,
+        "status": "up",
+        "uptime_24h": 55.4,
+        "uptime_7d": 65.0,
+        "uptime_30d": 60.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -343,8 +359,16 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
+      },
+      {
+        "name": "Tandoor",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 66.7,
+        "url": "https://tandoor.viktorbarzin.me"
       },
       {
         "name": "N8N",
@@ -375,7 +399,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.7,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.5,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -390,7 +414,7 @@
         "name": "Cyberchef",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
+        "uptime_7d": 98.0,
         "uptime_30d": 95.4,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -409,6 +433,14 @@
         "uptime_7d": 98.0,
         "uptime_30d": 95.4,
         "url": "https://wealthfolio.viktorbarzin.me"
+      },
+      {
+        "name": "Open WebUI",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 69.7,
+        "url": "https://ollama.viktorbarzin.me"
       },
       {
         "name": "Registry Cache - DockerHub",
@@ -437,10 +469,18 @@
       {
         "name": "Book Search Deep Health",
         "status": "up",
-        "uptime_24h": 98.9,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.0,
+        "uptime_24h": 98.7,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
+      },
+      {
+        "name": "Uptime Kuma (self)",
+        "status": "down",
+        "uptime_24h": 58.3,
+        "uptime_7d": 58.3,
+        "uptime_30d": 58.3,
+        "url": "https://uptime.viktorbarzin.me"
       },
       {
         "name": "AIOStreams",
@@ -485,9 +525,9 @@
       {
         "name": "K8s Portal",
         "status": "up",
-        "uptime_24h": 97.2,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.2,
+        "uptime_24h": 97.3,
+        "uptime_7d": 97.3,
+        "uptime_30d": 97.3,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -499,59 +539,83 @@
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
+        "name": "Travel Blog",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://travel.viktorbarzin.me"
+      },
+      {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 46.6,
-        "uptime_7d": 46.6,
-        "uptime_30d": 46.6,
+        "uptime_24h": 46.9,
+        "uptime_7d": 46.9,
+        "uptime_30d": 46.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 95.4,
-        "uptime_7d": 95.4,
-        "uptime_30d": 95.4,
+        "uptime_24h": 95.5,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
         "name": "Matrix",
         "status": "up",
-        "uptime_24h": 88.6,
-        "uptime_7d": 88.6,
-        "uptime_30d": 88.6,
+        "uptime_24h": 88.7,
+        "uptime_7d": 88.7,
+        "uptime_30d": 88.7,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 23.8,
-        "uptime_7d": 23.8,
-        "uptime_30d": 23.8,
+        "uptime_24h": 23.6,
+        "uptime_7d": 23.6,
+        "uptime_30d": 23.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
         "name": "OwnTracks",
         "status": "up",
-        "uptime_24h": 93.2,
-        "uptime_7d": 93.2,
-        "uptime_30d": 93.2,
+        "uptime_24h": 93.3,
+        "uptime_7d": 93.3,
+        "uptime_30d": 93.3,
         "url": "https://owntracks.viktorbarzin.me"
+      },
+      {
+        "name": "Navidrome (Emo)",
+        "status": "down",
+        "uptime_24h": 33.3,
+        "uptime_7d": 33.3,
+        "uptime_30d": 33.3,
+        "url": "https://navidrome.viktorbarzin.me"
+      },
+      {
+        "name": "Navidrome (Viktor)",
+        "status": "up",
+        "uptime_24h": 38.5,
+        "uptime_7d": 38.5,
+        "uptime_30d": 38.5,
+        "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "OpenLobster",
         "status": "up",
-        "uptime_24h": 92.7,
-        "uptime_7d": 92.7,
-        "uptime_30d": 92.7,
+        "uptime_24h": 92.8,
+        "uptime_7d": 92.8,
+        "uptime_30d": 92.8,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
         "name": "Alertmanager",
         "status": "up",
-        "uptime_24h": 95.0,
-        "uptime_7d": 95.0,
-        "uptime_30d": 95.0,
+        "uptime_24h": 95.1,
+        "uptime_7d": 95.1,
+        "uptime_30d": 95.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -573,9 +637,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 49.5,
-        "uptime_7d": 49.5,
-        "uptime_30d": 49.5,
+        "uptime_24h": 49.8,
+        "uptime_7d": 49.8,
+        "uptime_30d": 49.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -589,17 +653,17 @@
       {
         "name": "pgAdmin",
         "status": "up",
-        "uptime_24h": 91.9,
-        "uptime_7d": 91.9,
-        "uptime_30d": 91.9,
+        "uptime_24h": 92.0,
+        "uptime_7d": 92.0,
+        "uptime_30d": 92.0,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
         "name": "Networking Toolbox",
         "status": "up",
-        "uptime_24h": 95.9,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9,
+        "uptime_24h": 96.0,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -613,10 +677,18 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 44.3,
-        "uptime_7d": 44.3,
-        "uptime_30d": 44.3,
+        "uptime_24h": 44.7,
+        "uptime_7d": 44.7,
+        "uptime_30d": 44.7,
         "url": "https://poison.viktorbarzin.me"
+      },
+      {
+        "name": "Flaresolverr",
+        "status": "down",
+        "uptime_24h": 16.7,
+        "uptime_7d": 16.7,
+        "uptime_30d": 16.7,
+        "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "QBittorrent",
@@ -625,6 +697,14 @@
         "uptime_7d": 93.7,
         "uptime_30d": 93.7,
         "url": "https://flaresolverr.viktorbarzin.me"
+      },
+      {
+        "name": "Task Webhook",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://task-webhook.viktorbarzin.me"
       },
       {
         "name": "Webhook Handler",
@@ -697,16 +777,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 58.2,
-        "uptime_7d": 66.5,
-        "uptime_30d": 66.4
+        "uptime_24h": 58.4,
+        "uptime_7d": 66.7,
+        "uptime_30d": 66.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 59.9,
-        "uptime_7d": 67.9,
-        "uptime_30d": 67.8
+        "uptime_24h": 60.1,
+        "uptime_7d": 68.1,
+        "uptime_30d": 67.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -719,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 61.0,
-        "uptime_7d": 68.0,
-        "uptime_30d": 67.5
+        "uptime_7d": 68.2,
+        "uptime_30d": 67.7
       },
       {
         "name": "pfSense Gateway",
