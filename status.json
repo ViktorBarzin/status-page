@@ -1,213 +1,213 @@
 {
-  "last_updated": "2026-04-06T08:30:17.676142+00:00",
+  "last_updated": "2026-04-06T08:32:06.651412+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 96.5,
         "uptime_7d": 97.0,
         "uptime_30d": 96.7
       },
       {
         "name": "Headscale (Tailscale VPN)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.4,
         "uptime_30d": 95.6
       },
       {
         "name": "Echo",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.6,
         "uptime_30d": 97.6
       },
       {
         "name": "Excalidraw",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
         "uptime_30d": 97.6
       },
       {
         "name": "Shlink (URL Shortener)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 98.9,
         "uptime_30d": 95.0
       },
       {
         "name": "IDRAC Redfish Exporter",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 97.4
       },
       {
         "name": "HackMD",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.4,
         "uptime_30d": 97.6
       },
       {
         "name": "Privatebin",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.8,
         "uptime_30d": 95.8
       },
       {
         "name": "Grafana",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.2
       },
       {
         "name": "Formula 1 Stream",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.5,
         "uptime_30d": 94.6
       },
       {
         "name": "calibre",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 98.6,
         "uptime_30d": 93.6
       },
       {
         "name": "Dawarich",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 97.8,
         "uptime_30d": 92.9
       },
       {
         "name": "authentik-server",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 98.6
       },
       {
         "name": "Dcoker registry",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0
       },
       {
         "name": "K8s master",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7
       },
       {
         "name": "Immich server",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 95.5,
         "uptime_7d": 95.5,
         "uptime_30d": 86.5
       },
       {
         "name": "Immich ML",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 57.0,
         "uptime_7d": 65.8,
         "uptime_30d": 65.3
       },
       {
         "name": "Actual Budget",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.2,
         "uptime_7d": 98.6,
         "uptime_30d": 96.8
       },
       {
         "name": "Linkwarden",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.2,
         "uptime_30d": 96.3
       },
       {
         "name": "Nextcloud",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 95.9,
-        "uptime_7d": 95.7,
+        "uptime_7d": 95.8,
         "uptime_30d": 82.2
       },
       {
         "name": "Vaultwarden",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 97.6
       },
       {
         "name": "Wrongmove (UI)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 83.8
       },
       {
         "name": "Wrongmove API",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.6,
         "uptime_30d": 82.0
       },
       {
         "name": "Tuya-Bridge",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.7,
         "uptime_30d": 99.4
       },
       {
         "name": "Frigate",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
         "uptime_30d": 96.6
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
-        "status": "pending",
-        "uptime_24h": 61.2,
+        "status": "up",
+        "uptime_24h": 61.1,
         "uptime_7d": 68.3,
         "uptime_30d": 67.3
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
-        "status": "pending",
-        "uptime_24h": 59.7,
+        "status": "up",
+        "uptime_24h": 59.5,
         "uptime_7d": 67.4,
         "uptime_30d": 66.6
       },
       {
         "name": "snmp-exporter.viktorbarzin.lan",
-        "status": "pending",
-        "uptime_24h": 63.6,
-        "uptime_7d": 70.5,
-        "uptime_30d": 69.5
+        "status": "down",
+        "uptime_24h": 63.4,
+        "uptime_7d": 70.4,
+        "uptime_30d": 69.3
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "pending",
-        "uptime_24h": 58.7,
-        "uptime_7d": 66.1,
-        "uptime_30d": 65.7
+        "status": "down",
+        "uptime_24h": 58.5,
+        "uptime_7d": 66.0,
+        "uptime_30d": 65.6
       },
       {
         "name": "Traefik Dashboard",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 99.7
@@ -221,73 +221,73 @@
       },
       {
         "name": "CrowdSec LAPI",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7
       },
       {
         "name": "Onlyoffice",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.4,
         "uptime_30d": 95.6
       },
       {
         "name": "Paperless-ngx",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 97.3,
         "uptime_30d": 94.6
       },
       {
         "name": "Rybbit Analytics",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.5,
         "uptime_30d": 95.1
       },
       {
         "name": "AFFiNE",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 96.2,
         "uptime_7d": 96.5,
         "uptime_30d": 94.5
       },
       {
         "name": "Health Dashboard",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.1,
         "uptime_30d": 95.6
       },
       {
         "name": "Ollama",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 98.6
       },
       {
         "name": "Ntfy",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.1,
         "uptime_30d": 94.9
       },
       {
         "name": "Forgejo",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 97.4
       },
       {
         "name": "Navidrome",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 91.3,
         "uptime_7d": 92.9,
-        "uptime_30d": 86.8
+        "uptime_30d": 86.9
       },
       {
         "name": "ha-london",
@@ -305,21 +305,21 @@
       },
       {
         "name": "Servarr (Prowlarr)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 97.2,
         "uptime_7d": 97.0,
         "uptime_30d": 93.9
       },
       {
         "name": "Blog",
-        "status": "pending",
-        "uptime_24h": 62.0,
-        "uptime_7d": 68.5,
+        "status": "down",
+        "uptime_24h": 61.8,
+        "uptime_7d": 68.3,
         "uptime_30d": 62.1
       },
       {
         "name": "Audiobookshelf",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.2,
         "uptime_30d": 96.6
@@ -333,56 +333,56 @@
       },
       {
         "name": "N8N",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.8,
         "uptime_30d": 95.6
       },
       {
         "name": "FreshRSS",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
         "uptime_30d": 89.6
       },
       {
         "name": "Stirling PDF",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 97.8,
         "uptime_30d": 92.3
       },
       {
         "name": "Homepage",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.6,
         "uptime_30d": 95.1
       },
       {
         "name": "Send",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.4,
         "uptime_30d": 95.6
       },
       {
         "name": "Cyberchef",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.8,
         "uptime_30d": 95.1
       },
       {
         "name": "Speedtest",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 97.8,
         "uptime_30d": 94.9
       },
       {
         "name": "Wealthfolio",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.8,
         "uptime_30d": 95.1
@@ -396,28 +396,28 @@
       },
       {
         "name": "Registry Cache - DockerHub",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0
       },
       {
         "name": "Registry Cache - GHCR",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
         "uptime_30d": 99.7
       },
       {
         "name": "Book Search Deep Health",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.1,
         "uptime_30d": 98.9
@@ -431,10 +431,10 @@
       },
       {
         "name": "AIOStreams",
-        "status": "pending",
-        "uptime_24h": 94.8,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.8
+        "status": "up",
+        "uptime_24h": 94.9,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.9
       },
       {
         "name": "Audiblez Web",
@@ -445,24 +445,24 @@
       },
       {
         "name": "Actual Budget (Viktor)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 93.9,
         "uptime_7d": 93.9,
         "uptime_30d": 93.9
       },
       {
         "name": "City Guesser",
-        "status": "pending",
-        "uptime_24h": 95.3,
-        "uptime_7d": 95.3,
-        "uptime_30d": 95.3
+        "status": "up",
+        "uptime_24h": 95.4,
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.4
       },
       {
         "name": "Claude Memory MCP",
-        "status": "pending",
-        "uptime_24h": 93.8,
-        "uptime_7d": 93.8,
-        "uptime_30d": 93.8
+        "status": "up",
+        "uptime_24h": 93.9,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.9
       },
       {
         "name": "Ebook2Audiobook",
@@ -473,21 +473,21 @@
       },
       {
         "name": "Insta2Spotify",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 91.8,
         "uptime_7d": 91.8,
         "uptime_30d": 91.8
       },
       {
         "name": "K8s Portal",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 96.9,
         "uptime_30d": 96.9
       },
       {
         "name": "Plotting Book",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 96.4,
         "uptime_7d": 96.4,
         "uptime_30d": 96.4
@@ -515,7 +515,7 @@
       },
       {
         "name": "Music Assistant",
-        "status": "pending",
+        "status": "down",
         "uptime_24h": 42.8,
         "uptime_7d": 42.8,
         "uptime_30d": 42.8
@@ -529,21 +529,21 @@
       },
       {
         "name": "OpenClaw",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 94.8,
         "uptime_7d": 94.8,
         "uptime_30d": 94.8
       },
       {
         "name": "Matrix",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 87.0,
         "uptime_7d": 87.0,
         "uptime_30d": 87.0
       },
       {
         "name": "MeshCentral",
-        "status": "pending",
+        "status": "down",
         "uptime_24h": 26.8,
         "uptime_7d": 26.8,
         "uptime_30d": 26.8
@@ -557,10 +557,10 @@
       },
       {
         "name": "OwnTracks",
-        "status": "pending",
-        "uptime_24h": 92.3,
-        "uptime_7d": 92.3,
-        "uptime_30d": 92.3
+        "status": "up",
+        "uptime_24h": 92.4,
+        "uptime_7d": 92.4,
+        "uptime_30d": 92.4
       },
       {
         "name": "Navidrome (Emo)",
@@ -578,42 +578,42 @@
       },
       {
         "name": "OpenLobster",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 91.8,
         "uptime_7d": 91.8,
         "uptime_30d": 91.8
       },
       {
         "name": "Alertmanager",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 94.4,
         "uptime_7d": 94.4,
         "uptime_30d": 94.4
       },
       {
         "name": "Prometheus",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 91.4,
         "uptime_7d": 91.4,
         "uptime_30d": 91.4
       },
       {
         "name": "Goldilocks (VPA)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 94.3,
         "uptime_7d": 94.3,
         "uptime_30d": 94.3
       },
       {
         "name": "Proxmox UI",
-        "status": "pending",
-        "uptime_24h": 46.4,
-        "uptime_7d": 46.4,
-        "uptime_30d": 46.4
+        "status": "down",
+        "uptime_24h": 46.0,
+        "uptime_7d": 46.0,
+        "uptime_30d": 46.0
       },
       {
         "name": "Woodpecker CI",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 94.8,
         "uptime_7d": 94.8,
         "uptime_30d": 94.8
@@ -627,21 +627,21 @@
       },
       {
         "name": "pgAdmin",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 90.8,
         "uptime_7d": 90.8,
         "uptime_30d": 90.8
       },
       {
         "name": "Networking Toolbox",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 95.4,
         "uptime_7d": 95.4,
         "uptime_30d": 95.4
       },
       {
         "name": "CyberChef",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 94.8,
         "uptime_7d": 94.8,
         "uptime_30d": 94.8
@@ -655,7 +655,7 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "pending",
+        "status": "down",
         "uptime_24h": 42.5,
         "uptime_7d": 42.5,
         "uptime_30d": 42.5
@@ -669,10 +669,10 @@
       },
       {
         "name": "QBittorrent",
-        "status": "pending",
-        "uptime_24h": 92.8,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.8
+        "status": "up",
+        "uptime_24h": 92.9,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9
       },
       {
         "name": "Task Webhook",
@@ -683,7 +683,7 @@
       },
       {
         "name": "Webhook Handler",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.4,
         "uptime_7d": 98.4,
         "uptime_30d": 98.4
@@ -692,56 +692,56 @@
     "TCP Port": [
       {
         "name": "SMTP",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.6,
         "uptime_30d": 96.3
       },
       {
         "name": "Imap",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.6,
         "uptime_30d": 96.3
       },
       {
         "name": "ShadowSocks Proxy",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
         "uptime_30d": 98.4
       },
       {
         "name": "KMS (Windows Activation Service)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 97.1
       },
       {
         "name": "Traefik LoadBalancer",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 99.4
       },
       {
         "name": "NFS Server (TrueNAS)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0
       },
       {
         "name": "Mailserver SMTP",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.5,
         "uptime_30d": 99.5
       },
       {
         "name": "Mailserver IMAP",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.5,
         "uptime_30d": 99.5
@@ -757,17 +757,17 @@
       },
       {
         "name": "Valchedrym Security System",
-        "status": "pending",
-        "uptime_24h": 58.7,
-        "uptime_7d": 65.7,
-        "uptime_30d": 65.6
+        "status": "down",
+        "uptime_24h": 58.6,
+        "uptime_7d": 65.6,
+        "uptime_30d": 65.4
       },
       {
         "name": "Valchedrym Video System",
-        "status": "pending",
-        "uptime_24h": 60.6,
-        "uptime_7d": 67.3,
-        "uptime_30d": 67.1
+        "status": "down",
+        "uptime_24h": 60.2,
+        "uptime_7d": 67.0,
+        "uptime_30d": 66.8
       },
       {
         "name": "Valchedrym Termoregulator",
@@ -778,10 +778,10 @@
       },
       {
         "name": "Valchedrym DDNS",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.6
+        "uptime_30d": 98.7
       },
       {
         "name": "London Openwrt (Tailnet)",
@@ -792,21 +792,21 @@
       },
       {
         "name": "Sofia RPI",
-        "status": "pending",
-        "uptime_24h": 60.7,
+        "status": "up",
+        "uptime_24h": 60.6,
         "uptime_7d": 67.2,
         "uptime_30d": 66.9
       },
       {
         "name": "pfSense Gateway",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0
       },
       {
         "name": "TrueNAS (NFS)",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0
@@ -815,7 +815,7 @@
     "PostgreSQL": [
       {
         "name": "Immich postgresql",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.4,
         "uptime_30d": 94.0
@@ -824,7 +824,7 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "pending",
+        "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 98.4
@@ -833,10 +833,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "pending",
-        "uptime_24h": 44.6,
-        "uptime_7d": 36.8,
-        "uptime_30d": 38.5
+        "status": "up",
+        "uptime_24h": 45.5,
+        "uptime_7d": 37.3,
+        "uptime_30d": 38.9
       }
     ]
   }
