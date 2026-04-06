@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T08:35:18.172652+00:00",
+  "last_updated": "2026-04-06T08:40:17.877788+00:00",
   "groups": {
     "HTTP": [
       {
@@ -14,7 +14,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.4,
-        "uptime_30d": 95.6
+        "uptime_30d": 95.7
       },
       {
         "name": "Echo",
@@ -69,7 +69,7 @@
         "name": "Formula 1 Stream",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 94.6
       },
       {
@@ -118,8 +118,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 57.0,
-        "uptime_7d": 65.8,
-        "uptime_30d": 65.3
+        "uptime_7d": 65.9,
+        "uptime_30d": 65.4
       },
       {
         "name": "Actual Budget",
@@ -133,7 +133,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.3
+        "uptime_30d": 96.4
       },
       {
         "name": "Nextcloud",
@@ -154,7 +154,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.8
+        "uptime_30d": 83.9
       },
       {
         "name": "Wrongmove API",
@@ -180,30 +180,30 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 60.7,
-        "uptime_7d": 68.0,
-        "uptime_30d": 67.0
+        "uptime_24h": 60.4,
+        "uptime_7d": 67.8,
+        "uptime_30d": 66.8
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 59.3,
-        "uptime_7d": 67.3,
-        "uptime_30d": 66.4
+        "uptime_24h": 59.0,
+        "uptime_7d": 67.1,
+        "uptime_30d": 66.3
       },
       {
         "name": "snmp-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 63.3,
-        "uptime_7d": 70.4,
-        "uptime_30d": 69.3
+        "uptime_24h": 63.0,
+        "uptime_7d": 70.2,
+        "uptime_30d": 69.1
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 58.2,
-        "uptime_7d": 65.8,
-        "uptime_30d": 65.4
+        "uptime_24h": 57.9,
+        "uptime_7d": 65.6,
+        "uptime_30d": 65.3
       },
       {
         "name": "Traefik Dashboard",
@@ -259,7 +259,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.1,
-        "uptime_30d": 95.6
+        "uptime_30d": 95.7
       },
       {
         "name": "Ollama",
@@ -313,9 +313,9 @@
       {
         "name": "Blog",
         "status": "down",
-        "uptime_24h": 61.7,
-        "uptime_7d": 68.3,
-        "uptime_30d": 62.1
+        "uptime_24h": 61.4,
+        "uptime_7d": 68.2,
+        "uptime_30d": 62.0
       },
       {
         "name": "Audiobookshelf",
@@ -364,7 +364,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.4,
-        "uptime_30d": 95.6
+        "uptime_30d": 95.7
       },
       {
         "name": "Cyberchef",
@@ -474,9 +474,9 @@
       {
         "name": "Insta2Spotify",
         "status": "up",
-        "uptime_24h": 91.8,
-        "uptime_7d": 91.8,
-        "uptime_30d": 91.8
+        "uptime_24h": 91.9,
+        "uptime_7d": 91.9,
+        "uptime_30d": 91.9
       },
       {
         "name": "K8s Portal",
@@ -516,9 +516,9 @@
       {
         "name": "Music Assistant",
         "status": "down",
-        "uptime_24h": 42.6,
-        "uptime_7d": 42.6,
-        "uptime_30d": 42.6
+        "uptime_24h": 42.5,
+        "uptime_7d": 42.5,
+        "uptime_30d": 42.5
       },
       {
         "name": "Listenarr",
@@ -537,16 +537,16 @@
       {
         "name": "Matrix",
         "status": "up",
-        "uptime_24h": 87.1,
-        "uptime_7d": 87.1,
-        "uptime_30d": 87.1
+        "uptime_24h": 87.2,
+        "uptime_7d": 87.2,
+        "uptime_30d": 87.2
       },
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 26.6,
-        "uptime_7d": 26.6,
-        "uptime_30d": 26.6
+        "uptime_24h": 26.5,
+        "uptime_7d": 26.5,
+        "uptime_30d": 26.5
       },
       {
         "name": "Gramps Web (Family)",
@@ -593,23 +593,23 @@
       {
         "name": "Prometheus",
         "status": "up",
-        "uptime_24h": 91.4,
-        "uptime_7d": 91.4,
-        "uptime_30d": 91.4
+        "uptime_24h": 91.5,
+        "uptime_7d": 91.5,
+        "uptime_30d": 91.5
       },
       {
         "name": "Goldilocks (VPA)",
         "status": "up",
-        "uptime_24h": 94.3,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.3
+        "uptime_24h": 94.4,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4
       },
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 46.0,
-        "uptime_7d": 46.0,
-        "uptime_30d": 46.0
+        "uptime_24h": 45.8,
+        "uptime_7d": 45.8,
+        "uptime_30d": 45.8
       },
       {
         "name": "Woodpecker CI",
@@ -656,9 +656,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 42.7,
-        "uptime_7d": 42.7,
-        "uptime_30d": 42.7
+        "uptime_24h": 42.9,
+        "uptime_7d": 42.9,
+        "uptime_30d": 42.9
       },
       {
         "name": "Flaresolverr",
@@ -723,7 +723,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "NFS Server (TrueNAS)",
@@ -758,16 +758,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 58.1,
-        "uptime_7d": 65.3,
-        "uptime_30d": 65.1
+        "uptime_24h": 57.8,
+        "uptime_7d": 65.1,
+        "uptime_30d": 65.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 60.1,
-        "uptime_7d": 67.0,
-        "uptime_30d": 66.8
+        "uptime_24h": 59.8,
+        "uptime_7d": 66.8,
+        "uptime_30d": 66.7
       },
       {
         "name": "Valchedrym Termoregulator",
@@ -793,9 +793,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 60.1,
-        "uptime_7d": 66.7,
-        "uptime_30d": 66.4
+        "uptime_24h": 59.8,
+        "uptime_7d": 66.6,
+        "uptime_30d": 66.3
       },
       {
         "name": "pfSense Gateway",
@@ -834,7 +834,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 45.5,
+        "uptime_24h": 46.2,
         "uptime_7d": 37.3,
         "uptime_30d": 38.9
       }
