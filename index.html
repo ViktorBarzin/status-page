@@ -4,74 +4,100 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Service Status</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400;7..72,600;7..72,700&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg: #f8f9fa; --bg2: #fff; --fg: #1a1a2e; --fg2: #555;
-  --border: #e0e0e0; --green: #2ecc71; --red: #e74c3c; --yellow: #f39c12;
-  --green-bg: #d4edda; --red-bg: #f8d7da; --yellow-bg: #fff3cd;
-  --bar-bg: #e9ecef; --shadow: rgba(0,0,0,0.05);
+  --bg: #faf7f2; --bg2: #faf7f2; --fg: #1c1917; --fg2: #78716c;
+  --rule: #e7e0d8; --rule-strong: #d6cdc3;
+  --green: #16753a; --red: #b91c1c; --amber: #b45309;
+  --green-wash: #ecf5ef; --red-wash: #fdf0f0; --amber-wash: #fef8ec;
+  --hover: #f5f0ea;
+  --serif: 'Literata', Georgia, serif;
+  --mono: 'DM Mono', 'Menlo', monospace;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0d1117; --bg2: #161b22; --fg: #e6edf3; --fg2: #8b949e;
-    --border: #30363d; --green: #3fb950; --red: #f85149; --yellow: #d29922;
-    --green-bg: #1a2e1a; --red-bg: #2e1a1a; --yellow-bg: #2e2a1a;
-    --bar-bg: #21262d; --shadow: rgba(0,0,0,0.3);
+    --bg: #1c1917; --bg2: #1c1917; --fg: #e7e5e4; --fg2: #a8a29e;
+    --rule: #3a3633; --rule-strong: #57534e;
+    --green: #22c55e; --red: #f87171; --amber: #fbbf24;
+    --green-wash: #14261a; --red-wash: #2a1515; --amber-wash: #2a2010;
+    --hover: #292524;
   }
 }
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--fg); line-height: 1.5; }
-.container { max-width: 800px; margin: 0 auto; padding: 24px 16px; }
-header { text-align: center; margin-bottom: 24px; }
-header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 4px; }
-.updated { color: var(--fg2); font-size: 0.85rem; }
-.banner { padding: 12px 16px; border-radius: 8px; text-align: center; margin-bottom: 20px; font-weight: 500; }
-.banner-ok { background: var(--green-bg); color: var(--green); }
-.banner-warn { background: var(--yellow-bg); color: var(--yellow); }
-.banner-down { background: var(--red-bg); color: var(--red); }
-.stale-warning { background: var(--yellow-bg); color: var(--yellow); padding: 10px 16px; border-radius: 8px; text-align: center; margin-bottom: 16px; font-size: 0.9rem; display: none; }
-.controls { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; align-items: center; }
-.controls label { font-size: 0.8rem; color: var(--fg2); }
-.controls select { font-size: 0.8rem; padding: 4px 8px; border-radius: 6px; border: 1px solid var(--border); background: var(--bg2); color: var(--fg); cursor: pointer; }
-.filter-btn { font-size: 0.75rem; padding: 4px 10px; border-radius: 12px; border: 1px solid var(--border); background: var(--bg2); color: var(--fg2); cursor: pointer; transition: all 0.15s; }
-.filter-btn:hover { border-color: var(--fg2); }
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: var(--serif); background: var(--bg); color: var(--fg); line-height: 1.6; -webkit-font-smoothing: antialiased; }
+.container { max-width: 720px; margin: 0 auto; padding: 40px 20px 60px; }
+
+/* --- Header --- */
+header { margin-bottom: 32px; padding-bottom: 16px; border-bottom: 2px solid var(--fg); }
+header h1 { font-family: var(--serif); font-size: 1.75rem; font-weight: 700; letter-spacing: -0.01em; margin-bottom: 2px; }
+.updated { color: var(--fg2); font-size: 0.8rem; font-family: var(--mono); }
+
+/* --- Banners --- */
+.banner { padding: 10px 16px; border-left: 3px solid; margin-bottom: 24px; font-size: 0.9rem; font-weight: 600; }
+.banner-ok { background: var(--green-wash); border-color: var(--green); color: var(--green); }
+.banner-warn { background: var(--amber-wash); border-color: var(--amber); color: var(--amber); }
+.banner-down { background: var(--red-wash); border-color: var(--red); color: var(--red); }
+.stale-warning { background: var(--amber-wash); border-left: 3px solid var(--amber); color: var(--amber); padding: 10px 16px; margin-bottom: 20px; font-size: 0.85rem; display: none; }
+
+/* --- Controls --- */
+.controls { display: flex; gap: 8px; margin-bottom: 24px; flex-wrap: wrap; align-items: center; }
+.controls label { font-size: 0.75rem; color: var(--fg2); text-transform: uppercase; letter-spacing: 0.08em; font-family: var(--mono); }
+.filter-btn { font-family: var(--mono); font-size: 0.7rem; padding: 3px 12px; border: 1px solid var(--rule-strong); background: transparent; color: var(--fg2); cursor: pointer; letter-spacing: 0.04em; transition: background 0.1s, color 0.1s; }
+.filter-btn:hover { background: var(--hover); color: var(--fg); }
 .filter-btn.active { background: var(--fg); color: var(--bg); border-color: var(--fg); }
-.group { background: var(--bg2); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 16px; box-shadow: 0 1px 3px var(--shadow); overflow: hidden; }
+.controls select { font-family: var(--mono); font-size: 0.7rem; padding: 3px 8px; border: 1px solid var(--rule-strong); background: var(--bg); color: var(--fg); cursor: pointer; -webkit-appearance: none; appearance: none; padding-right: 20px; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%2378716c'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 6px center; }
+
+/* --- Groups --- */
+.group { border-top: 1px solid var(--rule); margin-bottom: 0; }
+.group:last-child { border-bottom: 1px solid var(--rule); }
 .group.hidden { display: none; }
-.group-header { padding: 12px 16px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; user-select: none; }
-.group-header:hover { background: var(--bg); }
-.group-title { font-weight: 600; font-size: 0.95rem; display: flex; align-items: center; gap: 8px; }
-.group-summary { font-size: 0.8rem; color: var(--fg2); display: flex; align-items: center; gap: 6px; }
-.chevron { transition: transform 0.2s; font-size: 0.75rem; color: var(--fg2); }
+.group-header { padding: 12px 0; cursor: pointer; display: flex; align-items: center; justify-content: space-between; user-select: none; }
+.group-header:hover { background: var(--hover); margin: 0 -20px; padding: 12px 20px; }
+.group-title { font-family: var(--mono); font-weight: 500; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; display: flex; align-items: center; gap: 8px; color: var(--fg2); }
+.group-count { font-weight: 400; color: var(--fg2); opacity: 0.6; }
+.chevron { font-size: 0.6rem; color: var(--fg2); transition: transform 0.15s; display: inline-block; }
 .group.collapsed .chevron { transform: rotate(-90deg); }
 .group.collapsed .group-body { display: none; }
-.group-body { border-top: 1px solid var(--border); }
-.uptime-header { display: flex; align-items: center; padding: 6px 16px; gap: 10px; border-bottom: 1px solid var(--border); background: var(--bg); }
-.uptime-header-spacer { width: 10px; flex-shrink: 0; }
-.uptime-header-name { flex: 1; font-size: 0.7rem; color: var(--fg2); text-transform: uppercase; letter-spacing: 0.5px; }
-.uptime-header-labels { display: flex; gap: 6px; font-size: 0.65rem; color: var(--fg2); text-transform: uppercase; letter-spacing: 0.5px; }
-.uptime-header-label { width: 52px; text-align: center; }
-.monitor { display: flex; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--border); gap: 10px; }
-.monitor:last-child { border-bottom: none; }
+.group-summary { font-family: var(--mono); font-size: 0.7rem; display: flex; align-items: center; gap: 8px; }
+
+/* --- Group body --- */
+.group-body { padding-bottom: 8px; }
+.uptime-header { display: flex; align-items: center; padding: 4px 0; gap: 10px; margin-bottom: 2px; }
+.uptime-header-spacer { width: 8px; flex-shrink: 0; }
+.uptime-header-name { flex: 1; font-family: var(--mono); font-size: 0.6rem; color: var(--fg2); text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.6; }
+.uptime-header-labels { display: flex; gap: 4px; font-family: var(--mono); font-size: 0.6rem; color: var(--fg2); text-transform: uppercase; letter-spacing: 0.08em; opacity: 0.6; }
+.uptime-header-label { width: 54px; text-align: right; }
+
+/* --- Monitor rows --- */
+.monitor { display: flex; align-items: center; padding: 6px 0; gap: 10px; }
+.monitor:hover { background: var(--hover); margin: 0 -20px; padding: 6px 20px; }
 .monitor.hidden { display: none; }
-.dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
 .dot-up { background: var(--green); }
 .dot-down { background: var(--red); }
-.dot-pending { background: var(--yellow); }
-.monitor-name { flex: 1; font-size: 0.9rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.uptime-bars { display: flex; gap: 6px; font-size: 0.75rem; color: var(--fg2); }
-.uptime-pill { background: var(--bar-bg); padding: 2px 8px; border-radius: 4px; white-space: nowrap; min-width: 52px; text-align: center; }
-.uptime-pill.good { color: var(--green); }
-.uptime-pill.warn { color: var(--yellow); }
-.uptime-pill.bad { color: var(--red); }
-footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 24px; padding-top: 16px; border-top: 1px solid var(--border); }
-.loading { text-align: center; padding: 60px 0; color: var(--fg2); }
+.dot-pending { background: var(--amber); }
+.monitor-name { flex: 1; font-size: 0.85rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.uptime-bars { display: flex; gap: 4px; font-family: var(--mono); font-size: 0.75rem; }
+.uptime-val { width: 54px; text-align: right; color: var(--fg2); }
+.uptime-val.good { color: var(--green); }
+.uptime-val.warn { color: var(--amber); }
+.uptime-val.bad { color: var(--red); }
+
+/* --- Footer --- */
+footer { color: var(--fg2); font-size: 0.7rem; margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--rule); font-family: var(--mono); letter-spacing: 0.02em; }
+
+.loading { text-align: center; padding: 60px 0; color: var(--fg2); font-family: var(--mono); font-size: 0.85rem; }
 .error-msg { text-align: center; padding: 40px 0; color: var(--red); }
+
 @media (max-width: 500px) {
-  .uptime-bars { gap: 4px; }
-  .uptime-pill { font-size: 0.7rem; padding: 2px 5px; min-width: 44px; }
-  .uptime-header-label { width: 44px; }
-  .controls { gap: 6px; }
+  .container { padding: 24px 16px 40px; }
+  header h1 { font-size: 1.4rem; }
+  .uptime-val { width: 46px; font-size: 0.7rem; }
+  .uptime-header-label { width: 46px; }
+  .group-header:hover, .monitor:hover { margin: 0 -16px; padding-left: 16px; padding-right: 16px; }
 }
 </style>
 </head>
@@ -91,45 +117,42 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
     <span style="flex:1"></span>
     <label>Sort:</label>
     <select id="sort-select">
-      <option value="status">Status (down first)</option>
-      <option value="name">Name (A-Z)</option>
-      <option value="uptime-asc">Uptime (worst first)</option>
-      <option value="uptime-desc">Uptime (best first)</option>
+      <option value="status">Status</option>
+      <option value="name">Name</option>
+      <option value="uptime-asc">Uptime asc</option>
+      <option value="uptime-desc">Uptime desc</option>
     </select>
   </div>
-  <div id="groups"><div class="loading">Loading status...</div></div>
-  <footer>Powered by Uptime Kuma &middot; Updated every 5 minutes</footer>
+  <div id="groups"><div class="loading">Loading&hellip;</div></div>
+  <footer>Updated every 5 minutes &middot; Powered by Uptime Kuma</footer>
 </div>
 <script>
 (function() {
-  const STATUS_URL = 'status.json';
-  const STALE_THRESHOLD_MS = 10 * 60 * 1000;
+  var STATUS_URL = 'status.json';
+  var STALE_MS = 600000;
   var currentData = null;
   var currentFilter = 'all';
   var currentSort = 'status';
 
-  function timeAgo(date) {
-    const s = Math.floor((Date.now() - date.getTime()) / 1000);
+  function timeAgo(d) {
+    var s = Math.floor((Date.now() - d.getTime()) / 1000);
     if (s < 60) return s + 's ago';
     if (s < 3600) return Math.floor(s / 60) + 'm ago';
     if (s < 86400) return Math.floor(s / 3600) + 'h ago';
     return Math.floor(s / 86400) + 'd ago';
   }
 
-  function uptimeClass(pct) {
-    if (pct === null || pct === undefined) return '';
-    if (pct >= 99) return 'good';
-    if (pct >= 95) return 'warn';
-    return 'bad';
+  function uClass(p) {
+    if (p === null || p === undefined) return '';
+    return p >= 99 ? 'good' : p >= 95 ? 'warn' : 'bad';
   }
 
-  function fmt(pct) {
-    if (pct === null || pct === undefined) return '-';
-    return pct.toFixed(1) + '%';
+  function fmt(p) {
+    return p === null || p === undefined ? '\u2014' : p.toFixed(1) + '%';
   }
 
-  function sortMonitors(monitors) {
-    return monitors.slice().sort(function(a, b) {
+  function sortMons(list) {
+    return list.slice().sort(function(a, b) {
       if (currentSort === 'name') return a.name.localeCompare(b.name);
       if (currentSort === 'uptime-asc') {
         var au = a.uptime_24h === null ? 101 : a.uptime_24h;
@@ -141,49 +164,43 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
         var bu2 = b.uptime_24h === null ? -1 : b.uptime_24h;
         return bu2 - au2;
       }
-      // default: status (down first)
       var order = { down: 0, pending: 1, up: 2 };
       var ao = order[a.status] !== undefined ? order[a.status] : 1;
       var bo = order[b.status] !== undefined ? order[b.status] : 1;
-      if (ao !== bo) return ao - bo;
-      return a.name.localeCompare(b.name);
+      return ao !== bo ? ao - bo : a.name.localeCompare(b.name);
     });
   }
 
-  function filterMatch(m) {
+  function fMatch(m) {
     if (currentFilter === 'all') return true;
     if (currentFilter === 'up') return m.status === 'up';
-    if (currentFilter === 'down') return m.status !== 'up';
-    return true;
+    return m.status !== 'up';
   }
 
   function render(data) {
     currentData = data;
     var updated = new Date(data.last_updated);
     var age = Date.now() - updated.getTime();
-    document.getElementById('updated').textContent = 'Last updated ' + timeAgo(updated);
+    document.getElementById('updated').textContent = timeAgo(updated);
 
     var stale = document.getElementById('stale-warning');
-    if (age > STALE_THRESHOLD_MS) {
-      var mins = Math.floor(age / 60000);
-      stale.textContent = 'Status data is ' + mins + ' minutes old. The monitoring system may be unreachable.';
+    if (age > STALE_MS) {
+      stale.textContent = 'Data is ' + Math.floor(age / 60000) + ' minutes old. The monitoring system may be unreachable.';
       stale.style.display = 'block';
     } else {
       stale.style.display = 'none';
     }
 
-    // Filter out paused monitors from all groups
     var groups = {};
-    for (var gName in data.groups) {
-      var active = data.groups[gName].filter(function(m) { return m.status !== 'paused'; });
-      if (active.length > 0) groups[gName] = active;
+    for (var gn in data.groups) {
+      var active = data.groups[gn].filter(function(m) { return m.status !== 'paused'; });
+      if (active.length > 0) groups[gn] = active;
     }
 
     var totalUp = 0, totalDown = 0;
     for (var g in groups) {
       for (var i = 0; i < groups[g].length; i++) {
-        if (groups[g][i].status === 'up') totalUp++;
-        else totalDown++;
+        if (groups[g][i].status === 'up') totalUp++; else totalDown++;
       }
     }
 
@@ -200,30 +217,28 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
     }
 
     document.getElementById('controls').style.display = 'flex';
-
     var container = document.getElementById('groups');
     container.innerHTML = '';
 
-    var sortedKeys = Object.keys(groups).sort(function(a, b) { return groups[b].length - groups[a].length; });
+    var keys = Object.keys(groups).sort(function(a, b) { return groups[b].length - groups[a].length; });
 
-    for (var ki = 0; ki < sortedKeys.length; ki++) {
-      var groupName = sortedKeys[ki];
-      var monitors = groups[groupName];
-      var sorted = sortMonitors(monitors);
+    for (var ki = 0; ki < keys.length; ki++) {
+      var gName = keys[ki];
+      var mons = groups[gName];
+      var sorted = sortMons(mons);
+      var vis = sorted.filter(fMatch).length;
 
-      var visibleCount = sorted.filter(filterMatch).length;
+      var grp = document.createElement('div');
+      grp.className = 'group' + (vis === 0 ? ' hidden' : '');
 
-      var group = document.createElement('div');
-      group.className = 'group' + (visibleCount === 0 ? ' hidden' : '');
-
-      var up = monitors.filter(function(m) { return m.status === 'up'; }).length;
-      var down = monitors.filter(function(m) { return m.status !== 'up'; }).length;
+      var up = mons.filter(function(m) { return m.status === 'up'; }).length;
+      var dn = mons.length - up;
 
       var hdr = document.createElement('div');
       hdr.className = 'group-header';
-      hdr.innerHTML = '<div class="group-title"><span class="chevron">&#9660;</span> ' + groupName + ' <span style="font-weight:400;color:var(--fg2);font-size:0.8rem">(' + monitors.length + ')</span></div>' +
+      hdr.innerHTML = '<div class="group-title"><span class="chevron">&#9656;</span>' + gName + ' <span class="group-count">' + mons.length + '</span></div>' +
         '<div class="group-summary">' +
-        (down > 0 ? '<span style="color:var(--red)">' + down + ' down</span>' : '') +
+        (dn > 0 ? '<span style="color:var(--red)">' + dn + ' down</span>' : '') +
         '<span style="color:var(--green)">' + up + ' up</span>' +
         '</div>';
       hdr.onclick = function() { this.parentElement.classList.toggle('collapsed'); };
@@ -231,41 +246,33 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
       var body = document.createElement('div');
       body.className = 'group-body';
 
-      // Column header row
-      var colHeader = document.createElement('div');
-      colHeader.className = 'uptime-header';
-      colHeader.innerHTML = '<div class="uptime-header-spacer"></div>' +
-        '<div class="uptime-header-name">Service</div>' +
-        '<div class="uptime-header-labels">' +
-        '<div class="uptime-header-label">24h</div>' +
-        '<div class="uptime-header-label">7d</div>' +
-        '<div class="uptime-header-label">30d</div>' +
-        '</div>';
-      body.appendChild(colHeader);
+      var colH = document.createElement('div');
+      colH.className = 'uptime-header';
+      colH.innerHTML = '<div class="uptime-header-spacer"></div><div class="uptime-header-name">Service</div>' +
+        '<div class="uptime-header-labels"><div class="uptime-header-label">24h</div><div class="uptime-header-label">7d</div><div class="uptime-header-label">30d</div></div>';
+      body.appendChild(colH);
 
       for (var mi = 0; mi < sorted.length; mi++) {
         var m = sorted[mi];
-        var visible = filterMatch(m);
-        var dotClass = m.status === 'up' ? 'dot-up' : m.status === 'pending' ? 'dot-pending' : 'dot-down';
+        var dotCls = m.status === 'up' ? 'dot-up' : m.status === 'pending' ? 'dot-pending' : 'dot-down';
         var row = document.createElement('div');
-        row.className = 'monitor' + (visible ? '' : ' hidden');
-        row.innerHTML = '<div class="dot ' + dotClass + '"></div>' +
+        row.className = 'monitor' + (fMatch(m) ? '' : ' hidden');
+        row.innerHTML = '<div class="dot ' + dotCls + '"></div>' +
           '<div class="monitor-name">' + m.name + '</div>' +
           '<div class="uptime-bars">' +
-          '<span class="uptime-pill ' + uptimeClass(m.uptime_24h) + '">' + fmt(m.uptime_24h) + '</span>' +
-          '<span class="uptime-pill ' + uptimeClass(m.uptime_7d) + '">' + fmt(m.uptime_7d) + '</span>' +
-          '<span class="uptime-pill ' + uptimeClass(m.uptime_30d) + '">' + fmt(m.uptime_30d) + '</span>' +
+          '<span class="uptime-val ' + uClass(m.uptime_24h) + '">' + fmt(m.uptime_24h) + '</span>' +
+          '<span class="uptime-val ' + uClass(m.uptime_7d) + '">' + fmt(m.uptime_7d) + '</span>' +
+          '<span class="uptime-val ' + uClass(m.uptime_30d) + '">' + fmt(m.uptime_30d) + '</span>' +
           '</div>';
         body.appendChild(row);
       }
 
-      group.appendChild(hdr);
-      group.appendChild(body);
-      container.appendChild(group);
+      grp.appendChild(hdr);
+      grp.appendChild(body);
+      container.appendChild(grp);
     }
   }
 
-  // Filter buttons
   document.addEventListener('click', function(e) {
     if (e.target.classList.contains('filter-btn')) {
       var btns = document.querySelectorAll('.filter-btn');
@@ -276,7 +283,6 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
     }
   });
 
-  // Sort select
   document.getElementById('sort-select').addEventListener('change', function() {
     currentSort = this.value;
     if (currentData) render(currentData);
@@ -287,7 +293,7 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
       .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(render)
       .catch(function() {
-        document.getElementById('groups').innerHTML = '<div class="error-msg">Could not load status data. The monitoring system may be offline.</div>';
+        document.getElementById('groups').innerHTML = '<div class="error-msg">Could not load status data.</div>';
         document.getElementById('banner').className = 'banner banner-down';
         document.getElementById('banner').textContent = 'Status Unavailable';
       });
