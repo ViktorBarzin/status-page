@@ -30,7 +30,14 @@ header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 4px; }
 .banner-warn { background: var(--yellow-bg); color: var(--yellow); }
 .banner-down { background: var(--red-bg); color: var(--red); }
 .stale-warning { background: var(--yellow-bg); color: var(--yellow); padding: 10px 16px; border-radius: 8px; text-align: center; margin-bottom: 16px; font-size: 0.9rem; display: none; }
+.controls { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; align-items: center; }
+.controls label { font-size: 0.8rem; color: var(--fg2); }
+.controls select { font-size: 0.8rem; padding: 4px 8px; border-radius: 6px; border: 1px solid var(--border); background: var(--bg2); color: var(--fg); cursor: pointer; }
+.filter-btn { font-size: 0.75rem; padding: 4px 10px; border-radius: 12px; border: 1px solid var(--border); background: var(--bg2); color: var(--fg2); cursor: pointer; transition: all 0.15s; }
+.filter-btn:hover { border-color: var(--fg2); }
+.filter-btn.active { background: var(--fg); color: var(--bg); border-color: var(--fg); }
 .group { background: var(--bg2); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 16px; box-shadow: 0 1px 3px var(--shadow); overflow: hidden; }
+.group.hidden { display: none; }
 .group-header { padding: 12px 16px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; user-select: none; }
 .group-header:hover { background: var(--bg); }
 .group-title { font-weight: 600; font-size: 0.95rem; display: flex; align-items: center; gap: 8px; }
@@ -39,16 +46,21 @@ header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 4px; }
 .group.collapsed .chevron { transform: rotate(-90deg); }
 .group.collapsed .group-body { display: none; }
 .group-body { border-top: 1px solid var(--border); }
+.uptime-header { display: flex; align-items: center; padding: 6px 16px; gap: 10px; border-bottom: 1px solid var(--border); background: var(--bg); }
+.uptime-header-spacer { width: 10px; flex-shrink: 0; }
+.uptime-header-name { flex: 1; font-size: 0.7rem; color: var(--fg2); text-transform: uppercase; letter-spacing: 0.5px; }
+.uptime-header-labels { display: flex; gap: 6px; font-size: 0.65rem; color: var(--fg2); text-transform: uppercase; letter-spacing: 0.5px; }
+.uptime-header-label { width: 52px; text-align: center; }
 .monitor { display: flex; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--border); gap: 10px; }
 .monitor:last-child { border-bottom: none; }
+.monitor.hidden { display: none; }
 .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
 .dot-up { background: var(--green); }
 .dot-down { background: var(--red); }
 .dot-pending { background: var(--yellow); }
-.dot-paused { background: var(--fg2); }
 .monitor-name { flex: 1; font-size: 0.9rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .uptime-bars { display: flex; gap: 6px; font-size: 0.75rem; color: var(--fg2); }
-.uptime-pill { background: var(--bar-bg); padding: 2px 8px; border-radius: 4px; white-space: nowrap; }
+.uptime-pill { background: var(--bar-bg); padding: 2px 8px; border-radius: 4px; white-space: nowrap; min-width: 52px; text-align: center; }
 .uptime-pill.good { color: var(--green); }
 .uptime-pill.warn { color: var(--yellow); }
 .uptime-pill.bad { color: var(--red); }
@@ -57,7 +69,9 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
 .error-msg { text-align: center; padding: 40px 0; color: var(--red); }
 @media (max-width: 500px) {
   .uptime-bars { gap: 4px; }
-  .uptime-pill { font-size: 0.7rem; padding: 2px 5px; }
+  .uptime-pill { font-size: 0.7rem; padding: 2px 5px; min-width: 44px; }
+  .uptime-header-label { width: 44px; }
+  .controls { gap: 6px; }
 }
 </style>
 </head>
@@ -69,6 +83,20 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
   </header>
   <div class="stale-warning" id="stale-warning"></div>
   <div class="banner" id="banner"></div>
+  <div class="controls" id="controls" style="display:none">
+    <label>Show:</label>
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="up">Up</button>
+    <button class="filter-btn" data-filter="down">Down</button>
+    <span style="flex:1"></span>
+    <label>Sort:</label>
+    <select id="sort-select">
+      <option value="status">Status (down first)</option>
+      <option value="name">Name (A-Z)</option>
+      <option value="uptime-asc">Uptime (worst first)</option>
+      <option value="uptime-desc">Uptime (best first)</option>
+    </select>
+  </div>
   <div id="groups"><div class="loading">Loading status...</div></div>
   <footer>Powered by Uptime Kuma &middot; Updated every 5 minutes</footer>
 </div>
@@ -76,6 +104,9 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
 (function() {
   const STATUS_URL = 'status.json';
   const STALE_THRESHOLD_MS = 10 * 60 * 1000;
+  var currentData = null;
+  var currentFilter = 'all';
+  var currentSort = 'status';
 
   function timeAgo(date) {
     const s = Math.floor((Date.now() - date.getTime()) / 1000);
@@ -86,6 +117,7 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
   }
 
   function uptimeClass(pct) {
+    if (pct === null || pct === undefined) return '';
     if (pct >= 99) return 'good';
     if (pct >= 95) return 'warn';
     return 'bad';
@@ -96,29 +128,66 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
     return pct.toFixed(1) + '%';
   }
 
+  function sortMonitors(monitors) {
+    return monitors.slice().sort(function(a, b) {
+      if (currentSort === 'name') return a.name.localeCompare(b.name);
+      if (currentSort === 'uptime-asc') {
+        var au = a.uptime_24h === null ? 101 : a.uptime_24h;
+        var bu = b.uptime_24h === null ? 101 : b.uptime_24h;
+        return au - bu;
+      }
+      if (currentSort === 'uptime-desc') {
+        var au2 = a.uptime_24h === null ? -1 : a.uptime_24h;
+        var bu2 = b.uptime_24h === null ? -1 : b.uptime_24h;
+        return bu2 - au2;
+      }
+      // default: status (down first)
+      var order = { down: 0, pending: 1, up: 2 };
+      var ao = order[a.status] !== undefined ? order[a.status] : 1;
+      var bo = order[b.status] !== undefined ? order[b.status] : 1;
+      if (ao !== bo) return ao - bo;
+      return a.name.localeCompare(b.name);
+    });
+  }
+
+  function filterMatch(m) {
+    if (currentFilter === 'all') return true;
+    if (currentFilter === 'up') return m.status === 'up';
+    if (currentFilter === 'down') return m.status !== 'up';
+    return true;
+  }
+
   function render(data) {
-    const updated = new Date(data.last_updated);
-    const age = Date.now() - updated.getTime();
+    currentData = data;
+    var updated = new Date(data.last_updated);
+    var age = Date.now() - updated.getTime();
     document.getElementById('updated').textContent = 'Last updated ' + timeAgo(updated);
 
-    const stale = document.getElementById('stale-warning');
+    var stale = document.getElementById('stale-warning');
     if (age > STALE_THRESHOLD_MS) {
-      const mins = Math.floor(age / 60000);
+      var mins = Math.floor(age / 60000);
       stale.textContent = 'Status data is ' + mins + ' minutes old. The monitoring system may be unreachable.';
       stale.style.display = 'block';
+    } else {
+      stale.style.display = 'none';
     }
 
-    let totalUp = 0, totalDown = 0, totalPaused = 0;
-    const groups = data.groups;
-    for (const g of Object.values(groups)) {
-      for (const m of g) {
-        if (m.status === 'paused') totalPaused++;
-        else if (m.status === 'up') totalUp++;
+    // Filter out paused monitors from all groups
+    var groups = {};
+    for (var gName in data.groups) {
+      var active = data.groups[gName].filter(function(m) { return m.status !== 'paused'; });
+      if (active.length > 0) groups[gName] = active;
+    }
+
+    var totalUp = 0, totalDown = 0;
+    for (var g in groups) {
+      for (var i = 0; i < groups[g].length; i++) {
+        if (groups[g][i].status === 'up') totalUp++;
         else totalDown++;
       }
     }
 
-    const banner = document.getElementById('banner');
+    var banner = document.getElementById('banner');
     if (totalDown === 0) {
       banner.className = 'banner banner-ok';
       banner.textContent = 'All Systems Operational';
@@ -130,49 +199,62 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
       banner.textContent = totalDown + ' services down';
     }
 
-    const container = document.getElementById('groups');
+    document.getElementById('controls').style.display = 'flex';
+
+    var container = document.getElementById('groups');
     container.innerHTML = '';
 
-    const sortedKeys = Object.keys(groups).sort((a, b) => groups[b].length - groups[a].length);
+    var sortedKeys = Object.keys(groups).sort(function(a, b) { return groups[b].length - groups[a].length; });
 
-    for (const groupName of sortedKeys) {
-      const monitors = groups[groupName];
-      const up = monitors.filter(m => m.status === 'up').length;
-      const down = monitors.filter(m => m.status !== 'up' && m.status !== 'paused').length;
-      const paused = monitors.filter(m => m.status === 'paused').length;
+    for (var ki = 0; ki < sortedKeys.length; ki++) {
+      var groupName = sortedKeys[ki];
+      var monitors = groups[groupName];
+      var sorted = sortMonitors(monitors);
 
-      const group = document.createElement('div');
-      group.className = 'group';
+      var visibleCount = sorted.filter(filterMatch).length;
 
-      const hdr = document.createElement('div');
+      var group = document.createElement('div');
+      group.className = 'group' + (visibleCount === 0 ? ' hidden' : '');
+
+      var up = monitors.filter(function(m) { return m.status === 'up'; }).length;
+      var down = monitors.filter(function(m) { return m.status !== 'up'; }).length;
+
+      var hdr = document.createElement('div');
       hdr.className = 'group-header';
       hdr.innerHTML = '<div class="group-title"><span class="chevron">&#9660;</span> ' + groupName + ' <span style="font-weight:400;color:var(--fg2);font-size:0.8rem">(' + monitors.length + ')</span></div>' +
         '<div class="group-summary">' +
         (down > 0 ? '<span style="color:var(--red)">' + down + ' down</span>' : '') +
         '<span style="color:var(--green)">' + up + ' up</span>' +
-        (paused > 0 ? '<span style="color:var(--fg2)">' + paused + ' paused</span>' : '') +
         '</div>';
-      hdr.onclick = function() { group.classList.toggle('collapsed'); };
+      hdr.onclick = function() { this.parentElement.classList.toggle('collapsed'); };
 
-      const body = document.createElement('div');
+      var body = document.createElement('div');
       body.className = 'group-body';
 
-      const sorted = monitors.slice().sort((a, b) => {
-        if (a.status !== 'up' && b.status === 'up') return -1;
-        if (a.status === 'up' && b.status !== 'up') return 1;
-        return a.name.localeCompare(b.name);
-      });
+      // Column header row
+      var colHeader = document.createElement('div');
+      colHeader.className = 'uptime-header';
+      colHeader.innerHTML = '<div class="uptime-header-spacer"></div>' +
+        '<div class="uptime-header-name">Service</div>' +
+        '<div class="uptime-header-labels">' +
+        '<div class="uptime-header-label">24h</div>' +
+        '<div class="uptime-header-label">7d</div>' +
+        '<div class="uptime-header-label">30d</div>' +
+        '</div>';
+      body.appendChild(colHeader);
 
-      for (const m of sorted) {
-        const dotClass = m.status === 'up' ? 'dot-up' : m.status === 'paused' ? 'dot-paused' : m.status === 'pending' ? 'dot-pending' : 'dot-down';
-        const row = document.createElement('div');
-        row.className = 'monitor';
+      for (var mi = 0; mi < sorted.length; mi++) {
+        var m = sorted[mi];
+        var visible = filterMatch(m);
+        var dotClass = m.status === 'up' ? 'dot-up' : m.status === 'pending' ? 'dot-pending' : 'dot-down';
+        var row = document.createElement('div');
+        row.className = 'monitor' + (visible ? '' : ' hidden');
         row.innerHTML = '<div class="dot ' + dotClass + '"></div>' +
           '<div class="monitor-name">' + m.name + '</div>' +
           '<div class="uptime-bars">' +
-          '<span class="uptime-pill ' + uptimeClass(m.uptime_24h) + '" title="24h">' + fmt(m.uptime_24h) + '</span>' +
-          '<span class="uptime-pill ' + uptimeClass(m.uptime_7d) + '" title="7d">' + fmt(m.uptime_7d) + '</span>' +
-          '<span class="uptime-pill ' + uptimeClass(m.uptime_30d) + '" title="30d">' + fmt(m.uptime_30d) + '</span>' +
+          '<span class="uptime-pill ' + uptimeClass(m.uptime_24h) + '">' + fmt(m.uptime_24h) + '</span>' +
+          '<span class="uptime-pill ' + uptimeClass(m.uptime_7d) + '">' + fmt(m.uptime_7d) + '</span>' +
+          '<span class="uptime-pill ' + uptimeClass(m.uptime_30d) + '">' + fmt(m.uptime_30d) + '</span>' +
           '</div>';
         body.appendChild(row);
       }
@@ -183,11 +265,28 @@ footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 2
     }
   }
 
+  // Filter buttons
+  document.addEventListener('click', function(e) {
+    if (e.target.classList.contains('filter-btn')) {
+      var btns = document.querySelectorAll('.filter-btn');
+      for (var i = 0; i < btns.length; i++) btns[i].classList.remove('active');
+      e.target.classList.add('active');
+      currentFilter = e.target.getAttribute('data-filter');
+      if (currentData) render(currentData);
+    }
+  });
+
+  // Sort select
+  document.getElementById('sort-select').addEventListener('change', function() {
+    currentSort = this.value;
+    if (currentData) render(currentData);
+  });
+
   function load() {
     fetch(STATUS_URL + '?t=' + Date.now())
-      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(render)
-      .catch(function(e) {
+      .catch(function() {
         document.getElementById('groups').innerHTML = '<div class="error-msg">Could not load status data. The monitoring system may be offline.</div>';
         document.getElementById('banner').className = 'banner banner-down';
         document.getElementById('banner').textContent = 'Status Unavailable';
