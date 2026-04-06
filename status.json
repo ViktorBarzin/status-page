@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T08:50:20.088157+00:00",
+  "last_updated": "2026-04-06T08:55:18.364902+00:00",
   "groups": {
     "HTTP": [
       {
@@ -28,7 +28,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.6
+        "uptime_30d": 97.7
       },
       {
         "name": "Shlink (URL Shortener)",
@@ -56,7 +56,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.8,
-        "uptime_30d": 95.8
+        "uptime_30d": 95.9
       },
       {
         "name": "Grafana",
@@ -118,8 +118,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 57.0,
-        "uptime_7d": 66.1,
-        "uptime_30d": 65.6
+        "uptime_7d": 66.2,
+        "uptime_30d": 65.7
       },
       {
         "name": "Actual Budget",
@@ -147,20 +147,20 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6
+        "uptime_30d": 97.7
       },
       {
         "name": "Wrongmove (UI)",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.9
+        "uptime_30d": 84.0
       },
       {
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 82.1
       },
       {
@@ -179,31 +179,31 @@
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 59.8,
-        "uptime_7d": 67.5,
-        "uptime_30d": 66.5
+        "uptime_7d": 67.6,
+        "uptime_30d": 66.6
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 58.4,
-        "uptime_7d": 66.8,
-        "uptime_30d": 65.9
+        "uptime_24h": 58.2,
+        "uptime_7d": 66.6,
+        "uptime_30d": 65.8
       },
       {
         "name": "snmp-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 62.4,
-        "uptime_7d": 69.8,
-        "uptime_30d": 68.8
+        "uptime_24h": 62.1,
+        "uptime_7d": 69.7,
+        "uptime_30d": 68.6
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 57.6,
-        "uptime_7d": 65.3,
-        "uptime_30d": 65.0
+        "uptime_7d": 65.4,
+        "uptime_30d": 65.1
       },
       {
         "name": "Traefik Dashboard",
@@ -266,7 +266,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.1,
-        "uptime_30d": 94.9
+        "uptime_30d": 95.0
       },
       {
         "name": "Forgejo",
@@ -280,20 +280,20 @@
         "status": "up",
         "uptime_24h": 91.3,
         "uptime_7d": 93.0,
-        "uptime_30d": 86.9
+        "uptime_30d": 87.0
       },
       {
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 94.0
       },
       {
         "name": "Blog",
         "status": "up",
         "uptime_24h": 61.4,
-        "uptime_7d": 68.3,
+        "uptime_7d": 68.4,
         "uptime_30d": 62.1
       },
       {
@@ -321,7 +321,7 @@
         "name": "Stirling PDF",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 92.4
       },
       {
@@ -390,9 +390,9 @@
       {
         "name": "AIOStreams",
         "status": "up",
-        "uptime_24h": 94.9,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.9
+        "uptime_24h": 95.0,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0
       },
       {
         "name": "Actual Budget (Viktor)",
@@ -404,9 +404,9 @@
       {
         "name": "City Guesser",
         "status": "up",
-        "uptime_24h": 95.4,
-        "uptime_7d": 95.4,
-        "uptime_30d": 95.4
+        "uptime_24h": 95.5,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.5
       },
       {
         "name": "Claude Memory MCP",
@@ -438,31 +438,31 @@
       },
       {
         "name": "Music Assistant",
-        "status": "down",
-        "uptime_24h": 42.2,
-        "uptime_7d": 42.2,
-        "uptime_30d": 42.2
+        "status": "up",
+        "uptime_24h": 42.4,
+        "uptime_7d": 42.4,
+        "uptime_30d": 42.4
       },
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 94.9,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.9
+        "uptime_24h": 95.0,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0
       },
       {
         "name": "Matrix",
         "status": "up",
-        "uptime_24h": 87.3,
-        "uptime_7d": 87.3,
-        "uptime_30d": 87.3
+        "uptime_24h": 87.4,
+        "uptime_7d": 87.4,
+        "uptime_30d": 87.4
       },
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 26.2,
-        "uptime_7d": 26.2,
-        "uptime_30d": 26.2
+        "uptime_24h": 26.1,
+        "uptime_7d": 26.1,
+        "uptime_30d": 26.1
       },
       {
         "name": "OwnTracks",
@@ -474,9 +474,9 @@
       {
         "name": "OpenLobster",
         "status": "up",
-        "uptime_24h": 91.9,
-        "uptime_7d": 91.9,
-        "uptime_30d": 91.9
+        "uptime_24h": 92.0,
+        "uptime_7d": 92.0,
+        "uptime_30d": 92.0
       },
       {
         "name": "Alertmanager",
@@ -488,9 +488,9 @@
       {
         "name": "Prometheus",
         "status": "up",
-        "uptime_24h": 91.5,
-        "uptime_7d": 91.5,
-        "uptime_30d": 91.5
+        "uptime_24h": 91.6,
+        "uptime_7d": 91.6,
+        "uptime_30d": 91.6
       },
       {
         "name": "Goldilocks (VPA)",
@@ -502,16 +502,16 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 45.5,
-        "uptime_7d": 45.5,
-        "uptime_30d": 45.5
+        "uptime_24h": 45.3,
+        "uptime_7d": 45.3,
+        "uptime_30d": 45.3
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
-        "uptime_24h": 94.9,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.9
+        "uptime_24h": 95.0,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0
       },
       {
         "name": "pgAdmin",
@@ -536,10 +536,10 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "up",
-        "uptime_24h": 43.3,
-        "uptime_7d": 43.3,
-        "uptime_30d": 43.3
+        "status": "down",
+        "uptime_24h": 43.0,
+        "uptime_7d": 43.0,
+        "uptime_30d": 43.0
       },
       {
         "name": "QBittorrent",
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.1
+        "uptime_30d": 97.2
       },
       {
         "name": "Traefik LoadBalancer",
@@ -617,17 +617,17 @@
     "Ping": [
       {
         "name": "Valchedrym Security System",
-        "status": "down",
-        "uptime_24h": 57.3,
-        "uptime_7d": 64.8,
-        "uptime_30d": 64.7
+        "status": "up",
+        "uptime_24h": 57.4,
+        "uptime_7d": 64.9,
+        "uptime_30d": 64.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 59.2,
-        "uptime_7d": 66.5,
-        "uptime_30d": 66.4
+        "uptime_24h": 59.0,
+        "uptime_7d": 66.4,
+        "uptime_30d": 66.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -638,10 +638,10 @@
       },
       {
         "name": "Sofia RPI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 59.2,
-        "uptime_7d": 66.3,
-        "uptime_30d": 66.0
+        "uptime_7d": 66.4,
+        "uptime_30d": 66.1
       },
       {
         "name": "pfSense Gateway",
