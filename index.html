@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Status — viktorbarzin.me</title>
+<style>
+:root {
+  --bg: #f8f9fa; --bg2: #fff; --fg: #1a1a2e; --fg2: #555;
+  --border: #e0e0e0; --green: #2ecc71; --red: #e74c3c; --yellow: #f39c12;
+  --green-bg: #d4edda; --red-bg: #f8d7da; --yellow-bg: #fff3cd;
+  --bar-bg: #e9ecef; --shadow: rgba(0,0,0,0.05);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117; --bg2: #161b22; --fg: #e6edf3; --fg2: #8b949e;
+    --border: #30363d; --green: #3fb950; --red: #f85149; --yellow: #d29922;
+    --green-bg: #1a2e1a; --red-bg: #2e1a1a; --yellow-bg: #2e2a1a;
+    --bar-bg: #21262d; --shadow: rgba(0,0,0,0.3);
+  }
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--fg); line-height: 1.5; }
+.container { max-width: 800px; margin: 0 auto; padding: 24px 16px; }
+header { text-align: center; margin-bottom: 24px; }
+header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 4px; }
+.updated { color: var(--fg2); font-size: 0.85rem; }
+.banner { padding: 12px 16px; border-radius: 8px; text-align: center; margin-bottom: 20px; font-weight: 500; }
+.banner-ok { background: var(--green-bg); color: var(--green); }
+.banner-warn { background: var(--yellow-bg); color: var(--yellow); }
+.banner-down { background: var(--red-bg); color: var(--red); }
+.stale-warning { background: var(--yellow-bg); color: var(--yellow); padding: 10px 16px; border-radius: 8px; text-align: center; margin-bottom: 16px; font-size: 0.9rem; display: none; }
+.group { background: var(--bg2); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 16px; box-shadow: 0 1px 3px var(--shadow); overflow: hidden; }
+.group-header { padding: 12px 16px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; user-select: none; }
+.group-header:hover { background: var(--bg); }
+.group-title { font-weight: 600; font-size: 0.95rem; display: flex; align-items: center; gap: 8px; }
+.group-summary { font-size: 0.8rem; color: var(--fg2); display: flex; align-items: center; gap: 6px; }
+.chevron { transition: transform 0.2s; font-size: 0.75rem; color: var(--fg2); }
+.group.collapsed .chevron { transform: rotate(-90deg); }
+.group.collapsed .group-body { display: none; }
+.group-body { border-top: 1px solid var(--border); }
+.monitor { display: flex; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--border); gap: 10px; }
+.monitor:last-child { border-bottom: none; }
+.dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.dot-up { background: var(--green); }
+.dot-down { background: var(--red); }
+.dot-pending { background: var(--yellow); }
+.dot-paused { background: var(--fg2); }
+.monitor-name { flex: 1; font-size: 0.9rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.uptime-bars { display: flex; gap: 6px; font-size: 0.75rem; color: var(--fg2); }
+.uptime-pill { background: var(--bar-bg); padding: 2px 8px; border-radius: 4px; white-space: nowrap; }
+.uptime-pill.good { color: var(--green); }
+.uptime-pill.warn { color: var(--yellow); }
+.uptime-pill.bad { color: var(--red); }
+footer { text-align: center; color: var(--fg2); font-size: 0.8rem; margin-top: 24px; padding-top: 16px; border-top: 1px solid var(--border); }
+.loading { text-align: center; padding: 60px 0; color: var(--fg2); }
+.error-msg { text-align: center; padding: 40px 0; color: var(--red); }
+@media (max-width: 500px) {
+  .uptime-bars { gap: 4px; }
+  .uptime-pill { font-size: 0.7rem; padding: 2px 5px; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Viktor's Services</h1>
+    <div class="updated" id="updated"></div>
+  </header>
+  <div class="stale-warning" id="stale-warning"></div>
+  <div class="banner" id="banner"></div>
+  <div id="groups"><div class="loading">Loading status...</div></div>
+  <footer>Powered by Uptime Kuma &middot; Updated every 5 minutes</footer>
+</div>
+<script>
+(function() {
+  const STATUS_URL = 'status.json';
+  const STALE_THRESHOLD_MS = 10 * 60 * 1000;
+
+  function timeAgo(date) {
+    const s = Math.floor((Date.now() - date.getTime()) / 1000);
+    if (s < 60) return s + 's ago';
+    if (s < 3600) return Math.floor(s / 60) + 'm ago';
+    if (s < 86400) return Math.floor(s / 3600) + 'h ago';
+    return Math.floor(s / 86400) + 'd ago';
+  }
+
+  function uptimeClass(pct) {
+    if (pct >= 99) return 'good';
+    if (pct >= 95) return 'warn';
+    return 'bad';
+  }
+
+  function fmt(pct) {
+    if (pct === null || pct === undefined) return '-';
+    return pct.toFixed(1) + '%';
+  }
+
+  function render(data) {
+    const updated = new Date(data.last_updated);
+    const age = Date.now() - updated.getTime();
+    document.getElementById('updated').textContent = 'Last updated ' + timeAgo(updated);
+
+    const stale = document.getElementById('stale-warning');
+    if (age > STALE_THRESHOLD_MS) {
+      const mins = Math.floor(age / 60000);
+      stale.textContent = 'Status data is ' + mins + ' minutes old. The monitoring system may be unreachable.';
+      stale.style.display = 'block';
+    }
+
+    let totalUp = 0, totalDown = 0, totalPaused = 0;
+    const groups = data.groups;
+    for (const g of Object.values(groups)) {
+      for (const m of g) {
+        if (m.status === 'paused') totalPaused++;
+        else if (m.status === 'up') totalUp++;
+        else totalDown++;
+      }
+    }
+
+    const banner = document.getElementById('banner');
+    if (totalDown === 0) {
+      banner.className = 'banner banner-ok';
+      banner.textContent = 'All Systems Operational';
+    } else if (totalDown <= 3) {
+      banner.className = 'banner banner-warn';
+      banner.textContent = totalDown + ' service' + (totalDown > 1 ? 's' : '') + ' experiencing issues';
+    } else {
+      banner.className = 'banner banner-down';
+      banner.textContent = totalDown + ' services down';
+    }
+
+    const container = document.getElementById('groups');
+    container.innerHTML = '';
+
+    const sortedKeys = Object.keys(groups).sort((a, b) => groups[b].length - groups[a].length);
+
+    for (const groupName of sortedKeys) {
+      const monitors = groups[groupName];
+      const up = monitors.filter(m => m.status === 'up').length;
+      const down = monitors.filter(m => m.status !== 'up' && m.status !== 'paused').length;
+      const paused = monitors.filter(m => m.status === 'paused').length;
+
+      const group = document.createElement('div');
+      group.className = 'group';
+
+      const hdr = document.createElement('div');
+      hdr.className = 'group-header';
+      hdr.innerHTML = '<div class="group-title"><span class="chevron">&#9660;</span> ' + groupName + ' <span style="font-weight:400;color:var(--fg2);font-size:0.8rem">(' + monitors.length + ')</span></div>' +
+        '<div class="group-summary">' +
+        (down > 0 ? '<span style="color:var(--red)">' + down + ' down</span>' : '') +
+        '<span style="color:var(--green)">' + up + ' up</span>' +
+        (paused > 0 ? '<span style="color:var(--fg2)">' + paused + ' paused</span>' : '') +
+        '</div>';
+      hdr.onclick = function() { group.classList.toggle('collapsed'); };
+
+      const body = document.createElement('div');
+      body.className = 'group-body';
+
+      const sorted = monitors.slice().sort((a, b) => {
+        if (a.status !== 'up' && b.status === 'up') return -1;
+        if (a.status === 'up' && b.status !== 'up') return 1;
+        return a.name.localeCompare(b.name);
+      });
+
+      for (const m of sorted) {
+        const dotClass = m.status === 'up' ? 'dot-up' : m.status === 'paused' ? 'dot-paused' : m.status === 'pending' ? 'dot-pending' : 'dot-down';
+        const row = document.createElement('div');
+        row.className = 'monitor';
+        row.innerHTML = '<div class="dot ' + dotClass + '"></div>' +
+          '<div class="monitor-name">' + m.name + '</div>' +
+          '<div class="uptime-bars">' +
+          '<span class="uptime-pill ' + uptimeClass(m.uptime_24h) + '" title="24h">' + fmt(m.uptime_24h) + '</span>' +
+          '<span class="uptime-pill ' + uptimeClass(m.uptime_7d) + '" title="7d">' + fmt(m.uptime_7d) + '</span>' +
+          '<span class="uptime-pill ' + uptimeClass(m.uptime_30d) + '" title="30d">' + fmt(m.uptime_30d) + '</span>' +
+          '</div>';
+        body.appendChild(row);
+      }
+
+      group.appendChild(hdr);
+      group.appendChild(body);
+      container.appendChild(group);
+    }
+  }
+
+  function load() {
+    fetch(STATUS_URL + '?t=' + Date.now())
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(render)
+      .catch(function(e) {
+        document.getElementById('groups').innerHTML = '<div class="error-msg">Could not load status data. The monitoring system may be offline.</div>';
+        document.getElementById('banner').className = 'banner banner-down';
+        document.getElementById('banner').textContent = 'Status Unavailable';
+      });
+  }
+
+  load();
+  setInterval(load, 60000);
+})();
+</script>
+</body>
+</html>
