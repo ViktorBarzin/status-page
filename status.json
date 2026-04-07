@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T20:21:11.137997+00:00",
+  "last_updated": "2026-04-07T20:25:18.025411+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 86.8,
+        "uptime_7d": 86.9,
         "uptime_30d": 86.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 87.8,
+        "uptime_30d": 88.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.1,
-        "uptime_30d": 94.2,
+        "uptime_30d": 94.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -343,15 +343,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.9,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
         "status": "up",
         "uptime_24h": 36.6,
-        "uptime_7d": 41.3,
-        "uptime_30d": 43.4,
+        "uptime_7d": 41.4,
+        "uptime_30d": 43.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -422,7 +422,7 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 96.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.9,
-        "uptime_30d": 87.9,
+        "uptime_7d": 88.0,
+        "uptime_30d": 88.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -646,8 +646,8 @@
         "name": "pgAdmin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.4,
-        "uptime_30d": 98.4,
+        "uptime_7d": 98.5,
+        "uptime_30d": 98.5,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
