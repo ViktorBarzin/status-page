@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-07T16:51:09.355345+00:00",
+  "last_updated": "2026-04-07T16:55:17.892528+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.5,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -62,7 +62,7 @@
         "name": "Privatebin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 97.5,
         "url": "https://pb.viktorbarzin.me"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.4,
+        "uptime_30d": 86.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.8,
-        "uptime_30d": 87.1,
+        "uptime_7d": 87.9,
+        "uptime_30d": 87.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -270,7 +270,7 @@
         "name": "Rybbit Analytics",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 97.3,
         "url": "https://rybbit.viktorbarzin.me"
       },
@@ -302,7 +302,7 @@
         "name": "Ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 97.0,
         "url": "https://ntfy.viktorbarzin.me"
       },
@@ -349,7 +349,7 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 36.7,
+        "uptime_24h": 36.6,
         "uptime_7d": 41.6,
         "uptime_30d": 43.8,
         "url": "http://blog.website.svc"
@@ -502,8 +502,8 @@
         "name": "City Guesser",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -574,16 +574,16 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 77.0,
-        "uptime_30d": 77.0,
+        "uptime_7d": 77.1,
+        "uptime_30d": 77.1,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -785,8 +785,8 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 23.3,
-        "uptime_30d": 23.6
+        "uptime_7d": 23.2,
+        "uptime_30d": 23.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 95.2
+        "uptime_30d": 95.3
       }
     ],
     "Redis": [
