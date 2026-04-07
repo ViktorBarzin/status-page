@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T21:10:19.793359+00:00",
+  "last_updated": "2026-04-07T21:15:18.374421+00:00",
   "groups": {
     "HTTP": [
       {
@@ -326,8 +326,8 @@
         "name": "ha-london",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.8,
-        "uptime_30d": 7.6,
+        "uptime_7d": 6.7,
+        "uptime_30d": 7.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -343,15 +343,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.0,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 37.5,
-        "uptime_7d": 42.1,
-        "uptime_30d": 44.0,
+        "uptime_24h": 37.6,
+        "uptime_7d": 42.2,
+        "uptime_30d": 44.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -785,8 +785,8 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 21.2,
-        "uptime_30d": 21.5
+        "uptime_7d": 21.1,
+        "uptime_30d": 21.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -822,7 +822,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 95.7
       }
     ],
