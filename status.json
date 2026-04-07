@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T17:25:50.026082+00:00",
+  "last_updated": "2026-04-07T17:30:17.768370+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 7.6,
-        "uptime_30d": 8.5,
+        "uptime_30d": 8.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -349,7 +349,7 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 36.6,
+        "uptime_24h": 36.4,
         "uptime_7d": 41.6,
         "uptime_30d": 43.7,
         "url": "http://blog.website.svc"
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.1,
-        "uptime_30d": 87.1,
+        "uptime_7d": 87.2,
+        "uptime_30d": 87.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.4,
-        "uptime_7d": 77.5,
-        "uptime_30d": 77.5,
+        "uptime_7d": 77.6,
+        "uptime_30d": 77.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -778,15 +778,15 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 22.1,
-        "uptime_30d": 22.4
+        "uptime_7d": 22.0,
+        "uptime_30d": 22.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 23.0,
-        "uptime_30d": 23.3
+        "uptime_7d": 22.9,
+        "uptime_30d": 23.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 87.6,
-        "uptime_30d": 86.7
+        "uptime_30d": 86.8
       },
       {
         "name": "pfSense Gateway",
