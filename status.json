@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T16:00:18.088297+00:00",
+  "last_updated": "2026-04-07T16:05:49.689102+00:00",
   "groups": {
     "HTTP": [
       {
@@ -47,7 +47,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.3,
-        "uptime_30d": 84.4,
+        "uptime_7d": 85.4,
+        "uptime_30d": 84.5,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -207,14 +207,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 86.8,
-        "uptime_30d": 85.1,
+        "uptime_30d": 85.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.1,
+        "uptime_7d": 88.2,
         "uptime_30d": 86.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -319,15 +319,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 93.6,
+        "uptime_30d": 93.7,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 8.0,
-        "uptime_30d": 8.9,
+        "uptime_7d": 7.9,
+        "uptime_30d": 8.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.7,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 35.4,
-        "uptime_7d": 40.8,
+        "uptime_7d": 40.9,
         "uptime_30d": 43.2,
         "url": "http://blog.website.svc"
       },
@@ -510,8 +510,8 @@
         "name": "Claude Memory MCP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 76.5,
-        "uptime_30d": 76.5,
+        "uptime_7d": 76.6,
+        "uptime_30d": 76.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.5,
-        "uptime_7d": 77.5,
-        "uptime_30d": 77.5,
+        "uptime_7d": 77.4,
+        "uptime_30d": 77.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 22.8,
+        "uptime_7d": 22.7,
         "uptime_30d": 23.1
       },
       {
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 69.6,
-        "uptime_7d": 62.4,
-        "uptime_30d": 60.9
+        "uptime_24h": 71.6,
+        "uptime_7d": 62.6,
+        "uptime_30d": 61.1
       }
     ]
   }
