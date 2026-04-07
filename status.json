@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T09:20:16.163338+00:00",
+  "last_updated": "2026-04-07T09:25:17.696100+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.1,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -62,7 +62,7 @@
         "name": "Privatebin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 97.0,
         "url": "https://pb.viktorbarzin.me"
       },
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 82.2,
-        "uptime_30d": 81.2,
+        "uptime_7d": 82.3,
+        "uptime_30d": 81.3,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 84.3,
-        "uptime_30d": 82.4,
+        "uptime_30d": 82.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.3,
-        "uptime_30d": 84.5,
+        "uptime_7d": 85.4,
+        "uptime_30d": 84.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -270,7 +270,7 @@
         "name": "Rybbit Analytics",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 96.5,
         "url": "https://rybbit.viktorbarzin.me"
       },
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -302,7 +302,7 @@
         "name": "Ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 95.8,
         "url": "https://ntfy.viktorbarzin.me"
       },
@@ -327,14 +327,14 @@
         "status": "down",
         "uptime_24h": 10.3,
         "uptime_7d": 10.3,
-        "uptime_30d": 11.4,
+        "uptime_30d": 11.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
         "name": "Changedetection",
         "status": "up",
-        "uptime_24h": 97.0,
-        "uptime_7d": 97.0,
+        "uptime_24h": 97.1,
+        "uptime_7d": 97.1,
         "uptime_30d": 93.8,
         "url": "https://changedetection.viktorbarzin.me"
       },
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
+        "status": "down",
         "uptime_24h": 35.0,
-        "uptime_7d": 42.0,
-        "uptime_30d": 44.4,
+        "uptime_7d": 41.9,
+        "uptime_30d": 44.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -399,7 +399,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 98.2,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -502,8 +502,8 @@
         "name": "City Guesser",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.5,
-        "uptime_30d": 81.5,
+        "uptime_7d": 81.6,
+        "uptime_30d": 81.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -573,17 +573,17 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 93.1,
-        "uptime_7d": 71.6,
-        "uptime_30d": 71.6,
+        "uptime_24h": 93.4,
+        "uptime_7d": 71.7,
+        "uptime_30d": 71.7,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.6,
-        "uptime_7d": 75.2,
-        "uptime_30d": 75.2,
+        "uptime_24h": 92.9,
+        "uptime_7d": 75.3,
+        "uptime_30d": 75.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -777,14 +777,14 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 15.3,
+        "uptime_24h": 14.9,
         "uptime_7d": 27.0,
-        "uptime_30d": 27.4
+        "uptime_30d": 27.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 15.9,
+        "uptime_24h": 15.5,
         "uptime_7d": 28.1,
         "uptime_30d": 28.4
       },
