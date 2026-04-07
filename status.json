@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T12:00:48.789828+00:00",
+  "last_updated": "2026-04-07T12:05:15.931686+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.6,
+        "uptime_7d": 83.7,
         "uptime_30d": 82.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.0,
-        "uptime_30d": 83.4,
+        "uptime_30d": 83.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 86.3,
+        "uptime_7d": 86.4,
         "uptime_30d": 85.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -325,7 +325,7 @@
       {
         "name": "ha-london",
         "status": "down",
-        "uptime_24h": 4.5,
+        "uptime_24h": 4.2,
         "uptime_7d": 9.2,
         "uptime_30d": 10.2,
         "url": "https://ha-london.viktorbarzin.me"
@@ -343,15 +343,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.2,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
         "status": "down",
-        "uptime_24h": 34.6,
-        "uptime_7d": 40.6,
-        "uptime_30d": 43.2,
+        "uptime_24h": 34.3,
+        "uptime_7d": 40.5,
+        "uptime_30d": 43.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.3,
-        "uptime_30d": 85.3,
+        "uptime_7d": 85.4,
+        "uptime_30d": 85.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -777,16 +777,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 4.2,
-        "uptime_7d": 25.2,
-        "uptime_30d": 25.5
+        "uptime_24h": 3.8,
+        "uptime_7d": 25.1,
+        "uptime_30d": 25.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 4.8,
-        "uptime_7d": 26.2,
-        "uptime_30d": 26.5
+        "uptime_24h": 4.5,
+        "uptime_7d": 26.1,
+        "uptime_30d": 26.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 85.7,
-        "uptime_30d": 84.7
+        "uptime_30d": 84.8
       },
       {
         "name": "pfSense Gateway",
