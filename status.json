@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-07T12:26:11.304105+00:00",
+  "last_updated": "2026-04-07T12:30:18.465844+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 97.1,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.8,
+        "uptime_7d": 83.9,
         "uptime_30d": 82.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.5,
+        "uptime_7d": 85.6,
         "uptime_30d": 83.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "down",
-        "uptime_24h": 2.8,
-        "uptime_7d": 9.1,
-        "uptime_30d": 10.1,
+        "uptime_24h": 2.4,
+        "uptime_7d": 9.0,
+        "uptime_30d": 10.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -349,7 +349,7 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 34.6,
+        "uptime_24h": 34.5,
         "uptime_7d": 40.8,
         "uptime_30d": 43.4,
         "url": "http://blog.website.svc"
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 74.1,
-        "uptime_30d": 74.1,
+        "uptime_7d": 74.2,
+        "uptime_30d": 74.2,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -777,14 +777,14 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 2.4,
+        "uptime_24h": 2.1,
         "uptime_7d": 24.8,
         "uptime_30d": 25.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 3.1,
+        "uptime_24h": 2.8,
         "uptime_7d": 25.9,
         "uptime_30d": 26.2
       },
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.8,
+        "uptime_7d": 85.9,
         "uptime_30d": 84.9
       },
       {
