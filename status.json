@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T16:55:17.892528+00:00",
+  "last_updated": "2026-04-07T17:00:18.710438+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 84.9,
+        "uptime_30d": 85.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -199,15 +199,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.0,
-        "uptime_30d": 85.5,
+        "uptime_7d": 87.1,
+        "uptime_30d": 85.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.4,
-        "uptime_30d": 86.9,
+        "uptime_30d": 87.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 36.6,
-        "uptime_7d": 41.6,
-        "uptime_30d": 43.8,
+        "status": "down",
+        "uptime_24h": 36.5,
+        "uptime_7d": 41.4,
+        "uptime_30d": 43.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -542,8 +542,8 @@
         "name": "Travel Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://travel.viktorbarzin.me"
       },
       {
@@ -558,8 +558,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -598,8 +598,8 @@
         "name": "OpenLobster",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.8,
-        "uptime_7d": 77.4,
-        "uptime_30d": 77.4,
+        "uptime_24h": 92.4,
+        "uptime_7d": 77.3,
+        "uptime_30d": 77.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -694,8 +694,8 @@
         "name": "Task Webhook",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
