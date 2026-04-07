@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T17:50:18.285907+00:00",
+  "last_updated": "2026-04-07T17:55:15.976800+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 86.0,
-        "uptime_30d": 85.1,
+        "uptime_30d": 85.2,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -327,7 +327,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 7.5,
-        "uptime_30d": 8.4,
+        "uptime_30d": 8.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -348,9 +348,9 @@
       },
       {
         "name": "Blog",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 35.7,
-        "uptime_7d": 41.3,
+        "uptime_7d": 41.4,
         "uptime_30d": 43.5,
         "url": "http://blog.website.svc"
       },
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 91.7,
+        "uptime_30d": 91.8,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.0,
-        "uptime_30d": 85.0,
+        "uptime_7d": 85.1,
+        "uptime_30d": 85.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.8,
-        "uptime_7d": 77.7,
-        "uptime_30d": 77.7,
+        "uptime_24h": 93.1,
+        "uptime_7d": 77.8,
+        "uptime_30d": 77.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 21.8,
-        "uptime_30d": 22.2
+        "uptime_30d": 22.1
       },
       {
         "name": "Valchedrym Video System",
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.7,
+        "uptime_7d": 87.8,
         "uptime_30d": 86.9
       },
       {
