@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T05:45:16.271550+00:00",
+  "last_updated": "2026-04-07T05:55:18.425870+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 96.7,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -127,15 +127,15 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 97.4,
-        "uptime_30d": 87.3,
+        "uptime_30d": 87.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
         "name": "Immich ML",
         "status": "up",
-        "uptime_24h": 92.3,
-        "uptime_7d": 79.9,
-        "uptime_30d": 78.9,
+        "uptime_24h": 93.0,
+        "uptime_7d": 80.1,
+        "uptime_30d": 79.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
-        "uptime_30d": 83.2,
+        "uptime_7d": 98.3,
+        "uptime_30d": 83.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.8,
+        "uptime_30d": 82.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -199,29 +199,29 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 93.5,
-        "uptime_7d": 82.5,
-        "uptime_30d": 80.6,
+        "uptime_7d": 82.6,
+        "uptime_30d": 80.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 93.1,
-        "uptime_7d": 84.3,
-        "uptime_30d": 82.6,
+        "uptime_24h": 93.8,
+        "uptime_7d": 84.4,
+        "uptime_30d": 82.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
         "name": "SNMP Exporter",
         "status": "up",
-        "uptime_24h": 97.1,
+        "uptime_24h": 97.2,
         "uptime_7d": 92.1,
         "uptime_30d": 90.8,
         "url": "https://grafana.viktorbarzin.me"
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 91.9,
-        "uptime_7d": 83.7,
-        "uptime_30d": 82.9,
+        "uptime_7d": 83.8,
+        "uptime_30d": 83.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -279,14 +279,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 95.6,
         "url": "https://health.viktorbarzin.me"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "down",
-        "uptime_24h": 12.2,
-        "uptime_7d": 12.2,
-        "uptime_30d": 13.4,
+        "uptime_24h": 12.1,
+        "uptime_7d": 12.1,
+        "uptime_30d": 13.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 96.5,
         "uptime_7d": 96.5,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 37.0,
-        "uptime_7d": 42.8,
-        "uptime_30d": 45.2,
+        "uptime_7d": 43.1,
+        "uptime_30d": 45.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 88.9,
+        "uptime_30d": 89.0,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -549,9 +549,9 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 88.4,
-        "uptime_7d": 79.5,
-        "uptime_30d": 79.5,
+        "uptime_24h": 89.3,
+        "uptime_7d": 79.6,
+        "uptime_30d": 79.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 78.5,
-        "uptime_7d": 68.0,
-        "uptime_30d": 68.0,
+        "uptime_24h": 79.2,
+        "uptime_7d": 68.1,
+        "uptime_30d": 68.1,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -614,8 +614,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 90.9,
-        "uptime_7d": 82.5,
-        "uptime_30d": 82.5,
+        "uptime_7d": 82.6,
+        "uptime_30d": 82.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 82.4,
-        "uptime_7d": 73.0,
-        "uptime_30d": 73.0,
+        "uptime_24h": 83.0,
+        "uptime_7d": 73.2,
+        "uptime_30d": 73.2,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -777,16 +777,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 22.1,
-        "uptime_7d": 30.1,
-        "uptime_30d": 30.4
+        "uptime_24h": 22.3,
+        "uptime_7d": 29.9,
+        "uptime_30d": 30.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 23.0,
-        "uptime_7d": 31.3,
-        "uptime_30d": 31.6
+        "uptime_24h": 22.3,
+        "uptime_7d": 31.1,
+        "uptime_30d": 31.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 90.8,
-        "uptime_7d": 82.8,
-        "uptime_30d": 81.8
+        "uptime_7d": 82.9,
+        "uptime_30d": 81.9
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 93.5
+        "uptime_30d": 93.6
       }
     ],
     "Redis": [
@@ -832,7 +832,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.2
+        "uptime_30d": 98.3
       }
     ],
     "Push": [
