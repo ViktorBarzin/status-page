@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T16:30:19.789279+00:00",
+  "last_updated": "2026-04-07T16:35:17.726773+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.5,
-        "uptime_30d": 84.6,
+        "uptime_7d": 85.6,
+        "uptime_30d": 84.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.3,
+        "uptime_30d": 86.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.7,
-        "uptime_30d": 87.0,
+        "uptime_7d": 87.8,
+        "uptime_30d": 87.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 36.6,
-        "uptime_7d": 41.1,
-        "uptime_30d": 43.4,
+        "uptime_7d": 41.2,
+        "uptime_30d": 43.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 76.8,
-        "uptime_30d": 76.8,
+        "uptime_7d": 76.9,
+        "uptime_30d": 76.9,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.1,
-        "uptime_7d": 77.4,
-        "uptime_30d": 77.4,
+        "uptime_7d": 77.5,
+        "uptime_30d": 77.5,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 23.4,
-        "uptime_30d": 23.8
+        "uptime_30d": 23.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -840,8 +840,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 71.6,
-        "uptime_7d": 62.6,
-        "uptime_30d": 61.1
+        "uptime_7d": 62.8,
+        "uptime_30d": 61.3
       }
     ]
   }
