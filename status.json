@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T23:25:17.656068+00:00",
+  "last_updated": "2026-04-07T23:30:19.020989+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.7,
+        "uptime_7d": 87.8,
         "uptime_30d": 86.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.9,
+        "uptime_30d": 88.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.7,
+        "uptime_7d": 88.8,
         "uptime_30d": 87.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 41.5,
+        "uptime_24h": 41.4,
         "uptime_7d": 43.6,
-        "uptime_30d": 45.0,
+        "uptime_30d": 45.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.3,
-        "uptime_30d": 80.3,
+        "uptime_7d": 80.4,
+        "uptime_30d": 80.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.1,
-        "uptime_7d": 79.2,
-        "uptime_30d": 79.2,
+        "uptime_7d": 79.3,
+        "uptime_30d": 79.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.0
+        "uptime_30d": 98.1
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.0
+        "uptime_30d": 98.1
       },
       {
         "name": "ShadowSocks Proxy",
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.1,
-        "uptime_30d": 88.3
+        "uptime_7d": 89.2,
+        "uptime_30d": 88.4
       },
       {
         "name": "pfSense Gateway",
