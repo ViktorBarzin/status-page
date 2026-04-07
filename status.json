@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T14:56:11.501491+00:00",
+  "last_updated": "2026-04-07T15:00:25.468833+00:00",
   "groups": {
     "HTTP": [
       {
@@ -38,7 +38,7 @@
         "name": "Shlink (URL Shortener)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 96.0,
         "url": "https://shlink.viktorbarzin.me"
       },
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 87.3,
-        "uptime_30d": 86.5,
+        "uptime_30d": 86.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 8.3,
+        "uptime_7d": 8.2,
         "uptime_30d": 9.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -349,8 +349,8 @@
       {
         "name": "Blog",
         "status": "down",
-        "uptime_24h": 34.7,
-        "uptime_7d": 41.1,
+        "uptime_24h": 34.8,
+        "uptime_7d": 41.0,
         "uptime_30d": 43.4,
         "url": "http://blog.website.svc"
       },
@@ -398,7 +398,7 @@
         "name": "Homepage",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 96.8,
         "url": "https://home.viktorbarzin.me"
       },
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.8,
-        "uptime_30d": 75.8,
+        "uptime_7d": 75.9,
+        "uptime_30d": 75.9,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -638,8 +638,8 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -662,16 +662,16 @@
         "name": "CyberChef",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://cc.viktorbarzin.me"
       },
       {
         "name": "Poison Fountain",
-        "status": "up",
-        "uptime_24h": 93.8,
-        "uptime_7d": 77.5,
-        "uptime_30d": 77.5,
+        "status": "down",
+        "uptime_24h": 93.4,
+        "uptime_7d": 77.3,
+        "uptime_30d": 77.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -720,14 +720,14 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 97.6
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 97.6
       },
       {
@@ -749,7 +749,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "NFS Server (TrueNAS)",
@@ -786,13 +786,13 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 24.3,
-        "uptime_30d": 24.7
+        "uptime_30d": 24.6
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.9
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 86.7,
-        "uptime_30d": 85.9
+        "uptime_30d": 86.0
       },
       {
         "name": "pfSense Gateway",
@@ -831,7 +831,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.7
       }
     ],
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 68.6,
-        "uptime_7d": 62.3,
-        "uptime_30d": 60.8
+        "uptime_24h": 67.6,
+        "uptime_7d": 61.9,
+        "uptime_30d": 60.5
       }
     ]
   }
