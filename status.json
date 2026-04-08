@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T13:10:15.695895+00:00",
+  "last_updated": "2026-04-08T13:16:10.083495+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -47,7 +47,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 86.4,
+        "uptime_30d": 86.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.7,
+        "uptime_7d": 93.8,
         "uptime_30d": 92.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -343,15 +343,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
         "status": "up",
         "uptime_24h": 45.8,
-        "uptime_7d": 43.1,
-        "uptime_30d": 44.9,
+        "uptime_7d": 43.2,
+        "uptime_30d": 45.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 5.5,
-        "uptime_30d": 6.1
+        "uptime_30d": 6.0
       },
       {
         "name": "Valchedrym Video System",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 70.6,
         "uptime_7d": 77.2,
-        "uptime_30d": 76.4
+        "uptime_30d": 76.5
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 95.4
+        "uptime_30d": 95.5
       }
     ],
     "Redis": [
