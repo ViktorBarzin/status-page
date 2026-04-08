@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T03:16:12.643671+00:00",
+  "last_updated": "2026-04-08T03:20:17.673250+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.7,
+        "uptime_30d": 81.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 80.3,
+        "uptime_30d": 80.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -343,13 +343,13 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
-        "status": "down",
-        "uptime_24h": 42.4,
+        "status": "up",
+        "uptime_24h": 42.5,
         "uptime_7d": 43.4,
         "uptime_30d": 45.6,
         "url": "http://blog.website.svc"
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.9,
-        "uptime_30d": 91.9,
+        "uptime_7d": 92.0,
+        "uptime_30d": 92.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -669,7 +669,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.5,
+        "uptime_24h": 92.4,
         "uptime_7d": 86.3,
         "uptime_30d": 86.3,
         "url": "https://poison.viktorbarzin.me"
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 88.9,
-        "uptime_7d": 84.6,
-        "uptime_30d": 83.4
+        "uptime_24h": 88.6,
+        "uptime_7d": 84.4,
+        "uptime_30d": 83.2
       },
       {
         "name": "pfSense Gateway",
