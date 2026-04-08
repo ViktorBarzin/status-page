@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T01:50:18.144887+00:00",
+  "last_updated": "2026-04-08T01:56:10.690798+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.3,
+        "uptime_7d": 88.4,
         "uptime_30d": 87.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.3,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 89.7,
-        "uptime_30d": 89.1,
+        "uptime_7d": 89.8,
+        "uptime_30d": 89.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.0,
+        "uptime_7d": 5.9,
         "uptime_30d": 6.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 42.7,
+        "status": "down",
+        "uptime_24h": 43.0,
         "uptime_7d": 43.6,
-        "uptime_30d": 45.0,
+        "uptime_30d": 45.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.3,
+        "uptime_30d": 95.4,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -778,15 +778,15 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 18.5,
-        "uptime_30d": 18.8
+        "uptime_7d": 18.4,
+        "uptime_30d": 18.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 19.3,
-        "uptime_30d": 19.6
+        "uptime_7d": 19.2,
+        "uptime_30d": 19.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 94.8,
-        "uptime_7d": 87.2,
-        "uptime_30d": 86.5
+        "uptime_24h": 94.5,
+        "uptime_7d": 87.1,
+        "uptime_30d": 86.4
       },
       {
         "name": "pfSense Gateway",
