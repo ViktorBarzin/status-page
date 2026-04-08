@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T22:10:16.624801+00:00",
+  "last_updated": "2026-04-08T22:15:16.856879+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -151,14 +151,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "http://linkwarden.linkwarden"
       },
       {
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.1,
         "uptime_30d": 88.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 86.7,
+        "uptime_30d": 86.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 66.7,
-        "uptime_7d": 78.4,
-        "uptime_30d": 77.9,
+        "uptime_24h": 66.3,
+        "uptime_7d": 78.3,
+        "uptime_30d": 77.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -348,7 +348,7 @@
       },
       {
         "name": "Blog",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 57.4,
         "uptime_7d": 49.9,
         "uptime_30d": 49.9,
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -399,7 +399,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 67.5,
-        "uptime_7d": 81.9,
-        "uptime_30d": 81.9,
+        "uptime_24h": 67.1,
+        "uptime_7d": 81.7,
+        "uptime_30d": 81.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "ShadowSocks Proxy",
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Traefik LoadBalancer",
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 70.6,
-        "uptime_7d": 81.4,
+        "uptime_7d": 81.5,
         "uptime_30d": 80.8
       },
       {
