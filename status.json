@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T08:35:18.285127+00:00",
+  "last_updated": "2026-04-08T08:41:12.040711+00:00",
   "groups": {
     "HTTP": [
       {
@@ -31,7 +31,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.9,
+        "uptime_30d": 84.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.5,
-        "uptime_30d": 90.6,
+        "uptime_7d": 92.6,
+        "uptime_30d": 90.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.6,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -348,9 +348,9 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 44.4,
-        "uptime_7d": 43.1,
+        "status": "down",
+        "uptime_24h": 44.5,
+        "uptime_7d": 43.0,
         "uptime_30d": 45.1,
         "url": "http://blog.website.svc"
       },
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.5,
+        "uptime_30d": 93.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.7,
-        "uptime_30d": 93.7,
+        "uptime_7d": 93.8,
+        "uptime_30d": 93.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.6
+        "uptime_30d": 97.7
       },
       {
         "name": "Traefik LoadBalancer",
@@ -779,14 +779,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.2,
-        "uptime_30d": 6.9
+        "uptime_30d": 6.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.4,
-        "uptime_30d": 7.1
+        "uptime_30d": 7.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 70.6,
         "uptime_7d": 74.1,
-        "uptime_30d": 73.3
+        "uptime_30d": 73.4
       },
       {
         "name": "pfSense Gateway",
