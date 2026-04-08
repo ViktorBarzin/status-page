@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T11:01:13.781321+00:00",
+  "last_updated": "2026-04-08T11:05:17.136900+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 83.4,
+        "uptime_30d": 83.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.4,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 92.9,
+        "uptime_7d": 93.0,
         "uptime_30d": 92.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 46.2,
-        "uptime_7d": 43.2,
-        "uptime_30d": 45.1,
+        "uptime_24h": 46.6,
+        "uptime_7d": 43.3,
+        "uptime_30d": 45.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.1,
-        "uptime_30d": 94.1,
+        "uptime_7d": 94.2,
+        "uptime_30d": 94.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 70.6,
-        "uptime_7d": 75.8,
+        "uptime_7d": 75.9,
         "uptime_30d": 75.1
       },
       {
@@ -838,10 +838,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
-        "uptime_24h": 71.2,
-        "uptime_7d": 63.6,
-        "uptime_30d": 62.0
+        "status": "up",
+        "uptime_24h": 70.6,
+        "uptime_7d": 63.4,
+        "uptime_30d": 61.9
       }
     ]
   }
