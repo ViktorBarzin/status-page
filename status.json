@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T12:26:09.181781+00:00",
+  "last_updated": "2026-04-08T12:31:14.559229+00:00",
   "groups": {
     "HTTP": [
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.6,
-        "uptime_30d": 91.8,
+        "uptime_30d": 91.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 47.1,
-        "uptime_7d": 43.2,
+        "uptime_7d": 43.3,
         "uptime_30d": 45.1,
         "url": "http://blog.website.svc"
       },
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.1,
-        "uptime_7d": 87.8,
-        "uptime_30d": 87.8,
+        "uptime_7d": 87.9,
+        "uptime_30d": 87.9,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 70.6,
-        "uptime_7d": 76.7,
+        "uptime_7d": 76.8,
         "uptime_30d": 76.0
       },
       {
@@ -840,8 +840,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 68.6,
-        "uptime_7d": 63.2,
-        "uptime_30d": 61.7
+        "uptime_7d": 63.4,
+        "uptime_30d": 61.9
       }
     ]
   }
