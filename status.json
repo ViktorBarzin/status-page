@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T03:11:08.524904+00:00",
+  "last_updated": "2026-04-08T03:16:12.643671+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 93.3,
+        "uptime_30d": 93.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 82.7,
+        "uptime_30d": 82.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.6,
-        "uptime_30d": 89.4,
+        "uptime_7d": 91.7,
+        "uptime_30d": 89.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.5,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 42.7,
-        "uptime_7d": 43.5,
-        "uptime_30d": 45.7,
+        "status": "down",
+        "uptime_24h": 42.4,
+        "uptime_7d": 43.4,
+        "uptime_30d": 45.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 88.8,
+        "uptime_30d": 88.9,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.5,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.4,
-        "uptime_7d": 86.2,
-        "uptime_30d": 86.2,
+        "uptime_24h": 92.5,
+        "uptime_7d": 86.3,
+        "uptime_30d": 86.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 7.4,
+        "uptime_7d": 7.3,
         "uptime_30d": 8.1
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 89.3,
-        "uptime_7d": 84.9,
-        "uptime_30d": 83.7
+        "uptime_24h": 88.9,
+        "uptime_7d": 84.6,
+        "uptime_30d": 83.4
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.8
+        "uptime_30d": 93.9
       }
     ],
     "Redis": [
