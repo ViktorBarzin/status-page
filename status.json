@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T00:31:13.290833+00:00",
+  "last_updated": "2026-04-08T00:36:11.352998+00:00",
   "groups": {
     "HTTP": [
       {
@@ -47,7 +47,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.0,
-        "uptime_30d": 87.7,
+        "uptime_30d": 87.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 42.3,
-        "uptime_7d": 43.6,
-        "uptime_30d": 45.0,
+        "uptime_24h": 42.6,
+        "uptime_7d": 43.7,
+        "uptime_30d": 45.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -778,15 +778,15 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 19.0,
-        "uptime_30d": 19.3
+        "uptime_7d": 18.9,
+        "uptime_30d": 19.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 19.8,
-        "uptime_30d": 20.1
+        "uptime_7d": 19.7,
+        "uptime_30d": 20.0
       },
       {
         "name": "Valchedrym DDNS",
