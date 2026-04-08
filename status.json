@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T14:20:15.656093+00:00",
+  "last_updated": "2026-04-08T14:26:19.847733+00:00",
   "groups": {
     "HTTP": [
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.3,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 93.3,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -349,7 +349,7 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 47.6,
+        "uptime_24h": 47.8,
         "uptime_7d": 44.2,
         "uptime_30d": 45.7,
         "url": "http://blog.website.svc"
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 92.0,
+        "uptime_30d": 92.1,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -460,10 +460,10 @@
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.3,
+        "status": "down",
+        "uptime_24h": 99.4,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -614,8 +614,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 70.6,
-        "uptime_7d": 77.8,
+        "uptime_7d": 77.9,
         "uptime_30d": 77.1
       },
       {
