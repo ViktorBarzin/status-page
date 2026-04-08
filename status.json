@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T07:35:19.784229+00:00",
+  "last_updated": "2026-04-08T07:40:15.986295+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.7,
-        "uptime_30d": 90.7,
+        "uptime_30d": 90.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -348,8 +348,8 @@
       },
       {
         "name": "Blog",
-        "status": "down",
-        "uptime_24h": 42.9,
+        "status": "up",
+        "uptime_24h": 42.8,
         "uptime_7d": 42.6,
         "uptime_30d": 44.8,
         "url": "http://blog.website.svc"
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 93.3,
+        "uptime_30d": 93.4,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -614,8 +614,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.5,
-        "uptime_30d": 93.5,
+        "uptime_7d": 93.6,
+        "uptime_30d": 93.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -779,14 +779,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.4,
-        "uptime_30d": 7.1
+        "uptime_30d": 7.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.6,
-        "uptime_30d": 7.3
+        "uptime_30d": 7.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 70.9,
-        "uptime_7d": 73.6,
-        "uptime_30d": 72.8
+        "uptime_24h": 70.6,
+        "uptime_7d": 73.4,
+        "uptime_30d": 72.6
       },
       {
         "name": "pfSense Gateway",
