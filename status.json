@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T10:31:11.497766+00:00",
+  "last_updated": "2026-04-08T10:35:16.321874+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 85.6,
+        "uptime_30d": 85.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.3,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 92.8,
+        "uptime_7d": 92.9,
         "uptime_30d": 91.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -343,15 +343,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 46.3,
-        "uptime_7d": 43.2,
-        "uptime_30d": 45.1,
+        "uptime_24h": 46.6,
+        "uptime_7d": 43.3,
+        "uptime_30d": 45.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 70.6,
         "uptime_7d": 75.5,
-        "uptime_30d": 74.7
+        "uptime_30d": 74.8
       },
       {
         "name": "pfSense Gateway",
