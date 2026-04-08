@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T20:40:15.797071+00:00",
+  "last_updated": "2026-04-08T20:45:16.770800+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -31,7 +31,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 91.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 88.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 72.9,
-        "uptime_7d": 80.9,
-        "uptime_30d": 80.3,
+        "uptime_24h": 72.5,
+        "uptime_7d": 80.7,
+        "uptime_30d": 80.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -286,7 +286,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 97.4,
         "url": "https://health.viktorbarzin.me"
       },
@@ -342,7 +342,7 @@
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 96.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 60.0,
-        "uptime_7d": 50.0,
-        "uptime_30d": 50.0,
+        "uptime_7d": 50.1,
+        "uptime_30d": 50.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,15 +415,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://cc.viktorbarzin.me"
       },
       {
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 96.9,
+        "uptime_7d": 98.9,
+        "uptime_30d": 97.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 73.8,
-        "uptime_7d": 84.8,
-        "uptime_30d": 84.8,
+        "uptime_24h": 73.3,
+        "uptime_7d": 84.6,
+        "uptime_30d": 84.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -646,8 +646,8 @@
         "name": "pgAdmin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -832,7 +832,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.8
+        "uptime_30d": 98.9
       }
     ],
     "Push": [
