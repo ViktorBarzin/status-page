@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T03:01:15.183603+00:00",
+  "last_updated": "2026-04-08T03:06:10.670561+00:00",
   "groups": {
     "HTTP": [
       {
@@ -47,7 +47,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 87.2,
+        "uptime_30d": 87.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.6,
+        "uptime_30d": 81.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 91.6,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 42.6,
-        "uptime_7d": 43.3,
-        "uptime_30d": 45.5,
+        "uptime_7d": 43.4,
+        "uptime_30d": 45.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.5,
-        "uptime_30d": 92.5,
+        "uptime_7d": 92.6,
+        "uptime_30d": 92.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 96.8
+        "uptime_30d": 96.9
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 96.8
+        "uptime_30d": 96.9
       },
       {
         "name": "ShadowSocks Proxy",
@@ -785,7 +785,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 7.7,
+        "uptime_7d": 7.6,
         "uptime_30d": 8.4
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 90.0,
-        "uptime_7d": 85.4,
-        "uptime_30d": 84.1
+        "uptime_24h": 89.6,
+        "uptime_7d": 85.1,
+        "uptime_30d": 83.9
       },
       {
         "name": "pfSense Gateway",
