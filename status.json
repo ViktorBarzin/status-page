@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T09:20:15.913136+00:00",
+  "last_updated": "2026-04-08T09:25:18.685549+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 85.1,
+        "uptime_30d": 85.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -223,14 +223,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.9,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 93.0,
+        "uptime_7d": 93.1,
         "uptime_30d": 92.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 44.4,
-        "uptime_7d": 42.7,
-        "uptime_30d": 44.8,
+        "uptime_24h": 44.6,
+        "uptime_7d": 42.8,
+        "uptime_30d": 44.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -502,8 +502,8 @@
         "name": "City Guesser",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -558,8 +558,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -598,16 +598,16 @@
         "name": "OpenLobster",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
         "name": "Alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Goldilocks (VPA)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 70.6,
-        "uptime_7d": 74.6,
-        "uptime_30d": 73.9
+        "uptime_7d": 74.7,
+        "uptime_30d": 74.0
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 94.9
+        "uptime_30d": 95.0
       }
     ],
     "Redis": [
