@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T00:45:18.654407+00:00",
+  "last_updated": "2026-04-08T00:50:16.193368+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.0,
+        "uptime_7d": 89.1,
         "uptime_30d": 87.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.6,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 42.2,
+        "uptime_24h": 42.4,
         "uptime_7d": 43.6,
-        "uptime_30d": 45.0,
+        "uptime_30d": 45.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -669,7 +669,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 91.8,
+        "uptime_24h": 92.1,
         "uptime_7d": 79.6,
         "uptime_30d": 79.6,
         "url": "https://poison.viktorbarzin.me"
@@ -785,8 +785,8 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 19.7,
-        "uptime_30d": 20.0
+        "uptime_7d": 19.6,
+        "uptime_30d": 19.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 99.7,
-        "uptime_7d": 89.3,
-        "uptime_30d": 88.5
+        "uptime_24h": 99.0,
+        "uptime_7d": 89.0,
+        "uptime_30d": 88.2
       },
       {
         "name": "pfSense Gateway",
