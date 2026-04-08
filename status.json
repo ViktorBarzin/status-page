@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T19:35:16.801378+00:00",
+  "last_updated": "2026-04-08T19:40:16.441699+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 77.3,
-        "uptime_7d": 82.8,
-        "uptime_30d": 82.2,
+        "uptime_24h": 77.0,
+        "uptime_7d": 82.6,
+        "uptime_30d": 82.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 60.0,
-        "uptime_7d": 49.1,
-        "uptime_30d": 49.3,
+        "uptime_7d": 49.2,
+        "uptime_30d": 49.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 78.1,
-        "uptime_7d": 87.0,
-        "uptime_30d": 86.9,
+        "uptime_24h": 77.9,
+        "uptime_7d": 86.9,
+        "uptime_30d": 86.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.2
+        "uptime_30d": 98.3
       },
       {
         "name": "Traefik LoadBalancer",
