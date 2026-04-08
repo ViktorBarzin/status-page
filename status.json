@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T21:26:08.451683+00:00",
+  "last_updated": "2026-04-08T21:30:19.705456+00:00",
   "groups": {
     "HTTP": [
       {
@@ -348,9 +348,9 @@
       },
       {
         "name": "Blog",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 59.4,
-        "uptime_7d": 50.3,
+        "uptime_7d": 50.4,
         "uptime_30d": 50.3,
         "url": "http://blog.website.svc"
       },
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 70.4,
-        "uptime_7d": 83.3,
-        "uptime_30d": 83.2,
+        "uptime_24h": 70.2,
+        "uptime_7d": 83.2,
+        "uptime_30d": 83.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.2
+        "uptime_30d": 96.3
       }
     ],
     "Redis": [
