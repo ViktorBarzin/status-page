@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T08:45:18.669970+00:00",
+  "last_updated": "2026-04-08T08:51:11.173372+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 84.9,
+        "uptime_30d": 85.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.0,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 92.9,
-        "uptime_30d": 91.9,
+        "uptime_7d": 93.0,
+        "uptime_30d": 92.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "down",
-        "uptime_24h": 44.3,
-        "uptime_7d": 42.9,
-        "uptime_30d": 44.9,
+        "uptime_24h": 44.2,
+        "uptime_7d": 42.6,
+        "uptime_30d": 44.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 99.8,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 91.1,
-        "uptime_7d": 86.8,
-        "uptime_30d": 86.8,
+        "uptime_7d": 86.9,
+        "uptime_30d": 86.9,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 70.6,
-        "uptime_7d": 74.2,
+        "uptime_7d": 74.3,
         "uptime_30d": 73.5
       },
       {
