@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T02:31:08.134348+00:00",
+  "last_updated": "2026-04-08T02:36:10.805006+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.0,
-        "uptime_30d": 88.8,
+        "uptime_30d": 88.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 91.4,
+        "uptime_7d": 91.5,
         "uptime_30d": 90.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 43.2,
-        "uptime_7d": 43.8,
-        "uptime_30d": 45.9,
+        "status": "down",
+        "uptime_24h": 42.9,
+        "uptime_7d": 43.7,
+        "uptime_30d": 45.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.9,
+        "uptime_30d": 93.0,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.7,
-        "uptime_30d": 91.7,
+        "uptime_7d": 91.8,
+        "uptime_30d": 91.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.1,
-        "uptime_7d": 85.9,
-        "uptime_30d": 85.9,
+        "uptime_7d": 86.0,
+        "uptime_30d": 86.0,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 7.5,
-        "uptime_30d": 8.3
+        "uptime_30d": 8.2
       },
       {
         "name": "Valchedrym Video System",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 92.0,
-        "uptime_7d": 86.9,
-        "uptime_30d": 85.6
+        "uptime_24h": 91.7,
+        "uptime_7d": 86.6,
+        "uptime_30d": 85.3
       },
       {
         "name": "pfSense Gateway",
