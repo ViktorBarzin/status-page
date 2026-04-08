@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T07:06:10.651108+00:00",
+  "last_updated": "2026-04-08T07:10:17.619581+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,14 +7,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
         "name": "Headscale (Tailscale VPN)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 96.8,
         "url": "https://headscale.viktorbarzin.me"
       },
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -86,7 +86,7 @@
         "name": "calibre",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 94.1,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 97.5,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 96.5,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "down",
         "uptime_24h": 42.9,
-        "uptime_7d": 43.0,
-        "uptime_30d": 45.1,
+        "uptime_7d": 42.9,
+        "uptime_30d": 45.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 90.2,
+        "uptime_30d": 90.3,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 93.2,
+        "uptime_30d": 93.3,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -414,7 +414,7 @@
         "name": "Cyberchef",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 96.5,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -590,8 +590,8 @@
         "name": "Navidrome (Viktor)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 91.8,
-        "uptime_7d": 87.1,
-        "uptime_30d": 87.1,
+        "uptime_7d": 87.2,
+        "uptime_30d": 87.2,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 73.0,
-        "uptime_7d": 74.7,
-        "uptime_30d": 73.9
+        "uptime_24h": 72.7,
+        "uptime_7d": 74.5,
+        "uptime_30d": 73.7
       },
       {
         "name": "pfSense Gateway",
