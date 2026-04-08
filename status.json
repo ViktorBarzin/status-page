@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T23:55:51.147273+00:00",
+  "last_updated": "2026-04-08T00:02:00.176438+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 86.6,
+        "uptime_30d": 86.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 89.4,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.3,
+        "uptime_7d": 6.2,
         "uptime_30d": 7.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -343,14 +343,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.1,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
         "status": "down",
-        "uptime_24h": 41.6,
-        "uptime_7d": 43.6,
+        "uptime_24h": 41.7,
+        "uptime_7d": 43.5,
         "uptime_30d": 45.0,
         "url": "http://blog.website.svc"
       },
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 92.9,
+        "uptime_30d": 93.0,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.5,
-        "uptime_30d": 80.5,
+        "uptime_7d": 80.6,
+        "uptime_30d": 80.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.1,
-        "uptime_7d": 79.4,
-        "uptime_30d": 79.4,
+        "uptime_24h": 91.8,
+        "uptime_7d": 79.3,
+        "uptime_30d": 79.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -778,8 +778,8 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 19.2,
-        "uptime_30d": 19.5
+        "uptime_7d": 19.1,
+        "uptime_30d": 19.4
       },
       {
         "name": "Valchedrym Video System",
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.2,
-        "uptime_30d": 88.4
+        "uptime_7d": 89.3,
+        "uptime_30d": 88.5
       },
       {
         "name": "pfSense Gateway",
@@ -840,8 +840,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 77.4,
-        "uptime_7d": 64.5,
-        "uptime_30d": 62.9
+        "uptime_7d": 64.3,
+        "uptime_30d": 62.8
       }
     ]
   }
