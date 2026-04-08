@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T12:31:14.559229+00:00",
+  "last_updated": "2026-04-08T12:35:16.076664+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 86.2,
+        "uptime_30d": 86.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 83.9,
+        "uptime_30d": 84.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -348,8 +348,8 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 47.1,
+        "status": "down",
+        "uptime_24h": 47.0,
         "uptime_7d": 43.3,
         "uptime_30d": 45.1,
         "url": "http://blog.website.svc"
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 5.8,
-        "uptime_30d": 6.4
+        "uptime_30d": 6.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 70.6,
         "uptime_7d": 76.8,
-        "uptime_30d": 76.0
+        "uptime_30d": 76.1
       },
       {
         "name": "pfSense Gateway",
