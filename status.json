@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T03:55:18.011369+00:00",
+  "last_updated": "2026-04-08T04:00:19.454561+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 83.0,
+        "uptime_30d": 83.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.0,
+        "uptime_30d": 82.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 80.6,
+        "uptime_30d": 80.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.8,
+        "uptime_7d": 91.9,
         "uptime_30d": 89.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "down",
-        "uptime_24h": 43.0,
-        "uptime_7d": 43.2,
-        "uptime_30d": 45.4,
+        "status": "up",
+        "uptime_24h": 43.3,
+        "uptime_7d": 43.3,
+        "uptime_30d": 45.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -510,8 +510,8 @@
         "name": "Claude Memory MCP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 86.2,
-        "uptime_7d": 82.7,
-        "uptime_30d": 81.6
+        "uptime_24h": 85.8,
+        "uptime_7d": 82.5,
+        "uptime_30d": 81.4
       },
       {
         "name": "pfSense Gateway",
