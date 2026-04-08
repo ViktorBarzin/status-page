@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:30:18.271573+00:00",
+  "last_updated": "2026-04-08T04:35:17.728808+00:00",
   "groups": {
     "HTTP": [
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 44.0,
-        "uptime_7d": 43.3,
+        "uptime_7d": 43.4,
         "uptime_30d": 45.5,
         "url": "http://blog.website.svc"
       },
@@ -778,8 +778,8 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 7.1,
-        "uptime_30d": 7.8
+        "uptime_7d": 7.0,
+        "uptime_30d": 7.7
       },
       {
         "name": "Valchedrym Video System",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 83.7,
-        "uptime_7d": 81.1,
-        "uptime_30d": 80.1
+        "uptime_24h": 83.4,
+        "uptime_7d": 80.9,
+        "uptime_30d": 79.8
       },
       {
         "name": "pfSense Gateway",
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 76.2,
-        "uptime_7d": 63.8,
-        "uptime_30d": 62.0
+        "uptime_24h": 75.0,
+        "uptime_7d": 63.6,
+        "uptime_30d": 61.9
       }
     ]
   }
