@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T11:36:07.558343+00:00",
+  "last_updated": "2026-04-08T11:40:16.758870+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.9,
+        "uptime_30d": 85.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 83.6,
+        "uptime_30d": 83.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 93.0,
+        "uptime_7d": 93.1,
         "uptime_30d": 92.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -348,9 +348,9 @@
       },
       {
         "name": "Blog",
-        "status": "up",
+        "status": "down",
         "uptime_24h": 47.5,
-        "uptime_7d": 43.6,
+        "uptime_7d": 43.5,
         "uptime_30d": 45.3,
         "url": "http://blog.website.svc"
       },
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.8
+        "uptime_30d": 97.9
       },
       {
         "name": "Traefik LoadBalancer",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 70.6,
         "uptime_7d": 76.2,
-        "uptime_30d": 75.4
+        "uptime_30d": 75.5
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 95.2
+        "uptime_30d": 95.3
       }
     ],
     "Redis": [
