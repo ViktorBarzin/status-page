@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T09:40:16.605136+00:00",
+  "last_updated": "2026-04-09T09:45:16.730561+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -118,7 +118,7 @@
         "name": "K8s master",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.7,
         "url": "https://10.0.20.100:6443"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.4,
+        "uptime_30d": 84.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
+        "uptime_7d": 93.0,
         "uptime_30d": 90.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 19.4,
-        "uptime_7d": 39.7,
-        "uptime_30d": 40.0,
+        "uptime_24h": 19.0,
+        "uptime_7d": 39.6,
+        "uptime_30d": 39.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 19.6,
-        "uptime_7d": 38.5,
-        "uptime_30d": 38.7,
+        "uptime_24h": 19.2,
+        "uptime_7d": 38.4,
+        "uptime_30d": 38.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.0,
-        "uptime_30d": 6.7
+        "uptime_30d": 6.6
       },
       {
         "name": "Valchedrym Video System",
@@ -790,10 +790,10 @@
       },
       {
         "name": "Valchedrym DDNS",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 98.7
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 98.7,
+        "uptime_30d": 97.9
       },
       {
         "name": "Sofia RPI",
