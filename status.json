@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:06:09.106141+00:00",
+  "last_updated": "2026-04-09T04:10:16.286670+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 93.5,
+        "uptime_30d": 93.6,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.1,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 0.3,
-        "uptime_30d": 1.3,
+        "uptime_30d": 1.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 59.1,
-        "uptime_7d": 56.2,
-        "uptime_30d": 54.2,
+        "uptime_24h": 59.6,
+        "uptime_7d": 56.3,
+        "uptime_30d": 54.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 42.7,
-        "uptime_7d": 46.8,
-        "uptime_30d": 46.9,
+        "uptime_24h": 42.5,
+        "uptime_7d": 46.7,
+        "uptime_30d": 46.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -526,8 +526,8 @@
         "name": "K8s Portal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -654,8 +654,8 @@
         "name": "Networking Toolbox",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -678,8 +678,8 @@
         "name": "Flaresolverr",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 85.1,
+        "uptime_24h": 85.4,
         "uptime_7d": 75.4,
-        "uptime_30d": 74.5
+        "uptime_30d": 74.6
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       }
     ],
     "Redis": [
