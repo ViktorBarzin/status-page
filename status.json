@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T02:56:08.358642+00:00",
+  "last_updated": "2026-04-09T03:00:26.840636+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 82.7,
+        "uptime_30d": 82.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.7,
+        "uptime_30d": 81.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 80.4,
+        "uptime_30d": 80.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -222,8 +222,8 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.1,
-        "uptime_30d": 95.2,
+        "uptime_7d": 96.2,
+        "uptime_30d": 95.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -343,15 +343,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 59.5,
-        "uptime_7d": 57.3,
-        "uptime_30d": 54.9,
+        "status": "down",
+        "uptime_24h": 59.2,
+        "uptime_7d": 57.0,
+        "uptime_30d": 54.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 47.5,
-        "uptime_7d": 49.0,
-        "uptime_30d": 49.1,
+        "uptime_24h": 47.3,
+        "uptime_7d": 48.9,
+        "uptime_30d": 49.0,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 91.0,
-        "uptime_30d": 91.0,
+        "uptime_7d": 91.1,
+        "uptime_30d": 91.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 80.2,
-        "uptime_7d": 74.3,
-        "uptime_30d": 73.5
+        "uptime_24h": 80.6,
+        "uptime_7d": 74.4,
+        "uptime_30d": 73.6
       },
       {
         "name": "pfSense Gateway",
