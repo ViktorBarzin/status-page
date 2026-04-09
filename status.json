@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T08:31:10.657399+00:00",
+  "last_updated": "2026-04-09T08:35:16.208335+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.0,
+        "uptime_30d": 84.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.8,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "down",
-        "uptime_24h": 60.2,
-        "uptime_7d": 55.1,
-        "uptime_30d": 53.6,
+        "uptime_24h": 59.8,
+        "uptime_7d": 54.9,
+        "uptime_30d": 53.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 93.7,
+        "uptime_30d": 93.8,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 24.4,
-        "uptime_7d": 40.0,
-        "uptime_30d": 40.2,
+        "uptime_24h": 24.0,
+        "uptime_7d": 39.9,
+        "uptime_30d": 40.0,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -785,7 +785,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.5,
+        "uptime_7d": 6.4,
         "uptime_30d": 7.1
       },
       {
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 21.4,
-        "uptime_7d": 47.0,
-        "uptime_30d": 47.5
+        "uptime_24h": 19.6,
+        "uptime_7d": 46.7,
+        "uptime_30d": 47.3
       }
     ]
   }
