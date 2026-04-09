@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T12:00:23.620743+00:00",
+  "last_updated": "2026-04-09T12:05:16.631525+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.7,
+        "uptime_7d": 93.8,
         "uptime_30d": 91.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 9.7,
+        "uptime_24h": 9.3,
         "uptime_7d": 37.3,
-        "uptime_30d": 37.6,
+        "uptime_30d": 37.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -349,7 +349,7 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 62.2,
+        "uptime_24h": 62.4,
         "uptime_7d": 55.5,
         "uptime_30d": 54.0,
         "url": "http://blog.website.svc"
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 9.8,
-        "uptime_7d": 35.9,
-        "uptime_30d": 36.0,
+        "uptime_24h": 9.4,
+        "uptime_7d": 35.7,
+        "uptime_30d": 35.9,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 9.4,
-        "uptime_7d": 45.1,
-        "uptime_30d": 45.9
+        "uptime_24h": 7.8,
+        "uptime_7d": 44.8,
+        "uptime_30d": 45.7
       }
     ]
   }
