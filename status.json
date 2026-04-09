@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T05:25:16.364600+00:00",
+  "last_updated": "2026-04-09T05:30:19.140538+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 83.8,
+        "uptime_30d": 83.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.8,
+        "uptime_30d": 82.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.4,
-        "uptime_30d": 90.3,
+        "uptime_7d": 92.5,
+        "uptime_30d": 90.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -223,15 +223,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.5,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 36.8,
-        "uptime_7d": 45.0,
-        "uptime_30d": 45.1,
+        "uptime_24h": 36.4,
+        "uptime_7d": 44.8,
+        "uptime_30d": 45.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -348,9 +348,9 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 58.6,
-        "uptime_7d": 56.0,
+        "status": "down",
+        "uptime_24h": 58.3,
+        "uptime_7d": 55.9,
         "uptime_30d": 54.1,
         "url": "http://blog.website.svc"
       },
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.4,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 37.3,
-        "uptime_7d": 44.6,
-        "uptime_30d": 44.7,
+        "uptime_24h": 36.9,
+        "uptime_7d": 44.4,
+        "uptime_30d": 44.5,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 91.7,
-        "uptime_30d": 91.7,
+        "uptime_7d": 91.8,
+        "uptime_30d": 91.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.9,
+        "uptime_7d": 6.8,
         "uptime_30d": 7.5
       },
       {
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 7.1,
-        "uptime_30d": 7.8
+        "uptime_30d": 7.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 90.6,
-        "uptime_7d": 76.4,
-        "uptime_30d": 75.6
+        "uptime_24h": 91.0,
+        "uptime_7d": 76.5,
+        "uptime_30d": 75.7
       },
       {
         "name": "pfSense Gateway",
