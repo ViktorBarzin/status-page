@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T14:41:08.065343+00:00",
+  "last_updated": "2026-04-09T14:45:16.586327+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.1,
+        "uptime_7d": 94.2,
         "uptime_30d": 92.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 62.9,
-        "uptime_7d": 56.3,
-        "uptime_30d": 54.6,
+        "uptime_7d": 56.4,
+        "uptime_30d": 54.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 4.4,
-        "uptime_7d": 36.1,
-        "uptime_30d": 36.2,
+        "uptime_24h": 4.6,
+        "uptime_7d": 36.2,
+        "uptime_30d": 36.3,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
