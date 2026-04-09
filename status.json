@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T01:35:16.294418+00:00",
+  "last_updated": "2026-04-09T01:40:15.824872+00:00",
   "groups": {
     "HTTP": [
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 52.6,
-        "uptime_7d": 73.3,
-        "uptime_30d": 72.9,
+        "uptime_24h": 52.2,
+        "uptime_7d": 73.2,
+        "uptime_30d": 72.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 58.8,
-        "uptime_7d": 50.6,
-        "uptime_30d": 50.5,
+        "status": "down",
+        "uptime_24h": 58.5,
+        "uptime_7d": 50.4,
+        "uptime_30d": 50.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -461,8 +461,8 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 53.1,
-        "uptime_7d": 76.0,
+        "uptime_24h": 52.9,
+        "uptime_7d": 75.9,
         "uptime_30d": 75.9,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -542,8 +542,8 @@
         "name": "Travel Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://travel.viktorbarzin.me"
       },
       {
@@ -694,8 +694,8 @@
         "name": "Task Webhook",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -798,7 +798,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 74.7,
+        "uptime_24h": 75.0,
         "uptime_7d": 82.7,
         "uptime_30d": 82.1
       },
