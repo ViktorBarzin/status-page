@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:31:10.741427+00:00",
+  "last_updated": "2026-04-09T04:35:16.659847+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 83.4,
+        "uptime_30d": 83.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.4,
+        "uptime_30d": 82.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 58.9,
-        "uptime_7d": 56.2,
-        "uptime_30d": 54.2,
+        "uptime_24h": 59.0,
+        "uptime_7d": 56.3,
+        "uptime_30d": 54.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.6,
+        "uptime_30d": 93.7,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 41.0,
-        "uptime_7d": 46.1,
-        "uptime_30d": 46.2,
+        "uptime_24h": 40.6,
+        "uptime_7d": 45.9,
+        "uptime_30d": 46.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -798,8 +798,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 86.8,
-        "uptime_7d": 75.7,
+        "uptime_24h": 87.2,
+        "uptime_7d": 75.8,
         "uptime_30d": 74.9
       },
       {
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 31.7,
-        "uptime_7d": 49.4,
-        "uptime_30d": 49.5
+        "uptime_24h": 31.1,
+        "uptime_7d": 49.1,
+        "uptime_30d": 49.2
       }
     ]
   }
