@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T22:40:16.968770+00:00",
+  "last_updated": "2026-04-09T22:45:17.028765+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 37.5,
-        "uptime_7d": 47.5,
-        "uptime_30d": 47.5,
+        "uptime_24h": 37.8,
+        "uptime_7d": 47.6,
+        "uptime_30d": 47.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 37.5,
-        "uptime_7d": 47.5,
-        "uptime_30d": 47.6,
+        "uptime_24h": 37.9,
+        "uptime_7d": 47.6,
+        "uptime_30d": 47.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.5,
-        "uptime_30d": 95.5,
+        "uptime_7d": 95.6,
+        "uptime_30d": 95.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 4.6,
-        "uptime_30d": 5.1
+        "uptime_30d": 5.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.3
+        "uptime_30d": 96.4
       }
     ],
     "Redis": [
