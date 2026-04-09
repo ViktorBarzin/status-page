@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T18:00:24.691651+00:00",
+  "last_updated": "2026-04-09T18:05:16.669088+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.7,
+        "uptime_30d": 85.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.2,
+        "uptime_7d": 94.3,
         "uptime_30d": 92.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 18.1,
-        "uptime_7d": 42.0,
-        "uptime_30d": 42.2,
+        "uptime_24h": 18.4,
+        "uptime_7d": 42.1,
+        "uptime_30d": 42.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 94.2,
+        "uptime_30d": 94.3,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 62.9,
-        "uptime_7d": 58.8,
+        "uptime_7d": 58.9,
         "uptime_30d": 56.6,
         "url": "http://blog.website.svc"
       },
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 18.1,
-        "uptime_7d": 41.4,
-        "uptime_30d": 41.5,
+        "uptime_24h": 18.5,
+        "uptime_7d": 41.5,
+        "uptime_30d": 41.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -471,7 +471,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 83.3,
-        "uptime_30d": 82.5
+        "uptime_30d": 82.6
       },
       {
         "name": "pfSense Gateway",
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 15.4,
+        "uptime_24h": 17.0,
         "uptime_7d": 45.5,
-        "uptime_30d": 46.2
+        "uptime_30d": 46.3
       }
     ]
   }
