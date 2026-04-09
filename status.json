@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T11:16:08.930425+00:00",
+  "last_updated": "2026-04-09T11:20:16.849092+00:00",
   "groups": {
     "HTTP": [
       {
@@ -142,7 +142,7 @@
         "name": "Actual Budget",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.5,
         "url": "http://budget-viktor.actualbudget"
       },
@@ -229,7 +229,7 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 12.8,
+        "uptime_24h": 12.5,
         "uptime_7d": 38.0,
         "uptime_30d": 38.2,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -343,15 +343,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 61.7,
-        "uptime_7d": 55.4,
-        "uptime_30d": 53.9,
+        "status": "down",
+        "uptime_24h": 61.5,
+        "uptime_7d": 55.2,
+        "uptime_30d": 53.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 12.9,
-        "uptime_7d": 36.7,
-        "uptime_30d": 36.8,
+        "uptime_24h": 12.5,
+        "uptime_7d": 36.6,
+        "uptime_30d": 36.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
