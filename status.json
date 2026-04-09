@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T01:00:20.688043+00:00",
+  "last_updated": "2026-04-09T01:05:16.729671+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.3,
+        "uptime_30d": 87.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 55.0,
-        "uptime_7d": 74.1,
-        "uptime_30d": 73.7,
+        "uptime_24h": 54.6,
+        "uptime_7d": 74.0,
+        "uptime_30d": 73.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 57.8,
-        "uptime_7d": 50.3,
-        "uptime_30d": 50.2,
+        "uptime_7d": 50.4,
+        "uptime_30d": 50.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 55.6,
-        "uptime_7d": 77.0,
-        "uptime_30d": 76.9,
+        "uptime_24h": 55.2,
+        "uptime_7d": 76.8,
+        "uptime_30d": 76.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 72.2,
+        "uptime_24h": 72.6,
         "uptime_7d": 82.5,
-        "uptime_30d": 81.8
+        "uptime_30d": 81.9
       },
       {
         "name": "pfSense Gateway",
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 40.9,
-        "uptime_7d": 57.0,
-        "uptime_30d": 56.2
+        "uptime_24h": 40.6,
+        "uptime_7d": 56.7,
+        "uptime_30d": 56.0
       }
     ]
   }
