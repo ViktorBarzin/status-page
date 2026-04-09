@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T05:01:12.857988+00:00",
+  "last_updated": "2026-04-09T05:05:16.859838+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 93.7,
+        "uptime_30d": 93.8,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 83.6,
+        "uptime_30d": 83.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.3,
+        "uptime_7d": 92.4,
         "uptime_30d": 90.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 58.6,
-        "uptime_7d": 56.0,
-        "uptime_30d": 54.1,
+        "status": "down",
+        "uptime_24h": 58.3,
+        "uptime_7d": 55.8,
+        "uptime_30d": 54.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 39.0,
-        "uptime_7d": 45.2,
-        "uptime_30d": 45.4,
+        "uptime_24h": 38.5,
+        "uptime_7d": 45.1,
+        "uptime_30d": 45.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.1,
-        "uptime_7d": 88.3,
-        "uptime_30d": 88.3,
+        "uptime_7d": 88.4,
+        "uptime_30d": 88.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3
+        "uptime_30d": 97.4
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3
+        "uptime_30d": 97.4
       },
       {
         "name": "ShadowSocks Proxy",
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 7.2,
-        "uptime_30d": 7.9
+        "uptime_30d": 7.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,8 +798,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 88.9,
-        "uptime_7d": 76.1,
+        "uptime_24h": 89.2,
+        "uptime_7d": 76.2,
         "uptime_30d": 75.3
       },
       {
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 30.0,
-        "uptime_7d": 49.1,
-        "uptime_30d": 49.2
+        "uptime_24h": 29.5,
+        "uptime_7d": 48.8,
+        "uptime_30d": 49.0
       }
     ]
   }
