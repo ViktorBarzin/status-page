@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T12:50:16.460516+00:00",
+  "last_updated": "2026-04-09T12:55:15.943541+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 86.3,
+        "uptime_30d": 86.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -229,8 +229,8 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 6.2,
-        "uptime_7d": 36.6,
+        "uptime_24h": 5.9,
+        "uptime_7d": 36.5,
         "uptime_30d": 36.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 63.3,
-        "uptime_7d": 55.5,
-        "uptime_30d": 54.0,
+        "uptime_7d": 55.6,
+        "uptime_30d": 54.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 6.2,
-        "uptime_7d": 35.0,
-        "uptime_30d": 35.2,
+        "uptime_24h": 6.0,
+        "uptime_7d": 34.9,
+        "uptime_30d": 35.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.6,
+        "uptime_7d": 5.5,
         "uptime_30d": 6.1
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 81.0,
-        "uptime_30d": 80.2
+        "uptime_30d": 80.3
       },
       {
         "name": "pfSense Gateway",
