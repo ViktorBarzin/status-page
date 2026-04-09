@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T13:56:06.988057+00:00",
+  "last_updated": "2026-04-09T14:01:11.122359+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 90.5,
+        "uptime_30d": 90.6,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 86.6,
+        "uptime_30d": 86.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 3.4,
-        "uptime_7d": 36.3,
-        "uptime_30d": 36.6,
+        "uptime_7d": 36.5,
+        "uptime_30d": 36.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -462,8 +462,8 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 3.1,
-        "uptime_7d": 34.7,
-        "uptime_30d": 34.9,
+        "uptime_7d": 34.8,
+        "uptime_30d": 35.0,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.5,
-        "uptime_30d": 80.7
+        "uptime_7d": 81.6,
+        "uptime_30d": 80.8
       },
       {
         "name": "pfSense Gateway",
@@ -838,10 +838,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 2.0,
-        "uptime_7d": 44.1,
-        "uptime_30d": 45.1
+        "uptime_7d": 44.4,
+        "uptime_30d": 45.3
       }
     ]
   }
