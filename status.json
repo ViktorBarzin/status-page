@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T14:25:16.243108+00:00",
+  "last_updated": "2026-04-09T14:30:19.043852+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -223,15 +223,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.3,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 3.1,
-        "uptime_7d": 37.0,
-        "uptime_30d": 37.2,
+        "uptime_24h": 3.5,
+        "uptime_7d": 37.1,
+        "uptime_30d": 37.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 62.9,
-        "uptime_7d": 56.1,
+        "uptime_7d": 56.2,
         "uptime_30d": 54.5,
         "url": "http://blog.website.svc"
       },
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 3.1,
-        "uptime_7d": 35.5,
-        "uptime_30d": 35.7,
+        "uptime_24h": 3.5,
+        "uptime_7d": 35.7,
+        "uptime_30d": 35.9,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.6,
-        "uptime_30d": 94.6,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -668,7 +668,7 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 94.5,
         "uptime_7d": 89.6,
         "uptime_30d": 89.6,
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 5.5,
-        "uptime_30d": 6.1
+        "uptime_30d": 6.0
       },
       {
         "name": "Valchedrym DDNS",
