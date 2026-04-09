@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:41:10.512808+00:00",
+  "last_updated": "2026-04-09T04:45:17.517833+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 81.2,
+        "uptime_30d": 81.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.3,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 59.1,
-        "uptime_7d": 56.4,
-        "uptime_30d": 54.4,
+        "status": "down",
+        "uptime_24h": 58.7,
+        "uptime_7d": 56.2,
+        "uptime_30d": 54.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 40.2,
+        "uptime_24h": 40.0,
         "uptime_7d": 45.7,
-        "uptime_30d": 45.9,
+        "uptime_30d": 45.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 91.5,
-        "uptime_30d": 91.5,
+        "uptime_7d": 91.6,
+        "uptime_30d": 91.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
-        "uptime_30d": 92.9,
+        "uptime_7d": 93.0,
+        "uptime_30d": 93.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -785,7 +785,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 7.3,
+        "uptime_7d": 7.2,
         "uptime_30d": 7.9
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 87.5,
-        "uptime_7d": 75.8,
-        "uptime_30d": 75.0
+        "uptime_24h": 87.8,
+        "uptime_7d": 75.9,
+        "uptime_30d": 75.1
       },
       {
         "name": "pfSense Gateway",
