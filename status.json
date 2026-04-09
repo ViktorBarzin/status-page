@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T07:40:16.656246+00:00",
+  "last_updated": "2026-04-09T07:45:17.282531+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
+        "uptime_7d": 93.0,
         "uptime_30d": 91.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -223,15 +223,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.7,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 27.5,
-        "uptime_7d": 42.0,
-        "uptime_30d": 42.2,
+        "uptime_24h": 27.1,
+        "uptime_7d": 41.9,
+        "uptime_30d": 42.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 60.6,
-        "uptime_7d": 55.3,
-        "uptime_30d": 53.7,
+        "uptime_7d": 55.4,
+        "uptime_30d": 53.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.2,
+        "uptime_30d": 94.3,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 27.9,
-        "uptime_7d": 41.2,
-        "uptime_30d": 41.3,
+        "uptime_24h": 27.5,
+        "uptime_7d": 41.0,
+        "uptime_30d": 41.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.0,
-        "uptime_30d": 77.2
+        "uptime_7d": 78.1,
+        "uptime_30d": 77.3
       },
       {
         "name": "pfSense Gateway",
