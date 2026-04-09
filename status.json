@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T13:35:16.742276+00:00",
+  "last_updated": "2026-04-09T13:40:18.035395+00:00",
   "groups": {
     "HTTP": [
       {
@@ -47,7 +47,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 3.5,
-        "uptime_7d": 35.9,
-        "uptime_30d": 36.2,
+        "uptime_24h": 3.1,
+        "uptime_7d": 35.8,
+        "uptime_30d": 36.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -295,7 +295,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 63.1,
-        "uptime_7d": 55.6,
-        "uptime_30d": 54.1,
+        "status": "down",
+        "uptime_24h": 62.9,
+        "uptime_7d": 55.5,
+        "uptime_30d": 54.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -461,7 +461,7 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 3.3,
+        "uptime_24h": 3.1,
         "uptime_7d": 34.2,
         "uptime_30d": 34.4,
         "url": "https://novelapp.viktorbarzin.me"
@@ -735,7 +735,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8
+        "uptime_30d": 98.9
       },
       {
         "name": "KMS (Windows Activation Service)",
@@ -778,7 +778,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.5,
+        "uptime_7d": 5.4,
         "uptime_30d": 6.0
       },
       {
