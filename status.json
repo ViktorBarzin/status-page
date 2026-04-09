@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T13:15:17.255320+00:00",
+  "last_updated": "2026-04-09T13:21:08.222944+00:00",
   "groups": {
     "HTTP": [
       {
@@ -223,15 +223,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
         "uptime_24h": 4.5,
-        "uptime_7d": 36.2,
-        "uptime_30d": 36.5,
+        "uptime_7d": 36.0,
+        "uptime_30d": 36.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -348,8 +348,8 @@
       },
       {
         "name": "Blog",
-        "status": "down",
-        "uptime_24h": 63.7,
+        "status": "up",
+        "uptime_24h": 63.8,
         "uptime_7d": 55.7,
         "uptime_30d": 54.2,
         "url": "http://blog.website.svc"
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 4.6,
-        "uptime_7d": 34.6,
-        "uptime_30d": 34.8,
+        "uptime_24h": 4.4,
+        "uptime_7d": 34.5,
+        "uptime_30d": 34.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.3,
-        "uptime_30d": 93.3,
+        "uptime_7d": 93.4,
+        "uptime_30d": 93.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 5.5,
-        "uptime_30d": 6.1
+        "uptime_30d": 6.0
       },
       {
         "name": "Valchedrym Video System",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 81.2,
-        "uptime_30d": 80.4
+        "uptime_30d": 80.5
       },
       {
         "name": "pfSense Gateway",
