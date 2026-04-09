@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T20:00:17.457726+00:00",
+  "last_updated": "2026-04-09T20:05:16.673129+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.2,
+        "uptime_30d": 86.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 26.4,
-        "uptime_7d": 44.5,
-        "uptime_30d": 44.6,
+        "uptime_24h": 26.7,
+        "uptime_7d": 44.6,
+        "uptime_30d": 44.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 62.9,
-        "uptime_7d": 60.2,
+        "uptime_7d": 60.3,
         "uptime_30d": 57.7,
         "url": "http://blog.website.svc"
       },
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 26.5,
-        "uptime_7d": 44.2,
-        "uptime_30d": 44.3,
+        "uptime_24h": 26.9,
+        "uptime_7d": 44.3,
+        "uptime_30d": 44.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 21.8,
-        "uptime_7d": 45.9,
-        "uptime_30d": 46.6
+        "uptime_24h": 23.6,
+        "uptime_7d": 46.2,
+        "uptime_30d": 46.8
       }
     ]
   }
