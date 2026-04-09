@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T12:21:11.584844+00:00",
+  "last_updated": "2026-04-09T12:25:16.212054+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -222,14 +222,14 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.1,
+        "uptime_7d": 97.2,
         "uptime_30d": 96.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 8.3,
+        "uptime_24h": 8.0,
         "uptime_7d": 36.9,
         "uptime_30d": 37.2,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 63.0,
         "uptime_7d": 55.7,
-        "uptime_30d": 54.1,
+        "uptime_30d": 54.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 8.3,
-        "uptime_7d": 35.5,
-        "uptime_30d": 35.7,
+        "uptime_24h": 8.1,
+        "uptime_7d": 35.4,
+        "uptime_30d": 35.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.3,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 95.3
+        "uptime_30d": 95.4
       }
     ],
     "Redis": [
