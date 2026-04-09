@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T07:30:18.088857+00:00",
+  "last_updated": "2026-04-09T07:35:16.406285+00:00",
   "groups": {
     "HTTP": [
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -31,7 +31,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.3,
+        "uptime_30d": 95.4,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.5,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 28.2,
-        "uptime_7d": 42.2,
-        "uptime_30d": 42.4,
+        "uptime_24h": 27.8,
+        "uptime_7d": 42.1,
+        "uptime_30d": 42.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -349,7 +349,7 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 60.3,
+        "uptime_24h": 60.8,
         "uptime_7d": 55.4,
         "uptime_30d": 53.8,
         "url": "http://blog.website.svc"
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 93.5,
+        "uptime_30d": 93.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 28.5,
-        "uptime_7d": 41.4,
-        "uptime_30d": 41.5,
+        "uptime_24h": 28.1,
+        "uptime_7d": 41.2,
+        "uptime_30d": 41.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 92.2,
-        "uptime_30d": 92.2,
+        "uptime_7d": 92.3,
+        "uptime_30d": 92.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -646,8 +646,8 @@
         "name": "pgAdmin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -668,10 +668,10 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 94.5,
-        "uptime_7d": 88.7,
-        "uptime_30d": 88.7,
+        "uptime_7d": 88.8,
+        "uptime_30d": 88.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -785,7 +785,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.7,
+        "uptime_7d": 6.6,
         "uptime_30d": 7.3
       },
       {
@@ -798,8 +798,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 77.9,
+        "uptime_24h": 99.7,
+        "uptime_7d": 78.0,
         "uptime_30d": 77.1
       },
       {
@@ -832,16 +832,16 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 24.1,
-        "uptime_7d": 47.6,
-        "uptime_30d": 48.0
+        "uptime_24h": 22.4,
+        "uptime_7d": 47.3,
+        "uptime_30d": 47.8
       }
     ]
   }
