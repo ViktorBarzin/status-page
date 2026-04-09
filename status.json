@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T02:05:17.356341+00:00",
+  "last_updated": "2026-04-09T02:10:16.072364+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.5,
+        "uptime_30d": 87.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 50.5,
-        "uptime_7d": 72.6,
-        "uptime_30d": 72.2,
+        "uptime_24h": 50.2,
+        "uptime_7d": 72.5,
+        "uptime_30d": 72.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -348,10 +348,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 58.5,
-        "uptime_7d": 50.3,
-        "uptime_30d": 50.2,
+        "status": "down",
+        "uptime_24h": 58.3,
+        "uptime_7d": 50.2,
+        "uptime_30d": 50.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 51.0,
+        "uptime_24h": 50.8,
         "uptime_7d": 75.2,
-        "uptime_30d": 75.2,
+        "uptime_30d": 75.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 76.7,
-        "uptime_7d": 82.8,
-        "uptime_30d": 82.2
+        "uptime_24h": 77.1,
+        "uptime_7d": 82.9,
+        "uptime_30d": 82.3
       },
       {
         "name": "pfSense Gateway",
