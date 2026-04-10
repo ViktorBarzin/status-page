@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T17:41:08.327061+00:00",
+  "last_updated": "2026-04-10T17:46:08.350208+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -151,15 +151,15 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "http://linkwarden.linkwarden"
       },
       {
         "name": "Nextcloud",
         "status": "down",
-        "uptime_24h": 85.4,
-        "uptime_7d": 90.4,
-        "uptime_30d": 81.1,
+        "uptime_24h": 85.1,
+        "uptime_7d": 90.2,
+        "uptime_30d": 81.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 68.4,
-        "uptime_30d": 68.0,
+        "uptime_30d": 68.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 77.3,
-        "uptime_30d": 69.9,
+        "uptime_30d": 70.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.3,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.7,
-        "uptime_7d": 89.5,
-        "uptime_30d": 89.5,
+        "uptime_7d": 89.6,
+        "uptime_30d": 89.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Traefik LoadBalancer",
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 5.0,
-        "uptime_30d": 5.7
+        "uptime_30d": 5.6
       },
       {
         "name": "Valchedrym DDNS",
