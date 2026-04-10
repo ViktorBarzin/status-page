@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T22:21:12.468853+00:00",
+  "last_updated": "2026-04-10T22:25:19.328136+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 83.7,
-        "uptime_30d": 76.6,
+        "uptime_7d": 83.8,
+        "uptime_30d": 76.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -342,7 +342,7 @@
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 97.5,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.3,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 73.8,
-        "uptime_30d": 73.7,
+        "uptime_30d": 73.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 95.1,
-        "uptime_7d": 90.0,
-        "uptime_30d": 90.0,
+        "uptime_24h": 95.4,
+        "uptime_7d": 90.1,
+        "uptime_30d": 90.1,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -735,7 +735,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.3
       },
       {
         "name": "KMS (Windows Activation Service)",
