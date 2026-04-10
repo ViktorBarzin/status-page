@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:25:16.282587+00:00",
+  "last_updated": "2026-04-10T04:30:17.134494+00:00",
   "groups": {
     "HTTP": [
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.0,
+        "uptime_30d": 94.1,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 93.5,
+        "uptime_30d": 93.6,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.1,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.7,
-        "uptime_30d": 89.3,
+        "uptime_30d": 89.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 60.8,
-        "uptime_7d": 54.6,
-        "uptime_30d": 54.5,
+        "uptime_24h": 61.1,
+        "uptime_7d": 54.7,
+        "uptime_30d": 54.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 96.4,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.0,
+        "uptime_30d": 94.1,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 60.7,
-        "uptime_7d": 55.5,
-        "uptime_30d": 55.6,
+        "uptime_24h": 61.1,
+        "uptime_7d": 55.7,
+        "uptime_30d": 55.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -510,8 +510,8 @@
         "name": "Claude Memory MCP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -526,8 +526,8 @@
         "name": "K8s Portal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 7.2,
-        "uptime_30d": 7.9
+        "uptime_30d": 7.8
       },
       {
         "name": "Valchedrym Video System",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.8,
-        "uptime_30d": 92.3
+        "uptime_30d": 92.4
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       }
     ],
     "Redis": [
