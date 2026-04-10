@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T07:11:08.386302+00:00",
+  "last_updated": "2026-04-10T07:15:16.826003+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 84.6,
+        "uptime_30d": 84.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.1,
+        "uptime_30d": 82.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 90.7,
+        "uptime_30d": 90.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 84.9,
-        "uptime_7d": 71.5,
-        "uptime_30d": 64.6,
+        "uptime_24h": 85.5,
+        "uptime_7d": 71.6,
+        "uptime_30d": 64.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 90.9,
+        "uptime_30d": 91.0,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 93.6,
+        "uptime_30d": 93.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 72.6,
-        "uptime_7d": 59.9,
-        "uptime_30d": 59.9,
+        "uptime_24h": 72.8,
+        "uptime_7d": 60.0,
+        "uptime_30d": 60.0,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -614,8 +614,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 97.7,
-        "uptime_30d": 97.7,
+        "uptime_7d": 97.8,
+        "uptime_30d": 97.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.7,
-        "uptime_7d": 87.9,
-        "uptime_30d": 87.9,
+        "uptime_24h": 93.4,
+        "uptime_7d": 87.8,
+        "uptime_30d": 87.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 94.5
+        "uptime_30d": 94.6
       }
     ],
     "Redis": [
