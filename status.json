@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T15:30:18.773590+00:00",
+  "last_updated": "2026-04-10T15:35:18.504439+00:00",
   "groups": {
     "HTTP": [
       {
@@ -38,7 +38,7 @@
         "name": "Shlink (URL Shortener)",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 96.2,
         "url": "https://shlink.viktorbarzin.me"
       },
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "down",
-        "uptime_24h": 94.4,
-        "uptime_7d": 95.6,
-        "uptime_30d": 84.6,
+        "uptime_24h": 94.1,
+        "uptime_7d": 95.4,
+        "uptime_30d": 84.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 66.7,
-        "uptime_30d": 66.3,
+        "uptime_30d": 66.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -462,8 +462,8 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 68.9,
-        "uptime_30d": 68.9,
+        "uptime_7d": 69.0,
+        "uptime_30d": 69.0,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -542,16 +542,16 @@
         "name": "Travel Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://travel.viktorbarzin.me"
       },
       {
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.0,
-        "uptime_30d": 94.0,
+        "uptime_7d": 94.1,
+        "uptime_30d": 94.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -694,8 +694,8 @@
         "name": "Task Webhook",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.0
+        "uptime_30d": 98.1
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.0
+        "uptime_30d": 98.1
       },
       {
         "name": "ShadowSocks Proxy",
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 5.2,
-        "uptime_30d": 6.0
+        "uptime_30d": 5.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -840,8 +840,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 66.7,
-        "uptime_7d": 44.6,
-        "uptime_30d": 45.5
+        "uptime_7d": 44.8,
+        "uptime_30d": 45.7
       }
     ]
   }
