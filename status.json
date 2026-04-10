@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T20:30:18.775922+00:00",
+  "last_updated": "2026-04-10T20:35:16.323017+00:00",
   "groups": {
     "HTTP": [
       {
@@ -47,7 +47,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 91.7,
+        "uptime_30d": 91.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 74.3,
         "uptime_7d": 84.9,
-        "uptime_30d": 77.2,
+        "uptime_30d": 77.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.5,
-        "uptime_30d": 92.8,
+        "uptime_30d": 92.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 70.2,
+        "uptime_7d": 70.3,
         "uptime_30d": 69.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.9,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -462,7 +462,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 72.6,
+        "uptime_7d": 72.7,
         "uptime_30d": 72.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.1
+        "uptime_30d": 96.2
       }
     ],
     "Redis": [
@@ -840,8 +840,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 66.7,
-        "uptime_7d": 46.1,
-        "uptime_30d": 46.8
+        "uptime_7d": 46.3,
+        "uptime_30d": 47.0
       }
     ]
   }
