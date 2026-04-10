@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T06:05:16.609412+00:00",
+  "last_updated": "2026-04-10T06:10:16.790195+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 84.2,
+        "uptime_30d": 84.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.5,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 67.8,
-        "uptime_7d": 57.0,
-        "uptime_30d": 56.8,
+        "uptime_24h": 68.2,
+        "uptime_7d": 57.1,
+        "uptime_30d": 56.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 82.9,
-        "uptime_7d": 70.7,
-        "uptime_30d": 64.0,
+        "uptime_24h": 83.2,
+        "uptime_7d": 70.8,
+        "uptime_30d": 64.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 67.9,
-        "uptime_7d": 58.3,
-        "uptime_30d": 58.3,
+        "uptime_24h": 68.2,
+        "uptime_7d": 58.4,
+        "uptime_30d": 58.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.8,
-        "uptime_30d": 7.5
+        "uptime_30d": 7.4
       },
       {
         "name": "Valchedrym Video System",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.1,
-        "uptime_30d": 92.7
+        "uptime_30d": 92.8
       },
       {
         "name": "pfSense Gateway",
@@ -832,7 +832,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2
+        "uptime_30d": 98.3
       }
     ],
     "Push": [
