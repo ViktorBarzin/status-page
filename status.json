@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T17:46:08.350208+00:00",
+  "last_updated": "2026-04-10T17:50:16.253755+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "down",
-        "uptime_24h": 85.1,
-        "uptime_7d": 90.2,
-        "uptime_30d": 81.0,
+        "uptime_24h": 84.7,
+        "uptime_7d": 90.1,
+        "uptime_30d": 80.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 77.3,
+        "uptime_7d": 77.4,
         "uptime_30d": 70.0,
         "url": "http://blog.website.svc"
       },
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -462,8 +462,8 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 70.7,
-        "uptime_30d": 70.6,
+        "uptime_7d": 70.8,
+        "uptime_30d": 70.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 94.6,
-        "uptime_30d": 94.6,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -669,7 +669,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.7,
+        "uptime_24h": 94.0,
         "uptime_7d": 89.6,
         "uptime_30d": 89.6,
         "url": "https://poison.viktorbarzin.me"
