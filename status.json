@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T17:31:10.525242+00:00",
+  "last_updated": "2026-04-10T17:35:16.468425+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "down",
-        "uptime_24h": 86.1,
-        "uptime_7d": 90.8,
-        "uptime_30d": 81.4,
+        "uptime_24h": 85.8,
+        "uptime_7d": 90.6,
+        "uptime_30d": 81.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.6,
+        "uptime_30d": 86.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.5,
-        "uptime_30d": 92.8,
+        "uptime_30d": 92.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 77.2,
-        "uptime_30d": 69.8,
+        "uptime_7d": 77.3,
+        "uptime_30d": 69.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -462,7 +462,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 70.5,
+        "uptime_7d": 70.6,
         "uptime_30d": 70.5,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.9,
-        "uptime_30d": 94.6
+        "uptime_30d": 94.7
       },
       {
         "name": "pfSense Gateway",
@@ -832,16 +832,16 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7
+        "uptime_30d": 98.8
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
-        "uptime_24h": 66.2,
+        "status": "up",
+        "uptime_24h": 65.8,
         "uptime_7d": 45.2,
-        "uptime_30d": 46.0
+        "uptime_30d": 46.1
       }
     ]
   }
