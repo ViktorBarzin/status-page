@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T17:10:16.841608+00:00",
+  "last_updated": "2026-04-10T17:15:16.787282+00:00",
   "groups": {
     "HTTP": [
       {
@@ -62,7 +62,7 @@
         "name": "Privatebin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 98.3,
         "url": "https://pb.viktorbarzin.me"
       },
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "down",
-        "uptime_24h": 87.5,
-        "uptime_7d": 91.6,
-        "uptime_30d": 81.9,
+        "uptime_24h": 87.2,
+        "uptime_7d": 91.4,
+        "uptime_30d": 81.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.5,
+        "uptime_30d": 85.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 67.9,
-        "uptime_30d": 67.6,
+        "uptime_7d": 68.0,
+        "uptime_30d": 67.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 0.2,
-        "uptime_30d": 0.9,
+        "uptime_30d": 0.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 92.9,
+        "uptime_30d": 93.0,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 70.3,
-        "uptime_30d": 70.2,
+        "uptime_30d": 70.3,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -502,8 +502,8 @@
         "name": "City Guesser",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -558,8 +558,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -574,16 +574,16 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -606,8 +606,8 @@
         "name": "Alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Goldilocks (VPA)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 4.9,
-        "uptime_30d": 5.6
+        "uptime_30d": 5.5
       },
       {
         "name": "Valchedrym Video System",
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.8,
+        "uptime_7d": 95.9,
         "uptime_30d": 94.6
       },
       {
