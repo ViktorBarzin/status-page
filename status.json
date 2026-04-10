@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T21:50:35.106209+00:00",
+  "last_updated": "2026-04-10T22:00:31.169174+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 92.3,
+        "uptime_30d": 92.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 71.2,
         "uptime_7d": 83.6,
-        "uptime_30d": 76.4,
+        "uptime_30d": 76.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.6,
+        "uptime_30d": 87.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.1,
-        "uptime_30d": 70.7,
+        "uptime_7d": 71.2,
+        "uptime_30d": 70.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 5.0,
-        "uptime_7d": 2.9,
-        "uptime_30d": 3.4,
+        "uptime_24h": 5.7,
+        "uptime_7d": 3.3,
+        "uptime_30d": 3.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 79.0,
-        "uptime_30d": 71.6,
+        "uptime_30d": 71.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -462,8 +462,8 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 73.5,
-        "uptime_30d": 73.4,
+        "uptime_7d": 73.6,
+        "uptime_30d": 73.5,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -628,10 +628,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 95.1,
-        "uptime_30d": 95.1,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.7,
-        "uptime_7d": 89.9,
-        "uptime_30d": 89.9,
+        "uptime_7d": 90.0,
+        "uptime_30d": 90.0,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -838,10 +838,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "up",
+        "status": "down",
         "uptime_24h": 67.6,
-        "uptime_7d": 46.6,
-        "uptime_30d": 47.2
+        "uptime_7d": 46.4,
+        "uptime_30d": 47.0
       }
     ]
   }
