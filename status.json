@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T15:55:16.677337+00:00",
+  "last_updated": "2026-04-10T16:00:20.330298+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "down",
-        "uptime_24h": 92.7,
-        "uptime_7d": 94.6,
-        "uptime_30d": 83.9,
+        "uptime_24h": 92.4,
+        "uptime_7d": 94.4,
+        "uptime_30d": 83.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -223,14 +223,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 67.0,
+        "uptime_7d": 67.1,
         "uptime_30d": 66.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 94.2,
+        "uptime_30d": 94.3,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 95.3,
+        "uptime_30d": 95.4,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 69.3,
-        "uptime_30d": 69.2,
+        "uptime_30d": 69.3,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.7,
-        "uptime_30d": 94.4
+        "uptime_30d": 94.5
       },
       {
         "name": "pfSense Gateway",
