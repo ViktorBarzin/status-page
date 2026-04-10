@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T13:30:18.387868+00:00",
+  "last_updated": "2026-04-10T13:35:17.116654+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.5,
+        "uptime_30d": 85.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 65.0,
-        "uptime_30d": 64.7,
+        "uptime_24h": 99.6,
+        "uptime_7d": 65.1,
+        "uptime_30d": 64.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.6,
         "uptime_7d": 75.3,
-        "uptime_30d": 68.0,
+        "uptime_30d": 68.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 99.4,
-        "uptime_7d": 67.1,
-        "uptime_30d": 67.1,
+        "uptime_24h": 99.8,
+        "uptime_7d": 67.2,
+        "uptime_30d": 67.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -793,7 +793,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 97.4
+        "uptime_30d": 97.5
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 95.4
+        "uptime_30d": 95.5
       }
     ],
     "Redis": [
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 66.2,
-        "uptime_7d": 44.1,
-        "uptime_30d": 45.1
+        "uptime_24h": 67.6,
+        "uptime_7d": 44.4,
+        "uptime_30d": 45.4
       }
     ]
   }
