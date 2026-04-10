@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T08:00:19.754251+00:00",
+  "last_updated": "2026-04-10T08:05:16.949164+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
+        "uptime_7d": 93.0,
         "uptime_30d": 91.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -223,15 +223,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.7,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 76.0,
-        "uptime_7d": 59.4,
-        "uptime_30d": 59.1,
+        "uptime_24h": 76.3,
+        "uptime_7d": 59.5,
+        "uptime_30d": 59.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 87.6,
         "uptime_7d": 72.1,
-        "uptime_30d": 65.1,
+        "uptime_30d": 65.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 91.1,
+        "uptime_30d": 91.2,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 76.0,
-        "uptime_7d": 61.0,
-        "uptime_30d": 61.0,
+        "uptime_24h": 76.4,
+        "uptime_7d": 61.1,
+        "uptime_30d": 61.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 54.5,
-        "uptime_7d": 41.9,
-        "uptime_30d": 43.3
+        "uptime_24h": 56.1,
+        "uptime_7d": 42.2,
+        "uptime_30d": 43.6
       }
     ]
   }
