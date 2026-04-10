@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T12:40:16.080981+00:00",
+  "last_updated": "2026-04-10T12:46:08.332898+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.3,
+        "uptime_30d": 95.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -222,16 +222,16 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.1,
+        "uptime_7d": 97.2,
         "uptime_30d": 96.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 95.8,
-        "uptime_7d": 64.2,
-        "uptime_30d": 63.9,
+        "uptime_24h": 96.5,
+        "uptime_7d": 64.4,
+        "uptime_30d": 64.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -349,9 +349,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 97.2,
+        "uptime_24h": 97.9,
         "uptime_7d": 74.9,
-        "uptime_30d": 67.6,
+        "uptime_30d": 67.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 95.8,
-        "uptime_7d": 66.3,
-        "uptime_30d": 66.3,
+        "uptime_24h": 96.2,
+        "uptime_7d": 66.4,
+        "uptime_30d": 66.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.3,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.1,
+        "uptime_7d": 95.2,
         "uptime_30d": 94.0
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 95.3
+        "uptime_30d": 95.4
       }
     ],
     "Redis": [
