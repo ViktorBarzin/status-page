@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T20:20:16.728584+00:00",
+  "last_updated": "2026-04-10T20:25:16.495364+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.5,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 99.0,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -156,7 +156,7 @@
       },
       {
         "name": "Nextcloud",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 74.3,
         "uptime_7d": 84.8,
         "uptime_30d": 77.2,
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.3,
+        "uptime_30d": 86.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 70.1,
+        "uptime_7d": 70.2,
         "uptime_30d": 69.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.7,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.8,
+        "uptime_30d": 96.0,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -462,7 +462,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 72.5,
+        "uptime_7d": 72.6,
         "uptime_30d": 72.5,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.9,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4
+        "uptime_30d": 98.5
       },
       {
         "name": "Traefik LoadBalancer",
