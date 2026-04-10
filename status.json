@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T13:40:16.871310+00:00",
+  "last_updated": "2026-04-10T13:45:17.212671+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 86.7,
+        "uptime_30d": 86.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.4,
+        "uptime_30d": 84.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.9,
+        "uptime_7d": 94.0,
         "uptime_30d": 92.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 65.1,
-        "uptime_30d": 64.8,
+        "uptime_7d": 65.2,
+        "uptime_30d": 64.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 75.4,
-        "uptime_30d": 68.1,
+        "uptime_30d": 68.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -462,8 +462,8 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 67.3,
-        "uptime_30d": 67.2,
+        "uptime_7d": 67.4,
+        "uptime_30d": 67.3,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "ShadowSocks Proxy",
