@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T20:41:09.647904+00:00",
+  "last_updated": "2026-04-10T20:45:17.177911+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.8,
+        "uptime_7d": 94.9,
         "uptime_30d": 93.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -324,10 +324,10 @@
       },
       {
         "name": "ha-london",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.2,
-        "uptime_30d": 0.8,
+        "status": "up",
+        "uptime_24h": 0.4,
+        "uptime_7d": 0.4,
+        "uptime_30d": 1.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.5,
-        "uptime_30d": 71.1,
+        "uptime_7d": 78.6,
+        "uptime_30d": 71.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 95.1,
-        "uptime_7d": 90.0,
-        "uptime_30d": 90.0,
+        "uptime_7d": 90.1,
+        "uptime_30d": 90.1,
         "url": "https://poison.viktorbarzin.me"
       },
       {
