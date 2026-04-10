@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T22:50:25.037972+00:00",
+  "last_updated": "2026-04-10T22:55:24.372094+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 71.2,
         "uptime_7d": 83.9,
-        "uptime_30d": 76.8,
+        "uptime_30d": 76.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.1,
-        "uptime_30d": 93.7,
+        "uptime_30d": 93.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.6,
+        "uptime_7d": 71.7,
         "uptime_30d": 71.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 9.2,
-        "uptime_7d": 5.1,
-        "uptime_30d": 5.6,
+        "uptime_24h": 9.6,
+        "uptime_7d": 5.3,
+        "uptime_30d": 5.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -785,7 +785,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 4.5,
+        "uptime_7d": 4.4,
         "uptime_30d": 5.1
       },
       {
