@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T16:26:08.181327+00:00",
+  "last_updated": "2026-04-10T16:30:18.190111+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "down",
-        "uptime_24h": 90.6,
-        "uptime_7d": 93.3,
-        "uptime_30d": 83.1,
+        "uptime_24h": 90.3,
+        "uptime_7d": 93.1,
+        "uptime_30d": 83.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.3,
+        "uptime_30d": 85.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 76.7,
+        "uptime_7d": 76.8,
         "uptime_30d": 69.4,
         "url": "http://blog.website.svc"
       },
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 69.7,
-        "uptime_30d": 69.6,
+        "uptime_30d": 69.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.7,
-        "uptime_7d": 89.2,
-        "uptime_30d": 89.2,
+        "uptime_7d": 89.3,
+        "uptime_30d": 89.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -778,8 +778,8 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.0,
-        "uptime_30d": 5.7
+        "uptime_7d": 4.9,
+        "uptime_30d": 5.6
       },
       {
         "name": "Valchedrym Video System",
