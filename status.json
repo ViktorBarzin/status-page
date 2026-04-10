@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T08:25:16.216871+00:00",
+  "last_updated": "2026-04-10T08:30:17.993709+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 89.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 77.7,
-        "uptime_7d": 59.9,
-        "uptime_30d": 59.6,
+        "uptime_24h": 78.1,
+        "uptime_7d": 60.0,
+        "uptime_30d": 59.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -302,7 +302,7 @@
         "name": "Ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 96.9,
         "url": "https://ntfy.viktorbarzin.me"
       },
@@ -349,7 +349,7 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 87.6,
+        "uptime_24h": 88.5,
         "uptime_7d": 72.4,
         "uptime_30d": 65.4,
         "url": "http://blog.website.svc"
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 77.7,
-        "uptime_7d": 61.5,
-        "uptime_30d": 61.5,
+        "uptime_24h": 78.1,
+        "uptime_7d": 61.6,
+        "uptime_30d": 61.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -486,8 +486,8 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.8,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -566,8 +566,8 @@
         "name": "Matrix",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.6,
-        "uptime_30d": 93.6,
+        "uptime_7d": 93.7,
+        "uptime_30d": 93.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -779,14 +779,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.3,
-        "uptime_30d": 7.0
+        "uptime_30d": 6.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.6,
-        "uptime_30d": 7.2
+        "uptime_7d": 6.5,
+        "uptime_30d": 7.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.5,
-        "uptime_30d": 93.2
+        "uptime_30d": 93.3
       },
       {
         "name": "pfSense Gateway",
