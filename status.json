@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T23:10:26.187758+00:00",
+  "last_updated": "2026-04-10T23:16:16.169312+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.6,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 84.0,
+        "uptime_7d": 84.1,
         "uptime_30d": 77.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -223,15 +223,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.8,
-        "uptime_30d": 71.5,
+        "uptime_7d": 71.9,
+        "uptime_30d": 71.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 10.6,
-        "uptime_7d": 5.8,
-        "uptime_30d": 6.3,
+        "uptime_24h": 11.3,
+        "uptime_7d": 6.1,
+        "uptime_30d": 6.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 90.0,
-        "uptime_30d": 90.0,
+        "uptime_7d": 90.1,
+        "uptime_30d": 90.1,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.5
+        "uptime_30d": 98.6
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.5
+        "uptime_30d": 98.6
       },
       {
         "name": "ShadowSocks Proxy",
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5
+        "uptime_30d": 98.6
       },
       {
         "name": "Traefik LoadBalancer",
