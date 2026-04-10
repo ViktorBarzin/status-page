@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T00:56:07.502334+00:00",
+  "last_updated": "2026-04-10T01:00:18.869126+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.2,
+        "uptime_30d": 87.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.3,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 69.9,
-        "uptime_7d": 63.0,
-        "uptime_30d": 60.0,
+        "uptime_7d": 63.1,
+        "uptime_30d": 60.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -461,8 +461,8 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 46.1,
-        "uptime_7d": 49.6,
+        "uptime_24h": 46.3,
+        "uptime_7d": 49.7,
         "uptime_30d": 49.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
