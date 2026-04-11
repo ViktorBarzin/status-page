@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T08:36:10.556967+00:00",
+  "last_updated": "2026-04-11T08:40:17.286811+00:00",
   "groups": {
     "HTTP": [
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -150,7 +150,7 @@
         "name": "Linkwarden",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 97.6,
         "url": "http://linkwarden.linkwarden"
       },
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 76.6,
-        "uptime_30d": 69.2,
+        "uptime_7d": 76.7,
+        "uptime_30d": 69.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.9,
+        "uptime_30d": 84.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.9,
+        "uptime_30d": 83.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 96.6,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.5,
-        "uptime_30d": 76.2,
+        "uptime_30d": 76.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 61.9,
-        "uptime_7d": 67.9,
-        "uptime_30d": 67.2
+        "uptime_24h": 61.5,
+        "uptime_7d": 67.7,
+        "uptime_30d": 67.1
       },
       {
         "name": "pfSense Gateway",
