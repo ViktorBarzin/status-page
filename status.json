@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T17:21:09.071731+00:00",
+  "last_updated": "2026-04-11T17:25:19.361563+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,8 +157,8 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 83.7,
-        "uptime_7d": 81.7,
+        "uptime_24h": 84.0,
+        "uptime_7d": 81.8,
         "uptime_30d": 74.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 73.2,
+        "uptime_24h": 73.1,
         "uptime_7d": 83.8,
         "uptime_30d": 83.3,
         "url": "https://ollama.viktorbarzin.me"
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2,
+        "uptime_7d": 94.3,
+        "uptime_30d": 94.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.6,
-        "uptime_7d": 89.7,
-        "uptime_30d": 89.7,
+        "uptime_7d": 89.8,
+        "uptime_30d": 89.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 4.9,
-        "uptime_30d": 5.8
+        "uptime_30d": 5.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -791,7 +791,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 68.3,
+        "uptime_7d": 68.4,
         "uptime_30d": 67.8
       },
       {
