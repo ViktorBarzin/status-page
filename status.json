@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T00:50:19.573211+00:00",
+  "last_updated": "2026-04-11T00:55:17.548484+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 71.3,
+        "uptime_24h": 71.2,
         "uptime_7d": 84.5,
         "uptime_30d": 77.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 97.3,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.9,
+        "uptime_7d": 80.0,
         "uptime_30d": 72.6,
         "url": "http://blog.website.svc"
       },
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -462,8 +462,8 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.0,
-        "uptime_30d": 74.9,
+        "uptime_7d": 75.1,
+        "uptime_30d": 75.0,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -613,7 +613,7 @@
       {
         "name": "Prometheus",
         "status": "up",
-        "uptime_24h": 98.9,
+        "uptime_24h": 99.0,
         "uptime_7d": 98.1,
         "uptime_30d": 98.1,
         "url": "https://grafana.viktorbarzin.me"
@@ -778,8 +778,8 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 4.2,
-        "uptime_30d": 4.8
+        "uptime_7d": 4.1,
+        "uptime_30d": 4.7
       },
       {
         "name": "Valchedrym Video System",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 94.4,
-        "uptime_7d": 93.8,
-        "uptime_30d": 92.8
+        "uptime_24h": 94.1,
+        "uptime_7d": 93.6,
+        "uptime_30d": 92.6
       },
       {
         "name": "pfSense Gateway",
