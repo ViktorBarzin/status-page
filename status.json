@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T21:15:18.249638+00:00",
+  "last_updated": "2026-04-11T21:20:18.208318+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 99.6,
+        "uptime_24h": 100.0,
         "uptime_7d": 83.4,
         "uptime_30d": 76.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -326,8 +326,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 56.4,
-        "uptime_30d": 56.2,
+        "uptime_7d": 56.5,
+        "uptime_30d": 56.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.0,
-        "uptime_30d": 80.4,
+        "uptime_7d": 92.1,
+        "uptime_30d": 80.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 56.6,
-        "uptime_7d": 76.2,
-        "uptime_30d": 75.9,
+        "uptime_24h": 56.3,
+        "uptime_7d": 76.1,
+        "uptime_30d": 75.7,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -791,8 +791,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 71.0,
-        "uptime_30d": 70.4
+        "uptime_7d": 71.1,
+        "uptime_30d": 70.5
       },
       {
         "name": "pfSense Gateway",
