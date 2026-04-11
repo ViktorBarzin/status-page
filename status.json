@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T09:15:20.602945+00:00",
+  "last_updated": "2026-04-11T09:21:31.491412+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 89.8,
+        "uptime_30d": 89.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 71.2,
+        "uptime_24h": 71.1,
         "uptime_7d": 77.1,
-        "uptime_30d": 69.7,
+        "uptime_30d": 69.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.2,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.8,
+        "uptime_7d": 96.9,
         "uptime_30d": 96.1,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 51.8,
-        "uptime_7d": 40.0,
-        "uptime_30d": 40.1,
+        "uptime_24h": 52.5,
+        "uptime_7d": 40.3,
+        "uptime_30d": 40.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -669,7 +669,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.8,
+        "uptime_24h": 94.1,
         "uptime_7d": 88.3,
         "uptime_30d": 88.3,
         "url": "https://poison.viktorbarzin.me"
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 59.1,
-        "uptime_7d": 66.6,
-        "uptime_30d": 66.0
+        "uptime_24h": 58.7,
+        "uptime_7d": 66.4,
+        "uptime_30d": 65.8
       },
       {
         "name": "pfSense Gateway",
