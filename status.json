@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T21:01:03.520572+00:00",
+  "last_updated": "2026-04-11T21:06:10.945534+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 98.9,
         "uptime_7d": 83.3,
         "uptime_30d": 75.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.0,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -319,15 +319,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 56.2,
-        "uptime_30d": 56.0,
+        "uptime_7d": 56.3,
+        "uptime_30d": 56.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 57.5,
-        "uptime_7d": 76.5,
-        "uptime_30d": 76.2,
+        "uptime_24h": 57.1,
+        "uptime_7d": 76.4,
+        "uptime_30d": 76.0,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -830,7 +830,7 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 67.6,
         "uptime_7d": 63.5,
         "uptime_30d": 60.0
