@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T12:35:18.407473+00:00",
+  "last_updated": "2026-04-11T12:41:09.902682+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 79.2,
-        "uptime_30d": 71.8,
+        "uptime_7d": 79.3,
+        "uptime_30d": 71.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.8,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.4,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 65.8,
-        "uptime_7d": 45.9,
-        "uptime_30d": 45.8,
+        "uptime_24h": 66.5,
+        "uptime_7d": 46.1,
+        "uptime_30d": 46.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 92.3,
-        "uptime_7d": 94.6,
-        "uptime_30d": 94.0,
+        "uptime_24h": 91.6,
+        "uptime_7d": 94.2,
+        "uptime_30d": 93.5,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 86.7,
-        "uptime_7d": 89.9,
-        "uptime_30d": 89.9,
+        "uptime_24h": 86.4,
+        "uptime_7d": 89.7,
+        "uptime_30d": 89.7,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 93.9,
-        "uptime_7d": 90.6,
-        "uptime_30d": 90.6,
+        "uptime_7d": 90.7,
+        "uptime_30d": 90.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 53.0,
-        "uptime_7d": 65.6,
-        "uptime_30d": 65.1
+        "uptime_24h": 52.6,
+        "uptime_7d": 65.5,
+        "uptime_30d": 65.0
       },
       {
         "name": "pfSense Gateway",
