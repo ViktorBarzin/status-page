@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T05:20:18.965091+00:00",
+  "last_updated": "2026-04-11T05:25:23.711074+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 73.9,
-        "uptime_30d": 66.7,
+        "uptime_7d": 74.0,
+        "uptime_30d": 66.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -199,15 +199,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.3,
-        "uptime_30d": 90.4,
+        "uptime_7d": 92.4,
+        "uptime_30d": 90.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.1,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -319,15 +319,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 92.3,
+        "uptime_30d": 92.4,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 35.2,
-        "uptime_7d": 31.3,
-        "uptime_30d": 31.5,
+        "uptime_24h": 35.6,
+        "uptime_7d": 31.5,
+        "uptime_30d": 31.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.1,
-        "uptime_30d": 92.1,
+        "uptime_7d": 92.2,
+        "uptime_30d": 92.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.7,
-        "uptime_7d": 88.0,
-        "uptime_30d": 88.0,
+        "uptime_24h": 93.4,
+        "uptime_7d": 87.8,
+        "uptime_30d": 87.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -785,8 +785,8 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 7.0,
-        "uptime_30d": 7.9
+        "uptime_7d": 6.9,
+        "uptime_30d": 7.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 75.5,
-        "uptime_7d": 75.1,
-        "uptime_30d": 74.1
+        "uptime_24h": 75.2,
+        "uptime_7d": 74.9,
+        "uptime_30d": 73.9
       },
       {
         "name": "pfSense Gateway",
