@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T17:41:09.360327+00:00",
+  "last_updated": "2026-04-11T17:45:17.799412+00:00",
   "groups": {
     "HTTP": [
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 85.1,
+        "uptime_24h": 85.5,
         "uptime_7d": 81.9,
-        "uptime_30d": 74.3,
+        "uptime_30d": 74.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.5,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 71.8,
+        "uptime_24h": 71.7,
         "uptime_7d": 83.1,
         "uptime_30d": 82.6,
         "url": "https://ollama.viktorbarzin.me"
@@ -558,8 +558,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -598,8 +598,8 @@
         "name": "Alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -614,8 +614,8 @@
         "name": "Goldilocks (VPA)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
@@ -771,13 +771,13 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 4.7,
-        "uptime_30d": 5.6
+        "uptime_30d": 5.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 4.9,
+        "uptime_7d": 4.8,
         "uptime_30d": 5.7
       },
       {
@@ -792,7 +792,7 @@
         "status": "up",
         "uptime_24h": 50.5,
         "uptime_7d": 68.6,
-        "uptime_30d": 68.0
+        "uptime_30d": 68.1
       },
       {
         "name": "pfSense Gateway",
@@ -815,7 +815,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 95.8
+        "uptime_30d": 95.9
       }
     ],
     "Redis": [
