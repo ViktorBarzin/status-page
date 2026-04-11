@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T17:45:17.799412+00:00",
+  "last_updated": "2026-04-11T17:50:17.789376+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -157,8 +157,8 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 85.5,
-        "uptime_7d": 81.9,
+        "uptime_24h": 85.8,
+        "uptime_7d": 82.0,
         "uptime_30d": 74.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 96.9,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.4,
-        "uptime_30d": 93.4,
+        "uptime_7d": 94.5,
+        "uptime_30d": 93.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 87.5,
-        "uptime_7d": 52.5,
-        "uptime_30d": 52.3,
+        "uptime_24h": 87.8,
+        "uptime_7d": 52.6,
+        "uptime_30d": 52.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.4,
+        "uptime_7d": 91.5,
         "uptime_30d": 79.4,
         "url": "http://blog.website.svc"
       },
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 71.7,
-        "uptime_7d": 83.1,
-        "uptime_30d": 82.6,
+        "uptime_24h": 71.3,
+        "uptime_7d": 82.9,
+        "uptime_30d": 82.5,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 92.8,
-        "uptime_7d": 90.7,
-        "uptime_30d": 90.7,
+        "uptime_7d": 90.8,
+        "uptime_30d": 90.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -791,7 +791,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 68.6,
+        "uptime_7d": 68.7,
         "uptime_30d": 68.1
       },
       {
