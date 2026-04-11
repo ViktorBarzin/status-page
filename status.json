@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T19:31:11.415257+00:00",
+  "last_updated": "2026-04-11T19:35:17.328256+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 92.9,
+        "uptime_24h": 93.3,
         "uptime_7d": 82.7,
         "uptime_30d": 75.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.8,
-        "uptime_30d": 93.2,
+        "uptime_30d": 93.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 97.0,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.8,
-        "uptime_30d": 79.9,
+        "uptime_30d": 80.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.3,
+        "uptime_30d": 94.4,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 63.9,
+        "uptime_24h": 63.8,
         "uptime_7d": 79.3,
         "uptime_30d": 78.9,
         "url": "https://ollama.viktorbarzin.me"
@@ -661,7 +661,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.9,
+        "uptime_24h": 93.2,
         "uptime_7d": 89.9,
         "uptime_30d": 89.9,
         "url": "https://poison.viktorbarzin.me"
@@ -777,7 +777,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 4.7,
+        "uptime_7d": 4.6,
         "uptime_30d": 5.5
       },
       {
@@ -792,7 +792,7 @@
         "status": "up",
         "uptime_24h": 50.5,
         "uptime_7d": 69.9,
-        "uptime_30d": 69.3
+        "uptime_30d": 69.4
       },
       {
         "name": "pfSense Gateway",
@@ -831,7 +831,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 67.1,
+        "uptime_24h": 67.6,
         "uptime_7d": 63.2,
         "uptime_30d": 59.8
       }
