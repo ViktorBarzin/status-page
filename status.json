@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T08:26:08.440763+00:00",
+  "last_updated": "2026-04-11T08:30:18.756510+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 71.2,
         "uptime_7d": 76.5,
-        "uptime_30d": 69.1,
+        "uptime_30d": 69.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.0,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -302,7 +302,7 @@
         "name": "Ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 97.1,
         "url": "https://ntfy.viktorbarzin.me"
       },
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.4,
+        "uptime_7d": 89.5,
         "uptime_30d": 76.2,
         "url": "http://blog.website.svc"
       },
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -422,8 +422,8 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 96.1,
+        "uptime_7d": 99.5,
+        "uptime_30d": 96.2,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -486,8 +486,8 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.8,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -638,8 +638,8 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "CyberChef",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -779,14 +779,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.1,
-        "uptime_30d": 7.0
+        "uptime_30d": 6.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.3,
-        "uptime_30d": 7.2
+        "uptime_30d": 7.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 62.6,
-        "uptime_7d": 68.2,
-        "uptime_30d": 67.5
+        "uptime_24h": 62.2,
+        "uptime_7d": 68.1,
+        "uptime_30d": 67.4
       },
       {
         "name": "pfSense Gateway",
