@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T19:15:17.781343+00:00",
+  "last_updated": "2026-04-11T19:21:08.312532+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 91.8,
+        "uptime_30d": 91.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 91.8,
+        "uptime_24h": 92.2,
         "uptime_7d": 82.6,
         "uptime_30d": 75.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.5,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -319,15 +319,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 93.9,
-        "uptime_7d": 54.2,
-        "uptime_30d": 54.1,
+        "uptime_24h": 94.6,
+        "uptime_7d": 54.4,
+        "uptime_30d": 54.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 65.2,
-        "uptime_7d": 80.0,
-        "uptime_30d": 79.6,
+        "uptime_24h": 64.6,
+        "uptime_7d": 79.7,
+        "uptime_30d": 79.3,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 92.8,
-        "uptime_7d": 91.0,
-        "uptime_30d": 91.0,
+        "uptime_7d": 91.1,
+        "uptime_30d": 91.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -791,8 +791,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 69.7,
-        "uptime_30d": 69.1
+        "uptime_7d": 69.8,
+        "uptime_30d": 69.2
       },
       {
         "name": "pfSense Gateway",
