@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T18:40:17.433939+00:00",
+  "last_updated": "2026-04-11T18:46:10.502962+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 91.7,
+        "uptime_30d": 91.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -157,8 +157,8 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 89.4,
-        "uptime_7d": 82.3,
+        "uptime_24h": 89.7,
+        "uptime_7d": 82.4,
         "uptime_30d": 74.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.4,
-        "uptime_30d": 92.6,
+        "uptime_30d": 92.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 91.4,
-        "uptime_7d": 53.6,
-        "uptime_30d": 53.4,
+        "uptime_24h": 92.1,
+        "uptime_7d": 53.8,
+        "uptime_30d": 53.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 67.7,
-        "uptime_7d": 81.2,
-        "uptime_30d": 80.7,
+        "uptime_24h": 67.1,
+        "uptime_7d": 80.8,
+        "uptime_30d": 80.4,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -791,8 +791,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 69.3,
-        "uptime_30d": 68.7
+        "uptime_7d": 69.4,
+        "uptime_30d": 68.8
       },
       {
         "name": "pfSense Gateway",
@@ -815,7 +815,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 95.9
+        "uptime_30d": 96.0
       }
     ],
     "Redis": [
