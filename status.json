@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T16:51:10.427910+00:00",
+  "last_updated": "2026-04-11T16:55:17.922915+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 81.6,
-        "uptime_7d": 81.5,
-        "uptime_30d": 73.9,
+        "uptime_24h": 82.0,
+        "uptime_7d": 81.6,
+        "uptime_30d": 74.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 85.3,
+        "uptime_30d": 85.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 97.7,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -342,7 +342,7 @@
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 97.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.3,
-        "uptime_30d": 79.1,
+        "uptime_30d": 79.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 75.4,
+        "uptime_24h": 75.3,
         "uptime_7d": 84.9,
         "uptime_30d": 84.4,
         "url": "https://ollama.viktorbarzin.me"
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 70.4,
-        "uptime_7d": 81.2,
-        "uptime_30d": 81.2,
+        "uptime_24h": 70.0,
+        "uptime_7d": 81.0,
+        "uptime_30d": 81.0,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.7,
-        "uptime_7d": 68.0,
-        "uptime_30d": 67.4
+        "uptime_7d": 68.1,
+        "uptime_30d": 67.5
       },
       {
         "name": "pfSense Gateway",
