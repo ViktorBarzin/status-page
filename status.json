@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T18:55:17.383196+00:00",
+  "last_updated": "2026-04-11T19:05:17.956565+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 90.4,
-        "uptime_7d": 82.4,
-        "uptime_30d": 74.9,
+        "uptime_24h": 91.1,
+        "uptime_7d": 82.5,
+        "uptime_30d": 75.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 85.7,
+        "uptime_30d": 85.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.6,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 92.5,
-        "uptime_7d": 53.8,
-        "uptime_30d": 53.7,
+        "uptime_24h": 93.2,
+        "uptime_7d": 54.0,
+        "uptime_30d": 53.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 66.7,
-        "uptime_7d": 80.7,
-        "uptime_30d": 80.2,
+        "uptime_24h": 65.9,
+        "uptime_7d": 80.3,
+        "uptime_30d": 79.9,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.4,
-        "uptime_30d": 94.4,
+        "uptime_7d": 94.5,
+        "uptime_30d": 94.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.9,
-        "uptime_7d": 89.7,
-        "uptime_30d": 89.7,
+        "uptime_7d": 89.8,
+        "uptime_30d": 89.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -770,7 +770,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 4.6,
+        "uptime_7d": 4.5,
         "uptime_30d": 5.4
       },
       {
@@ -778,7 +778,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 4.7,
-        "uptime_30d": 5.6
+        "uptime_30d": 5.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -791,8 +791,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 69.5,
-        "uptime_30d": 68.9
+        "uptime_7d": 69.6,
+        "uptime_30d": 69.0
       },
       {
         "name": "pfSense Gateway",
@@ -831,9 +831,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 66.7,
-        "uptime_7d": 63.2,
-        "uptime_30d": 59.7
+        "uptime_24h": 65.7,
+        "uptime_7d": 63.0,
+        "uptime_30d": 59.6
       }
     ]
   }
