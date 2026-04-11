@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T01:30:29.029176+00:00",
+  "last_updated": "2026-04-11T01:36:14.035553+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 71.2,
         "uptime_7d": 84.7,
-        "uptime_30d": 77.7,
+        "uptime_30d": 77.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 73.0,
-        "uptime_30d": 72.6,
+        "uptime_30d": 72.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 19.0,
-        "uptime_7d": 9.8,
-        "uptime_30d": 10.2,
+        "uptime_24h": 19.7,
+        "uptime_7d": 10.2,
+        "uptime_30d": 10.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -629,9 +629,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 96.9,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.3,
+        "uptime_24h": 96.5,
+        "uptime_7d": 94.2,
+        "uptime_30d": 94.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.4,
-        "uptime_7d": 89.9,
-        "uptime_30d": 89.9,
+        "uptime_7d": 90.0,
+        "uptime_30d": 90.0,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 91.6,
-        "uptime_7d": 92.5,
-        "uptime_30d": 91.6
+        "uptime_24h": 91.3,
+        "uptime_7d": 92.4,
+        "uptime_30d": 91.4
       },
       {
         "name": "pfSense Gateway",
@@ -832,16 +832,16 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9
+        "uptime_30d": 99.0
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 66.7,
-        "uptime_7d": 47.2,
-        "uptime_30d": 47.7
+        "uptime_24h": 65.3,
+        "uptime_7d": 47.0,
+        "uptime_30d": 47.5
       }
     ]
   }
