@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T10:50:17.987069+00:00",
+  "last_updated": "2026-04-11T10:56:11.117965+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 90.2,
+        "uptime_30d": 90.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 71.2,
         "uptime_7d": 78.2,
-        "uptime_30d": 70.7,
+        "uptime_30d": 70.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.7,
+        "uptime_30d": 83.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.3,
-        "uptime_30d": 92.3,
+        "uptime_30d": 92.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 58.5,
-        "uptime_7d": 42.9,
-        "uptime_30d": 42.9,
+        "uptime_24h": 59.2,
+        "uptime_7d": 43.2,
+        "uptime_30d": 43.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 90.1,
-        "uptime_30d": 77.1,
+        "uptime_30d": 77.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.0,
+        "uptime_24h": 98.9,
+        "uptime_7d": 99.2,
+        "uptime_30d": 98.5,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 94.1,
-        "uptime_7d": 94.7,
-        "uptime_30d": 94.7,
+        "uptime_24h": 93.7,
+        "uptime_7d": 94.5,
+        "uptime_30d": 94.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 64.6,
-        "uptime_30d": 64.0
+        "uptime_7d": 64.7,
+        "uptime_30d": 64.1
       },
       {
         "name": "pfSense Gateway",
