@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:26:12.375972+00:00",
+  "last_updated": "2026-04-11T04:30:26.561351+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.0,
+        "uptime_30d": 94.1,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -151,14 +151,14 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "http://linkwarden.linkwarden"
       },
       {
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 73.0,
+        "uptime_7d": 73.1,
         "uptime_30d": 66.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -526,8 +526,8 @@
         "name": "K8s Portal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -654,8 +654,8 @@
         "name": "Networking Toolbox",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -678,8 +678,8 @@
         "name": "Flaresolverr",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.5
+        "uptime_30d": 97.6
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.5
+        "uptime_30d": 97.6
       },
       {
         "name": "ShadowSocks Proxy",
@@ -779,13 +779,13 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.9,
-        "uptime_30d": 7.9
+        "uptime_30d": 7.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 7.2,
+        "uptime_7d": 7.1,
         "uptime_30d": 8.1
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 79.4,
-        "uptime_7d": 77.5,
-        "uptime_30d": 76.4
+        "uptime_24h": 79.0,
+        "uptime_7d": 77.2,
+        "uptime_30d": 76.2
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       }
     ],
     "Redis": [
