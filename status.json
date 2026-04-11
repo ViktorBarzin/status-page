@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T15:05:17.445809+00:00",
+  "last_updated": "2026-04-11T15:10:17.907894+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 74.2,
+        "uptime_24h": 74.6,
         "uptime_7d": 80.7,
-        "uptime_30d": 73.0,
+        "uptime_30d": 73.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.3,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.3,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -286,7 +286,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.8,
         "uptime_30d": 97.2,
         "url": "https://health.viktorbarzin.me"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 76.0,
-        "uptime_7d": 49.0,
-        "uptime_30d": 48.9,
+        "uptime_24h": 76.3,
+        "uptime_7d": 49.1,
+        "uptime_30d": 49.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 90.9,
+        "uptime_7d": 91.0,
         "uptime_30d": 78.6,
         "url": "http://blog.website.svc"
       },
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 83.2,
-        "uptime_7d": 89.2,
-        "uptime_30d": 88.6,
+        "uptime_24h": 82.8,
+        "uptime_7d": 89.0,
+        "uptime_30d": 88.4,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.9,
-        "uptime_30d": 93.9,
+        "uptime_7d": 94.0,
+        "uptime_30d": 94.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 77.6,
-        "uptime_7d": 84.8,
-        "uptime_30d": 84.8,
+        "uptime_24h": 77.2,
+        "uptime_7d": 84.7,
+        "uptime_30d": 84.7,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -785,8 +785,8 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.2,
-        "uptime_30d": 6.1
+        "uptime_7d": 5.1,
+        "uptime_30d": 6.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.7,
-        "uptime_7d": 66.6,
+        "uptime_7d": 66.7,
         "uptime_30d": 66.1
       },
       {
