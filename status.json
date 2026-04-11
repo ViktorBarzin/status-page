@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T01:36:14.035553+00:00",
+  "last_updated": "2026-04-11T01:41:30.299941+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 71.2,
+        "uptime_24h": 71.1,
         "uptime_7d": 84.7,
         "uptime_30d": 77.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.3,
+        "uptime_30d": 88.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 73.0,
+        "uptime_7d": 73.1,
         "uptime_30d": 72.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 19.7,
-        "uptime_7d": 10.2,
-        "uptime_30d": 10.6,
+        "uptime_24h": 20.1,
+        "uptime_7d": 10.3,
+        "uptime_30d": 10.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 80.2,
-        "uptime_30d": 72.8,
+        "uptime_30d": 72.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -462,8 +462,8 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.4,
-        "uptime_30d": 75.3,
+        "uptime_7d": 75.5,
+        "uptime_30d": 75.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -628,7 +628,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.5,
         "uptime_7d": 94.2,
         "uptime_30d": 94.2,
@@ -646,8 +646,8 @@
         "name": "pgAdmin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 91.3,
-        "uptime_7d": 92.4,
-        "uptime_30d": 91.4
+        "uptime_24h": 90.9,
+        "uptime_7d": 92.2,
+        "uptime_30d": 91.3
       },
       {
         "name": "pfSense Gateway",
