@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T19:25:17.564589+00:00",
+  "last_updated": "2026-04-11T19:31:11.415257+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 92.9,
         "uptime_7d": 82.7,
         "uptime_30d": 75.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.6,
+        "uptime_7d": 94.7,
         "uptime_30d": 93.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 94.6,
-        "uptime_7d": 54.4,
-        "uptime_30d": 54.3,
+        "uptime_24h": 95.3,
+        "uptime_7d": 54.6,
+        "uptime_30d": 54.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.7,
+        "uptime_7d": 91.8,
         "uptime_30d": 79.9,
         "url": "http://blog.website.svc"
       },
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 64.5,
-        "uptime_7d": 79.7,
-        "uptime_30d": 79.3,
+        "uptime_24h": 63.9,
+        "uptime_7d": 79.3,
+        "uptime_30d": 78.9,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -791,8 +791,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 69.8,
-        "uptime_30d": 69.2
+        "uptime_7d": 69.9,
+        "uptime_30d": 69.3
       },
       {
         "name": "pfSense Gateway",
@@ -831,9 +831,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 65.7,
-        "uptime_7d": 63.0,
-        "uptime_30d": 59.6
+        "uptime_24h": 67.1,
+        "uptime_7d": 63.2,
+        "uptime_30d": 59.8
       }
     ]
   }
