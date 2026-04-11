@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T18:20:17.287526+00:00",
+  "last_updated": "2026-04-11T18:25:17.179022+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 87.9,
+        "uptime_24h": 88.3,
         "uptime_7d": 82.2,
-        "uptime_30d": 74.6,
+        "uptime_30d": 74.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.7,
+        "uptime_30d": 86.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 90.0,
-        "uptime_7d": 53.2,
-        "uptime_30d": 53.0,
+        "uptime_24h": 90.3,
+        "uptime_7d": 53.3,
+        "uptime_30d": 53.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.5,
+        "uptime_7d": 91.6,
         "uptime_30d": 79.6,
         "url": "http://blog.website.svc"
       },
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 69.2,
-        "uptime_7d": 81.9,
-        "uptime_30d": 81.4,
+        "uptime_24h": 68.8,
+        "uptime_7d": 81.7,
+        "uptime_30d": 81.2,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -661,9 +661,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.2,
-        "uptime_7d": 89.8,
-        "uptime_30d": 89.8,
+        "uptime_24h": 92.9,
+        "uptime_7d": 89.6,
+        "uptime_30d": 89.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
