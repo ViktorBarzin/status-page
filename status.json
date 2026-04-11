@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T08:20:17.765512+00:00",
+  "last_updated": "2026-04-11T08:26:08.440763+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 76.4,
+        "uptime_7d": 76.5,
         "uptime_30d": 69.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.8,
+        "uptime_30d": 83.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.8,
+        "uptime_30d": 82.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 96.9,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 47.9,
-        "uptime_7d": 38.2,
-        "uptime_30d": 38.3,
+        "uptime_24h": 48.6,
+        "uptime_7d": 38.5,
+        "uptime_30d": 38.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.4,
-        "uptime_30d": 76.1,
+        "uptime_30d": 76.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -566,8 +566,8 @@
         "name": "Matrix",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 62.9,
-        "uptime_7d": 68.4,
-        "uptime_30d": 67.7
+        "uptime_24h": 62.6,
+        "uptime_7d": 68.2,
+        "uptime_30d": 67.5
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 94.7
+        "uptime_30d": 94.8
       }
     ],
     "Redis": [
