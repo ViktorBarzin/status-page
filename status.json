@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T01:41:30.299941+00:00",
+  "last_updated": "2026-04-11T01:45:20.356520+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -157,8 +157,8 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 71.1,
-        "uptime_7d": 84.7,
+        "uptime_24h": 71.2,
+        "uptime_7d": 84.8,
         "uptime_30d": 77.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.2,
+        "uptime_7d": 80.3,
         "uptime_30d": 72.9,
         "url": "http://blog.website.svc"
       },
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 90.9,
-        "uptime_7d": 92.2,
-        "uptime_30d": 91.3
+        "uptime_24h": 90.6,
+        "uptime_7d": 92.1,
+        "uptime_30d": 91.1
       },
       {
         "name": "pfSense Gateway",
