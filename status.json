@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T02:20:45.177580+00:00",
+  "last_updated": "2026-04-11T02:26:18.963497+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.3,
-        "uptime_30d": 94.3,
+        "uptime_30d": 94.4,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 87.6,
+        "uptime_30d": 87.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 70.8,
-        "uptime_30d": 64.0,
+        "uptime_7d": 70.9,
+        "uptime_30d": 64.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.5,
+        "uptime_7d": 91.6,
         "uptime_30d": 89.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.3,
+        "uptime_7d": 91.4,
         "uptime_30d": 90.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -319,15 +319,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 22.5,
-        "uptime_7d": 22.6,
-        "uptime_30d": 23.1,
+        "uptime_24h": 23.2,
+        "uptime_7d": 23.2,
+        "uptime_30d": 23.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 87.4,
-        "uptime_30d": 73.3,
+        "uptime_30d": 73.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.3,
-        "uptime_30d": 91.3,
+        "uptime_7d": 91.4,
+        "uptime_30d": 91.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 96.5,
-        "uptime_7d": 89.4,
-        "uptime_30d": 89.4,
+        "uptime_7d": 89.5,
+        "uptime_30d": 89.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.3
+        "uptime_30d": 97.4
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.3
+        "uptime_30d": 97.4
       },
       {
         "name": "ShadowSocks Proxy",
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.3
+        "uptime_30d": 97.4
       },
       {
         "name": "Traefik LoadBalancer",
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 7.7,
-        "uptime_30d": 8.7
+        "uptime_30d": 8.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 88.1,
-        "uptime_7d": 83.3,
-        "uptime_30d": 81.9
+        "uptime_24h": 87.8,
+        "uptime_7d": 83.1,
+        "uptime_30d": 81.7
       },
       {
         "name": "pfSense Gateway",
