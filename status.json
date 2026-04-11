@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T08:11:07.938244+00:00",
+  "last_updated": "2026-04-11T08:15:17.921617+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 71.2,
         "uptime_7d": 76.3,
-        "uptime_30d": 68.9,
+        "uptime_30d": 69.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 93.9,
-        "uptime_7d": 89.4,
-        "uptime_30d": 89.4,
+        "uptime_7d": 89.5,
+        "uptime_30d": 89.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -668,10 +668,10 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "up",
-        "uptime_24h": 94.1,
-        "uptime_7d": 88.6,
-        "uptime_30d": 88.6,
+        "status": "down",
+        "uptime_24h": 93.7,
+        "uptime_7d": 88.3,
+        "uptime_30d": 88.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.2,
+        "uptime_7d": 6.1,
         "uptime_30d": 7.0
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 63.6,
-        "uptime_7d": 68.8,
-        "uptime_30d": 68.0
+        "uptime_24h": 63.3,
+        "uptime_7d": 68.6,
+        "uptime_30d": 67.9
       },
       {
         "name": "pfSense Gateway",
