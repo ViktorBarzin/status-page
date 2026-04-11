@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T18:00:24.926955+00:00",
+  "last_updated": "2026-04-11T18:05:17.267553+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -157,8 +157,8 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 86.5,
-        "uptime_7d": 82.0,
+        "uptime_24h": 86.9,
+        "uptime_7d": 82.1,
         "uptime_30d": 74.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -295,7 +295,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 88.5,
-        "uptime_7d": 52.8,
-        "uptime_30d": 52.6,
+        "uptime_24h": 88.9,
+        "uptime_7d": 52.9,
+        "uptime_30d": 52.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 70.6,
-        "uptime_7d": 82.6,
-        "uptime_30d": 82.1,
+        "uptime_24h": 70.3,
+        "uptime_7d": 82.4,
+        "uptime_30d": 81.9,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -638,8 +638,8 @@
         "name": "pgAdmin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -713,7 +713,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Imap",
@@ -734,7 +734,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Traefik LoadBalancer",
@@ -770,7 +770,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 4.7,
+        "uptime_7d": 4.6,
         "uptime_30d": 5.5
       },
       {
@@ -791,7 +791,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 68.8,
+        "uptime_7d": 68.9,
         "uptime_30d": 68.3
       },
       {
@@ -824,16 +824,16 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7
+        "uptime_30d": 98.8
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 67.6,
-        "uptime_7d": 63.1,
-        "uptime_30d": 59.6
+        "uptime_24h": 66.7,
+        "uptime_7d": 63.0,
+        "uptime_30d": 59.5
       }
     ]
   }
