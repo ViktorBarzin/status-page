@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T12:41:09.902682+00:00",
+  "last_updated": "2026-04-11T12:46:08.371736+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.3,
+        "uptime_30d": 95.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.1,
+        "uptime_7d": 97.2,
         "uptime_30d": 96.5,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 66.5,
-        "uptime_7d": 46.1,
-        "uptime_30d": 46.1,
+        "uptime_24h": 66.9,
+        "uptime_7d": 46.2,
+        "uptime_30d": 46.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 90.5,
-        "uptime_30d": 77.8,
+        "uptime_30d": 77.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -399,7 +399,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 91.6,
-        "uptime_7d": 94.2,
-        "uptime_30d": 93.5,
+        "uptime_24h": 91.2,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.3,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 86.4,
-        "uptime_7d": 89.7,
-        "uptime_30d": 89.7,
+        "uptime_24h": 86.0,
+        "uptime_7d": 89.5,
+        "uptime_30d": 89.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 94.1,
-        "uptime_7d": 89.1,
-        "uptime_30d": 89.1,
+        "uptime_24h": 93.7,
+        "uptime_7d": 88.9,
+        "uptime_30d": 88.9,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 52.6,
-        "uptime_7d": 65.5,
-        "uptime_30d": 65.0
+        "uptime_24h": 52.3,
+        "uptime_7d": 65.3,
+        "uptime_30d": 64.8
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 95.3
+        "uptime_30d": 95.4
       }
     ],
     "Redis": [
