@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T06:31:10.218009+00:00",
+  "last_updated": "2026-04-11T06:35:16.350548+00:00",
   "groups": {
     "HTTP": [
       {
@@ -151,14 +151,14 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "http://linkwarden.linkwarden"
       },
       {
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 74.9,
+        "uptime_7d": 75.0,
         "uptime_30d": 67.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.1,
+        "uptime_30d": 83.2,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.6,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -295,7 +295,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.9,
-        "uptime_30d": 75.3,
+        "uptime_30d": 75.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -518,8 +518,8 @@
         "name": "Insta2Spotify",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.5,
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.6,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.7,
-        "uptime_7d": 88.2,
-        "uptime_30d": 88.2,
+        "uptime_7d": 88.3,
+        "uptime_30d": 88.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.5,
-        "uptime_30d": 7.4
+        "uptime_30d": 7.3
       },
       {
         "name": "Valchedrym Video System",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 70.6,
-        "uptime_7d": 72.4,
-        "uptime_30d": 71.5
+        "uptime_24h": 70.3,
+        "uptime_7d": 72.2,
+        "uptime_30d": 71.3
       },
       {
         "name": "pfSense Gateway",
