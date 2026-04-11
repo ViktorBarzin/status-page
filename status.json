@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T21:25:18.238255+00:00",
+  "last_updated": "2026-04-11T21:30:20.045786+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 83.5,
-        "uptime_30d": 76.0,
+        "uptime_30d": 76.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.0,
+        "uptime_7d": 95.1,
         "uptime_30d": 93.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 97.1,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.9,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 56.6,
-        "uptime_30d": 56.4,
+        "uptime_30d": 56.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 55.9,
-        "uptime_7d": 75.9,
-        "uptime_30d": 75.6,
+        "uptime_24h": 55.6,
+        "uptime_7d": 75.8,
+        "uptime_30d": 75.4,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 92.8,
-        "uptime_7d": 91.4,
-        "uptime_30d": 91.4,
+        "uptime_7d": 91.5,
+        "uptime_30d": 91.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -660,7 +660,7 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 92.9,
         "uptime_7d": 89.9,
         "uptime_30d": 89.9,
@@ -785,14 +785,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.8
+        "uptime_30d": 98.9
       },
       {
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 71.1,
-        "uptime_30d": 70.5
+        "uptime_7d": 71.2,
+        "uptime_30d": 70.6
       },
       {
         "name": "pfSense Gateway",
