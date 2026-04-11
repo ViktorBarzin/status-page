@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T09:35:18.419415+00:00",
+  "last_updated": "2026-04-11T09:41:11.890536+00:00",
   "groups": {
     "HTTP": [
       {
@@ -62,7 +62,7 @@
         "name": "Privatebin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 97.9,
         "url": "https://pb.viktorbarzin.me"
       },
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 77.3,
-        "uptime_30d": 69.9,
+        "uptime_7d": 77.4,
+        "uptime_30d": 70.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 53.2,
-        "uptime_7d": 40.6,
-        "uptime_30d": 40.7,
+        "uptime_24h": 53.9,
+        "uptime_7d": 41.0,
+        "uptime_30d": 41.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -342,7 +342,7 @@
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 96.5,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.7,
-        "uptime_30d": 76.6,
+        "uptime_7d": 89.8,
+        "uptime_30d": 76.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -596,10 +596,10 @@
       },
       {
         "name": "OpenLobster",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -735,7 +735,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.9
+        "uptime_30d": 99.0
       },
       {
         "name": "KMS (Windows Activation Service)",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 57.7,
-        "uptime_7d": 65.9,
-        "uptime_30d": 65.3
+        "uptime_24h": 57.3,
+        "uptime_7d": 65.8,
+        "uptime_30d": 65.2
       },
       {
         "name": "pfSense Gateway",
