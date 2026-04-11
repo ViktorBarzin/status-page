@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T16:00:23.328683+00:00",
+  "last_updated": "2026-04-11T16:05:23.134814+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 78.1,
-        "uptime_7d": 81.1,
-        "uptime_30d": 73.5,
+        "uptime_24h": 78.4,
+        "uptime_7d": 81.2,
+        "uptime_30d": 73.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.2,
+        "uptime_30d": 85.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 79.9,
-        "uptime_7d": 50.2,
-        "uptime_30d": 50.1,
+        "uptime_24h": 80.3,
+        "uptime_7d": 50.3,
+        "uptime_30d": 50.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 79.2,
-        "uptime_7d": 87.0,
-        "uptime_30d": 86.5,
+        "uptime_24h": 78.9,
+        "uptime_7d": 86.8,
+        "uptime_30d": 86.3,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 73.7,
-        "uptime_7d": 82.8,
-        "uptime_30d": 82.8,
+        "uptime_24h": 73.3,
+        "uptime_7d": 82.6,
+        "uptime_30d": 82.6,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -629,7 +629,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 93.1,
+        "uptime_24h": 93.8,
         "uptime_7d": 90.9,
         "uptime_30d": 90.9,
         "url": "https://docker.viktorbarzin.me"
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 50.7,
         "uptime_7d": 67.4,
-        "uptime_30d": 66.8
+        "uptime_30d": 66.9
       },
       {
         "name": "pfSense Gateway",
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 66.7,
-        "uptime_7d": 63.0,
-        "uptime_30d": 59.4
+        "uptime_24h": 65.7,
+        "uptime_7d": 62.8,
+        "uptime_30d": 59.3
       }
     ]
   }
