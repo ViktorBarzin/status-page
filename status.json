@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T08:00:22.482986+00:00",
+  "last_updated": "2026-04-11T08:05:17.958968+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 71.2,
         "uptime_7d": 76.2,
-        "uptime_30d": 68.8,
+        "uptime_30d": 68.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
-        "uptime_30d": 91.1,
+        "uptime_7d": 93.0,
+        "uptime_30d": 91.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -223,14 +223,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.7,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.7,
+        "uptime_7d": 92.8,
         "uptime_30d": 91.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -319,15 +319,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 92.9,
+        "uptime_30d": 93.0,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 46.5,
-        "uptime_7d": 37.5,
-        "uptime_30d": 37.6,
+        "uptime_24h": 46.8,
+        "uptime_7d": 37.6,
+        "uptime_30d": 37.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 64.3,
-        "uptime_7d": 69.1,
-        "uptime_30d": 68.4
+        "uptime_24h": 64.0,
+        "uptime_7d": 68.9,
+        "uptime_30d": 68.2
       },
       {
         "name": "pfSense Gateway",
@@ -840,8 +840,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 64.4,
-        "uptime_7d": 60.6,
-        "uptime_30d": 58.0
+        "uptime_7d": 60.8,
+        "uptime_30d": 58.2
       }
     ]
   }
