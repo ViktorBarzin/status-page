@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T12:06:12.502502+00:00",
+  "last_updated": "2026-04-11T12:11:08.445620+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 90.5,
+        "uptime_30d": 90.6,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 78.9,
-        "uptime_30d": 71.5,
+        "uptime_7d": 79.0,
+        "uptime_30d": 71.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.3,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 64.1,
-        "uptime_7d": 45.2,
-        "uptime_30d": 45.1,
+        "uptime_24h": 64.4,
+        "uptime_7d": 45.3,
+        "uptime_30d": 45.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 94.0,
-        "uptime_7d": 95.8,
-        "uptime_30d": 95.1,
+        "uptime_24h": 93.7,
+        "uptime_7d": 95.6,
+        "uptime_30d": 94.9,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 88.8,
-        "uptime_7d": 91.2,
-        "uptime_30d": 91.2,
+        "uptime_24h": 88.5,
+        "uptime_7d": 91.0,
+        "uptime_30d": 91.0,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 53.8,
         "uptime_7d": 65.8,
-        "uptime_30d": 65.2
+        "uptime_30d": 65.3
       },
       {
         "name": "pfSense Gateway",
