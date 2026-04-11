@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T14:50:16.794932+00:00",
+  "last_updated": "2026-04-11T14:56:08.957086+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -157,8 +157,8 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 73.1,
-        "uptime_7d": 80.5,
+        "uptime_24h": 73.5,
+        "uptime_7d": 80.6,
         "uptime_30d": 72.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 74.9,
-        "uptime_7d": 48.6,
-        "uptime_30d": 48.5,
+        "uptime_24h": 75.6,
+        "uptime_7d": 48.8,
+        "uptime_30d": 48.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 84.2,
-        "uptime_7d": 89.8,
-        "uptime_30d": 89.2,
+        "uptime_24h": 83.6,
+        "uptime_7d": 89.4,
+        "uptime_30d": 88.8,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 78.6,
-        "uptime_7d": 85.4,
-        "uptime_30d": 85.4,
+        "uptime_24h": 78.3,
+        "uptime_7d": 85.2,
+        "uptime_30d": 85.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -778,14 +778,14 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.2,
+        "uptime_7d": 5.0,
         "uptime_30d": 5.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.4,
+        "uptime_7d": 5.2,
         "uptime_30d": 6.1
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 50.7,
         "uptime_7d": 66.5,
-        "uptime_30d": 65.8
+        "uptime_30d": 65.9
       },
       {
         "name": "pfSense Gateway",
