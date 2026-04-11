@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T20:30:19.615789+00:00",
+  "last_updated": "2026-04-11T20:35:17.149601+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 96.5,
         "uptime_7d": 83.1,
-        "uptime_30d": 75.6,
+        "uptime_30d": 75.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 86.1,
+        "uptime_30d": 86.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.9,
+        "uptime_7d": 95.0,
         "uptime_30d": 93.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 55.6,
-        "uptime_30d": 55.4,
+        "uptime_24h": 99.6,
+        "uptime_7d": 55.7,
+        "uptime_30d": 55.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 59.9,
-        "uptime_7d": 77.6,
-        "uptime_30d": 77.2,
+        "uptime_24h": 59.5,
+        "uptime_7d": 77.4,
+        "uptime_30d": 77.1,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -777,7 +777,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 4.6,
+        "uptime_7d": 4.5,
         "uptime_30d": 5.4
       },
       {
@@ -832,8 +832,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 67.6,
-        "uptime_7d": 63.4,
-        "uptime_30d": 59.9
+        "uptime_7d": 63.6,
+        "uptime_30d": 60.1
       }
     ]
   }
