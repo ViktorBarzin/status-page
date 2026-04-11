@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T23:25:17.078100+00:00",
+  "last_updated": "2026-04-11T23:30:18.290269+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.2,
+        "uptime_7d": 95.3,
         "uptime_30d": 93.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -326,8 +326,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 58.5,
-        "uptime_30d": 58.3,
+        "uptime_7d": 58.6,
+        "uptime_30d": 58.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 47.3,
-        "uptime_7d": 72.5,
-        "uptime_30d": 72.2,
+        "uptime_24h": 47.0,
+        "uptime_7d": 72.4,
+        "uptime_30d": 72.1,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.9,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 93.1,
-        "uptime_7d": 91.6,
-        "uptime_30d": 91.6,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 4.1,
-        "uptime_30d": 5.1
+        "uptime_30d": 5.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 51.3,
-        "uptime_7d": 72.3,
-        "uptime_30d": 71.7
+        "uptime_24h": 51.6,
+        "uptime_7d": 72.4,
+        "uptime_30d": 71.8
       },
       {
         "name": "pfSense Gateway",
@@ -815,7 +815,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.3
+        "uptime_30d": 96.4
       }
     ],
     "Redis": [
