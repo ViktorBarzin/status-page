@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T09:46:11.477754+00:00",
+  "last_updated": "2026-04-11T09:50:17.310762+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 77.4,
-        "uptime_30d": 70.0,
+        "uptime_7d": 77.5,
+        "uptime_30d": 70.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 98.6,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_24h": 98.3,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.7,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -721,14 +721,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "ShadowSocks Proxy",
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "Traefik LoadBalancer",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 57.0,
-        "uptime_7d": 65.6,
-        "uptime_30d": 65.0
+        "uptime_24h": 56.6,
+        "uptime_7d": 65.5,
+        "uptime_30d": 64.9
       },
       {
         "name": "pfSense Gateway",
