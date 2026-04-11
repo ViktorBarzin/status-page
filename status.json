@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T07:35:16.645068+00:00",
+  "last_updated": "2026-04-11T07:41:07.993384+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 75.8,
-        "uptime_30d": 68.5,
+        "uptime_7d": 75.9,
+        "uptime_30d": 68.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,14 +207,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.9,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.4,
+        "uptime_7d": 92.5,
         "uptime_30d": 90.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.6,
-        "uptime_30d": 91.6,
+        "uptime_7d": 92.7,
+        "uptime_30d": 91.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 44.7,
-        "uptime_7d": 36.6,
-        "uptime_30d": 36.7,
+        "uptime_24h": 45.4,
+        "uptime_7d": 36.9,
+        "uptime_30d": 37.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.2,
-        "uptime_30d": 75.8,
+        "uptime_30d": 75.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.3,
+        "uptime_7d": 6.2,
         "uptime_30d": 7.1
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 66.1,
-        "uptime_7d": 70.0,
-        "uptime_30d": 69.2
+        "uptime_24h": 65.7,
+        "uptime_7d": 69.8,
+        "uptime_30d": 69.0
       },
       {
         "name": "pfSense Gateway",
