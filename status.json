@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T02:35:31.638837+00:00",
+  "last_updated": "2026-04-11T02:40:19.640112+00:00",
   "groups": {
     "HTTP": [
       {
@@ -62,7 +62,7 @@
         "name": "Privatebin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 97.4,
         "url": "https://pb.viktorbarzin.me"
       },
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 93.6,
+        "uptime_30d": 93.7,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 87.7,
+        "uptime_30d": 87.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 71.2,
         "uptime_7d": 71.1,
-        "uptime_30d": 64.3,
+        "uptime_30d": 64.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 80.2,
+        "uptime_30d": 80.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.0,
+        "uptime_7d": 96.1,
         "uptime_30d": 95.1,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 23.6,
-        "uptime_7d": 23.4,
-        "uptime_30d": 23.9,
+        "uptime_24h": 23.9,
+        "uptime_7d": 23.7,
+        "uptime_30d": 24.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -342,7 +342,7 @@
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 95.6,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -628,10 +628,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 96.2,
-        "uptime_7d": 89.3,
-        "uptime_30d": 89.3,
+        "status": "down",
+        "uptime_24h": 95.9,
+        "uptime_7d": 89.0,
+        "uptime_30d": 89.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -735,7 +735,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.6
+        "uptime_30d": 98.7
       },
       {
         "name": "KMS (Windows Activation Service)",
@@ -779,7 +779,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 7.4,
-        "uptime_30d": 8.4
+        "uptime_30d": 8.3
       },
       {
         "name": "Valchedrym Video System",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 87.1,
-        "uptime_7d": 82.6,
-        "uptime_30d": 81.2
+        "uptime_24h": 86.7,
+        "uptime_7d": 82.3,
+        "uptime_30d": 81.0
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 93.6
+        "uptime_30d": 93.7
       }
     ],
     "Redis": [
