@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T23:56:49.751950+00:00",
+  "last_updated": "2026-04-11T00:01:29.255464+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 92.6,
+        "uptime_30d": 92.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 72.3,
-        "uptime_30d": 71.9,
+        "uptime_7d": 72.4,
+        "uptime_30d": 72.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 14.1,
-        "uptime_7d": 7.5,
-        "uptime_30d": 8.0,
+        "uptime_24h": 14.5,
+        "uptime_7d": 7.7,
+        "uptime_30d": 8.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -462,8 +462,8 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 74.7,
-        "uptime_30d": 74.6,
+        "uptime_7d": 74.8,
+        "uptime_30d": 74.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -786,7 +786,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 4.3,
-        "uptime_30d": 5.0
+        "uptime_30d": 4.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 96.8,
-        "uptime_7d": 94.9,
-        "uptime_30d": 93.9
+        "uptime_24h": 96.5,
+        "uptime_7d": 94.7,
+        "uptime_30d": 93.7
       },
       {
         "name": "pfSense Gateway",
@@ -838,9 +838,9 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "up",
-        "uptime_24h": 66.7,
-        "uptime_7d": 46.9,
+        "status": "down",
+        "uptime_24h": 68.1,
+        "uptime_7d": 47.2,
         "uptime_30d": 47.5
       }
     ]
