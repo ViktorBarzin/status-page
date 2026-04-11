@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T06:51:09.118221+00:00",
+  "last_updated": "2026-04-11T06:55:28.065902+00:00",
   "groups": {
     "HTTP": [
       {
@@ -62,8 +62,8 @@
         "name": "Privatebin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 97.7,
+        "uptime_7d": 98.9,
+        "uptime_30d": 97.8,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 75.2,
-        "uptime_30d": 67.9,
+        "uptime_7d": 75.3,
+        "uptime_30d": 68.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.1,
+        "uptime_30d": 82.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.7,
-        "uptime_30d": 90.8,
+        "uptime_30d": 90.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -342,7 +342,7 @@
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 96.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -614,8 +614,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 93.9,
-        "uptime_7d": 89.0,
-        "uptime_30d": 89.0,
+        "uptime_7d": 89.1,
+        "uptime_30d": 89.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -721,28 +721,28 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.7
+        "uptime_30d": 97.8
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.7
+        "uptime_30d": 97.8
       },
       {
         "name": "ShadowSocks Proxy",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.8
+        "uptime_30d": 98.9
       },
       {
         "name": "KMS (Windows Activation Service)",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7
+        "uptime_30d": 97.8
       },
       {
         "name": "Traefik LoadBalancer",
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 69.2,
-        "uptime_7d": 71.6,
-        "uptime_30d": 70.8
+        "uptime_24h": 68.9,
+        "uptime_7d": 71.4,
+        "uptime_30d": 70.6
       },
       {
         "name": "pfSense Gateway",
