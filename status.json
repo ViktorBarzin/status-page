@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T18:10:17.481738+00:00",
+  "last_updated": "2026-04-11T18:15:17.842820+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,8 +157,8 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 87.2,
-        "uptime_7d": 82.1,
+        "uptime_24h": 87.6,
+        "uptime_7d": 82.2,
         "uptime_30d": 74.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 85.5,
+        "uptime_30d": 85.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.7,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 89.2,
-        "uptime_7d": 53.0,
-        "uptime_30d": 52.8,
+        "uptime_24h": 89.6,
+        "uptime_7d": 53.1,
+        "uptime_30d": 52.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 69.9,
-        "uptime_7d": 82.2,
-        "uptime_30d": 81.8,
+        "uptime_24h": 69.5,
+        "uptime_7d": 82.0,
+        "uptime_30d": 81.6,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -791,7 +791,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.5,
-        "uptime_7d": 68.9,
+        "uptime_7d": 69.0,
         "uptime_30d": 68.4
       },
       {
