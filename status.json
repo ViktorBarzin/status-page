@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T21:30:20.045786+00:00",
+  "last_updated": "2026-04-11T21:35:20.400751+00:00",
   "groups": {
     "HTTP": [
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 56.6,
+        "uptime_7d": 56.7,
         "uptime_30d": 56.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 55.6,
-        "uptime_7d": 75.8,
-        "uptime_30d": 75.4,
+        "uptime_24h": 55.2,
+        "uptime_7d": 75.6,
+        "uptime_30d": 75.3,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.7,
-        "uptime_30d": 94.7,
+        "uptime_7d": 94.8,
+        "uptime_30d": 94.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -638,8 +638,8 @@
         "name": "pgAdmin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -661,9 +661,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.9,
-        "uptime_7d": 89.9,
-        "uptime_30d": 89.9,
+        "uptime_24h": 92.6,
+        "uptime_7d": 89.8,
+        "uptime_30d": 89.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -777,8 +777,8 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 4.5,
-        "uptime_30d": 5.3
+        "uptime_7d": 4.4,
+        "uptime_30d": 5.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -792,7 +792,7 @@
         "status": "up",
         "uptime_24h": 50.5,
         "uptime_7d": 71.2,
-        "uptime_30d": 70.6
+        "uptime_30d": 70.7
       },
       {
         "name": "pfSense Gateway",
@@ -824,7 +824,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8
+        "uptime_30d": 98.9
       }
     ],
     "Push": [
@@ -832,8 +832,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 67.6,
-        "uptime_7d": 63.5,
-        "uptime_30d": 60.0
+        "uptime_7d": 63.6,
+        "uptime_30d": 60.2
       }
     ]
   }
