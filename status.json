@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T12:31:11.898362+00:00",
+  "last_updated": "2026-04-11T12:35:18.407473+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.2,
+        "uptime_30d": 85.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.1,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 87.1,
-        "uptime_7d": 90.1,
-        "uptime_30d": 90.1,
+        "uptime_24h": 86.7,
+        "uptime_7d": 89.9,
+        "uptime_30d": 89.9,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -614,8 +614,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.1,
-        "uptime_30d": 97.1,
+        "uptime_7d": 97.2,
+        "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.1,
-        "uptime_7d": 89.0,
-        "uptime_30d": 89.0,
+        "uptime_7d": 89.1,
+        "uptime_30d": 89.1,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -778,14 +778,14 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.5,
+        "uptime_7d": 5.4,
         "uptime_30d": 6.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.7,
+        "uptime_7d": 5.6,
         "uptime_30d": 6.4
       },
       {
@@ -798,9 +798,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 53.3,
-        "uptime_7d": 65.8,
-        "uptime_30d": 65.2
+        "uptime_24h": 53.0,
+        "uptime_7d": 65.6,
+        "uptime_30d": 65.1
       },
       {
         "name": "pfSense Gateway",
