@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T11:35:17.046898+00:00",
+  "last_updated": "2026-04-11T11:40:17.614943+00:00",
   "groups": {
     "HTTP": [
       {
@@ -142,7 +142,7 @@
         "name": "Actual Budget",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.0,
         "url": "http://budget-viktor.actualbudget"
       },
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 78.6,
-        "uptime_30d": 71.2,
+        "uptime_7d": 78.7,
+        "uptime_30d": 71.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.6,
-        "uptime_30d": 91.9,
+        "uptime_30d": 92.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 61.6,
-        "uptime_7d": 44.2,
-        "uptime_30d": 44.2,
+        "uptime_24h": 62.0,
+        "uptime_7d": 44.4,
+        "uptime_30d": 44.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 90.2,
-        "uptime_30d": 77.4,
+        "uptime_7d": 90.3,
+        "uptime_30d": 77.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 96.5,
-        "uptime_7d": 97.5,
-        "uptime_30d": 96.8,
+        "uptime_24h": 96.1,
+        "uptime_7d": 97.2,
+        "uptime_30d": 96.5,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Plotting Book",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 90.9,
-        "uptime_7d": 92.6,
-        "uptime_30d": 92.6,
+        "uptime_24h": 90.6,
+        "uptime_7d": 92.4,
+        "uptime_30d": 92.4,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.1,
-        "uptime_7d": 88.7,
-        "uptime_30d": 88.7,
+        "uptime_7d": 88.8,
+        "uptime_30d": 88.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -702,8 +702,8 @@
         "name": "Webhook Handler",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -799,7 +799,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 65.3,
+        "uptime_7d": 65.4,
         "uptime_30d": 64.8
       },
       {
