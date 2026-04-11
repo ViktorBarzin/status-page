@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T14:31:10.329181+00:00",
+  "last_updated": "2026-04-11T14:35:17.001659+00:00",
   "groups": {
     "HTTP": [
       {
@@ -37,7 +37,7 @@
       {
         "name": "Shlink (URL Shortener)",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 96.1,
         "url": "https://shlink.viktorbarzin.me"
@@ -149,7 +149,7 @@
       {
         "name": "Linkwarden",
         "status": "up",
-        "uptime_24h": 99.6,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 98.0,
         "url": "http://linkwarden.linkwarden"
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 70.7,
+        "uptime_24h": 71.8,
         "uptime_7d": 80.4,
         "uptime_30d": 72.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.7,
+        "uptime_30d": 85.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.2,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 85.4,
+        "uptime_24h": 85.3,
         "uptime_7d": 90.4,
         "uptime_30d": 89.9,
         "url": "https://ollama.viktorbarzin.me"
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 80.1,
-        "uptime_7d": 86.2,
-        "uptime_30d": 86.2,
+        "uptime_24h": 79.7,
+        "uptime_7d": 86.0,
+        "uptime_30d": 86.0,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -670,8 +670,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.6,
-        "uptime_7d": 89.2,
-        "uptime_30d": 89.2,
+        "uptime_7d": 89.3,
+        "uptime_30d": 89.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -686,8 +686,8 @@
         "name": "QBittorrent",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.3,
+        "uptime_7d": 5.2,
         "uptime_30d": 6.0
       },
       {
@@ -840,7 +840,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 66.7,
-        "uptime_7d": 62.4,
+        "uptime_7d": 62.8,
         "uptime_30d": 59.3
       }
     ]
