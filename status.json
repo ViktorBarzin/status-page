@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T13:55:17.458237+00:00",
+  "last_updated": "2026-04-11T14:00:50.928297+00:00",
   "groups": {
     "HTTP": [
       {
@@ -31,7 +31,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 90.9,
+        "uptime_30d": 91.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 80.1,
+        "uptime_7d": 80.2,
         "uptime_30d": 72.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.7,
+        "uptime_30d": 84.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 71.5,
-        "uptime_7d": 47.9,
-        "uptime_30d": 47.8,
+        "uptime_24h": 71.8,
+        "uptime_7d": 48.0,
+        "uptime_30d": 47.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 86.6,
-        "uptime_7d": 91.1,
-        "uptime_30d": 90.5,
+        "uptime_24h": 86.3,
+        "uptime_7d": 90.9,
+        "uptime_30d": 90.3,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 81.1,
-        "uptime_7d": 86.6,
-        "uptime_30d": 86.6,
+        "uptime_24h": 80.8,
+        "uptime_7d": 86.4,
+        "uptime_30d": 86.4,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 93.9,
-        "uptime_7d": 90.9,
-        "uptime_30d": 90.9,
+        "uptime_7d": 91.0,
+        "uptime_30d": 91.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -785,7 +785,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.5,
+        "uptime_7d": 5.4,
         "uptime_30d": 6.2
       },
       {
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 51.6,
-        "uptime_7d": 65.9,
-        "uptime_30d": 65.4
+        "uptime_7d": 66.0,
+        "uptime_30d": 65.5
       },
       {
         "name": "pfSense Gateway",
@@ -839,9 +839,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 65.3,
-        "uptime_7d": 62.1,
-        "uptime_30d": 59.2
+        "uptime_24h": 66.7,
+        "uptime_7d": 62.3,
+        "uptime_30d": 59.3
       }
     ]
   }
