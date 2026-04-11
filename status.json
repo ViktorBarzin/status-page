@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T15:45:19.250469+00:00",
+  "last_updated": "2026-04-11T15:51:09.574463+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 91.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -157,8 +157,8 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 77.0,
-        "uptime_7d": 81.0,
+        "uptime_24h": 77.4,
+        "uptime_7d": 81.1,
         "uptime_30d": 73.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 96.8,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.0,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.2,
-        "uptime_30d": 93.1,
+        "uptime_30d": 93.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 78.9,
-        "uptime_7d": 49.9,
-        "uptime_30d": 49.8,
+        "uptime_24h": 79.6,
+        "uptime_7d": 50.1,
+        "uptime_30d": 50.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 80.3,
-        "uptime_7d": 87.6,
-        "uptime_30d": 87.1,
+        "uptime_24h": 79.6,
+        "uptime_7d": 87.2,
+        "uptime_30d": 86.7,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -542,8 +542,8 @@
         "name": "Travel Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://travel.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 74.7,
-        "uptime_7d": 83.3,
-        "uptime_30d": 83.3,
+        "uptime_24h": 74.4,
+        "uptime_7d": 83.1,
+        "uptime_30d": 83.1,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -694,8 +694,8 @@
         "name": "Task Webhook",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -728,7 +728,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.2
+        "uptime_30d": 98.3
       },
       {
         "name": "ShadowSocks Proxy",
@@ -742,7 +742,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2
+        "uptime_30d": 98.3
       },
       {
         "name": "Traefik LoadBalancer",
@@ -799,8 +799,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 50.7,
-        "uptime_7d": 67.1,
-        "uptime_30d": 66.6
+        "uptime_7d": 67.2,
+        "uptime_30d": 66.7
       },
       {
         "name": "pfSense Gateway",
