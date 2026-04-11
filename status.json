@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T21:11:10.206307+00:00",
+  "last_updated": "2026-04-11T21:15:18.249638+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.6,
         "uptime_7d": 83.4,
-        "uptime_30d": 75.9,
+        "uptime_30d": 76.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 56.8,
+        "uptime_24h": 56.6,
         "uptime_7d": 76.2,
         "uptime_30d": 75.9,
         "url": "https://ollama.viktorbarzin.me"
