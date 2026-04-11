@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T18:30:19.030341+00:00",
+  "last_updated": "2026-04-11T18:35:17.241190+00:00",
   "groups": {
     "HTTP": [
       {
@@ -69,7 +69,7 @@
       {
         "name": "Grafana",
         "status": "up",
-        "uptime_24h": 99.6,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.8,
         "uptime_30d": 99.2,
         "url": "https://grafana.viktorbarzin.me"
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 88.7,
+        "uptime_24h": 89.0,
         "uptime_7d": 82.3,
-        "uptime_30d": 74.7,
+        "uptime_30d": 74.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -319,15 +319,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 90.7,
-        "uptime_7d": 53.4,
-        "uptime_30d": 53.2,
+        "uptime_24h": 91.0,
+        "uptime_7d": 53.5,
+        "uptime_30d": 53.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.6,
-        "uptime_30d": 79.6,
+        "uptime_30d": 79.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 68.5,
-        "uptime_7d": 81.5,
-        "uptime_30d": 81.1,
+        "uptime_24h": 68.1,
+        "uptime_7d": 81.3,
+        "uptime_30d": 80.9,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.9,
-        "uptime_7d": 89.6,
-        "uptime_30d": 89.6,
+        "uptime_7d": 89.7,
+        "uptime_30d": 89.7,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -771,7 +771,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 4.6,
-        "uptime_30d": 5.5
+        "uptime_30d": 5.4
       },
       {
         "name": "Valchedrym Video System",
@@ -792,7 +792,7 @@
         "status": "up",
         "uptime_24h": 50.5,
         "uptime_7d": 69.2,
-        "uptime_30d": 68.6
+        "uptime_30d": 68.7
       },
       {
         "name": "pfSense Gateway",
@@ -832,8 +832,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 66.7,
-        "uptime_7d": 63.0,
-        "uptime_30d": 59.5
+        "uptime_7d": 63.2,
+        "uptime_30d": 59.7
       }
     ]
   }
