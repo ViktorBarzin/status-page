@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T10:56:11.117965+00:00",
+  "last_updated": "2026-04-11T11:00:27.413562+00:00",
   "groups": {
     "HTTP": [
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -44,10 +44,10 @@
       },
       {
         "name": "IDRAC Redfish Exporter",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "status": "down",
+        "uptime_24h": 99.9,
+        "uptime_7d": 99.9,
+        "uptime_30d": 99.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 71.2,
-        "uptime_7d": 78.2,
-        "uptime_30d": 70.8,
+        "uptime_7d": 78.3,
+        "uptime_30d": 70.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.7,
+        "uptime_30d": 84.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 93.7,
-        "uptime_7d": 94.5,
-        "uptime_30d": 94.5,
+        "uptime_24h": 93.4,
+        "uptime_7d": 94.2,
+        "uptime_30d": 94.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 53.8,
         "uptime_7d": 64.7,
-        "uptime_30d": 64.1
+        "uptime_30d": 64.2
       },
       {
         "name": "pfSense Gateway",
