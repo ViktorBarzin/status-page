@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T16:25:18.337296+00:00",
+  "last_updated": "2026-04-11T16:31:10.248610+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 91.3,
+        "uptime_30d": 91.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 79.9,
-        "uptime_7d": 81.3,
-        "uptime_30d": 73.7,
+        "uptime_24h": 80.2,
+        "uptime_7d": 81.4,
+        "uptime_30d": 73.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.3,
-        "uptime_30d": 93.2,
+        "uptime_30d": 93.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -325,9 +325,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 81.7,
-        "uptime_7d": 50.8,
-        "uptime_30d": 50.7,
+        "uptime_24h": 82.4,
+        "uptime_7d": 51.0,
+        "uptime_30d": 50.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 77.4,
-        "uptime_7d": 86.0,
-        "uptime_30d": 85.5,
+        "uptime_24h": 76.8,
+        "uptime_7d": 85.7,
+        "uptime_30d": 85.2,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "OpenLobster",
         "status": "down",
-        "uptime_24h": 72.1,
-        "uptime_7d": 82.1,
-        "uptime_30d": 82.1,
+        "uptime_24h": 71.8,
+        "uptime_7d": 81.9,
+        "uptime_30d": 81.9,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -800,7 +800,7 @@
         "status": "up",
         "uptime_24h": 50.7,
         "uptime_7d": 67.7,
-        "uptime_30d": 67.1
+        "uptime_30d": 67.2
       },
       {
         "name": "pfSense Gateway",
@@ -840,8 +840,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 65.7,
-        "uptime_7d": 62.8,
-        "uptime_30d": 59.3
+        "uptime_7d": 63.0,
+        "uptime_30d": 59.5
       }
     ]
   }
