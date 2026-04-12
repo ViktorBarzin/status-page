@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T15:05:19.197829+00:00",
+  "last_updated": "2026-04-12T15:10:18.753015+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.7,
+        "uptime_30d": 85.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 84.6,
+        "uptime_30d": 84.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.9,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 87.8,
-        "uptime_7d": 91.6,
-        "uptime_30d": 90.0,
+        "uptime_24h": 87.5,
+        "uptime_7d": 91.4,
+        "uptime_30d": 89.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 90.0,
-        "uptime_7d": 92.9,
-        "uptime_30d": 91.4,
+        "uptime_24h": 89.6,
+        "uptime_7d": 92.7,
+        "uptime_30d": 91.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -421,7 +421,7 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 89.2,
+        "uptime_24h": 89.1,
         "uptime_7d": 92.8,
         "uptime_30d": 90.2,
         "url": "https://speedtest.viktorbarzin.me"
@@ -630,8 +630,8 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 17.7,
-        "uptime_7d": 14.5,
-        "uptime_30d": 16.1
+        "uptime_24h": 18.1,
+        "uptime_7d": 14.7,
+        "uptime_30d": 16.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 17.7,
-        "uptime_7d": 14.3,
-        "uptime_30d": 16.2
+        "uptime_24h": 18.1,
+        "uptime_7d": 14.5,
+        "uptime_30d": 16.4
       },
       {
         "name": "Valchedrym DDNS",
