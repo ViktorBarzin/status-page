@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T15:55:17.615014+00:00",
+  "last_updated": "2026-04-12T16:00:22.879534+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 96.7,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 84.2,
-        "uptime_7d": 89.6,
-        "uptime_30d": 88.0,
+        "uptime_24h": 83.9,
+        "uptime_7d": 89.4,
+        "uptime_30d": 87.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 86.4,
-        "uptime_7d": 90.8,
-        "uptime_30d": 89.4,
+        "uptime_24h": 86.0,
+        "uptime_7d": 90.6,
+        "uptime_30d": 89.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 94.1,
+        "uptime_30d": 94.2,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.1,
-        "uptime_30d": 78.6,
+        "uptime_7d": 91.2,
+        "uptime_30d": 78.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -421,25 +421,25 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 85.9,
-        "uptime_7d": 90.9,
-        "uptime_30d": 88.4,
+        "uptime_24h": 85.2,
+        "uptime_7d": 90.5,
+        "uptime_30d": 88.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 85.6,
-        "uptime_7d": 90.5,
-        "uptime_30d": 89.2,
+        "uptime_24h": 84.9,
+        "uptime_7d": 90.0,
+        "uptime_30d": 88.8,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 23.7,
-        "uptime_30d": 23.9,
+        "uptime_7d": 23.6,
+        "uptime_30d": 23.8,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.5,
-        "uptime_7d": 88.8,
-        "uptime_30d": 88.8,
+        "uptime_7d": 88.9,
+        "uptime_30d": 88.9,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 21.3,
-        "uptime_7d": 16.3,
-        "uptime_30d": 17.8
+        "uptime_24h": 21.7,
+        "uptime_7d": 16.5,
+        "uptime_30d": 17.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 21.3,
-        "uptime_7d": 15.8,
-        "uptime_30d": 17.9
+        "uptime_24h": 21.7,
+        "uptime_7d": 16.0,
+        "uptime_30d": 18.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 73.9,
-        "uptime_30d": 72.5
+        "uptime_30d": 72.6
       },
       {
         "name": "pfSense Gateway",
