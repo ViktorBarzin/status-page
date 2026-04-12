@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T11:15:22.486263+00:00",
+  "last_updated": "2026-04-12T11:20:22.958244+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.5,
+        "uptime_30d": 84.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 93.6,
+        "uptime_7d": 93.8,
         "uptime_30d": 92.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.9,
-        "uptime_30d": 76.9,
+        "uptime_7d": 90.0,
+        "uptime_30d": 77.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -438,8 +438,8 @@
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 27.2,
-        "uptime_30d": 27.3,
+        "uptime_7d": 27.1,
+        "uptime_30d": 27.2,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -629,9 +629,9 @@
       {
         "name": "Woodpecker CI",
         "status": "down",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.9,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.5,
-        "uptime_7d": 88.5,
-        "uptime_30d": 88.5,
+        "uptime_7d": 88.6,
+        "uptime_30d": 88.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -769,16 +769,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 1.1,
-        "uptime_7d": 6.1,
-        "uptime_30d": 7.3
+        "uptime_24h": 1.5,
+        "uptime_7d": 6.3,
+        "uptime_30d": 7.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 1.1,
-        "uptime_7d": 6.3,
-        "uptime_30d": 7.5
+        "uptime_24h": 1.5,
+        "uptime_7d": 6.5,
+        "uptime_30d": 7.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -791,8 +791,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 97.4,
-        "uptime_7d": 69.8,
-        "uptime_30d": 69.0
+        "uptime_7d": 70.1,
+        "uptime_30d": 69.1
       },
       {
         "name": "pfSense Gateway",
