@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T23:25:23.103847+00:00",
+  "last_updated": "2026-04-12T23:30:22.925664+00:00",
   "groups": {
     "HTTP": [
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 59.9,
-        "uptime_7d": 78.7,
+        "uptime_7d": 78.8,
         "uptime_30d": 77.6,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -421,16 +421,16 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 53.2,
-        "uptime_7d": 75.3,
-        "uptime_30d": 74.0,
+        "uptime_24h": 52.9,
+        "uptime_7d": 75.2,
+        "uptime_30d": 73.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 60.2,
-        "uptime_7d": 78.9,
+        "uptime_7d": 79.0,
         "uptime_30d": 78.1,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -438,7 +438,7 @@
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 19.7,
+        "uptime_7d": 19.6,
         "uptime_30d": 19.7,
         "url": "https://ollama.viktorbarzin.me"
       },
@@ -559,7 +559,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -575,7 +575,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 89.0,
-        "uptime_7d": 95.0,
-        "uptime_30d": 95.0
+        "uptime_24h": 88.7,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 89.0,
-        "uptime_7d": 95.0,
-        "uptime_30d": 95.0
+        "uptime_24h": 88.7,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 53.6,
-        "uptime_7d": 29.1,
-        "uptime_30d": 30.4
+        "uptime_24h": 54.0,
+        "uptime_7d": 29.3,
+        "uptime_30d": 30.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 53.6,
-        "uptime_7d": 29.0,
-        "uptime_30d": 30.4
+        "uptime_24h": 54.0,
+        "uptime_7d": 29.1,
+        "uptime_30d": 30.6
       },
       {
         "name": "Valchedrym DDNS",
