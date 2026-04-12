@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T06:26:09.480706+00:00",
+  "last_updated": "2026-04-12T06:30:19.151153+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 18.3,
+        "uptime_24h": 18.0,
         "uptime_7d": 31.0,
         "uptime_30d": 31.1,
         "url": "https://ollama.viktorbarzin.me"
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 80.2,
-        "uptime_7d": 65.9,
-        "uptime_30d": 65.2
+        "uptime_24h": 80.6,
+        "uptime_7d": 66.0,
+        "uptime_30d": 65.3
       },
       {
         "name": "pfSense Gateway",
