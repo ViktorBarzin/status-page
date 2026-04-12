@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:50:16.785170+00:00",
+  "last_updated": "2026-04-12T09:55:17.755299+00:00",
   "groups": {
     "HTTP": [
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 85.5,
+        "uptime_30d": 85.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 93.1,
+        "uptime_7d": 93.3,
         "uptime_30d": 91.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 3.9,
-        "uptime_7d": 27.7,
-        "uptime_30d": 27.8,
+        "uptime_24h": 3.5,
+        "uptime_7d": 27.6,
+        "uptime_30d": 27.7,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -558,8 +558,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -598,8 +598,8 @@
         "name": "Alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -713,7 +713,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "Imap",
@@ -734,7 +734,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "Traefik LoadBalancer",
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 94.7,
-        "uptime_7d": 69.3,
-        "uptime_30d": 68.5
+        "uptime_24h": 95.1,
+        "uptime_7d": 69.4,
+        "uptime_30d": 68.6
       },
       {
         "name": "pfSense Gateway",
