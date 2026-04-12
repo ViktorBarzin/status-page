@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T03:41:09.035256+00:00",
+  "last_updated": "2026-04-12T03:45:17.941209+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.1,
+        "uptime_7d": 92.2,
         "uptime_30d": 89.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 29.9,
+        "uptime_24h": 29.7,
         "uptime_7d": 34.3,
         "uptime_30d": 34.4,
         "url": "https://ollama.viktorbarzin.me"
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 68.6,
-        "uptime_7d": 62.6,
-        "uptime_30d": 62.0
+        "uptime_24h": 68.9,
+        "uptime_7d": 62.7,
+        "uptime_30d": 62.1
       },
       {
         "name": "pfSense Gateway",
