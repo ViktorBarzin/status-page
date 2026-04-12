@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T07:30:19.263966+00:00",
+  "last_updated": "2026-04-12T07:35:17.030347+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.0,
+        "uptime_7d": 93.1,
         "uptime_30d": 91.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 92.6,
-        "uptime_30d": 91.3,
+        "uptime_30d": 91.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.1,
-        "uptime_30d": 75.7,
+        "uptime_7d": 89.2,
+        "uptime_30d": 75.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 13.8,
-        "uptime_7d": 29.9,
-        "uptime_30d": 30.0,
+        "uptime_24h": 13.4,
+        "uptime_7d": 29.8,
+        "uptime_30d": 29.9,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -646,8 +646,8 @@
         "name": "Networking Toolbox",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -662,16 +662,16 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.7,
-        "uptime_7d": 87.8,
-        "uptime_30d": 87.8,
+        "uptime_7d": 87.9,
+        "uptime_30d": 87.9,
         "url": "https://poison.viktorbarzin.me"
       },
       {
         "name": "Flaresolverr",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 84.8,
-        "uptime_7d": 67.0,
-        "uptime_30d": 66.3
+        "uptime_24h": 85.2,
+        "uptime_7d": 67.1,
+        "uptime_30d": 66.4
       },
       {
         "name": "pfSense Gateway",
@@ -831,9 +831,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 68.1,
-        "uptime_7d": 61.1,
-        "uptime_30d": 58.0
+        "uptime_24h": 69.1,
+        "uptime_7d": 61.3,
+        "uptime_30d": 58.2
       }
     ]
   }
