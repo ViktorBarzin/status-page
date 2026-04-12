@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T16:05:17.665152+00:00",
+  "last_updated": "2026-04-12T16:11:10.431056+00:00",
   "groups": {
     "HTTP": [
       {
@@ -22,7 +22,7 @@
         "name": "Echo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.9,
         "url": "https://echo.viktorbarzin.me"
       },
@@ -62,7 +62,7 @@
         "name": "Privatebin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.2,
         "url": "https://pb.viktorbarzin.me"
       },
@@ -78,7 +78,7 @@
         "name": "Formula 1 Stream",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 97.2,
         "url": "https://f1.viktorbarzin.me"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 84.9,
+        "uptime_30d": 85.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 83.5,
-        "uptime_7d": 89.2,
-        "uptime_30d": 87.6,
+        "uptime_24h": 82.8,
+        "uptime_7d": 88.8,
+        "uptime_30d": 87.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 85.7,
-        "uptime_7d": 90.4,
-        "uptime_30d": 89.0,
+        "uptime_24h": 85.0,
+        "uptime_7d": 90.0,
+        "uptime_30d": 88.6,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -421,25 +421,25 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 85.1,
-        "uptime_7d": 90.5,
-        "uptime_30d": 88.0,
+        "uptime_24h": 84.5,
+        "uptime_7d": 90.0,
+        "uptime_30d": 87.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 84.8,
-        "uptime_7d": 90.0,
-        "uptime_30d": 88.8,
+        "uptime_24h": 84.2,
+        "uptime_7d": 89.6,
+        "uptime_30d": 88.4,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 23.6,
-        "uptime_30d": 23.8,
+        "uptime_7d": 23.5,
+        "uptime_30d": 23.7,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -486,8 +486,8 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 22.0,
-        "uptime_7d": 16.5,
-        "uptime_30d": 18.1
+        "uptime_24h": 22.3,
+        "uptime_7d": 16.7,
+        "uptime_30d": 18.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 22.0,
-        "uptime_7d": 16.2,
-        "uptime_30d": 18.2
+        "uptime_24h": 22.4,
+        "uptime_7d": 16.3,
+        "uptime_30d": 18.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 74.0,
-        "uptime_30d": 72.6
+        "uptime_30d": 72.7
       },
       {
         "name": "pfSense Gateway",
