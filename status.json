@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T04:40:17.379128+00:00",
+  "last_updated": "2026-04-12T04:45:17.603383+00:00",
   "groups": {
     "HTTP": [
       {
@@ -31,7 +31,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 83.4,
+        "uptime_7d": 98.8,
+        "uptime_30d": 83.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.3,
+        "uptime_30d": 82.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.2,
+        "uptime_7d": 88.3,
         "uptime_30d": 74.5,
         "url": "http://blog.website.svc"
       },
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 25.8,
-        "uptime_7d": 33.1,
-        "uptime_30d": 33.2,
+        "uptime_24h": 25.4,
+        "uptime_7d": 33.0,
+        "uptime_30d": 33.1,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -502,8 +502,8 @@
         "name": "City Guesser",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -574,8 +574,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -606,24 +606,24 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "Goldilocks (VPA)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 89.0,
-        "uptime_30d": 89.0,
+        "uptime_7d": 89.1,
+        "uptime_30d": 89.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -785,14 +785,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.1
+        "uptime_30d": 98.2
       },
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 72.8,
-        "uptime_7d": 63.8,
-        "uptime_30d": 63.2
+        "uptime_24h": 73.1,
+        "uptime_7d": 63.9,
+        "uptime_30d": 63.3
       },
       {
         "name": "pfSense Gateway",
