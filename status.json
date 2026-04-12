@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T18:55:34.182763+00:00",
+  "last_updated": "2026-04-12T19:00:51.105166+00:00",
   "groups": {
     "HTTP": [
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 96.3,
+        "uptime_7d": 96.5,
         "uptime_30d": 93.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 71.3,
-        "uptime_7d": 82.8,
-        "uptime_30d": 81.6,
+        "uptime_24h": 70.9,
+        "uptime_7d": 82.6,
+        "uptime_30d": 81.5,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 73.5,
-        "uptime_7d": 84.1,
-        "uptime_30d": 82.9,
+        "uptime_24h": 73.1,
+        "uptime_7d": 84.0,
+        "uptime_30d": 82.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -421,25 +421,25 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 72.7,
-        "uptime_7d": 83.8,
-        "uptime_30d": 81.9,
+        "uptime_24h": 72.3,
+        "uptime_7d": 83.6,
+        "uptime_30d": 81.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 72.4,
-        "uptime_7d": 83.6,
-        "uptime_30d": 82.5,
+        "uptime_24h": 72.0,
+        "uptime_7d": 83.4,
+        "uptime_30d": 82.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 21.9,
-        "uptime_30d": 22.1,
+        "uptime_7d": 21.8,
+        "uptime_30d": 22.0,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -765,7 +765,7 @@
         "uptime_30d": 99.9
       },
       {
-        "name": "Mail SMTP (ForwardEmail port 266)",
+        "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 34.2,
-        "uptime_7d": 21.8,
-        "uptime_30d": 23.4
+        "uptime_24h": 34.5,
+        "uptime_7d": 21.9,
+        "uptime_30d": 23.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 34.2,
-        "uptime_7d": 21.6,
-        "uptime_30d": 23.4
+        "uptime_24h": 34.5,
+        "uptime_7d": 21.8,
+        "uptime_30d": 23.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,7 +798,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.8,
+        "uptime_7d": 76.0,
         "uptime_30d": 74.4
       },
       {
@@ -838,7 +838,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 53.0,
+        "uptime_24h": 53.1,
         "uptime_7d": 57.5,
         "uptime_30d": 55.7
       }
