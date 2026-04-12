@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:21:09.365470+00:00",
+  "last_updated": "2026-04-12T09:25:16.899105+00:00",
   "groups": {
     "HTTP": [
       {
@@ -197,7 +197,7 @@
       {
         "name": "Frigate",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 96.2,
         "url": "https://frigate.viktorbarzin.me"
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.6,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 6.0,
+        "uptime_24h": 5.7,
         "uptime_7d": 28.0,
         "uptime_30d": 28.2,
         "url": "https://ollama.viktorbarzin.me"
@@ -605,7 +605,7 @@
       {
         "name": "Prometheus",
         "status": "up",
-        "uptime_24h": 98.9,
+        "uptime_24h": 99.3,
         "uptime_7d": 97.4,
         "uptime_30d": 97.4,
         "url": "https://grafana.viktorbarzin.me"
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.4,
-        "uptime_7d": 88.2,
-        "uptime_30d": 88.2,
+        "uptime_7d": 88.3,
+        "uptime_30d": 88.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -770,14 +770,14 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.6,
+        "uptime_7d": 5.5,
         "uptime_30d": 6.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.8,
+        "uptime_7d": 5.7,
         "uptime_30d": 7.0
       },
       {
@@ -790,8 +790,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 92.6,
-        "uptime_7d": 68.8,
+        "uptime_24h": 92.9,
+        "uptime_7d": 68.9,
         "uptime_30d": 68.1
       },
       {
