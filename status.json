@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T19:20:51.909513+00:00",
+  "last_updated": "2026-04-12T19:25:42.622835+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.0,
-        "uptime_30d": 93.1,
+        "uptime_7d": 97.1,
+        "uptime_30d": 93.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 69.4,
-        "uptime_7d": 82.0,
-        "uptime_30d": 80.8,
+        "uptime_24h": 69.1,
+        "uptime_7d": 81.8,
+        "uptime_30d": 80.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 71.7,
-        "uptime_7d": 83.3,
-        "uptime_30d": 82.1,
+        "uptime_24h": 71.3,
+        "uptime_7d": 83.1,
+        "uptime_30d": 81.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.9,
-        "uptime_30d": 79.7,
+        "uptime_30d": 79.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -421,25 +421,25 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 70.9,
-        "uptime_7d": 82.9,
-        "uptime_30d": 81.1,
+        "uptime_24h": 70.5,
+        "uptime_7d": 82.7,
+        "uptime_30d": 80.9,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 70.6,
-        "uptime_7d": 82.7,
-        "uptime_30d": 81.7,
+        "uptime_24h": 70.3,
+        "uptime_7d": 82.5,
+        "uptime_30d": 81.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 21.7,
-        "uptime_30d": 21.9,
+        "uptime_7d": 21.6,
+        "uptime_30d": 21.8,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -622,7 +622,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 93.0,
+        "uptime_7d": 93.2,
         "uptime_30d": 91.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 36.0,
-        "uptime_7d": 22.5,
-        "uptime_30d": 24.1
+        "uptime_24h": 36.3,
+        "uptime_7d": 22.7,
+        "uptime_30d": 24.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 36.0,
+        "uptime_24h": 36.3,
         "uptime_7d": 22.4,
-        "uptime_30d": 24.1
+        "uptime_30d": 24.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 76.2,
-        "uptime_30d": 74.6
+        "uptime_30d": 74.7
       },
       {
         "name": "pfSense Gateway",
