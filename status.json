@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T05:55:17.102794+00:00",
+  "last_updated": "2026-04-12T06:00:24.812101+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
-        "uptime_30d": 81.6,
+        "uptime_30d": 81.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.6,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 92.2,
-        "uptime_30d": 90.9,
+        "uptime_30d": 91.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.7,
-        "uptime_30d": 75.0,
+        "uptime_30d": 75.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -399,7 +399,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 20.5,
-        "uptime_7d": 31.6,
-        "uptime_30d": 31.7,
+        "uptime_24h": 20.1,
+        "uptime_7d": 31.5,
+        "uptime_30d": 31.6,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.0,
-        "uptime_7d": 87.7,
-        "uptime_30d": 87.7,
+        "uptime_7d": 87.8,
+        "uptime_30d": 87.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -770,7 +770,7 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.2,
+        "uptime_7d": 6.1,
         "uptime_30d": 7.5
       },
       {
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 78.1,
-        "uptime_7d": 65.3,
-        "uptime_30d": 64.7
+        "uptime_24h": 78.4,
+        "uptime_7d": 65.4,
+        "uptime_30d": 64.8
       },
       {
         "name": "pfSense Gateway",
