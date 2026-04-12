@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:10:17.570287+00:00",
+  "last_updated": "2026-04-12T09:15:18.093540+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 82.9,
+        "uptime_30d": 83.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
+        "uptime_7d": 93.0,
         "uptime_30d": 90.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 92.9,
-        "uptime_30d": 91.7,
+        "uptime_30d": 91.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.6,
-        "uptime_30d": 76.4,
+        "uptime_30d": 76.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 6.7,
-        "uptime_7d": 28.3,
-        "uptime_30d": 28.4,
+        "uptime_24h": 6.4,
+        "uptime_7d": 28.2,
+        "uptime_30d": 28.3,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -661,7 +661,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 94.0,
+        "uptime_24h": 94.4,
         "uptime_7d": 88.2,
         "uptime_30d": 88.2,
         "url": "https://poison.viktorbarzin.me"
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 91.9,
-        "uptime_7d": 68.6,
-        "uptime_30d": 67.9
+        "uptime_24h": 92.2,
+        "uptime_7d": 68.7,
+        "uptime_30d": 68.0
       },
       {
         "name": "pfSense Gateway",
