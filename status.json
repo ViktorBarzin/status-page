@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T03:31:10.128333+00:00",
+  "last_updated": "2026-04-12T03:37:59.433949+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.5,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 82.9,
+        "uptime_30d": 83.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.8,
+        "uptime_30d": 81.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.1,
-        "uptime_30d": 89.8,
+        "uptime_30d": 89.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 91.6,
-        "uptime_30d": 90.2,
+        "uptime_30d": 90.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.8,
-        "uptime_30d": 73.9,
+        "uptime_7d": 87.9,
+        "uptime_30d": 74.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -431,15 +431,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 30.6,
-        "uptime_7d": 34.6,
-        "uptime_30d": 34.6,
+        "uptime_24h": 30.3,
+        "uptime_7d": 34.4,
+        "uptime_30d": 34.5,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.6,
-        "uptime_30d": 91.6,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,9 +661,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 94.0,
-        "uptime_7d": 87.3,
-        "uptime_30d": 87.3,
+        "uptime_24h": 93.7,
+        "uptime_7d": 87.1,
+        "uptime_30d": 87.1,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -720,7 +720,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.4
+        "uptime_30d": 97.5
       },
       {
         "name": "ShadowSocks Proxy",
@@ -778,7 +778,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.9,
-        "uptime_30d": 8.4
+        "uptime_30d": 8.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 67.8,
-        "uptime_7d": 62.4,
-        "uptime_30d": 61.8
+        "uptime_24h": 68.3,
+        "uptime_7d": 62.6,
+        "uptime_30d": 62.0
       },
       {
         "name": "pfSense Gateway",
@@ -815,7 +815,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 93.8
+        "uptime_30d": 93.9
       }
     ],
     "Redis": [
@@ -831,7 +831,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 70.6,
+        "uptime_24h": 71.6,
         "uptime_7d": 61.3,
         "uptime_30d": 58.0
       }
