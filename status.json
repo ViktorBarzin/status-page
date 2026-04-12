@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T11:25:51.992674+00:00",
+  "last_updated": "2026-04-12T11:30:19.967672+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 85.7,
+        "uptime_30d": 85.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -438,8 +438,8 @@
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 27.0,
-        "uptime_30d": 27.2,
+        "uptime_7d": 26.9,
+        "uptime_30d": 27.1,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.2,
-        "uptime_30d": 93.2,
+        "uptime_7d": 93.3,
+        "uptime_30d": 93.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -769,16 +769,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 1.8,
-        "uptime_7d": 6.5,
-        "uptime_30d": 7.7
+        "uptime_24h": 2.2,
+        "uptime_7d": 6.7,
+        "uptime_30d": 7.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 1.8,
+        "uptime_24h": 2.2,
         "uptime_7d": 6.7,
-        "uptime_30d": 7.9
+        "uptime_30d": 8.1
       },
       {
         "name": "Valchedrym DDNS",
