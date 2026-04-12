@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:55:17.755299+00:00",
+  "last_updated": "2026-04-12T10:00:51.475157+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 83.2,
+        "uptime_30d": 83.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.1,
+        "uptime_7d": 97.2,
         "uptime_30d": 96.2,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.8,
-        "uptime_30d": 76.7,
+        "uptime_30d": 76.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -437,8 +437,8 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 3.5,
-        "uptime_7d": 27.6,
+        "uptime_24h": 3.2,
+        "uptime_7d": 27.5,
         "uptime_30d": 27.7,
         "url": "https://ollama.viktorbarzin.me"
       },
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.4,
-        "uptime_7d": 88.4,
-        "uptime_30d": 88.4,
+        "uptime_7d": 88.5,
+        "uptime_30d": 88.5,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -720,7 +720,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "ShadowSocks Proxy",
@@ -777,7 +777,7 @@
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 5.7,
+        "uptime_7d": 5.6,
         "uptime_30d": 6.9
       },
       {
@@ -785,14 +785,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.4
+        "uptime_30d": 98.5
       },
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 95.1,
-        "uptime_7d": 69.4,
-        "uptime_30d": 68.6
+        "uptime_24h": 95.4,
+        "uptime_7d": 69.5,
+        "uptime_30d": 68.7
       },
       {
         "name": "pfSense Gateway",
@@ -830,10 +830,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "up",
-        "uptime_24h": 68.1,
-        "uptime_7d": 61.5,
-        "uptime_30d": 58.4
+        "status": "down",
+        "uptime_24h": 66.7,
+        "uptime_7d": 61.2,
+        "uptime_30d": 58.2
       }
     ]
   }
