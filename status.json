@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T17:52:14.218147+00:00",
+  "last_updated": "2026-04-12T17:55:39.076296+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 87.5,
+        "uptime_30d": 87.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -277,7 +277,7 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 77.9,
+        "uptime_24h": 77.8,
         "uptime_7d": 86.1,
         "uptime_30d": 85.0,
         "url": "https://affine.viktorbarzin.me"
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -421,17 +421,17 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 77.3,
-        "uptime_7d": 86.1,
-        "uptime_30d": 84.1,
+        "uptime_24h": 77.0,
+        "uptime_7d": 86.0,
+        "uptime_30d": 83.9,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 77.1,
-        "uptime_7d": 85.8,
-        "uptime_30d": 84.7,
+        "uptime_24h": 76.7,
+        "uptime_7d": 85.6,
+        "uptime_30d": 84.6,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -439,7 +439,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 22.5,
-        "uptime_30d": 22.7,
+        "uptime_30d": 22.6,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -551,7 +551,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.6,
-        "uptime_30d": 94.2,
+        "uptime_30d": 94.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 29.5,
-        "uptime_7d": 19.8,
-        "uptime_30d": 21.4
+        "uptime_24h": 29.9,
+        "uptime_7d": 20.0,
+        "uptime_30d": 21.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 29.6,
-        "uptime_7d": 19.6,
-        "uptime_30d": 21.5
+        "uptime_24h": 29.9,
+        "uptime_7d": 19.8,
+        "uptime_30d": 21.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,8 +798,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.1,
-        "uptime_30d": 73.7
+        "uptime_7d": 75.2,
+        "uptime_30d": 73.8
       },
       {
         "name": "pfSense Gateway",
