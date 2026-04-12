@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T18:30:59.361453+00:00",
+  "last_updated": "2026-04-12T18:35:41.288018+00:00",
   "groups": {
     "HTTP": [
       {
@@ -68,9 +68,9 @@
       },
       {
         "name": "Grafana",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 98.5,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 73.0,
-        "uptime_7d": 83.7,
-        "uptime_30d": 82.4,
+        "uptime_24h": 72.8,
+        "uptime_7d": 83.5,
+        "uptime_30d": 82.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 75.3,
-        "uptime_7d": 84.9,
-        "uptime_30d": 83.8,
+        "uptime_24h": 74.9,
+        "uptime_7d": 84.7,
+        "uptime_30d": 83.6,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -421,17 +421,17 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 74.5,
-        "uptime_7d": 84.7,
-        "uptime_30d": 82.7,
+        "uptime_24h": 74.1,
+        "uptime_7d": 84.5,
+        "uptime_30d": 82.6,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 74.2,
-        "uptime_7d": 84.3,
-        "uptime_30d": 83.3,
+        "uptime_24h": 73.8,
+        "uptime_7d": 84.1,
+        "uptime_30d": 83.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 93.4,
-        "uptime_30d": 92.2,
+        "uptime_30d": 92.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -713,7 +713,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Imap",
@@ -734,7 +734,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Traefik LoadBalancer",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 32.4,
-        "uptime_7d": 21.1,
-        "uptime_30d": 22.6
+        "uptime_24h": 32.7,
+        "uptime_7d": 21.3,
+        "uptime_30d": 22.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 32.4,
-        "uptime_7d": 20.8,
-        "uptime_30d": 22.7
+        "uptime_24h": 32.7,
+        "uptime_7d": 21.0,
+        "uptime_30d": 22.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 75.7,
-        "uptime_30d": 74.1
+        "uptime_30d": 74.2
       },
       {
         "name": "pfSense Gateway",
@@ -838,9 +838,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 53.8,
-        "uptime_7d": 57.8,
-        "uptime_30d": 55.9
+        "uptime_24h": 53.0,
+        "uptime_7d": 57.5,
+        "uptime_30d": 55.7
       }
     ]
   }
