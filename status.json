@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T05:25:17.340141+00:00",
+  "last_updated": "2026-04-12T05:30:19.293611+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 89.0,
+        "uptime_30d": 89.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
-        "uptime_30d": 81.4,
+        "uptime_30d": 81.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.6,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 92.3,
+        "uptime_30d": 92.4,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 22.6,
-        "uptime_7d": 32.2,
-        "uptime_30d": 32.3,
+        "uptime_24h": 22.3,
+        "uptime_7d": 32.1,
+        "uptime_30d": 32.2,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.1,
-        "uptime_30d": 92.1,
+        "uptime_7d": 92.2,
+        "uptime_30d": 92.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -770,15 +770,15 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.3,
-        "uptime_30d": 7.7
+        "uptime_7d": 6.2,
+        "uptime_30d": 7.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 6.5,
-        "uptime_30d": 7.9
+        "uptime_30d": 7.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 76.0,
-        "uptime_7d": 64.7,
-        "uptime_30d": 64.1
+        "uptime_24h": 76.3,
+        "uptime_7d": 64.8,
+        "uptime_30d": 64.2
       },
       {
         "name": "pfSense Gateway",
