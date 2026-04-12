@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T08:30:19.035517+00:00",
+  "last_updated": "2026-04-12T08:35:17.770462+00:00",
   "groups": {
     "HTTP": [
       {
@@ -22,8 +22,8 @@
         "name": "Echo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 98.6,
+        "uptime_7d": 99.5,
+        "uptime_30d": 98.7,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -62,7 +62,7 @@
         "name": "Privatebin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 97.9,
         "url": "https://pb.viktorbarzin.me"
       },
@@ -78,7 +78,7 @@
         "name": "Formula 1 Stream",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 96.6,
         "url": "https://f1.viktorbarzin.me"
       },
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.2,
-        "uptime_30d": 91.2,
+        "uptime_7d": 93.3,
+        "uptime_30d": 91.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.4,
+        "uptime_7d": 89.5,
         "uptime_30d": 76.2,
         "url": "http://blog.website.svc"
       },
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.2,
+        "uptime_30d": 93.3,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -437,8 +437,8 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 9.5,
-        "uptime_7d": 28.9,
+        "uptime_24h": 9.2,
+        "uptime_7d": 28.8,
         "uptime_30d": 29.0,
         "url": "https://ollama.viktorbarzin.me"
       },
@@ -486,8 +486,8 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -550,8 +550,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.8,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -566,8 +566,8 @@
         "name": "Matrix",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 90.2,
-        "uptime_30d": 90.2,
+        "uptime_7d": 90.3,
+        "uptime_30d": 90.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -778,7 +778,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 5.9,
-        "uptime_30d": 7.2
+        "uptime_30d": 7.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.0,
-        "uptime_7d": 68.0,
-        "uptime_30d": 67.3
+        "uptime_24h": 89.4,
+        "uptime_7d": 68.1,
+        "uptime_30d": 67.4
       },
       {
         "name": "pfSense Gateway",
@@ -832,8 +832,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 69.1,
-        "uptime_7d": 61.5,
-        "uptime_30d": 58.4
+        "uptime_7d": 61.7,
+        "uptime_30d": 58.5
       }
     ]
   }
