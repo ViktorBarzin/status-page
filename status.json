@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T00:20:52.027366+00:00",
+  "last_updated": "2026-04-12T00:25:18.310647+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 84.5,
-        "uptime_30d": 77.2,
+        "uptime_30d": 77.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -326,8 +326,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 59.3,
-        "uptime_30d": 59.1,
+        "uptime_7d": 59.4,
+        "uptime_30d": 59.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 43.4,
-        "uptime_7d": 71.1,
-        "uptime_30d": 70.8,
+        "uptime_24h": 43.0,
+        "uptime_7d": 70.9,
+        "uptime_30d": 70.7,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -606,8 +606,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.2,
-        "uptime_7d": 90.2,
-        "uptime_30d": 90.2,
+        "uptime_7d": 90.0,
+        "uptime_30d": 90.0,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -790,7 +790,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 55.2,
+        "uptime_24h": 55.6,
         "uptime_7d": 72.9,
         "uptime_30d": 72.3
       },
