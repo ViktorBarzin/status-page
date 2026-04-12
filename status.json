@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T11:35:18.598725+00:00",
+  "last_updated": "2026-04-12T11:40:18.674247+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.5,
+        "uptime_7d": 94.7,
         "uptime_30d": 91.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.6,
+        "uptime_7d": 93.7,
         "uptime_30d": 91.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.5,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -438,7 +438,7 @@
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 26.9,
+        "uptime_7d": 26.8,
         "uptime_30d": 27.0,
         "url": "https://ollama.viktorbarzin.me"
       },
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.5,
-        "uptime_7d": 88.6,
-        "uptime_30d": 88.6,
+        "uptime_7d": 88.7,
+        "uptime_30d": 88.7,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -769,16 +769,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 2.6,
-        "uptime_7d": 7.0,
-        "uptime_30d": 8.1
+        "uptime_24h": 2.9,
+        "uptime_7d": 7.2,
+        "uptime_30d": 8.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 2.6,
-        "uptime_7d": 6.9,
-        "uptime_30d": 8.3
+        "uptime_24h": 2.9,
+        "uptime_7d": 7.2,
+        "uptime_30d": 8.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -791,8 +791,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 97.4,
-        "uptime_7d": 70.2,
-        "uptime_30d": 69.3
+        "uptime_7d": 70.3,
+        "uptime_30d": 69.4
       },
       {
         "name": "pfSense Gateway",
