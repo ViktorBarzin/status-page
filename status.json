@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T06:30:19.151153+00:00",
+  "last_updated": "2026-04-12T06:35:17.612124+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -31,7 +31,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 90.7,
+        "uptime_30d": 90.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.6,
+        "uptime_7d": 96.7,
         "uptime_30d": 95.7,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 92.3,
+        "uptime_7d": 92.4,
         "uptime_30d": 91.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -343,14 +343,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.8,
+        "uptime_7d": 88.9,
         "uptime_30d": 75.3,
         "url": "http://blog.website.svc"
       },
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 18.0,
-        "uptime_7d": 31.0,
-        "uptime_30d": 31.1,
+        "uptime_24h": 17.7,
+        "uptime_7d": 30.9,
+        "uptime_30d": 31.0,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 89.6,
-        "uptime_30d": 89.6,
+        "uptime_7d": 89.7,
+        "uptime_30d": 89.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,9 +661,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.7,
-        "uptime_7d": 87.7,
-        "uptime_30d": 87.7,
+        "uptime_24h": 93.4,
+        "uptime_7d": 87.5,
+        "uptime_30d": 87.5,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -770,14 +770,14 @@
         "name": "Valchedrym Security System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.1,
+        "uptime_7d": 6.0,
         "uptime_30d": 7.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 6.3,
+        "uptime_7d": 6.2,
         "uptime_30d": 7.6
       },
       {
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 80.6,
+        "uptime_24h": 80.9,
         "uptime_7d": 66.0,
-        "uptime_30d": 65.3
+        "uptime_30d": 65.4
       },
       {
         "name": "pfSense Gateway",
@@ -832,8 +832,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 69.1,
-        "uptime_7d": 61.0,
-        "uptime_30d": 57.9
+        "uptime_7d": 61.2,
+        "uptime_30d": 58.1
       }
     ]
   }
