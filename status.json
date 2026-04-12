@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T20:50:30.473664+00:00",
+  "last_updated": "2026-04-12T20:55:19.758922+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 97.1,
-        "uptime_30d": 93.6,
+        "uptime_30d": 93.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 63.1,
-        "uptime_7d": 79.0,
-        "uptime_30d": 78.0,
+        "uptime_24h": 62.7,
+        "uptime_7d": 78.8,
+        "uptime_30d": 77.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 65.2,
-        "uptime_7d": 80.3,
-        "uptime_30d": 79.2,
+        "uptime_24h": 64.9,
+        "uptime_7d": 80.1,
+        "uptime_30d": 79.1,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -421,25 +421,25 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 64.4,
-        "uptime_7d": 79.9,
-        "uptime_30d": 78.3,
+        "uptime_24h": 64.0,
+        "uptime_7d": 79.8,
+        "uptime_30d": 78.2,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 64.2,
-        "uptime_7d": 79.7,
-        "uptime_30d": 78.8,
+        "uptime_24h": 63.8,
+        "uptime_7d": 79.6,
+        "uptime_30d": 78.6,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 20.9,
-        "uptime_30d": 21.1,
+        "uptime_7d": 20.8,
+        "uptime_30d": 21.0,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -550,7 +550,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.6,
+        "uptime_7d": 95.8,
         "uptime_30d": 94.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -622,7 +622,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 96.1,
-        "uptime_7d": 92.4,
+        "uptime_7d": 92.5,
         "uptime_30d": 90.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -662,7 +662,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.9,
-        "uptime_7d": 90.7,
+        "uptime_7d": 90.9,
         "uptime_30d": 89.7,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 96.8,
-        "uptime_7d": 98.4,
-        "uptime_30d": 98.3
+        "uptime_24h": 96.6,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.2
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 96.8,
-        "uptime_7d": 98.4,
-        "uptime_30d": 98.3
+        "uptime_24h": 96.6,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 42.4,
-        "uptime_7d": 25.0,
-        "uptime_30d": 26.5
+        "uptime_24h": 42.8,
+        "uptime_7d": 25.1,
+        "uptime_30d": 26.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 42.4,
-        "uptime_7d": 24.8,
-        "uptime_30d": 26.6
+        "uptime_24h": 42.8,
+        "uptime_7d": 24.9,
+        "uptime_30d": 26.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 76.9,
-        "uptime_30d": 75.1
+        "uptime_30d": 75.2
       },
       {
         "name": "pfSense Gateway",
