@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T01:20:17.250873+00:00",
+  "last_updated": "2026-04-12T01:25:17.167694+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.8,
-        "uptime_30d": 77.6,
+        "uptime_7d": 84.9,
+        "uptime_30d": 77.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -326,8 +326,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 60.2,
-        "uptime_30d": 60.0,
+        "uptime_7d": 60.3,
+        "uptime_30d": 60.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 39.9,
-        "uptime_7d": 69.5,
-        "uptime_30d": 69.3,
+        "uptime_24h": 39.6,
+        "uptime_7d": 69.4,
+        "uptime_30d": 69.1,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -621,9 +621,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 94.2,
-        "uptime_7d": 91.9,
-        "uptime_30d": 91.9,
+        "uptime_24h": 94.5,
+        "uptime_7d": 92.0,
+        "uptime_30d": 92.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -790,8 +790,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 58.7,
-        "uptime_7d": 73.4,
+        "uptime_24h": 59.0,
+        "uptime_7d": 73.5,
         "uptime_30d": 72.8
       },
       {
