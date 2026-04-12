@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T01:00:26.156975+00:00",
+  "last_updated": "2026-04-12T01:05:17.839261+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.7,
+        "uptime_7d": 84.8,
         "uptime_30d": 77.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 87.1,
+        "uptime_30d": 87.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.4,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -319,15 +319,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 59.9,
-        "uptime_30d": 59.7,
+        "uptime_7d": 60.0,
+        "uptime_30d": 59.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.6,
-        "uptime_30d": 81.4,
+        "uptime_30d": 81.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Open WebUI",
         "status": "down",
-        "uptime_24h": 41.3,
-        "uptime_7d": 70.0,
-        "uptime_30d": 69.8,
+        "uptime_24h": 41.0,
+        "uptime_7d": 69.9,
+        "uptime_30d": 69.6,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -771,7 +771,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 3.8,
-        "uptime_30d": 4.8
+        "uptime_30d": 4.7
       },
       {
         "name": "Valchedrym Video System",
@@ -790,9 +790,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 57.2,
-        "uptime_7d": 73.2,
-        "uptime_30d": 72.6
+        "uptime_24h": 57.6,
+        "uptime_7d": 73.3,
+        "uptime_30d": 72.7
       },
       {
         "name": "pfSense Gateway",
@@ -831,9 +831,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 70.1,
-        "uptime_7d": 64.1,
-        "uptime_30d": 60.6
+        "uptime_24h": 69.1,
+        "uptime_7d": 63.9,
+        "uptime_30d": 60.5
       }
     ]
   }
