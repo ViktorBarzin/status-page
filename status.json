@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T09:01:26.273624+00:00",
+  "last_updated": "2026-04-13T09:06:08.685995+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.0,
+        "uptime_30d": 83.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,7 +261,7 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 59.3,
+        "uptime_24h": 59.1,
         "uptime_7d": 68.6,
         "uptime_30d": 67.5,
         "url": "https://pdf.viktorbarzin.me"
@@ -277,7 +277,7 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 61.6,
+        "uptime_24h": 61.5,
         "uptime_7d": 70.3,
         "uptime_30d": 69.1,
         "url": "https://affine.viktorbarzin.me"
@@ -343,15 +343,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 90.2,
-        "uptime_30d": 76.1,
+        "uptime_7d": 90.3,
+        "uptime_30d": 76.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.0,
+        "uptime_30d": 94.1,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -421,17 +421,17 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 12.0,
-        "uptime_7d": 32.3,
-        "uptime_30d": 33.7,
+        "uptime_24h": 11.7,
+        "uptime_7d": 32.2,
+        "uptime_30d": 33.6,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 59.6,
-        "uptime_7d": 68.8,
-        "uptime_30d": 68.0,
+        "uptime_7d": 68.9,
+        "uptime_30d": 68.1,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 45.7,
-        "uptime_7d": 65.3,
-        "uptime_30d": 65.3
+        "uptime_24h": 45.2,
+        "uptime_7d": 65.2,
+        "uptime_30d": 65.2
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 45.7,
-        "uptime_7d": 65.3,
-        "uptime_30d": 65.3
+        "uptime_24h": 45.2,
+        "uptime_7d": 65.2,
+        "uptime_30d": 65.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 94.9,
-        "uptime_7d": 72.8,
-        "uptime_30d": 69.6
+        "uptime_24h": 95.3,
+        "uptime_7d": 72.9,
+        "uptime_30d": 69.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 94.9,
-        "uptime_7d": 73.0,
-        "uptime_30d": 69.7
+        "uptime_24h": 95.3,
+        "uptime_7d": 73.1,
+        "uptime_30d": 69.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,7 +798,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 92.1
       },
       {
@@ -839,7 +839,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 50.0,
-        "uptime_7d": 56.1,
+        "uptime_7d": 56.2,
         "uptime_30d": 54.3
       }
     ]
