@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T21:16:08.097108+00:00",
+  "last_updated": "2026-04-13T21:21:09.130767+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.8,
-        "uptime_30d": 91.8,
+        "uptime_30d": 91.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 88.8,
+        "uptime_30d": 88.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 98.6,
-        "uptime_7d": 77.7,
-        "uptime_30d": 77.1,
+        "uptime_24h": 98.9,
+        "uptime_7d": 77.8,
+        "uptime_30d": 77.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 98.6,
-        "uptime_7d": 78.9,
-        "uptime_30d": 78.2,
+        "uptime_24h": 98.9,
+        "uptime_7d": 79.0,
+        "uptime_30d": 78.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -422,15 +422,15 @@
         "name": "Speedtest",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 22.9,
+        "uptime_7d": 22.8,
         "uptime_30d": 24.2,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 97.9,
-        "uptime_7d": 77.9,
+        "uptime_24h": 98.2,
+        "uptime_7d": 78.0,
         "uptime_30d": 77.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -660,7 +660,7 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 93.0,
         "uptime_7d": 93.5,
         "uptime_30d": 89.4,
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 97.6,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6
+        "uptime_24h": 97.2,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 49.3,
-        "uptime_30d": 49.3
+        "uptime_7d": 49.2,
+        "uptime_30d": 49.2
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 49.3,
-        "uptime_30d": 49.3
+        "uptime_7d": 49.2,
+        "uptime_30d": 49.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -777,7 +777,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.9,
+        "uptime_7d": 81.0,
         "uptime_30d": 77.6
       },
       {
@@ -785,7 +785,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 81.1,
-        "uptime_30d": 77.6
+        "uptime_30d": 77.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 98.8,
-        "uptime_30d": 94.1
+        "uptime_30d": 94.2
       },
       {
         "name": "pfSense Gateway",
@@ -811,9 +811,9 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 97.6,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6
+        "uptime_24h": 97.2,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4
       }
     ],
     "PostgreSQL": [
@@ -838,9 +838,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 87.0,
-        "uptime_7d": 64.2,
-        "uptime_30d": 59.9
+        "uptime_24h": 87.1,
+        "uptime_7d": 64.4,
+        "uptime_30d": 60.0
       }
     ]
   }
