@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T22:35:17.801854+00:00",
+  "last_updated": "2026-04-13T22:41:08.725808+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 89.2,
+        "uptime_30d": 89.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.0,
+        "uptime_30d": 94.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.4,
-        "uptime_30d": 77.8,
+        "uptime_7d": 78.5,
+        "uptime_30d": 77.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.6,
-        "uptime_30d": 78.8,
+        "uptime_7d": 79.7,
+        "uptime_30d": 78.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -422,16 +422,16 @@
         "name": "Speedtest",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 22.2,
-        "uptime_30d": 23.6,
+        "uptime_7d": 22.1,
+        "uptime_30d": 23.5,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.6,
-        "uptime_30d": 77.9,
+        "uptime_7d": 78.7,
+        "uptime_30d": 78.0,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -621,7 +621,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 93.2,
+        "uptime_24h": 93.6,
         "uptime_7d": 93.2,
         "uptime_30d": 89.4,
         "url": "https://docker.viktorbarzin.me"
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 92.0,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6
+        "uptime_24h": 91.6,
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.4
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 48.0,
-        "uptime_30d": 48.0
+        "uptime_7d": 47.9,
+        "uptime_30d": 47.9
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 48.0,
-        "uptime_30d": 48.0
+        "uptime_7d": 47.9,
+        "uptime_30d": 47.9
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -785,7 +785,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 81.7,
-        "uptime_30d": 78.2
+        "uptime_30d": 78.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -811,16 +811,16 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 92.0,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6
+        "uptime_24h": 91.6,
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.4
       }
     ],
     "PostgreSQL": [
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.3,
         "uptime_7d": 99.0,
         "uptime_30d": 95.5
       }
@@ -838,9 +838,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 91.4,
-        "uptime_7d": 64.9,
-        "uptime_30d": 60.4
+        "uptime_24h": 91.5,
+        "uptime_7d": 65.1,
+        "uptime_30d": 60.5
       }
     ]
   }
