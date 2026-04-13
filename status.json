@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T01:45:27.514274+00:00",
+  "last_updated": "2026-04-13T01:50:40.433116+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 94.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 93.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 59.9,
-        "uptime_7d": 79.8,
+        "uptime_7d": 79.9,
         "uptime_30d": 78.7,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 43.2,
-        "uptime_7d": 71.5,
-        "uptime_30d": 70.4,
+        "uptime_24h": 42.8,
+        "uptime_7d": 71.4,
+        "uptime_30d": 70.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -438,8 +438,8 @@
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 18.7,
-        "uptime_30d": 18.8,
+        "uptime_7d": 18.6,
+        "uptime_30d": 18.7,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -621,9 +621,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 91.4,
-        "uptime_7d": 91.9,
-        "uptime_30d": 89.5,
+        "uptime_24h": 91.1,
+        "uptime_7d": 91.8,
+        "uptime_30d": 89.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.6,
-        "uptime_7d": 92.0,
+        "uptime_7d": 92.2,
         "uptime_30d": 90.4,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 80.7,
-        "uptime_7d": 92.2,
-        "uptime_30d": 92.1
+        "uptime_24h": 80.4,
+        "uptime_7d": 92.1,
+        "uptime_30d": 92.0
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 80.7,
-        "uptime_7d": 92.2,
-        "uptime_30d": 92.1
+        "uptime_24h": 80.4,
+        "uptime_7d": 92.1,
+        "uptime_30d": 92.0
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 63.7,
-        "uptime_7d": 32.4,
-        "uptime_30d": 33.6
+        "uptime_24h": 64.0,
+        "uptime_7d": 32.5,
+        "uptime_30d": 33.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 63.7,
-        "uptime_7d": 32.3,
-        "uptime_30d": 33.6
+        "uptime_24h": 64.0,
+        "uptime_7d": 32.4,
+        "uptime_30d": 33.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,8 +798,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 79.5,
-        "uptime_30d": 77.5
+        "uptime_7d": 79.6,
+        "uptime_30d": 77.6
       },
       {
         "name": "pfSense Gateway",
