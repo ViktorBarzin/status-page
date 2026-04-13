@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T01:36:41.635174+00:00",
+  "last_updated": "2026-04-13T01:40:59.205714+00:00",
   "groups": {
     "HTTP": [
       {
@@ -261,7 +261,7 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 59.9,
+        "uptime_24h": 59.7,
         "uptime_7d": 79.8,
         "uptime_30d": 78.6,
         "url": "https://pdf.viktorbarzin.me"
@@ -277,7 +277,7 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 62.1,
+        "uptime_24h": 62.0,
         "uptime_7d": 80.9,
         "uptime_30d": 79.8,
         "url": "https://affine.viktorbarzin.me"
@@ -421,16 +421,16 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 43.9,
-        "uptime_7d": 71.8,
-        "uptime_30d": 70.7,
+        "uptime_24h": 43.5,
+        "uptime_7d": 71.7,
+        "uptime_30d": 70.5,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 60.2,
-        "uptime_7d": 79.9,
+        "uptime_7d": 80.0,
         "uptime_30d": 79.1,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -622,7 +622,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 92.1,
-        "uptime_7d": 92.1,
+        "uptime_7d": 92.3,
         "uptime_30d": 89.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 81.3,
-        "uptime_7d": 92.4,
-        "uptime_30d": 92.3
+        "uptime_24h": 81.0,
+        "uptime_7d": 92.3,
+        "uptime_30d": 92.2
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 81.3,
-        "uptime_7d": 92.4,
-        "uptime_30d": 92.3
+        "uptime_24h": 81.0,
+        "uptime_7d": 92.3,
+        "uptime_30d": 92.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 62.9,
-        "uptime_7d": 32.3,
-        "uptime_30d": 33.4
+        "uptime_24h": 63.3,
+        "uptime_7d": 32.4,
+        "uptime_30d": 33.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 62.9,
-        "uptime_7d": 32.0,
-        "uptime_30d": 33.4
+        "uptime_24h": 63.3,
+        "uptime_7d": 32.2,
+        "uptime_30d": 33.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -838,9 +838,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 37.7,
-        "uptime_7d": 54.9,
-        "uptime_30d": 53.7
+        "uptime_24h": 38.7,
+        "uptime_7d": 55.1,
+        "uptime_30d": 53.8
       }
     ]
   }
