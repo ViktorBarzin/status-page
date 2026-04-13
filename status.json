@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T06:06:08.020601+00:00",
+  "last_updated": "2026-04-13T06:10:16.199151+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.0,
+        "uptime_30d": 89.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.8,
+        "uptime_30d": 81.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 59.1,
-        "uptime_7d": 65.1,
-        "uptime_30d": 64.1,
+        "uptime_24h": 59.3,
+        "uptime_7d": 65.2,
+        "uptime_30d": 64.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 61.5,
-        "uptime_7d": 67.0,
-        "uptime_30d": 65.9,
+        "uptime_7d": 67.1,
+        "uptime_30d": 66.0,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.0,
-        "uptime_30d": 74.8,
+        "uptime_7d": 89.1,
+        "uptime_30d": 74.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -421,7 +421,7 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 24.8,
+        "uptime_24h": 24.5,
         "uptime_7d": 35.8,
         "uptime_30d": 37.0,
         "url": "https://speedtest.viktorbarzin.me"
@@ -429,7 +429,7 @@
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 59.6,
+        "uptime_24h": 59.5,
         "uptime_7d": 65.4,
         "uptime_30d": 64.7,
         "url": "https://wealthfolio.viktorbarzin.me"
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 99.8,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 62.5,
-        "uptime_7d": 70.9,
-        "uptime_30d": 70.8
+        "uptime_24h": 62.1,
+        "uptime_7d": 70.7,
+        "uptime_30d": 70.6
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 62.5,
-        "uptime_7d": 70.9,
-        "uptime_30d": 70.8
+        "uptime_24h": 62.1,
+        "uptime_7d": 70.7,
+        "uptime_30d": 70.6
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 82.1,
-        "uptime_7d": 69.6,
-        "uptime_30d": 66.8
+        "uptime_24h": 82.5,
+        "uptime_7d": 69.7,
+        "uptime_30d": 66.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 82.1,
-        "uptime_7d": 69.7,
-        "uptime_30d": 66.9
+        "uptime_24h": 82.5,
+        "uptime_7d": 69.8,
+        "uptime_30d": 67.0
       },
       {
         "name": "Valchedrym DDNS",
