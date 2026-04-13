@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T23:36:09.046954+00:00",
+  "last_updated": "2026-04-13T23:40:16.236573+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.5,
+        "uptime_30d": 87.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -564,7 +564,7 @@
       },
       {
         "name": "Matrix",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
         "uptime_30d": 99.3,
@@ -622,7 +622,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 93.6,
-        "uptime_7d": 93.3,
+        "uptime_7d": 93.4,
         "uptime_30d": 89.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 92.0,
         "uptime_7d": 93.3,
-        "uptime_30d": 89.4,
+        "uptime_30d": 89.5,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 87.8,
-        "uptime_7d": 93.4,
-        "uptime_30d": 93.4
+        "uptime_24h": 87.4,
+        "uptime_7d": 93.2,
+        "uptime_30d": 93.2
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 47.1,
-        "uptime_30d": 47.1
+        "uptime_7d": 47.0,
+        "uptime_30d": 47.0
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 47.1,
-        "uptime_30d": 47.1
+        "uptime_7d": 47.0,
+        "uptime_30d": 47.0
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -777,8 +777,8 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.9,
-        "uptime_30d": 78.6
+        "uptime_7d": 82.0,
+        "uptime_30d": 78.7
       },
       {
         "name": "Valchedrym Video System",
@@ -811,16 +811,16 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 87.8,
-        "uptime_7d": 93.4,
-        "uptime_30d": 93.4
+        "uptime_24h": 87.4,
+        "uptime_7d": 93.2,
+        "uptime_30d": 93.2
       }
     ],
     "PostgreSQL": [
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.1,
         "uptime_30d": 95.6
       }
