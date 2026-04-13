@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T09:46:08.782963+00:00",
+  "last_updated": "2026-04-13T09:50:17.089951+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 59.1,
-        "uptime_7d": 69.3,
-        "uptime_30d": 68.2,
+        "uptime_24h": 59.3,
+        "uptime_7d": 69.4,
+        "uptime_30d": 68.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 97.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -415,13 +415,13 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://cc.viktorbarzin.me"
       },
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 8.8,
+        "uptime_24h": 8.4,
         "uptime_7d": 31.5,
         "uptime_30d": 32.9,
         "url": "https://speedtest.viktorbarzin.me"
@@ -429,7 +429,7 @@
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 59.6,
+        "uptime_24h": 59.5,
         "uptime_7d": 69.6,
         "uptime_30d": 68.8,
         "url": "https://wealthfolio.viktorbarzin.me"
@@ -551,7 +551,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 92.9,
+        "uptime_30d": 93.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.9,
-        "uptime_7d": 94.3,
+        "uptime_7d": 94.6,
         "uptime_30d": 89.0,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 40.7,
-        "uptime_7d": 64.1,
-        "uptime_30d": 64.1
+        "uptime_24h": 40.2,
+        "uptime_7d": 63.9,
+        "uptime_30d": 63.9
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 40.7,
-        "uptime_7d": 64.1,
-        "uptime_30d": 64.1
+        "uptime_24h": 40.2,
+        "uptime_7d": 63.9,
+        "uptime_30d": 63.9
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,15 +776,15 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 98.2,
-        "uptime_7d": 73.5,
-        "uptime_30d": 70.3
+        "uptime_24h": 98.5,
+        "uptime_7d": 73.6,
+        "uptime_30d": 70.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 98.2,
-        "uptime_7d": 73.7,
+        "uptime_24h": 98.5,
+        "uptime_7d": 73.8,
         "uptime_30d": 70.4
       },
       {
