@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T06:31:09.818252+00:00",
+  "last_updated": "2026-04-13T06:35:30.341979+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.0,
+        "uptime_30d": 82.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -277,7 +277,7 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 61.6,
+        "uptime_24h": 61.5,
         "uptime_7d": 67.6,
         "uptime_30d": 66.5,
         "url": "https://affine.viktorbarzin.me"
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.2,
-        "uptime_30d": 75.0,
+        "uptime_30d": 75.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -421,17 +421,17 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 23.0,
-        "uptime_7d": 35.3,
-        "uptime_30d": 36.5,
+        "uptime_24h": 22.6,
+        "uptime_7d": 35.2,
+        "uptime_30d": 36.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 59.6,
-        "uptime_7d": 66.0,
-        "uptime_30d": 65.2,
+        "uptime_7d": 66.1,
+        "uptime_30d": 65.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -620,10 +620,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 91.0,
-        "uptime_7d": 91.0,
-        "uptime_30d": 86.2,
+        "status": "down",
+        "uptime_24h": 90.7,
+        "uptime_7d": 90.7,
+        "uptime_30d": 86.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 60.3,
-        "uptime_7d": 70.0,
-        "uptime_30d": 70.0
+        "uptime_24h": 59.9,
+        "uptime_7d": 69.9,
+        "uptime_30d": 69.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 60.3,
-        "uptime_7d": 70.0,
-        "uptime_30d": 70.0
+        "uptime_24h": 59.9,
+        "uptime_7d": 69.9,
+        "uptime_30d": 69.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,15 +776,15 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 83.9,
-        "uptime_7d": 70.0,
-        "uptime_30d": 67.3
+        "uptime_24h": 84.3,
+        "uptime_7d": 70.1,
+        "uptime_30d": 67.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 83.9,
-        "uptime_7d": 70.2,
+        "uptime_24h": 84.3,
+        "uptime_7d": 70.5,
         "uptime_30d": 67.4
       },
       {
@@ -798,7 +798,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 91.5
       },
       {
