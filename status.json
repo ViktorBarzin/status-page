@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T19:51:08.145039+00:00",
+  "last_updated": "2026-04-13T19:55:16.245439+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 93.0,
         "uptime_7d": 77.0,
-        "uptime_30d": 76.3,
+        "uptime_30d": 76.4,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 93.0,
         "uptime_7d": 78.2,
-        "uptime_30d": 77.4,
+        "uptime_30d": 77.5,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -754,14 +754,14 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 50.7,
+        "uptime_7d": 50.6,
         "uptime_30d": 50.7
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 50.7,
+        "uptime_7d": 50.6,
         "uptime_30d": 50.7
       },
       {
@@ -777,15 +777,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.2,
+        "uptime_7d": 80.3,
         "uptime_30d": 76.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.4,
-        "uptime_30d": 76.9
+        "uptime_7d": 80.5,
+        "uptime_30d": 77.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -797,7 +797,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.6,
         "uptime_7d": 98.8,
         "uptime_30d": 94.0
       },
@@ -820,7 +820,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.0,
         "uptime_30d": 95.3
       }
