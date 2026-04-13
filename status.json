@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T22:46:08.149772+00:00",
+  "last_updated": "2026-04-13T22:50:16.028735+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.9,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 79.7,
-        "uptime_30d": 78.9,
+        "uptime_30d": 79.0,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 93.6,
         "uptime_7d": 93.2,
-        "uptime_30d": 89.4,
+        "uptime_30d": 89.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 91.3,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2
+        "uptime_24h": 90.9,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 47.8,
-        "uptime_30d": 47.9
+        "uptime_7d": 47.7,
+        "uptime_30d": 47.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 47.8,
-        "uptime_30d": 47.9
+        "uptime_7d": 47.7,
+        "uptime_30d": 47.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -784,8 +784,8 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.7,
-        "uptime_30d": 78.3
+        "uptime_7d": 81.8,
+        "uptime_30d": 78.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -811,16 +811,16 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 91.3,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2
+        "uptime_24h": 90.9,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0
       }
     ],
     "PostgreSQL": [
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.0,
         "uptime_30d": 95.6
       }
