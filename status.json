@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T01:01:46.393729+00:00",
+  "last_updated": "2026-04-13T01:06:26.782825+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 87.2,
+        "uptime_30d": 87.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 59.9,
-        "uptime_7d": 79.5,
+        "uptime_7d": 79.6,
         "uptime_30d": 78.4,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 46.4,
-        "uptime_7d": 72.7,
-        "uptime_30d": 71.5,
+        "uptime_24h": 46.0,
+        "uptime_7d": 72.6,
+        "uptime_30d": 71.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -431,15 +431,15 @@
         "status": "up",
         "uptime_24h": 60.2,
         "uptime_7d": 79.7,
-        "uptime_30d": 78.8,
+        "uptime_30d": 78.9,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
         "name": "Open WebUI",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 19.0,
-        "uptime_30d": 19.1,
+        "uptime_7d": 18.9,
+        "uptime_30d": 19.0,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -550,7 +550,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.4,
+        "uptime_7d": 97.6,
         "uptime_30d": 95.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -622,7 +622,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 92.1,
-        "uptime_7d": 91.9,
+        "uptime_7d": 92.0,
         "uptime_30d": 89.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -662,7 +662,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 95.0,
-        "uptime_7d": 92.0,
+        "uptime_7d": 92.1,
         "uptime_30d": 90.4,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 83.4,
-        "uptime_7d": 93.0,
-        "uptime_30d": 93.0
+        "uptime_24h": 83.1,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 83.4,
-        "uptime_7d": 93.0,
-        "uptime_30d": 93.0
+        "uptime_24h": 83.1,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 60.4,
-        "uptime_7d": 31.4,
-        "uptime_30d": 32.6
+        "uptime_24h": 60.8,
+        "uptime_7d": 31.6,
+        "uptime_30d": 32.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 60.4,
-        "uptime_7d": 31.3,
-        "uptime_30d": 32.6
+        "uptime_24h": 60.8,
+        "uptime_7d": 31.4,
+        "uptime_30d": 32.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 79.3,
-        "uptime_30d": 77.2
+        "uptime_30d": 77.3
       },
       {
         "name": "pfSense Gateway",
