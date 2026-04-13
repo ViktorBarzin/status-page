@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T15:00:25.385493+00:00",
+  "last_updated": "2026-04-13T15:05:17.069587+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.0,
+        "uptime_30d": 85.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -261,8 +261,8 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 72.2,
-        "uptime_7d": 73.8,
+        "uptime_24h": 72.5,
+        "uptime_7d": 73.9,
         "uptime_30d": 72.9,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 72.2,
-        "uptime_7d": 75.2,
-        "uptime_30d": 74.1,
+        "uptime_24h": 72.5,
+        "uptime_7d": 75.3,
+        "uptime_30d": 74.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.4,
+        "uptime_7d": 92.6,
         "uptime_30d": 78.6,
         "url": "http://blog.website.svc"
       },
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -622,7 +622,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 88.8,
-        "uptime_7d": 91.8,
+        "uptime_7d": 91.9,
         "uptime_30d": 87.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 19.9,
-        "uptime_7d": 56.3,
-        "uptime_30d": 56.3
+        "uptime_24h": 19.5,
+        "uptime_7d": 56.2,
+        "uptime_30d": 56.2
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 19.9,
-        "uptime_7d": 56.3,
-        "uptime_30d": 56.3
+        "uptime_24h": 19.5,
+        "uptime_7d": 56.2,
+        "uptime_30d": 56.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -778,7 +778,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 77.6,
-        "uptime_30d": 74.1
+        "uptime_30d": 74.2
       },
       {
         "name": "Valchedrym Video System",
@@ -838,9 +838,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 65.1,
-        "uptime_7d": 60.1,
-        "uptime_30d": 57.1
+        "uptime_24h": 66.7,
+        "uptime_7d": 60.4,
+        "uptime_30d": 57.2
       }
     ]
   }
