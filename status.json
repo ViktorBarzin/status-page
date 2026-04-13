@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T23:31:08.205216+00:00",
+  "last_updated": "2026-04-13T23:36:09.046954+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 78.9,
-        "uptime_30d": 78.2,
+        "uptime_30d": 78.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.0,
-        "uptime_30d": 79.2,
+        "uptime_7d": 80.1,
+        "uptime_30d": 79.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -423,7 +423,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 21.7,
-        "uptime_30d": 23.1,
+        "uptime_30d": 23.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 79.1,
-        "uptime_30d": 78.4,
+        "uptime_30d": 78.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -564,10 +564,10 @@
       },
       {
         "name": "Matrix",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.3,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.0,
-        "uptime_7d": 93.2,
+        "uptime_7d": 93.3,
         "uptime_30d": 89.4,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 88.1,
-        "uptime_7d": 93.6,
-        "uptime_30d": 93.6
+        "uptime_24h": 87.8,
+        "uptime_7d": 93.4,
+        "uptime_30d": 93.4
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 47.1,
-        "uptime_30d": 47.2
+        "uptime_30d": 47.1
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 47.1,
-        "uptime_30d": 47.2
+        "uptime_30d": 47.1
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -784,8 +784,8 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 82.0,
-        "uptime_30d": 78.6
+        "uptime_7d": 82.1,
+        "uptime_30d": 78.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -811,9 +811,9 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 88.1,
-        "uptime_7d": 93.6,
-        "uptime_30d": 93.6
+        "uptime_24h": 87.8,
+        "uptime_7d": 93.4,
+        "uptime_30d": 93.4
       }
     ],
     "PostgreSQL": [
@@ -838,7 +838,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 90.3,
+        "uptime_24h": 91.5,
         "uptime_7d": 64.5,
         "uptime_30d": 60.1
       }
