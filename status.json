@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T01:25:22.277369+00:00",
+  "last_updated": "2026-04-13T01:30:28.714400+00:00",
   "groups": {
     "HTTP": [
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 93.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.4,
         "uptime_30d": 94.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 59.9,
         "uptime_7d": 79.7,
-        "uptime_30d": 78.5,
+        "uptime_30d": 78.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 62.0,
-        "uptime_7d": 80.8,
+        "uptime_7d": 80.9,
         "uptime_30d": 79.7,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -399,7 +399,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 44.6,
-        "uptime_7d": 72.1,
-        "uptime_30d": 70.9,
+        "uptime_24h": 44.2,
+        "uptime_7d": 71.9,
+        "uptime_30d": 70.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 82.0,
-        "uptime_7d": 92.6,
-        "uptime_30d": 92.5
+        "uptime_24h": 81.7,
+        "uptime_7d": 92.5,
+        "uptime_30d": 92.4
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 82.0,
-        "uptime_7d": 92.6,
-        "uptime_30d": 92.5
+        "uptime_24h": 81.7,
+        "uptime_7d": 92.5,
+        "uptime_30d": 92.4
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 62.2,
-        "uptime_7d": 32.0,
-        "uptime_30d": 33.2
+        "uptime_24h": 62.6,
+        "uptime_7d": 32.1,
+        "uptime_30d": 33.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 62.2,
-        "uptime_7d": 31.8,
-        "uptime_30d": 33.2
+        "uptime_24h": 62.6,
+        "uptime_7d": 31.9,
+        "uptime_30d": 33.3
       },
       {
         "name": "Valchedrym DDNS",
