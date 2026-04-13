@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T22:31:15.883900+00:00",
+  "last_updated": "2026-04-13T22:35:17.801854+00:00",
   "groups": {
     "HTTP": [
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.7,
-        "uptime_30d": 81.1,
+        "uptime_30d": 81.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -720,7 +720,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.0
+        "uptime_30d": 99.1
       },
       {
         "name": "ShadowSocks Proxy",
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 92.3,
-        "uptime_7d": 95.8,
-        "uptime_30d": 95.8
+        "uptime_24h": 92.0,
+        "uptime_7d": 95.6,
+        "uptime_30d": 95.6
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 48.0,
-        "uptime_30d": 48.1
+        "uptime_30d": 48.0
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 48.0,
-        "uptime_30d": 48.1
+        "uptime_30d": 48.0
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -784,7 +784,7 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.6,
+        "uptime_7d": 81.7,
         "uptime_30d": 78.2
       },
       {
@@ -811,16 +811,16 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 92.3,
-        "uptime_7d": 95.8,
-        "uptime_30d": 95.8
+        "uptime_24h": 92.0,
+        "uptime_7d": 95.6,
+        "uptime_30d": 95.6
       }
     ],
     "PostgreSQL": [
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.0,
         "uptime_30d": 95.5
       }
@@ -838,7 +838,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 90.1,
+        "uptime_24h": 91.4,
         "uptime_7d": 64.9,
         "uptime_30d": 60.4
       }
