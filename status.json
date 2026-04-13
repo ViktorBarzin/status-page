@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T07:50:16.431418+00:00",
+  "last_updated": "2026-04-13T07:56:08.233493+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 100.0,
         "uptime_30d": 89.6,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.3,
+        "uptime_30d": 83.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 59.3,
+        "uptime_24h": 59.1,
         "uptime_7d": 67.3,
-        "uptime_30d": 66.2,
+        "uptime_30d": 66.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 61.5,
-        "uptime_7d": 69.0,
+        "uptime_7d": 69.1,
         "uptime_30d": 67.9,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -350,8 +350,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.7,
-        "uptime_30d": 75.6,
+        "uptime_7d": 89.8,
+        "uptime_30d": 75.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.9,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.8,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -421,17 +421,17 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 17.2,
-        "uptime_7d": 33.7,
-        "uptime_30d": 35.0,
+        "uptime_24h": 16.8,
+        "uptime_7d": 33.5,
+        "uptime_30d": 34.9,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 59.5,
-        "uptime_7d": 67.4,
-        "uptime_30d": 66.7,
+        "uptime_24h": 59.6,
+        "uptime_7d": 67.6,
+        "uptime_30d": 66.9,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -471,7 +471,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -551,7 +551,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 89.7,
         "uptime_7d": 90.8,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 52.9,
-        "uptime_7d": 67.4,
-        "uptime_30d": 67.4
+        "uptime_24h": 52.4,
+        "uptime_7d": 67.3,
+        "uptime_30d": 67.3
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 52.9,
-        "uptime_7d": 67.4,
-        "uptime_30d": 67.4
+        "uptime_24h": 52.4,
+        "uptime_7d": 67.3,
+        "uptime_30d": 67.3
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,15 +776,15 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 89.8,
-        "uptime_7d": 71.7,
-        "uptime_30d": 68.6
+        "uptime_24h": 90.1,
+        "uptime_7d": 71.8,
+        "uptime_30d": 68.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 89.8,
-        "uptime_7d": 71.9,
+        "uptime_24h": 90.1,
+        "uptime_7d": 72.0,
         "uptime_30d": 68.7
       },
       {
