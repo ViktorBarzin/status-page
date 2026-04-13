@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T10:06:08.379832+00:00",
+  "last_updated": "2026-04-13T10:10:15.850590+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.4,
+        "uptime_30d": 83.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 59.1,
-        "uptime_7d": 69.6,
-        "uptime_30d": 68.5,
+        "uptime_24h": 59.3,
+        "uptime_7d": 69.7,
+        "uptime_30d": 68.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 61.5,
-        "uptime_7d": 71.3,
-        "uptime_30d": 70.1,
+        "uptime_7d": 71.4,
+        "uptime_30d": 70.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -429,7 +429,7 @@
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 59.6,
+        "uptime_24h": 59.5,
         "uptime_7d": 69.9,
         "uptime_30d": 69.1,
         "url": "https://wealthfolio.viktorbarzin.me"
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 88.4,
         "uptime_7d": 90.6,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 38.4,
-        "uptime_7d": 63.5,
-        "uptime_30d": 63.5
+        "uptime_24h": 38.0,
+        "uptime_7d": 63.4,
+        "uptime_30d": 63.3
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 38.4,
-        "uptime_7d": 63.5,
-        "uptime_30d": 63.5
+        "uptime_24h": 38.0,
+        "uptime_7d": 63.4,
+        "uptime_30d": 63.3
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 73.8,
+        "uptime_24h": 100.0,
+        "uptime_7d": 73.9,
         "uptime_30d": 70.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 74.0,
-        "uptime_30d": 70.6
+        "uptime_24h": 100.0,
+        "uptime_7d": 74.1,
+        "uptime_30d": 70.7
       },
       {
         "name": "Valchedrym DDNS",
