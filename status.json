@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T23:11:08.075315+00:00",
+  "last_updated": "2026-04-13T23:15:16.383010+00:00",
   "groups": {
     "HTTP": [
       {
@@ -31,7 +31,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.4,
+        "uptime_30d": 87.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.8,
-        "uptime_30d": 79.1,
+        "uptime_7d": 79.9,
+        "uptime_30d": 79.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "OwnTracks",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "status": "down",
+        "uptime_24h": 99.6,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.1,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 93.6,
         "uptime_7d": 93.3,
-        "uptime_30d": 89.5,
+        "uptime_30d": 89.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 92.0,
         "uptime_7d": 93.2,
-        "uptime_30d": 89.3,
+        "uptime_30d": 89.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 89.5,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.3
+        "uptime_24h": 89.2,
+        "uptime_7d": 94.1,
+        "uptime_30d": 94.1
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 47.4,
-        "uptime_30d": 47.5
+        "uptime_30d": 47.4
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 47.4,
-        "uptime_30d": 47.5
+        "uptime_30d": 47.4
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -777,7 +777,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.7,
+        "uptime_7d": 81.8,
         "uptime_30d": 78.5
       },
       {
@@ -811,16 +811,16 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 89.5,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.3
+        "uptime_24h": 89.2,
+        "uptime_7d": 94.1,
+        "uptime_30d": 94.1
       }
     ],
     "PostgreSQL": [
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.1,
         "uptime_30d": 95.6
       }
@@ -838,9 +838,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 91.5,
-        "uptime_7d": 64.8,
-        "uptime_30d": 60.3
+        "uptime_24h": 90.3,
+        "uptime_7d": 64.5,
+        "uptime_30d": 60.1
       }
     ]
   }
