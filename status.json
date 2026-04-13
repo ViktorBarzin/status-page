@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T05:40:16.158584+00:00",
+  "last_updated": "2026-04-13T05:45:16.011017+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 83.8,
+        "uptime_30d": 83.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.4,
+        "uptime_30d": 82.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 59.3,
-        "uptime_7d": 64.6,
-        "uptime_30d": 63.6,
+        "uptime_7d": 64.7,
+        "uptime_30d": 63.7,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 61.5,
-        "uptime_7d": 66.5,
-        "uptime_30d": 65.4,
+        "uptime_7d": 66.6,
+        "uptime_30d": 65.5,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.9,
-        "uptime_30d": 74.6,
+        "uptime_30d": 74.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -421,17 +421,17 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 26.7,
-        "uptime_7d": 36.5,
-        "uptime_30d": 37.7,
+        "uptime_24h": 26.4,
+        "uptime_7d": 36.4,
+        "uptime_30d": 37.6,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 59.5,
-        "uptime_7d": 64.8,
-        "uptime_30d": 64.0,
+        "uptime_7d": 64.9,
+        "uptime_30d": 64.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 91.0,
         "uptime_7d": 90.5,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,9 +661,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 94.2,
+        "uptime_24h": 94.5,
         "uptime_7d": 92.4,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 64.6,
-        "uptime_7d": 71.7,
-        "uptime_30d": 71.7
+        "uptime_24h": 64.2,
+        "uptime_7d": 71.6,
+        "uptime_30d": 71.5
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 64.6,
-        "uptime_7d": 71.7,
-        "uptime_30d": 71.7
+        "uptime_24h": 64.2,
+        "uptime_7d": 71.6,
+        "uptime_30d": 71.5
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 80.3,
-        "uptime_7d": 68.9,
-        "uptime_30d": 66.4
+        "uptime_24h": 80.7,
+        "uptime_7d": 69.0,
+        "uptime_30d": 66.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 80.3,
+        "uptime_24h": 80.7,
         "uptime_7d": 69.3,
-        "uptime_30d": 66.5
+        "uptime_30d": 66.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 97.3,
-        "uptime_30d": 91.2
+        "uptime_30d": 91.3
       },
       {
         "name": "pfSense Gateway",
@@ -838,9 +838,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 43.3,
-        "uptime_7d": 53.2,
-        "uptime_30d": 52.2
+        "uptime_24h": 44.3,
+        "uptime_7d": 53.5,
+        "uptime_30d": 52.4
       }
     ]
   }
