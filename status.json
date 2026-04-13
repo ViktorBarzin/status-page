@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T01:06:26.782825+00:00",
+  "last_updated": "2026-04-13T01:10:22.645636+00:00",
   "groups": {
     "HTTP": [
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 94.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -277,7 +277,7 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 62.1,
+        "uptime_24h": 62.0,
         "uptime_7d": 80.7,
         "uptime_30d": 79.5,
         "url": "https://affine.viktorbarzin.me"
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 46.0,
-        "uptime_7d": 72.6,
-        "uptime_30d": 71.4,
+        "uptime_24h": 45.7,
+        "uptime_7d": 72.4,
+        "uptime_30d": 71.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 83.1,
+        "uptime_24h": 82.9,
         "uptime_7d": 92.9,
-        "uptime_30d": 92.9
+        "uptime_30d": 92.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 83.1,
+        "uptime_24h": 82.9,
         "uptime_7d": 92.9,
-        "uptime_30d": 92.9
+        "uptime_30d": 92.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 60.8,
-        "uptime_7d": 31.6,
-        "uptime_30d": 32.7
+        "uptime_24h": 61.2,
+        "uptime_7d": 31.7,
+        "uptime_30d": 32.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 60.8,
-        "uptime_7d": 31.4,
-        "uptime_30d": 32.7
+        "uptime_24h": 61.2,
+        "uptime_7d": 31.6,
+        "uptime_30d": 32.8
       },
       {
         "name": "Valchedrym DDNS",
