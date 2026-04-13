@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T23:25:15.854053+00:00",
+  "last_updated": "2026-04-13T23:31:08.205216+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.1,
+        "uptime_30d": 94.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.8,
+        "uptime_7d": 78.9,
         "uptime_30d": 78.2,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -422,7 +422,7 @@
         "name": "Speedtest",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 21.8,
+        "uptime_7d": 21.7,
         "uptime_30d": 23.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -430,8 +430,8 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.0,
-        "uptime_30d": 78.3,
+        "uptime_7d": 79.1,
+        "uptime_30d": 78.4,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -746,22 +746,22 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 88.5,
-        "uptime_7d": 93.8,
-        "uptime_30d": 93.8
+        "uptime_24h": 88.1,
+        "uptime_7d": 93.6,
+        "uptime_30d": 93.6
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 47.2,
+        "uptime_7d": 47.1,
         "uptime_30d": 47.2
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 47.2,
+        "uptime_7d": 47.1,
         "uptime_30d": 47.2
       },
       {
@@ -811,16 +811,16 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 88.5,
-        "uptime_7d": 93.8,
-        "uptime_30d": 93.8
+        "uptime_24h": 88.1,
+        "uptime_7d": 93.6,
+        "uptime_30d": 93.6
       }
     ],
     "PostgreSQL": [
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.3,
         "uptime_7d": 99.1,
         "uptime_30d": 95.6
       }
