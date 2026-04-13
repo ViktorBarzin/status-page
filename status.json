@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T18:00:21.230464+00:00",
+  "last_updated": "2026-04-13T18:05:17.012081+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.2,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 84.9,
+        "uptime_24h": 85.2,
         "uptime_7d": 75.9,
-        "uptime_30d": 75.1,
+        "uptime_30d": 75.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 84.9,
+        "uptime_24h": 85.2,
         "uptime_7d": 77.2,
-        "uptime_30d": 76.1,
+        "uptime_30d": 76.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.3,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.4,
-        "uptime_30d": 79.6,
+        "uptime_30d": 79.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -429,7 +429,7 @@
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 83.9,
+        "uptime_24h": 84.2,
         "uptime_7d": 76.1,
         "uptime_30d": 75.4,
         "url": "https://wealthfolio.viktorbarzin.me"
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -559,7 +559,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -575,7 +575,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 88.8,
         "uptime_7d": 92.4,
-        "uptime_30d": 88.3,
+        "uptime_30d": 88.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 7.3,
-        "uptime_7d": 52.7,
-        "uptime_30d": 52.7
+        "uptime_24h": 6.9,
+        "uptime_7d": 52.6,
+        "uptime_30d": 52.6
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 7.3,
-        "uptime_7d": 52.7,
-        "uptime_30d": 52.7
+        "uptime_24h": 6.9,
+        "uptime_7d": 52.6,
+        "uptime_30d": 52.6
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -777,8 +777,8 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.3,
-        "uptime_30d": 75.9
+        "uptime_7d": 79.4,
+        "uptime_30d": 76.0
       },
       {
         "name": "Valchedrym Video System",
@@ -838,9 +838,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 75.8,
-        "uptime_7d": 62.1,
-        "uptime_30d": 58.5
+        "uptime_24h": 77.3,
+        "uptime_7d": 62.4,
+        "uptime_30d": 58.6
       }
     ]
   }
