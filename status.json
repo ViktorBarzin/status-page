@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T01:40:59.205714+00:00",
+  "last_updated": "2026-04-13T01:45:27.514274+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 59.7,
+        "uptime_24h": 59.9,
         "uptime_7d": 79.8,
-        "uptime_30d": 78.6,
+        "uptime_30d": 78.7,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 62.0,
-        "uptime_7d": 80.9,
+        "uptime_7d": 81.0,
         "uptime_30d": 79.8,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.0,
-        "uptime_30d": 81.5,
+        "uptime_30d": 81.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 43.5,
-        "uptime_7d": 71.7,
-        "uptime_30d": 70.5,
+        "uptime_24h": 43.2,
+        "uptime_7d": 71.5,
+        "uptime_30d": 70.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 60.2,
         "uptime_7d": 80.0,
-        "uptime_30d": 79.1,
+        "uptime_30d": 79.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -621,9 +621,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 92.1,
-        "uptime_7d": 92.3,
-        "uptime_30d": 89.8,
+        "uptime_24h": 91.4,
+        "uptime_7d": 91.9,
+        "uptime_30d": 89.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,9 +661,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 95.0,
-        "uptime_7d": 92.1,
-        "uptime_30d": 90.5,
+        "uptime_24h": 94.6,
+        "uptime_7d": 92.0,
+        "uptime_30d": 90.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 81.0,
-        "uptime_7d": 92.3,
-        "uptime_30d": 92.2
+        "uptime_24h": 80.7,
+        "uptime_7d": 92.2,
+        "uptime_30d": 92.1
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 81.0,
-        "uptime_7d": 92.3,
-        "uptime_30d": 92.2
+        "uptime_24h": 80.7,
+        "uptime_7d": 92.2,
+        "uptime_30d": 92.1
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 63.3,
+        "uptime_24h": 63.7,
         "uptime_7d": 32.4,
-        "uptime_30d": 33.5
+        "uptime_30d": 33.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 63.3,
-        "uptime_7d": 32.2,
-        "uptime_30d": 33.5
+        "uptime_24h": 63.7,
+        "uptime_7d": 32.3,
+        "uptime_30d": 33.6
       },
       {
         "name": "Valchedrym DDNS",
