@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T20:21:09.083166+00:00",
+  "last_updated": "2026-04-13T20:25:15.976595+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 88.6,
+        "uptime_30d": 88.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -261,7 +261,7 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 94.7,
+        "uptime_24h": 95.1,
         "uptime_7d": 77.3,
         "uptime_30d": 76.6,
         "url": "https://pdf.viktorbarzin.me"
@@ -277,7 +277,7 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 94.7,
+        "uptime_24h": 95.1,
         "uptime_7d": 78.5,
         "uptime_30d": 77.8,
         "url": "https://affine.viktorbarzin.me"
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.1,
-        "uptime_30d": 80.3,
+        "uptime_30d": 80.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -622,7 +622,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 90.7,
-        "uptime_7d": 92.8,
+        "uptime_7d": 92.9,
         "uptime_30d": 88.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -661,7 +661,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 94.1,
+        "uptime_24h": 94.0,
         "uptime_7d": 94.1,
         "uptime_30d": 89.9,
         "url": "https://poison.viktorbarzin.me"
@@ -754,15 +754,15 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 50.2,
-        "uptime_30d": 50.2
+        "uptime_7d": 50.1,
+        "uptime_30d": 50.1
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 50.2,
-        "uptime_30d": 50.2
+        "uptime_7d": 50.1,
+        "uptime_30d": 50.1
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -778,7 +778,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 80.5,
-        "uptime_30d": 77.1
+        "uptime_30d": 77.2
       },
       {
         "name": "Valchedrym Video System",
@@ -820,7 +820,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.0,
         "uptime_30d": 95.3
       }
