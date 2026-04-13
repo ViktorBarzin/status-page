@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T18:51:07.929105+00:00",
+  "last_updated": "2026-04-13T18:55:16.116038+00:00",
   "groups": {
     "HTTP": [
       {
@@ -261,7 +261,7 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 88.4,
+        "uptime_24h": 88.7,
         "uptime_7d": 76.4,
         "uptime_30d": 75.8,
         "url": "https://pdf.viktorbarzin.me"
@@ -277,8 +277,8 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 88.4,
-        "uptime_7d": 77.6,
+        "uptime_24h": 88.7,
+        "uptime_7d": 77.7,
         "uptime_30d": 76.9,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 88.8,
         "uptime_7d": 92.6,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 3.7,
-        "uptime_7d": 51.8,
-        "uptime_30d": 51.8
+        "uptime_24h": 3.4,
+        "uptime_7d": 51.7,
+        "uptime_30d": 51.7
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 3.7,
-        "uptime_7d": 51.8,
-        "uptime_30d": 51.8
+        "uptime_24h": 3.4,
+        "uptime_7d": 51.7,
+        "uptime_30d": 51.7
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -777,14 +777,14 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.7,
+        "uptime_7d": 79.8,
         "uptime_30d": 76.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.9,
+        "uptime_7d": 80.0,
         "uptime_30d": 76.4
       },
       {
@@ -820,7 +820,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 98.9,
         "uptime_30d": 95.1
       }
