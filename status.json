@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T16:50:16.886091+00:00",
+  "last_updated": "2026-04-13T16:55:16.307556+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 87.8,
+        "uptime_30d": 87.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 79.9,
-        "uptime_7d": 75.1,
-        "uptime_30d": 74.2,
+        "uptime_24h": 80.3,
+        "uptime_7d": 75.2,
+        "uptime_30d": 74.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 79.9,
-        "uptime_7d": 76.4,
-        "uptime_30d": 75.4,
+        "uptime_24h": 80.3,
+        "uptime_7d": 76.5,
+        "uptime_30d": 75.5,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -429,9 +429,9 @@
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 78.9,
+        "uptime_24h": 79.2,
         "uptime_7d": 75.3,
-        "uptime_30d": 74.6,
+        "uptime_30d": 74.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 12.2,
+        "uptime_24h": 11.8,
         "uptime_7d": 54.0,
-        "uptime_30d": 54.1
+        "uptime_30d": 54.0
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 12.2,
+        "uptime_24h": 11.8,
         "uptime_7d": 54.0,
-        "uptime_30d": 54.1
+        "uptime_30d": 54.0
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -778,13 +778,13 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 78.7,
-        "uptime_30d": 75.2
+        "uptime_30d": 75.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.8,
+        "uptime_7d": 78.9,
         "uptime_30d": 75.3
       },
       {
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.5
+        "uptime_30d": 93.6
       },
       {
         "name": "pfSense Gateway",
