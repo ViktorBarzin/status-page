@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T00:50:31.121420+00:00",
+  "last_updated": "2026-04-13T00:56:10.814125+00:00",
   "groups": {
     "HTTP": [
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 59.9,
-        "uptime_7d": 79.4,
+        "uptime_7d": 79.5,
         "uptime_30d": 78.3,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 62.0,
-        "uptime_7d": 80.6,
-        "uptime_30d": 79.4,
+        "uptime_24h": 62.1,
+        "uptime_7d": 80.7,
+        "uptime_30d": 79.5,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.9,
-        "uptime_30d": 81.3,
+        "uptime_30d": 81.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "down",
-        "uptime_24h": 47.1,
-        "uptime_7d": 73.0,
-        "uptime_30d": 71.8,
+        "uptime_24h": 46.8,
+        "uptime_7d": 72.8,
+        "uptime_30d": 71.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 92.1,
         "uptime_7d": 91.8,
-        "uptime_30d": 89.6,
+        "uptime_30d": 89.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 95.0,
         "uptime_7d": 92.0,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -753,16 +753,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "down",
-        "uptime_24h": 84.1,
-        "uptime_7d": 93.3,
-        "uptime_30d": 93.2
+        "uptime_24h": 83.7,
+        "uptime_7d": 93.2,
+        "uptime_30d": 93.1
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
-        "uptime_24h": 84.1,
-        "uptime_7d": 93.3,
-        "uptime_30d": 93.2
+        "uptime_24h": 83.7,
+        "uptime_7d": 93.2,
+        "uptime_30d": 93.1
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 59.7,
+        "uptime_24h": 60.1,
         "uptime_7d": 31.3,
-        "uptime_30d": 32.4
+        "uptime_30d": 32.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 59.7,
-        "uptime_7d": 31.0,
-        "uptime_30d": 32.4
+        "uptime_24h": 60.1,
+        "uptime_7d": 31.1,
+        "uptime_30d": 32.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,8 +798,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 79.1,
-        "uptime_30d": 77.1
+        "uptime_7d": 79.2,
+        "uptime_30d": 77.2
       },
       {
         "name": "pfSense Gateway",
