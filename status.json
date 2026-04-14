@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T18:35:41.021255+00:00",
+  "last_updated": "2026-04-14T18:40:49.163044+00:00",
   "groups": {
     "HTTP": [
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.6,
+        "uptime_7d": 83.7,
         "uptime_30d": 83.1,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -422,16 +422,16 @@
         "name": "Speedtest",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 17.8,
-        "uptime_30d": 18.8,
+        "uptime_7d": 17.7,
+        "uptime_30d": 18.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 82.8,
-        "uptime_30d": 82.3,
+        "uptime_7d": 82.9,
+        "uptime_30d": 82.4,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 48.9,
-        "uptime_7d": 86.0,
-        "uptime_30d": 85.5,
+        "uptime_24h": 48.3,
+        "uptime_7d": 85.8,
+        "uptime_30d": 85.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 39.4,
-        "uptime_7d": 83.2,
-        "uptime_30d": 82.9
+        "uptime_24h": 38.9,
+        "uptime_7d": 83.1,
+        "uptime_30d": 82.8
       },
       {
         "name": "Imap",
@@ -747,21 +747,21 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 71.5,
-        "uptime_7d": 92.1,
-        "uptime_30d": 92.1
+        "uptime_7d": 92.2,
+        "uptime_30d": 92.2
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 39.7,
+        "uptime_7d": 39.6,
         "uptime_30d": 39.7
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 39.7,
+        "uptime_7d": 39.6,
         "uptime_30d": 39.7
       },
       {
@@ -791,7 +791,7 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 87.0,
-        "uptime_7d": 81.8,
+        "uptime_7d": 81.9,
         "uptime_30d": 79.1
       },
       {
@@ -805,7 +805,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 82.4,
-        "uptime_7d": 94.1,
+        "uptime_7d": 94.2,
         "uptime_30d": 90.8
       },
       {
@@ -829,16 +829,16 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 45.9,
-        "uptime_7d": 84.9,
-        "uptime_30d": 84.6
+        "uptime_24h": 45.3,
+        "uptime_7d": 84.8,
+        "uptime_30d": 84.5
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 39.4,
+        "uptime_24h": 37.5,
         "uptime_7d": 59.4,
         "uptime_30d": 56.7
       }
