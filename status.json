@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T20:15:17.981032+00:00",
+  "last_updated": "2026-04-14T20:20:19.001097+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 94.6,
-        "uptime_7d": 98.2,
-        "uptime_30d": 90.4,
+        "uptime_24h": 94.1,
+        "uptime_7d": 98.1,
+        "uptime_30d": 90.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.2,
-        "uptime_30d": 82.7,
+        "uptime_7d": 83.3,
+        "uptime_30d": 82.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.1,
-        "uptime_30d": 83.5,
+        "uptime_7d": 84.2,
+        "uptime_30d": 83.6,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 8.5,
-        "uptime_7d": 19.5,
-        "uptime_30d": 20.4,
+        "uptime_24h": 9.0,
+        "uptime_7d": 19.6,
+        "uptime_30d": 20.5,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 37.6,
-        "uptime_7d": 83.4,
-        "uptime_30d": 83.0,
+        "uptime_24h": 37.1,
+        "uptime_7d": 83.3,
+        "uptime_30d": 82.8,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -654,7 +654,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 90.4,
-        "uptime_7d": 93.1,
+        "uptime_7d": 93.2,
         "uptime_30d": 90.1,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -704,7 +704,7 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 33.9,
-        "uptime_7d": 82.2,
+        "uptime_7d": 82.3,
         "uptime_30d": 82.0
       },
       {
@@ -744,24 +744,24 @@
       },
       {
         "name": "Mailserver SMTP",
-        "status": "up",
-        "uptime_24h": 4.1,
+        "status": "down",
+        "uptime_24h": 4.5,
         "uptime_7d": 39.6,
-        "uptime_30d": 39.6
+        "uptime_30d": 39.7
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 4.1,
-        "uptime_7d": 39.6,
-        "uptime_30d": 39.6
+        "uptime_24h": 4.8,
+        "uptime_7d": 39.7,
+        "uptime_30d": 39.7
       },
       {
         "name": "Mail SMTP (port 25 external)",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.9,
-        "uptime_30d": 99.9
+        "status": "down",
+        "uptime_24h": 99.8,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8
       },
       {
         "name": "PVE NFS (2049)",
@@ -1247,17 +1247,17 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 38.5,
-        "uptime_7d": 38.5,
-        "uptime_30d": 38.5,
+        "uptime_24h": 42.9,
+        "uptime_7d": 42.9,
+        "uptime_30d": 42.9,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
         "name": "[External] frigate",
         "status": "up",
-        "uptime_24h": 83.3,
-        "uptime_7d": 83.3,
-        "uptime_30d": 83.3,
+        "uptime_24h": 84.6,
+        "uptime_7d": 84.6,
+        "uptime_30d": 84.6,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1447,9 +1447,9 @@
       {
         "name": "[External] authelia",
         "status": "up",
-        "uptime_24h": 90.9,
-        "uptime_7d": 90.9,
-        "uptime_30d": 90.9,
+        "uptime_24h": 91.7,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.7,
         "url": "https://authelia.viktorbarzin.me"
       },
       {
@@ -1495,9 +1495,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 90.9,
-        "uptime_7d": 90.9,
-        "uptime_30d": 90.9,
+        "uptime_24h": 91.7,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.7,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
