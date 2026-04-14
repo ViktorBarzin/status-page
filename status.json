@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T16:31:08.786131+00:00",
+  "last_updated": "2026-04-14T16:36:07.024105+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.5,
+        "uptime_30d": 89.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.7,
-        "uptime_30d": 88.8,
+        "uptime_30d": 88.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 83.3,
         "uptime_7d": 95.2,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 82.0,
+        "uptime_7d": 82.1,
         "uptime_30d": 81.4,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.1,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 81.6,
         "uptime_7d": 93.9,
-        "uptime_30d": 93.3,
+        "uptime_30d": 93.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 83.2,
+        "uptime_30d": 83.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 82.2,
-        "uptime_30d": 81.5,
+        "uptime_30d": 81.6,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 62.9,
-        "uptime_7d": 89.4,
-        "uptime_30d": 88.9,
+        "uptime_24h": 62.4,
+        "uptime_7d": 89.3,
+        "uptime_30d": 88.7,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 88.8,
         "uptime_7d": 92.8,
-        "uptime_30d": 89.5,
+        "uptime_30d": 89.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 53.3,
-        "uptime_7d": 86.6,
-        "uptime_30d": 86.1
+        "uptime_24h": 52.8,
+        "uptime_7d": 86.4,
+        "uptime_30d": 86.0
       },
       {
         "name": "Imap",
@@ -754,15 +754,15 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 41.1,
-        "uptime_30d": 41.1
+        "uptime_7d": 41.0,
+        "uptime_30d": 41.0
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 41.1,
-        "uptime_30d": 41.1
+        "uptime_7d": 41.0,
+        "uptime_30d": 41.0
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -785,7 +785,7 @@
         "status": "up",
         "uptime_24h": 82.6,
         "uptime_7d": 79.7,
-        "uptime_30d": 77.1
+        "uptime_30d": 77.2
       },
       {
         "name": "Valchedrym Video System",
@@ -829,9 +829,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 59.7,
-        "uptime_7d": 88.3,
-        "uptime_30d": 88.0
+        "uptime_24h": 59.1,
+        "uptime_7d": 88.2,
+        "uptime_30d": 87.8
       }
     ],
     "Push": [
