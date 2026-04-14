@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T00:45:17.868309+00:00",
+  "last_updated": "2026-04-14T00:50:16.718617+00:00",
   "groups": {
     "HTTP": [
       {
@@ -228,7 +228,7 @@
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 98.0,
         "uptime_30d": 92.7,
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.4,
-        "uptime_30d": 78.8,
+        "uptime_7d": 79.5,
+        "uptime_30d": 78.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -324,7 +324,7 @@
       },
       {
         "name": "ha-london",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 95.2,
         "uptime_7d": 96.9,
         "uptime_30d": 96.3,
@@ -548,7 +548,7 @@
       },
       {
         "name": "Music Assistant",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.2,
         "uptime_7d": 97.8,
         "uptime_30d": 93.3,
@@ -582,7 +582,7 @@
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 98.7,
         "url": "https://owntracks.viktorbarzin.me"
       },
@@ -621,17 +621,17 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 92.5,
-        "uptime_7d": 91.6,
-        "uptime_30d": 88.2,
+        "uptime_24h": 92.2,
+        "uptime_7d": 91.5,
+        "uptime_30d": 88.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "down",
-        "uptime_24h": 97.2,
-        "uptime_7d": 98.0,
-        "uptime_30d": 97.6,
+        "uptime_24h": 96.9,
+        "uptime_7d": 97.8,
+        "uptime_30d": 97.5,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.0,
-        "uptime_7d": 93.2,
+        "uptime_7d": 93.3,
         "uptime_30d": 89.5,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 82.9,
-        "uptime_7d": 91.0,
-        "uptime_30d": 91.0
+        "uptime_24h": 82.5,
+        "uptime_7d": 90.9,
+        "uptime_30d": 90.9
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 46.0,
-        "uptime_30d": 46.1
+        "uptime_7d": 45.9,
+        "uptime_30d": 46.0
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 46.0,
-        "uptime_30d": 46.1
+        "uptime_7d": 45.9,
+        "uptime_30d": 46.0
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -782,7 +782,7 @@
       },
       {
         "name": "Valchedrym Video System",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 97.2,
         "uptime_7d": 81.2,
         "uptime_30d": 78.0
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 96.2,
         "uptime_7d": 97.1,
-        "uptime_30d": 92.9
+        "uptime_30d": 93.0
       },
       {
         "name": "pfSense Gateway",
@@ -811,9 +811,9 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 82.9,
-        "uptime_7d": 91.0,
-        "uptime_30d": 91.0
+        "uptime_24h": 82.5,
+        "uptime_7d": 90.9,
+        "uptime_30d": 90.9
       }
     ],
     "PostgreSQL": [
@@ -829,9 +829,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 96.5,
-        "uptime_7d": 98.2,
-        "uptime_30d": 97.6
+        "uptime_24h": 96.2,
+        "uptime_7d": 98.0,
+        "uptime_30d": 97.5
       }
     ],
     "Push": [
