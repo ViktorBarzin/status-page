@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T23:15:45.033078+00:00",
+  "last_updated": "2026-04-14T23:20:54.063070+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,9 +125,9 @@
       {
         "name": "Immich server",
         "status": "down",
-        "uptime_24h": 93.9,
-        "uptime_7d": 97.6,
-        "uptime_30d": 93.0,
+        "uptime_24h": 93.3,
+        "uptime_7d": 97.5,
+        "uptime_30d": 92.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 94.6,
         "uptime_7d": 97.9,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.9,
+        "uptime_7d": 85.0,
         "uptime_30d": 84.4,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 29.0,
-        "uptime_7d": 23.6,
-        "uptime_30d": 24.3,
+        "uptime_24h": 29.5,
+        "uptime_7d": 23.7,
+        "uptime_30d": 24.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 84.2,
-        "uptime_30d": 83.7,
+        "uptime_30d": 83.8,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -541,7 +541,7 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 80.1,
+        "uptime_24h": 80.2,
         "uptime_7d": 94.6,
         "uptime_30d": 91.3,
         "url": "https://docker.viktorbarzin.me"
@@ -573,7 +573,7 @@
       {
         "name": "OwnTracks",
         "status": "up",
-        "uptime_24h": 99.4,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.6,
         "uptime_30d": 99.0,
         "url": "https://owntracks.viktorbarzin.me"
@@ -704,7 +704,7 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 34.1,
-        "uptime_7d": 83.1,
+        "uptime_7d": 83.2,
         "uptime_30d": 82.9
       },
       {
@@ -738,23 +738,23 @@
       {
         "name": "NFS Server (Proxmox)",
         "status": "up",
-        "uptime_24h": 88.7,
+        "uptime_24h": 89.3,
         "uptime_7d": 92.8,
         "uptime_30d": 92.8
       },
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 21.8,
-        "uptime_7d": 41.6,
-        "uptime_30d": 41.7
+        "uptime_24h": 22.5,
+        "uptime_7d": 41.7,
+        "uptime_30d": 41.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 24.5,
-        "uptime_7d": 42.3,
-        "uptime_30d": 42.3
+        "uptime_24h": 25.2,
+        "uptime_7d": 42.4,
+        "uptime_30d": 42.4
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -822,7 +822,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 23.5,
-        "uptime_7d": 79.9,
+        "uptime_7d": 80.0,
         "uptime_30d": 79.7
       }
     ],
@@ -839,9 +839,9 @@
       {
         "name": "[External] authentik",
         "status": "up",
-        "uptime_24h": 84.6,
-        "uptime_7d": 84.6,
-        "uptime_30d": 84.6,
+        "uptime_24h": 84.9,
+        "uptime_7d": 84.9,
+        "uptime_30d": 84.9,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
@@ -1239,17 +1239,17 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 83.7,
-        "uptime_7d": 83.7,
-        "uptime_30d": 83.7,
+        "uptime_24h": 84.0,
+        "uptime_7d": 84.0,
+        "uptime_30d": 84.0,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
         "name": "[External] frigate",
         "status": "up",
-        "uptime_24h": 95.8,
-        "uptime_7d": 95.8,
-        "uptime_30d": 95.8,
+        "uptime_24h": 95.9,
+        "uptime_7d": 95.9,
+        "uptime_30d": 95.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1359,9 +1359,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 68.0,
-        "uptime_7d": 68.0,
-        "uptime_30d": 68.0,
+        "uptime_24h": 68.6,
+        "uptime_7d": 68.6,
+        "uptime_30d": 68.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1439,9 +1439,9 @@
       {
         "name": "[External] authelia",
         "status": "up",
-        "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_24h": 98.0,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://authelia.viktorbarzin.me"
       },
       {
@@ -1479,9 +1479,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_24h": 98.0,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
