@@ -42,6 +42,43 @@ header h1 { font-size: 20px; font-weight: 600; margin-bottom: 2px; }
 
 .stale { background: var(--amber-bg); color: var(--amber); padding: 10px 16px; border-radius: 8px; font-size: 13px; margin-bottom: 16px; display: none; border: 1px solid color-mix(in srgb, var(--amber) 20%, transparent); }
 
+/* Incidents */
+.incidents { margin-bottom: 24px; }
+.inc-header { font-size: 15px; font-weight: 600; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+.inc-header .cnt { font-size: 12px; color: var(--fg3); font-weight: 400; }
+.resolved-header { margin-top: 20px; }
+
+.inc { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 10px; overflow: hidden; }
+.inc-top { padding: 14px 16px; cursor: pointer; display: flex; align-items: flex-start; gap: 10px; user-select: none; }
+.inc-top:hover { background: var(--hover); }
+
+.sev { font-family: var(--mono); font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 4px; flex-shrink: 0; text-transform: uppercase; margin-top: 2px; }
+.sev-1 { background: var(--red-bg); color: var(--red); border: 1px solid color-mix(in srgb, var(--red) 30%, transparent); }
+.sev-2 { background: var(--amber-bg); color: var(--amber); border: 1px solid color-mix(in srgb, var(--amber) 30%, transparent); }
+.sev-3 { background: var(--surface); color: var(--fg2); border: 1px solid var(--border); }
+
+.inc-info { flex: 1; min-width: 0; }
+.inc-title { font-size: 14px; font-weight: 600; }
+.inc-meta { font-size: 12px; color: var(--fg3); margin-top: 2px; display: flex; gap: 12px; flex-wrap: wrap; }
+.inc-services { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 6px; }
+.inc-svc { font-size: 11px; padding: 1px 8px; border-radius: 4px; background: var(--hover); border: 1px solid var(--border); color: var(--fg2); }
+
+.inc-tl { border-top: 1px solid var(--border); padding: 12px 16px; display: none; }
+.inc.open .inc-tl { display: block; }
+.tl-entry { position: relative; padding-left: 20px; padding-bottom: 14px; border-left: 2px solid var(--border); margin-left: 4px; }
+.tl-entry:last-child { padding-bottom: 0; }
+.tl-entry::before { content: ''; position: absolute; left: -5px; top: 4px; width: 8px; height: 8px; border-radius: 50%; background: var(--fg3); border: 2px solid var(--surface); }
+.tl-time { font-family: var(--mono); font-size: 11px; color: var(--fg3); }
+.tl-status { font-size: 12px; font-weight: 600; color: var(--fg); display: inline; }
+.tl-body { font-size: 13px; color: var(--fg2); margin-top: 2px; white-space: pre-wrap; word-break: break-word; }
+
+.inc-links { margin-top: 10px; font-size: 12px; display: flex; gap: 14px; }
+.inc-links a { color: var(--indigo); text-decoration: none; }
+.inc-links a:hover { text-decoration: underline; }
+
+.inc-resolved { opacity: 0.7; }
+.inc-resolved:hover { opacity: 1; }
+
 .bar { display: flex; gap: 6px; margin-bottom: 20px; flex-wrap: wrap; align-items: center; }
 .bar label { font-size: 11px; color: var(--fg3); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 500; }
 .fbtn { font-family: var(--sans); font-size: 12px; padding: 4px 12px; border-radius: 6px; border: 1px solid var(--border); background: transparent; color: var(--fg2); cursor: pointer; font-weight: 500; }
@@ -93,6 +130,7 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
   .uv span, .colh-l { width: 42px; font-size: 11px; }
   .row, .colh { padding-left: 12px; padding-right: 12px; }
   .gh { padding: 12px; }
+  .inc-top { padding: 12px; }
 }
 </style>
 </head>
@@ -104,6 +142,7 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
   </header>
   <div class="stale" id="stale"></div>
   <div class="hero" id="hero"></div>
+  <div id="incidents"></div>
   <div class="bar" id="bar" style="display:none">
     <label>Show:</label>
     <button class="fbtn on" data-f="all">All</button>
@@ -125,7 +164,9 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
 (function(){
   var U='status.json',S=6e5,D=null,F='all',O='status';
 
-  function ago(d){var s=Math.floor((Date.now()-d)/1e3);return s<60?s+'s ago':s<3600?Math.floor(s/60)+'m ago':s<86400?Math.floor(s/3600)+'h ago':Math.floor(s/86400)+'d ago'}
+  function esc(s){var d=document.createElement('div');d.textContent=s||'';return d.innerHTML}
+  function ago(d){var s=Math.floor((Date.now()-d)/1e3);if(s<0)s=0;return s<60?s+'s ago':s<3600?Math.floor(s/60)+'m ago':s<86400?Math.floor(s/3600)+'h ago':Math.floor(s/86400)+'d ago'}
+  function dur(start,end){var m=Math.floor((end-start)/6e4);if(m<1)return '<1m';return m<60?m+'m':Math.floor(m/60)+'h '+m%60+'m'}
   function uc(p){return p==null?'':p>=99?'ok':p>=95?'wn':'bd'}
   function pf(p){return p==null?'\u2014':p.toFixed(1)+'%'}
 
@@ -137,6 +178,57 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
     return ao!==bo?ao-bo:x.name.localeCompare(y.name);
   })}
   function fm(m){return F==='all'||(F==='up'?m.status==='up':m.status!=='up')}
+
+  function buildIncident(inc,resolved){
+    var sevNum=inc.severity==='sev1'?1:inc.severity==='sev2'?2:3;
+    var created=new Date(inc.created_at);
+    var end=resolved&&inc.closed_at?new Date(inc.closed_at):new Date();
+
+    var el=document.createElement('div');
+    el.className='inc'+(resolved?' inc-resolved':'');
+
+    // Top bar
+    var top=document.createElement('div');
+    top.className='inc-top';
+    var html='<div class="sev sev-'+sevNum+'">SEV'+sevNum+'</div>';
+    html+='<div class="inc-info"><div class="inc-title">'+esc(inc.title)+'</div>';
+    html+='<div class="inc-meta"><span>'+ago(created)+'</span><span>'+dur(created,end)+'</span>';
+    if(resolved)html+='<span style="color:var(--green)">Resolved</span>';
+    html+='</div>';
+    if(inc.affected_services&&inc.affected_services.length){
+      html+='<div class="inc-services">';
+      for(var i=0;i<inc.affected_services.length;i++)html+='<span class="inc-svc">'+esc(inc.affected_services[i])+'</span>';
+      html+='</div>';
+    }
+    html+='</div><span class="chev">&#9656;</span>';
+    top.innerHTML=html;
+    top.onclick=function(){el.classList.toggle('open')};
+    el.appendChild(top);
+
+    // Timeline
+    var tl=document.createElement('div');
+    tl.className='inc-tl';
+    if(inc.timeline&&inc.timeline.length){
+      for(var i=inc.timeline.length-1;i>=0;i--){
+        var te=inc.timeline[i];
+        var entry=document.createElement('div');
+        entry.className='tl-entry';
+        entry.innerHTML='<div class="tl-time">'+new Date(te.timestamp).toLocaleString()+'</div>'
+          +'<div class="tl-status">'+esc(te.status)+'</div>'
+          +'<div class="tl-body">'+esc(te.body)+'</div>';
+        tl.appendChild(entry);
+      }
+    }
+    // Links
+    var links=document.createElement('div');
+    links.className='inc-links';
+    if(inc.postmortem)links.innerHTML+='<a href="'+esc(inc.postmortem)+'" target="_blank" rel="noopener">Postmortem</a>';
+    links.innerHTML+='<a href="'+esc(inc.url)+'" target="_blank" rel="noopener">View on GitHub &rarr;</a>';
+    tl.appendChild(links);
+    el.appendChild(tl);
+
+    return el;
+  }
 
   function render(data){
     D=data;
@@ -151,11 +243,44 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
     var tu=0,td=0;
     for(var g in gs)for(var i=0;i<gs[g].length;i++)gs[g][i].status==='up'?tu++:td++;
 
+    // Incidents
+    var inc=data.incidents||{active:[],resolved:[]};
+    var incEl=document.getElementById('incidents');
+    incEl.innerHTML='';
+
+    // Hero — incidents take priority
     var h=document.getElementById('hero');
-    if(!td){h.className='hero hero-ok';h.innerHTML='<div class="hero-dot"></div>All Systems Operational'}
+    if(inc.active.length>0){
+      var maxSev=3;
+      for(var si=0;si<inc.active.length;si++){
+        var s=inc.active[si].severity==='sev1'?1:inc.active[si].severity==='sev2'?2:3;
+        if(s<maxSev)maxSev=s;
+      }
+      if(maxSev===1){h.className='hero hero-down';h.innerHTML='<div class="hero-dot"></div>Active Incident \u2014 SEV1'}
+      else{h.className='hero hero-warn';h.innerHTML='<div class="hero-dot"></div>'+inc.active.length+' Active Incident'+(inc.active.length>1?'s':'')}
+    }else if(!td){h.className='hero hero-ok';h.innerHTML='<div class="hero-dot"></div>All Systems Operational'}
     else if(td<=3){h.className='hero hero-warn';h.innerHTML='<div class="hero-dot"></div>'+td+' service'+(td>1?'s':'')+' experiencing issues'}
     else{h.className='hero hero-down';h.innerHTML='<div class="hero-dot"></div>'+td+' services down'}
 
+    // Render active incidents
+    if(inc.active.length>0){
+      var ah=document.createElement('div');
+      ah.className='inc-header';
+      ah.innerHTML='Active Incidents <span class="cnt">'+inc.active.length+'</span>';
+      incEl.appendChild(ah);
+      for(var ai=0;ai<inc.active.length;ai++)incEl.appendChild(buildIncident(inc.active[ai],false));
+    }
+
+    // Render resolved incidents
+    if(inc.resolved.length>0){
+      var rh=document.createElement('div');
+      rh.className='inc-header resolved-header';
+      rh.innerHTML='Recently Resolved <span class="cnt">last 7 days</span>';
+      incEl.appendChild(rh);
+      for(var ri=0;ri<inc.resolved.length;ri++)incEl.appendChild(buildIncident(inc.resolved[ri],true));
+    }
+
+    // Monitor groups
     document.getElementById('bar').style.display='flex';
     var c=document.getElementById('gs');c.innerHTML='';
     var ks=Object.keys(gs).sort(function(a,b){return gs[b].length-gs[a].length});
