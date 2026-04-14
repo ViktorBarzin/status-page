@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T13:20:15.438847+00:00",
+  "last_updated": "2026-04-14T13:25:40.777140+00:00",
   "groups": {
     "HTTP": [
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.7,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -213,9 +213,9 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 82.5,
+        "uptime_24h": 82.6,
         "uptime_7d": 94.7,
-        "uptime_30d": 89.4,
+        "uptime_30d": 89.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 84.9,
         "uptime_7d": 95.0,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 80.9,
-        "uptime_30d": 80.2,
+        "uptime_30d": 80.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 81.9,
-        "uptime_30d": 81.1,
+        "uptime_30d": 81.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 84.3,
-        "uptime_7d": 95.2,
-        "uptime_30d": 94.6,
+        "uptime_24h": 83.7,
+        "uptime_7d": 95.1,
+        "uptime_30d": 94.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 89.9,
         "uptime_7d": 93.0,
-        "uptime_30d": 89.5,
+        "uptime_30d": 89.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 74.4,
-        "uptime_7d": 92.2,
-        "uptime_30d": 91.6
+        "uptime_24h": 73.9,
+        "uptime_7d": 92.0,
+        "uptime_30d": 91.4
       },
       {
         "name": "Imap",
@@ -754,14 +754,14 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 43.4,
+        "uptime_7d": 43.3,
         "uptime_30d": 43.4
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 43.4,
+        "uptime_7d": 43.3,
         "uptime_30d": 43.4
       },
       {
@@ -777,7 +777,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 82.6,
-        "uptime_7d": 78.4,
+        "uptime_7d": 78.5,
         "uptime_30d": 75.8
       },
       {
@@ -785,7 +785,7 @@
         "status": "up",
         "uptime_24h": 87.0,
         "uptime_7d": 79.9,
-        "uptime_30d": 77.0
+        "uptime_30d": 77.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -815,25 +815,25 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.1
+        "uptime_30d": 96.2
       }
     ],
     "Redis": [
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 80.7,
-        "uptime_7d": 94.0,
-        "uptime_30d": 93.6
+        "uptime_24h": 80.1,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.4
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 76.3,
-        "uptime_7d": 62.4,
-        "uptime_30d": 58.8
+        "uptime_24h": 73.7,
+        "uptime_7d": 62.1,
+        "uptime_30d": 58.6
       }
     ]
   },
