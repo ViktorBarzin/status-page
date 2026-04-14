@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T19:40:19.815931+00:00",
+  "last_updated": "2026-04-14T19:45:18.115052+00:00",
   "groups": {
     "HTTP": [
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 83.3,
         "uptime_7d": 95.5,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 82.5,
         "uptime_7d": 95.3,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 84.9,
         "uptime_7d": 95.5,
-        "uptime_30d": 91.3,
+        "uptime_30d": 91.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 4.5,
-        "uptime_7d": 18.6,
-        "uptime_30d": 19.6,
+        "uptime_24h": 5.1,
+        "uptime_7d": 18.8,
+        "uptime_30d": 19.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -511,7 +511,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -551,7 +551,7 @@
         "status": "up",
         "uptime_24h": 80.1,
         "uptime_7d": 94.2,
-        "uptime_30d": 90.7,
+        "uptime_30d": 90.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 41.6,
-        "uptime_7d": 84.3,
-        "uptime_30d": 83.8,
+        "uptime_24h": 41.0,
+        "uptime_7d": 84.1,
+        "uptime_30d": 83.7,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -753,15 +753,15 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 0.2,
-        "uptime_7d": 39.0,
+        "uptime_24h": 0.7,
+        "uptime_7d": 39.1,
         "uptime_30d": 39.1
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 0.2,
-        "uptime_7d": 39.0,
+        "uptime_24h": 0.7,
+        "uptime_7d": 39.1,
         "uptime_30d": 39.1
       },
       {
@@ -792,7 +792,7 @@
         "status": "up",
         "uptime_24h": 87.0,
         "uptime_7d": 82.2,
-        "uptime_30d": 79.4
+        "uptime_30d": 79.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -829,9 +829,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 38.5,
-        "uptime_7d": 83.2,
-        "uptime_30d": 82.9
+        "uptime_24h": 37.9,
+        "uptime_7d": 83.0,
+        "uptime_30d": 82.7
       }
     ],
     "Push": [
@@ -839,8 +839,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 35.3,
-        "uptime_7d": 59.2,
-        "uptime_30d": 56.7
+        "uptime_7d": 59.4,
+        "uptime_30d": 56.8
       }
     ],
     "External Reachability": [
@@ -1263,9 +1263,9 @@
       {
         "name": "[External] frigate",
         "status": "up",
-        "uptime_24h": 60.0,
-        "uptime_7d": 60.0,
-        "uptime_30d": 60.0,
+        "uptime_24h": 66.7,
+        "uptime_7d": 66.7,
+        "uptime_30d": 66.7,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1503,9 +1503,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 75.0,
-        "uptime_7d": 75.0,
-        "uptime_30d": 75.0,
+        "uptime_24h": 80.0,
+        "uptime_7d": 80.0,
+        "uptime_30d": 80.0,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
