@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T15:25:40.695017+00:00",
+  "last_updated": "2026-04-14T15:30:17.090318+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -213,7 +213,7 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 82.6,
+        "uptime_24h": 82.5,
         "uptime_7d": 94.9,
         "uptime_30d": 89.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.6,
-        "uptime_30d": 81.0,
+        "uptime_7d": 81.7,
+        "uptime_30d": 81.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 82.6,
+        "uptime_7d": 82.7,
         "uptime_30d": 81.9,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -423,7 +423,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 18.9,
-        "uptime_30d": 19.9,
+        "uptime_30d": 19.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 70.2,
-        "uptime_7d": 91.3,
-        "uptime_30d": 90.8,
+        "uptime_24h": 69.7,
+        "uptime_7d": 91.2,
+        "uptime_30d": 90.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 81.7,
         "uptime_7d": 89.0,
-        "uptime_30d": 86.0,
+        "uptime_30d": 86.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 88.8,
         "uptime_7d": 92.7,
-        "uptime_30d": 89.3,
+        "uptime_30d": 89.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 60.6,
-        "uptime_7d": 88.4,
-        "uptime_30d": 87.9
+        "uptime_24h": 60.0,
+        "uptime_7d": 88.3,
+        "uptime_30d": 87.8
       },
       {
         "name": "Imap",
@@ -755,14 +755,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 41.8,
-        "uptime_30d": 41.9
+        "uptime_30d": 41.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 41.8,
-        "uptime_30d": 41.9
+        "uptime_30d": 41.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -822,9 +822,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 66.9,
-        "uptime_7d": 90.2,
-        "uptime_30d": 89.8
+        "uptime_24h": 66.3,
+        "uptime_7d": 90.1,
+        "uptime_30d": 89.7
       }
     ],
     "Push": [
