@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T16:00:19.812739+00:00",
+  "last_updated": "2026-04-14T16:05:48.048340+00:00",
   "groups": {
     "HTTP": [
       {
@@ -213,7 +213,7 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 82.5,
+        "uptime_24h": 82.6,
         "uptime_7d": 95.0,
         "uptime_30d": 89.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.8,
-        "uptime_30d": 81.2,
+        "uptime_7d": 81.9,
+        "uptime_30d": 81.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -422,8 +422,8 @@
         "name": "Speedtest",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 18.7,
-        "uptime_30d": 19.7,
+        "uptime_7d": 18.6,
+        "uptime_30d": 19.6,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 66.3,
-        "uptime_7d": 90.3,
-        "uptime_30d": 89.7,
+        "uptime_24h": 65.7,
+        "uptime_7d": 90.1,
+        "uptime_30d": 89.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 88.8,
-        "uptime_7d": 92.7,
+        "uptime_7d": 92.8,
         "uptime_30d": 89.5,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 56.7,
-        "uptime_7d": 87.4,
-        "uptime_30d": 86.9
+        "uptime_24h": 56.1,
+        "uptime_7d": 87.3,
+        "uptime_30d": 86.8
       },
       {
         "name": "Imap",
@@ -747,22 +747,22 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 71.5,
-        "uptime_7d": 91.7,
-        "uptime_30d": 91.7
+        "uptime_7d": 91.8,
+        "uptime_30d": 91.8
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 41.4,
-        "uptime_30d": 41.5
+        "uptime_30d": 41.4
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 41.4,
-        "uptime_30d": 41.5
+        "uptime_30d": 41.4
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -784,14 +784,14 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 82.6,
-        "uptime_7d": 79.5,
-        "uptime_30d": 76.9
+        "uptime_7d": 79.6,
+        "uptime_30d": 77.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 87.0,
-        "uptime_7d": 80.9,
+        "uptime_7d": 81.0,
         "uptime_30d": 78.1
       },
       {
@@ -829,16 +829,16 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 63.0,
-        "uptime_7d": 89.2,
-        "uptime_30d": 88.8
+        "uptime_24h": 62.4,
+        "uptime_7d": 89.0,
+        "uptime_30d": 88.7
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 58.3,
+        "uptime_24h": 57.1,
         "uptime_7d": 60.7,
         "uptime_30d": 57.6
       }
