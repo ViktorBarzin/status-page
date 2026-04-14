@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T19:35:18.105026+00:00",
+  "last_updated": "2026-04-14T19:37:35.004906+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 98.9,
-        "uptime_30d": 90.8,
+        "uptime_7d": 99.0,
+        "uptime_30d": 90.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -205,7 +205,7 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 83.3,
+        "uptime_24h": 83.4,
         "uptime_7d": 95.5,
         "uptime_30d": 91.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
@@ -213,7 +213,7 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 82.5,
+        "uptime_24h": 82.6,
         "uptime_7d": 95.3,
         "uptime_30d": 90.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.0,
-        "uptime_30d": 82.5,
+        "uptime_7d": 83.1,
+        "uptime_30d": 82.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.9,
-        "uptime_30d": 83.3,
+        "uptime_7d": 84.0,
+        "uptime_30d": 83.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 4.0,
-        "uptime_7d": 18.5,
-        "uptime_30d": 19.5,
+        "uptime_24h": 4.5,
+        "uptime_7d": 18.6,
+        "uptime_30d": 19.6,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -493,7 +493,7 @@
       {
         "name": "Actual Budget (Viktor)",
         "status": "up",
-        "uptime_24h": 97.7,
+        "uptime_24h": 97.8,
         "uptime_7d": 99.4,
         "uptime_30d": 98.9,
         "url": "https://budget-anca.viktorbarzin.me"
@@ -549,7 +549,7 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 80.1,
+        "uptime_24h": 80.2,
         "uptime_7d": 94.2,
         "uptime_30d": 90.7,
         "url": "https://docker.viktorbarzin.me"
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -621,7 +621,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.7,
+        "uptime_24h": 81.8,
         "uptime_7d": 89.8,
         "uptime_30d": 87.0,
         "url": "https://docker.viktorbarzin.me"
@@ -661,7 +661,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 90.4,
+        "uptime_24h": 90.5,
         "uptime_7d": 93.2,
         "uptime_30d": 90.1,
         "url": "https://poison.viktorbarzin.me"
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 33.9,
-        "uptime_7d": 82.0,
-        "uptime_30d": 81.7
+        "uptime_24h": 34.3,
+        "uptime_7d": 82.1,
+        "uptime_30d": 81.8
       },
       {
         "name": "Imap",
@@ -746,7 +746,7 @@
       {
         "name": "NFS Server (Proxmox)",
         "status": "up",
-        "uptime_24h": 71.5,
+        "uptime_24h": 71.7,
         "uptime_7d": 92.3,
         "uptime_30d": 92.3
       },
@@ -754,14 +754,14 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 39.1,
+        "uptime_7d": 39.0,
         "uptime_30d": 39.1
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 39.1,
+        "uptime_7d": 39.0,
         "uptime_30d": 39.1
       },
       {
@@ -790,7 +790,7 @@
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 87.0,
+        "uptime_24h": 87.1,
         "uptime_7d": 82.2,
         "uptime_30d": 79.4
       },
@@ -1263,9 +1263,9 @@
       {
         "name": "[External] frigate",
         "status": "up",
-        "uptime_24h": 50.0,
-        "uptime_7d": 50.0,
-        "uptime_30d": 50.0,
+        "uptime_24h": 60.0,
+        "uptime_7d": 60.0,
+        "uptime_30d": 60.0,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1503,9 +1503,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 66.7,
-        "uptime_7d": 66.7,
-        "uptime_30d": 66.7,
+        "uptime_24h": 75.0,
+        "uptime_7d": 75.0,
+        "uptime_30d": 75.0,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
@@ -1617,6 +1617,18 @@
   "incidents": {
     "active": [],
     "resolved": [],
-    "user_reports": []
+    "user_reports": [
+      {
+        "id": 1,
+        "title": "Nextcloud returning 502 errors",
+        "type": "user-report",
+        "status": "open",
+        "created_at": "2026-04-14T19:37:14Z",
+        "affected_services": [
+          "Nextcloud"
+        ],
+        "url": "https://github.com/ViktorBarzin/infra/issues/1"
+      }
+    ]
   }
 }
