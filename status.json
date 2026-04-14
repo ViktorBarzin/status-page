@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T17:35:41.143726+00:00",
+  "last_updated": "2026-04-14T17:40:48.208503+00:00",
   "groups": {
     "HTTP": [
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.3,
-        "uptime_30d": 82.7,
+        "uptime_7d": 83.4,
+        "uptime_30d": 82.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 82.5,
-        "uptime_30d": 82.0,
+        "uptime_30d": 82.1,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 55.6,
-        "uptime_7d": 87.6,
-        "uptime_30d": 87.1,
+        "uptime_24h": 55.1,
+        "uptime_7d": 87.4,
+        "uptime_30d": 87.0,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 81.7,
         "uptime_7d": 89.4,
-        "uptime_30d": 86.5,
+        "uptime_30d": 86.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 88.8,
         "uptime_7d": 93.0,
-        "uptime_30d": 89.7,
+        "uptime_30d": 89.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 46.1,
-        "uptime_7d": 84.8,
-        "uptime_30d": 84.5
+        "uptime_24h": 45.6,
+        "uptime_7d": 84.7,
+        "uptime_30d": 84.4
       },
       {
         "name": "Imap",
@@ -755,14 +755,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 40.3,
-        "uptime_30d": 40.4
+        "uptime_30d": 40.3
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 40.3,
-        "uptime_30d": 40.4
+        "uptime_30d": 40.3
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -784,8 +784,8 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 82.6,
-        "uptime_7d": 80.1,
-        "uptime_30d": 77.5
+        "uptime_7d": 80.2,
+        "uptime_30d": 77.6
       },
       {
         "name": "Valchedrym Video System",
@@ -829,16 +829,16 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 52.5,
-        "uptime_7d": 86.5,
-        "uptime_30d": 86.2
+        "uptime_24h": 51.9,
+        "uptime_7d": 86.4,
+        "uptime_30d": 86.1
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 47.1,
+        "uptime_24h": 45.5,
         "uptime_7d": 59.9,
         "uptime_30d": 57.1
       }
