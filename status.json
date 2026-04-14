@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T23:06:09.698877+00:00",
+  "last_updated": "2026-04-14T23:10:55.320491+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,9 +125,9 @@
       {
         "name": "Immich server",
         "status": "down",
-        "uptime_24h": 95.0,
-        "uptime_7d": 97.9,
-        "uptime_30d": 93.2,
+        "uptime_24h": 94.4,
+        "uptime_7d": 97.7,
+        "uptime_30d": 93.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.0,
+        "uptime_7d": 84.1,
         "uptime_30d": 83.6,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 27.8,
-        "uptime_7d": 23.4,
-        "uptime_30d": 24.1,
+        "uptime_24h": 28.4,
+        "uptime_7d": 23.5,
+        "uptime_30d": 24.2,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 80.2,
         "uptime_7d": 94.6,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -613,7 +613,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.8,
+        "uptime_24h": 81.7,
         "uptime_7d": 90.4,
         "uptime_30d": 87.7,
         "url": "https://docker.viktorbarzin.me"
@@ -653,9 +653,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.7,
-        "uptime_7d": 93.0,
-        "uptime_30d": 90.1,
+        "uptime_24h": 92.1,
+        "uptime_7d": 92.9,
+        "uptime_30d": 90.0,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -703,7 +703,7 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 34.4,
+        "uptime_24h": 34.1,
         "uptime_7d": 83.1,
         "uptime_30d": 82.8
       },
@@ -738,30 +738,30 @@
       {
         "name": "NFS Server (Proxmox)",
         "status": "up",
-        "uptime_24h": 87.6,
-        "uptime_7d": 92.7,
-        "uptime_30d": 92.7
+        "uptime_24h": 88.1,
+        "uptime_7d": 92.8,
+        "uptime_30d": 92.8
       },
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 20.9,
-        "uptime_7d": 41.5,
+        "uptime_24h": 21.4,
+        "uptime_7d": 41.6,
         "uptime_30d": 41.6
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 23.5,
+        "uptime_24h": 24.0,
         "uptime_7d": 42.2,
-        "uptime_30d": 42.2
+        "uptime_30d": 42.3
       },
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 97.4,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1
+        "uptime_24h": 97.2,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0
       },
       {
         "name": "PVE NFS (2049)",
@@ -823,14 +823,14 @@
         "status": "up",
         "uptime_24h": 23.5,
         "uptime_7d": 79.9,
-        "uptime_30d": 79.6
+        "uptime_30d": 79.7
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 31.4,
+        "uptime_24h": 32.4,
         "uptime_7d": 60.2,
         "uptime_30d": 57.5
       }
@@ -839,9 +839,9 @@
       {
         "name": "[External] authentik",
         "status": "up",
-        "uptime_24h": 84.0,
-        "uptime_7d": 84.0,
-        "uptime_30d": 84.0,
+        "uptime_24h": 84.3,
+        "uptime_7d": 84.3,
+        "uptime_30d": 84.3,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
@@ -1239,9 +1239,9 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 83.0,
-        "uptime_7d": 83.0,
-        "uptime_30d": 83.0,
+        "uptime_24h": 83.3,
+        "uptime_7d": 83.3,
+        "uptime_30d": 83.3,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -1359,9 +1359,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 66.7,
-        "uptime_7d": 66.7,
-        "uptime_30d": 66.7,
+        "uptime_24h": 67.3,
+        "uptime_7d": 67.3,
+        "uptime_30d": 67.3,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1439,9 +1439,9 @@
       {
         "name": "[External] authelia",
         "status": "up",
-        "uptime_24h": 97.8,
-        "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "uptime_24h": 97.9,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://authelia.viktorbarzin.me"
       },
       {
@@ -1479,9 +1479,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 97.8,
-        "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "uptime_24h": 97.9,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
