@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T20:40:52.472992+00:00",
+  "last_updated": "2026-04-14T20:45:52.447485+00:00",
   "groups": {
     "HTTP": [
       {
@@ -278,8 +278,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.2,
-        "uptime_30d": 83.6,
+        "uptime_7d": 84.3,
+        "uptime_30d": 83.7,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 11.4,
-        "uptime_7d": 20.1,
-        "uptime_30d": 21.0,
+        "uptime_24h": 11.9,
+        "uptime_7d": 20.2,
+        "uptime_30d": 21.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 36.0,
         "uptime_7d": 83.1,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 6.6,
+        "uptime_24h": 7.2,
         "uptime_7d": 39.9,
-        "uptime_30d": 39.9
+        "uptime_30d": 40.0
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 7.0,
-        "uptime_7d": 40.0,
-        "uptime_30d": 40.0
+        "uptime_24h": 7.7,
+        "uptime_7d": 40.1,
+        "uptime_30d": 40.1
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -798,7 +798,7 @@
         "status": "up",
         "uptime_24h": 82.4,
         "uptime_7d": 94.4,
-        "uptime_30d": 91.1
+        "uptime_30d": 91.2
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 33.7,
-        "uptime_7d": 82.0,
-        "uptime_30d": 81.8
+        "uptime_24h": 33.2,
+        "uptime_7d": 81.9,
+        "uptime_30d": 81.6
       }
     ],
     "Push": [
@@ -1247,17 +1247,17 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 55.6,
-        "uptime_7d": 55.6,
-        "uptime_30d": 55.6,
+        "uptime_24h": 57.9,
+        "uptime_7d": 57.9,
+        "uptime_30d": 57.9,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
         "name": "[External] frigate",
         "status": "up",
-        "uptime_24h": 88.2,
-        "uptime_7d": 88.2,
-        "uptime_30d": 88.2,
+        "uptime_24h": 88.9,
+        "uptime_7d": 88.9,
+        "uptime_30d": 88.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1367,9 +1367,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 15.8,
-        "uptime_7d": 15.8,
-        "uptime_30d": 15.8,
+        "uptime_24h": 20.0,
+        "uptime_7d": 20.0,
+        "uptime_30d": 20.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1447,9 +1447,9 @@
       {
         "name": "[External] authelia",
         "status": "up",
-        "uptime_24h": 94.1,
-        "uptime_7d": 94.1,
-        "uptime_30d": 94.1,
+        "uptime_24h": 94.4,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4,
         "url": "https://authelia.viktorbarzin.me"
       },
       {
@@ -1495,9 +1495,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 94.1,
-        "uptime_7d": 94.1,
-        "uptime_30d": 94.1,
+        "uptime_24h": 94.4,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
