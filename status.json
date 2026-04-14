@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T21:05:44.530212+00:00",
+  "last_updated": "2026-04-14T21:10:55.021335+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 93.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 83.3,
         "uptime_7d": 95.6,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 14.2,
-        "uptime_7d": 20.7,
-        "uptime_30d": 21.6,
+        "uptime_24h": 14.8,
+        "uptime_7d": 20.8,
+        "uptime_30d": 21.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -541,7 +541,7 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 80.1,
+        "uptime_24h": 80.2,
         "uptime_7d": 94.4,
         "uptime_30d": 91.0,
         "url": "https://docker.viktorbarzin.me"
@@ -653,7 +653,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 91.0,
+        "uptime_24h": 91.6,
         "uptime_7d": 93.1,
         "uptime_30d": 90.1,
         "url": "https://poison.viktorbarzin.me"
@@ -738,23 +738,23 @@
       {
         "name": "NFS Server (Proxmox)",
         "status": "up",
-        "uptime_24h": 74.0,
+        "uptime_24h": 74.6,
         "uptime_7d": 92.5,
         "uptime_30d": 92.5
       },
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 9.5,
+        "uptime_24h": 10.0,
         "uptime_7d": 40.3,
-        "uptime_30d": 40.3
+        "uptime_30d": 40.4
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 9.8,
+        "uptime_24h": 10.4,
         "uptime_7d": 40.4,
-        "uptime_30d": 40.4
+        "uptime_30d": 40.5
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,14 +776,14 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 82.6,
-        "uptime_7d": 81.3,
+        "uptime_7d": 81.4,
         "uptime_30d": 78.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 87.0,
-        "uptime_7d": 82.6,
+        "uptime_7d": 82.7,
         "uptime_30d": 79.9
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 31.0,
-        "uptime_7d": 81.4,
-        "uptime_30d": 81.2
+        "uptime_24h": 30.4,
+        "uptime_7d": 81.3,
+        "uptime_30d": 81.0
       }
     ],
     "Push": [
@@ -1247,17 +1247,17 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 65.2,
-        "uptime_7d": 65.2,
-        "uptime_30d": 65.2,
+        "uptime_24h": 66.7,
+        "uptime_7d": 66.7,
+        "uptime_30d": 66.7,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
         "name": "[External] frigate",
         "status": "up",
-        "uptime_24h": 90.9,
-        "uptime_7d": 90.9,
-        "uptime_30d": 90.9,
+        "uptime_24h": 91.3,
+        "uptime_7d": 91.3,
+        "uptime_30d": 91.3,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1367,9 +1367,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 33.3,
-        "uptime_7d": 33.3,
-        "uptime_30d": 33.3,
+        "uptime_24h": 36.0,
+        "uptime_7d": 36.0,
+        "uptime_30d": 36.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1447,9 +1447,9 @@
       {
         "name": "[External] authelia",
         "status": "up",
-        "uptime_24h": 95.5,
-        "uptime_7d": 95.5,
-        "uptime_30d": 95.5,
+        "uptime_24h": 95.7,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://authelia.viktorbarzin.me"
       },
       {
@@ -1495,9 +1495,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 95.2,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_24h": 95.7,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
