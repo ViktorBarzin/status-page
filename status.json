@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T13:31:08.016494+00:00",
+  "last_updated": "2026-04-14T13:36:07.020922+00:00",
   "groups": {
     "HTTP": [
       {
@@ -70,7 +70,7 @@
         "name": "Grafana",
         "status": "up",
         "uptime_24h": 99.4,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 98.7,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.0,
+        "uptime_30d": 89.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 83.3,
         "uptime_7d": 94.9,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.9,
+        "uptime_7d": 81.0,
         "uptime_30d": 80.3,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.9,
+        "uptime_7d": 82.0,
         "uptime_30d": 81.2,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.8,
-        "uptime_30d": 82.5,
+        "uptime_30d": 82.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 81.1,
-        "uptime_30d": 80.4,
+        "uptime_30d": 80.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 83.1,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.3,
+        "uptime_24h": 82.6,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.1,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 73.3,
-        "uptime_7d": 91.9,
-        "uptime_30d": 91.3
+        "uptime_24h": 72.8,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.1
       },
       {
         "name": "Imap",
@@ -755,14 +755,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 43.2,
-        "uptime_30d": 43.3
+        "uptime_30d": 43.2
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 43.2,
-        "uptime_30d": 43.3
+        "uptime_30d": 43.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -822,9 +822,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 79.6,
-        "uptime_7d": 93.7,
-        "uptime_30d": 93.3
+        "uptime_24h": 79.0,
+        "uptime_7d": 93.6,
+        "uptime_30d": 93.1
       }
     ],
     "Push": [
