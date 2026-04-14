@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T20:25:18.367859+00:00",
+  "last_updated": "2026-04-14T20:30:19.770494+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 93.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 90.0,
+        "uptime_30d": 90.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 84.9,
         "uptime_7d": 95.6,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 9.6,
-        "uptime_7d": 19.7,
-        "uptime_30d": 20.6,
+        "uptime_24h": 10.2,
+        "uptime_7d": 19.9,
+        "uptime_30d": 20.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 36.5,
-        "uptime_7d": 83.1,
-        "uptime_30d": 82.7,
+        "uptime_24h": 36.0,
+        "uptime_7d": 83.0,
+        "uptime_30d": 82.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -745,23 +745,23 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 5.0,
-        "uptime_7d": 39.7,
-        "uptime_30d": 39.7
-      },
-      {
-        "name": "Mailserver IMAP",
-        "status": "up",
-        "uptime_24h": 5.2,
+        "uptime_24h": 5.7,
         "uptime_7d": 39.7,
         "uptime_30d": 39.8
       },
       {
+        "name": "Mailserver IMAP",
+        "status": "up",
+        "uptime_24h": 5.9,
+        "uptime_7d": 39.8,
+        "uptime_30d": 39.9
+      },
+      {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6
       },
       {
         "name": "PVE NFS (2049)",
@@ -820,10 +820,10 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "up",
-        "uptime_24h": 35.7,
-        "uptime_7d": 82.6,
-        "uptime_30d": 82.4
+        "status": "down",
+        "uptime_24h": 35.2,
+        "uptime_7d": 82.5,
+        "uptime_30d": 82.2
       }
     ],
     "Push": [
@@ -1247,17 +1247,17 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 46.7,
-        "uptime_7d": 46.7,
-        "uptime_30d": 46.7,
+        "uptime_24h": 50.0,
+        "uptime_7d": 50.0,
+        "uptime_30d": 50.0,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
         "name": "[External] frigate",
         "status": "up",
-        "uptime_24h": 85.7,
-        "uptime_7d": 85.7,
-        "uptime_30d": 85.7,
+        "uptime_24h": 86.7,
+        "uptime_7d": 86.7,
+        "uptime_30d": 86.7,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1366,10 +1366,10 @@
       },
       {
         "name": "[External] nextcloud",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
+        "status": "up",
+        "uptime_24h": 6.2,
+        "uptime_7d": 6.2,
+        "uptime_30d": 6.2,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1447,9 +1447,9 @@
       {
         "name": "[External] authelia",
         "status": "up",
-        "uptime_24h": 92.3,
-        "uptime_7d": 92.3,
-        "uptime_30d": 92.3,
+        "uptime_24h": 92.9,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9,
         "url": "https://authelia.viktorbarzin.me"
       },
       {
@@ -1495,9 +1495,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 92.3,
-        "uptime_7d": 92.3,
-        "uptime_30d": 92.3,
+        "uptime_24h": 92.9,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
