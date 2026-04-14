@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T09:35:16.788702+00:00",
+  "last_updated": "2026-04-14T10:26:08.408587+00:00",
   "groups": {
     "HTTP": [
       {
@@ -69,9 +69,9 @@
       {
         "name": "Grafana",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 98.7,
+        "uptime_24h": 99.4,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 96.8,
+        "uptime_24h": 98.9,
         "uptime_7d": 98.9,
         "uptime_30d": 92.8,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -133,7 +133,7 @@
       {
         "name": "Immich ML",
         "status": "up",
-        "uptime_24h": 96.8,
+        "uptime_24h": 98.9,
         "uptime_7d": 98.9,
         "uptime_30d": 97.5,
         "url": "http://immich-machine-learning.immich:3003"
@@ -141,7 +141,7 @@
       {
         "name": "Actual Budget",
         "status": "up",
-        "uptime_24h": 97.9,
+        "uptime_24h": 97.8,
         "uptime_7d": 99.3,
         "uptime_30d": 98.9,
         "url": "http://budget-viktor.actualbudget"
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 97.4,
+        "uptime_24h": 97.2,
         "uptime_7d": 98.7,
-        "uptime_30d": 89.2,
+        "uptime_30d": 89.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 87.9,
+        "uptime_24h": 99.4,
+        "uptime_7d": 99.8,
+        "uptime_30d": 87.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -197,25 +197,25 @@
       {
         "name": "Frigate",
         "status": "up",
-        "uptime_24h": 97.9,
+        "uptime_24h": 97.8,
         "uptime_7d": 99.3,
         "uptime_30d": 98.0,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
-        "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 98.7,
-        "uptime_30d": 93.2,
+        "status": "down",
+        "uptime_24h": 95.0,
+        "uptime_7d": 98.4,
+        "uptime_30d": 92.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 91.9,
-        "uptime_7d": 97.3,
-        "uptime_30d": 91.4,
+        "uptime_24h": 90.9,
+        "uptime_7d": 97.1,
+        "uptime_30d": 91.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -229,7 +229,7 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 95.2,
+        "uptime_24h": 95.0,
         "uptime_7d": 98.0,
         "uptime_30d": 92.8,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 80.7,
-        "uptime_30d": 79.9,
+        "uptime_30d": 80.0,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -325,7 +325,7 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 92.1,
+        "uptime_24h": 91.7,
         "uptime_7d": 96.6,
         "uptime_30d": 95.9,
         "url": "https://ha-london.viktorbarzin.me"
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.0,
+        "uptime_7d": 96.1,
         "uptime_30d": 81.8,
         "url": "http://blog.website.svc"
       },
@@ -422,7 +422,7 @@
         "name": "Speedtest",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 21.0,
+        "uptime_7d": 20.9,
         "uptime_30d": 22.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -430,7 +430,7 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.7,
+        "uptime_7d": 79.8,
         "uptime_30d": 79.1,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -493,7 +493,7 @@
       {
         "name": "Actual Budget (Viktor)",
         "status": "up",
-        "uptime_24h": 97.8,
+        "uptime_24h": 97.7,
         "uptime_7d": 99.3,
         "uptime_30d": 98.7,
         "url": "https://budget-anca.viktorbarzin.me"
@@ -548,10 +548,10 @@
       },
       {
         "name": "Music Assistant",
-        "status": "down",
-        "uptime_24h": 92.7,
-        "uptime_7d": 97.3,
-        "uptime_30d": 92.8,
+        "status": "up",
+        "uptime_24h": 91.8,
+        "uptime_7d": 97.1,
+        "uptime_30d": 92.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "OwnTracks",
         "status": "up",
-        "uptime_24h": 98.4,
+        "uptime_24h": 98.3,
         "uptime_7d": 99.5,
         "uptime_30d": 98.7,
         "url": "https://owntracks.viktorbarzin.me"
@@ -621,15 +621,15 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 92.7,
-        "uptime_7d": 91.2,
-        "uptime_30d": 87.8,
+        "uptime_24h": 91.8,
+        "uptime_7d": 91.0,
+        "uptime_30d": 87.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
-        "uptime_24h": 97.3,
+        "uptime_24h": 97.2,
         "uptime_7d": 98.5,
         "uptime_30d": 98.2,
         "url": "https://ci.viktorbarzin.me"
@@ -661,7 +661,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 91.0,
+        "uptime_24h": 90.5,
         "uptime_7d": 93.3,
         "uptime_30d": 89.6,
         "url": "https://poison.viktorbarzin.me"
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 94.7,
-        "uptime_7d": 98.2,
-        "uptime_30d": 97.5
+        "uptime_24h": 93.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 97.3
       },
       {
         "name": "Imap",
@@ -746,7 +746,7 @@
       {
         "name": "NFS Server (Proxmox)",
         "status": "up",
-        "uptime_24h": 72.9,
+        "uptime_24h": 71.5,
         "uptime_7d": 90.7,
         "uptime_30d": 90.7
       },
@@ -754,15 +754,15 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 45.8,
-        "uptime_30d": 45.9
+        "uptime_7d": 45.7,
+        "uptime_30d": 45.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 45.8,
-        "uptime_30d": 45.9
+        "uptime_7d": 45.7,
+        "uptime_30d": 45.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -775,17 +775,17 @@
     "Ping": [
       {
         "name": "Valchedrym Security System",
-        "status": "down",
-        "uptime_24h": 93.7,
-        "uptime_7d": 80.5,
-        "uptime_30d": 77.5
+        "status": "up",
+        "uptime_24h": 93.4,
+        "uptime_7d": 80.6,
+        "uptime_30d": 77.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 95.3,
-        "uptime_7d": 81.2,
-        "uptime_30d": 78.0
+        "uptime_24h": 94.5,
+        "uptime_7d": 81.0,
+        "uptime_30d": 77.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -796,8 +796,8 @@
       },
       {
         "name": "Sofia RPI",
-        "status": "down",
-        "uptime_24h": 91.6,
+        "status": "up",
+        "uptime_24h": 91.2,
         "uptime_7d": 96.1,
         "uptime_30d": 92.0
       },
@@ -813,7 +813,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 97.3,
+        "uptime_24h": 99.4,
         "uptime_7d": 99.1,
         "uptime_30d": 95.9
       }
@@ -822,7 +822,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 96.3,
+        "uptime_24h": 96.1,
         "uptime_7d": 98.7,
         "uptime_30d": 98.2
       }
@@ -831,21 +831,23 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 90.9,
+        "uptime_24h": 90.2,
         "uptime_7d": 63.8,
         "uptime_30d": 59.7
       }
     ]
   },
   "incidents": {
-    "active": [
+    "active": [],
+    "resolved": [
       {
         "id": 1,
         "title": "Test incident - verifying status page integration",
         "severity": "sev3",
-        "status": "active",
+        "status": "resolved",
         "created_at": "2026-04-14T09:32:20Z",
-        "updated_at": "2026-04-14T09:32:27Z",
+        "closed_at": "2026-04-14T09:36:41Z",
+        "updated_at": "2026-04-14T09:36:41Z",
         "affected_services": [
           "Grafana",
           "Nextcloud"
@@ -855,12 +857,16 @@
             "timestamp": "2026-04-14T09:32:27Z",
             "status": "Investigating",
             "body": "**Investigating** \u2014 Testing timeline rendering on the status page."
+          },
+          {
+            "timestamp": "2026-04-14T09:36:41Z",
+            "status": "Resolved",
+            "body": "**Resolved** \u2014 Test complete. Status page incident integration is working correctly."
           }
         ],
         "url": "https://github.com/ViktorBarzin/status-page/issues/1",
         "postmortem": null
       }
-    ],
-    "resolved": []
+    ]
   }
 }
