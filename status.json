@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T14:00:18.399009+00:00",
+  "last_updated": "2026-04-14T14:06:07.017500+00:00",
   "groups": {
     "HTTP": [
       {
@@ -213,7 +213,7 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 82.5,
+        "uptime_24h": 82.6,
         "uptime_7d": 94.8,
         "uptime_30d": 89.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 82.1,
+        "uptime_7d": 82.2,
         "uptime_30d": 81.4,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -430,8 +430,8 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.2,
-        "uptime_30d": 80.6,
+        "uptime_7d": 81.3,
+        "uptime_30d": 80.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -549,7 +549,7 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 80.1,
+        "uptime_24h": 80.2,
         "uptime_7d": 93.6,
         "uptime_30d": 89.8,
         "url": "https://docker.viktorbarzin.me"
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 79.8,
-        "uptime_7d": 93.9,
-        "uptime_30d": 93.3,
+        "uptime_24h": 79.2,
+        "uptime_7d": 93.8,
+        "uptime_30d": 93.2,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -621,7 +621,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.7,
+        "uptime_24h": 81.8,
         "uptime_7d": 88.7,
         "uptime_30d": 85.7,
         "url": "https://docker.viktorbarzin.me"
@@ -661,7 +661,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 89.9,
+        "uptime_24h": 90.5,
         "uptime_7d": 93.1,
         "uptime_30d": 89.7,
         "url": "https://poison.viktorbarzin.me"
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 70.0,
-        "uptime_7d": 90.9,
-        "uptime_30d": 90.4
+        "uptime_24h": 69.4,
+        "uptime_7d": 90.8,
+        "uptime_30d": 90.2
       },
       {
         "name": "Imap",
@@ -754,15 +754,15 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 42.9,
-        "uptime_30d": 42.9
+        "uptime_7d": 42.8,
+        "uptime_30d": 42.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 42.9,
-        "uptime_30d": 42.9
+        "uptime_7d": 42.8,
+        "uptime_30d": 42.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -822,16 +822,16 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 76.2,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.4
+        "uptime_24h": 75.7,
+        "uptime_7d": 92.6,
+        "uptime_30d": 92.2
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 71.1,
+        "uptime_24h": 70.3,
         "uptime_7d": 61.8,
         "uptime_30d": 58.4
       }
