@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T01:25:16.293109+00:00",
+  "last_updated": "2026-04-14T01:31:10.566079+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.9,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -205,16 +205,16 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 95.8,
-        "uptime_7d": 97.8,
-        "uptime_30d": 92.5,
+        "uptime_24h": 95.5,
+        "uptime_7d": 97.7,
+        "uptime_30d": 92.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 93.7,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 91.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.7,
-        "uptime_30d": 79.1,
+        "uptime_7d": 79.8,
+        "uptime_30d": 79.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.8,
+        "uptime_7d": 80.9,
         "uptime_30d": 80.1,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -324,10 +324,10 @@
       },
       {
         "name": "ha-london",
-        "status": "up",
-        "uptime_24h": 94.2,
-        "uptime_7d": 96.4,
-        "uptime_30d": 95.8,
+        "status": "down",
+        "uptime_24h": 93.2,
+        "uptime_7d": 95.9,
+        "uptime_30d": 95.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.2,
+        "uptime_7d": 95.3,
         "uptime_30d": 81.9,
         "url": "http://blog.website.svc"
       },
@@ -423,14 +423,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 20.8,
-        "uptime_30d": 22.2,
+        "uptime_30d": 22.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.9,
+        "uptime_7d": 80.0,
         "uptime_30d": 79.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -629,9 +629,9 @@
       {
         "name": "Woodpecker CI",
         "status": "down",
-        "uptime_24h": 94.4,
-        "uptime_7d": 96.6,
-        "uptime_30d": 96.2,
+        "uptime_24h": 94.1,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 92.0,
-        "uptime_7d": 93.3,
-        "uptime_30d": 89.6,
+        "uptime_7d": 93.4,
+        "uptime_30d": 89.7,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -746,23 +746,23 @@
       {
         "name": "NFS Server (TrueNAS)",
         "status": "down",
-        "uptime_24h": 80.1,
-        "uptime_7d": 89.7,
-        "uptime_30d": 89.7
+        "uptime_24h": 79.7,
+        "uptime_7d": 89.5,
+        "uptime_30d": 89.5
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 45.5,
-        "uptime_30d": 45.5
+        "uptime_7d": 45.4,
+        "uptime_30d": 45.4
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 45.5,
-        "uptime_30d": 45.5
+        "uptime_7d": 45.4,
+        "uptime_30d": 45.4
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,16 +776,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 94.8,
-        "uptime_7d": 80.1,
-        "uptime_30d": 77.2
+        "uptime_24h": 94.5,
+        "uptime_7d": 80.0,
+        "uptime_30d": 77.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 96.2,
-        "uptime_7d": 81.0,
-        "uptime_30d": 77.9
+        "uptime_24h": 95.9,
+        "uptime_7d": 80.9,
+        "uptime_30d": 77.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -811,27 +811,27 @@
       {
         "name": "TrueNAS (NFS)",
         "status": "down",
-        "uptime_24h": 80.1,
-        "uptime_7d": 89.7,
-        "uptime_30d": 89.7
+        "uptime_24h": 79.7,
+        "uptime_7d": 89.5,
+        "uptime_30d": 89.5
       }
     ],
     "PostgreSQL": [
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.3,
         "uptime_7d": 99.1,
-        "uptime_30d": 95.9
+        "uptime_30d": 96.0
       }
     ],
     "Redis": [
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 93.7,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.2
+        "uptime_24h": 93.4,
+        "uptime_7d": 96.6,
+        "uptime_30d": 96.1
       }
     ],
     "Push": [
