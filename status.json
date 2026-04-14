@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T18:50:48.053973+00:00",
+  "last_updated": "2026-04-14T18:55:41.005086+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 83.7,
-        "uptime_30d": 83.1,
+        "uptime_30d": 83.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 83.8,
+        "uptime_30d": 83.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 82.9,
-        "uptime_30d": 82.4,
+        "uptime_30d": 82.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -550,7 +550,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 80.1,
-        "uptime_7d": 94.1,
+        "uptime_7d": 94.2,
         "uptime_30d": 90.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 47.2,
-        "uptime_7d": 85.6,
-        "uptime_30d": 85.1,
+        "uptime_24h": 46.6,
+        "uptime_7d": 85.4,
+        "uptime_30d": 85.0,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -622,7 +622,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 81.7,
-        "uptime_7d": 89.6,
+        "uptime_7d": 89.7,
         "uptime_30d": 86.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 37.8,
-        "uptime_7d": 82.8,
-        "uptime_30d": 82.5
+        "uptime_24h": 37.2,
+        "uptime_7d": 82.7,
+        "uptime_30d": 82.4
       },
       {
         "name": "Imap",
@@ -755,14 +755,14 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 39.5,
-        "uptime_30d": 39.6
+        "uptime_30d": 39.5
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 39.5,
-        "uptime_30d": 39.6
+        "uptime_30d": 39.5
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -792,7 +792,7 @@
         "status": "up",
         "uptime_24h": 87.0,
         "uptime_7d": 81.9,
-        "uptime_30d": 79.1
+        "uptime_30d": 79.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -829,51 +829,23 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 44.2,
-        "uptime_7d": 84.6,
-        "uptime_30d": 84.2
+        "uptime_24h": 43.6,
+        "uptime_7d": 84.4,
+        "uptime_30d": 84.1
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 37.5,
-        "uptime_7d": 59.4,
-        "uptime_30d": 56.7
+        "uptime_24h": 36.4,
+        "uptime_7d": 59.1,
+        "uptime_30d": 56.6
       }
     ]
   },
   "incidents": {
     "active": [],
-    "resolved": [
-      {
-        "id": 1,
-        "title": "Test incident - verifying status page integration",
-        "severity": "sev3",
-        "status": "resolved",
-        "created_at": "2026-04-14T09:32:20Z",
-        "closed_at": "2026-04-14T09:36:41Z",
-        "updated_at": "2026-04-14T09:36:41Z",
-        "affected_services": [
-          "Grafana",
-          "Nextcloud"
-        ],
-        "timeline": [
-          {
-            "timestamp": "2026-04-14T09:32:27Z",
-            "status": "Investigating",
-            "body": "**Investigating** \u2014 Testing timeline rendering on the status page."
-          },
-          {
-            "timestamp": "2026-04-14T09:36:41Z",
-            "status": "Resolved",
-            "body": "**Resolved** \u2014 Test complete. Status page incident integration is working correctly."
-          }
-        ],
-        "url": "https://github.com/ViktorBarzin/status-page/issues/1",
-        "postmortem": null
-      }
-    ]
+    "resolved": []
   }
 }
