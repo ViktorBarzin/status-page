@@ -79,6 +79,13 @@ header h1 { font-size: 20px; font-weight: 600; margin-bottom: 2px; }
 .inc-resolved { opacity: 0.7; }
 .inc-resolved:hover { opacity: 1; }
 
+.sev-ur { background: color-mix(in srgb, var(--indigo) 15%, transparent); color: var(--indigo); border: 1px solid color-mix(in srgb, var(--indigo) 30%, transparent); }
+
+.report-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 16px; border-radius: 10px; margin-bottom: 24px; background: var(--surface); border: 1px solid var(--border); }
+.report-bar span { font-size: 13px; color: var(--fg2); }
+.report-btn { font-family: var(--sans); font-size: 12px; font-weight: 600; padding: 6px 16px; border-radius: 6px; background: var(--indigo); color: #fff; text-decoration: none; white-space: nowrap; transition: opacity 0.15s; }
+.report-btn:hover { opacity: 0.85; }
+
 .bar { display: flex; gap: 6px; margin-bottom: 20px; flex-wrap: wrap; align-items: center; }
 .bar label { font-size: 11px; color: var(--fg3); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 500; }
 .fbtn { font-family: var(--sans); font-size: 12px; padding: 4px 12px; border-radius: 6px; border: 1px solid var(--border); background: transparent; color: var(--fg2); cursor: pointer; font-weight: 500; }
@@ -142,6 +149,10 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
   </header>
   <div class="stale" id="stale"></div>
   <div class="hero" id="hero"></div>
+  <div class="report-bar">
+    <span>Something not working?</span>
+    <a href="https://github.com/ViktorBarzin/infra/issues/new?template=outage-report.yml" target="_blank" rel="noopener" class="report-btn">Report an Outage</a>
+  </div>
   <div id="incidents"></div>
   <div class="bar" id="bar" style="display:none">
     <label>Show:</label>
@@ -158,7 +169,7 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
     </select>
   </div>
   <div id="gs"><div class="ld">Loading&hellip;</div></div>
-  <footer>Updated every 5 minutes &middot; Powered by Uptime Kuma</footer>
+  <footer>Updated every 5 minutes &middot; Powered by Uptime Kuma &middot; <a href="https://github.com/ViktorBarzin/infra/issues" style="color:var(--fg3)">Report issues</a></footer>
 </div>
 <script>
 (function(){
@@ -180,7 +191,8 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
   function fm(m){return F==='all'||(F==='up'?m.status==='up':m.status!=='up')}
 
   function buildIncident(inc,resolved){
-    var sevNum=inc.severity==='sev1'?1:inc.severity==='sev2'?2:3;
+    var isReport=inc.type==='user-report';
+    var sevNum=isReport?0:inc.severity==='sev1'?1:inc.severity==='sev2'?2:3;
     var created=new Date(inc.created_at);
     var end=resolved&&inc.closed_at?new Date(inc.closed_at):new Date();
 
@@ -190,9 +202,13 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
     // Top bar
     var top=document.createElement('div');
     top.className='inc-top';
-    var html='<div class="sev sev-'+sevNum+'">SEV'+sevNum+'</div>';
+    var badgeHtml=isReport
+      ?'<div class="sev sev-ur">REPORT</div>'
+      :'<div class="sev sev-'+sevNum+'">SEV'+sevNum+'</div>';
+    var html=badgeHtml;
     html+='<div class="inc-info"><div class="inc-title">'+esc(inc.title)+'</div>';
-    html+='<div class="inc-meta"><span>'+ago(created)+'</span><span>'+dur(created,end)+'</span>';
+    html+='<div class="inc-meta"><span>'+ago(created)+'</span>';
+    if(!isReport)html+='<span>'+dur(created,end)+'</span>';
     if(resolved)html+='<span style="color:var(--green)">Resolved</span>';
     html+='</div>';
     if(inc.affected_services&&inc.affected_services.length){
@@ -269,6 +285,16 @@ footer { color: var(--fg3); font-size: 11px; margin-top: 32px; padding-top: 16px
       ah.innerHTML='Active Incidents <span class="cnt">'+inc.active.length+'</span>';
       incEl.appendChild(ah);
       for(var ai=0;ai<inc.active.length;ai++)incEl.appendChild(buildIncident(inc.active[ai],false));
+    }
+
+    // Render user reports
+    var reports=inc.user_reports||[];
+    if(reports.length>0){
+      var urh=document.createElement('div');
+      urh.className='inc-header';
+      urh.innerHTML='User Reports <span class="cnt">'+reports.length+'</span>';
+      incEl.appendChild(urh);
+      for(var ui=0;ui<reports.length;ui++)incEl.appendChild(buildIncident(reports[ui],false));
     }
 
     // Render resolved incidents
