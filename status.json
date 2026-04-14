@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T11:45:16.257752+00:00",
+  "last_updated": "2026-04-14T11:50:16.231699+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.6,
-        "uptime_30d": 87.9,
+        "uptime_30d": 88.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -205,17 +205,17 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 86.1,
-        "uptime_7d": 95.6,
-        "uptime_30d": 90.6,
+        "uptime_24h": 85.6,
+        "uptime_7d": 95.4,
+        "uptime_30d": 90.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 85.3,
-        "uptime_7d": 95.4,
-        "uptime_30d": 89.9,
+        "uptime_24h": 84.7,
+        "uptime_7d": 95.2,
+        "uptime_30d": 89.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -228,10 +228,10 @@
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "up",
-        "uptime_24h": 88.0,
-        "uptime_7d": 95.8,
-        "uptime_30d": 91.0,
+        "status": "down",
+        "uptime_24h": 87.4,
+        "uptime_7d": 95.7,
+        "uptime_30d": 90.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 81.3,
-        "uptime_30d": 80.5,
+        "uptime_30d": 80.6,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -324,10 +324,10 @@
       },
       {
         "name": "ha-london",
-        "status": "up",
-        "uptime_24h": 84.5,
-        "uptime_7d": 94.3,
-        "uptime_30d": 93.7,
+        "status": "down",
+        "uptime_24h": 83.5,
+        "uptime_7d": 94.0,
+        "uptime_30d": 93.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -422,8 +422,8 @@
         "name": "Speedtest",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 20.4,
-        "uptime_30d": 21.4,
+        "uptime_7d": 20.3,
+        "uptime_30d": 21.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 80.4,
-        "uptime_30d": 79.7,
+        "uptime_30d": 79.8,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -548,7 +548,7 @@
       },
       {
         "name": "Music Assistant",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 82.5,
         "uptime_7d": 94.1,
         "uptime_30d": 90.1,
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 94.9,
-        "uptime_7d": 98.4,
-        "uptime_30d": 97.7,
+        "uptime_24h": 94.4,
+        "uptime_7d": 98.2,
+        "uptime_30d": 97.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -620,7 +620,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 83.8,
         "uptime_7d": 88.8,
         "uptime_30d": 85.7,
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 85.0,
-        "uptime_7d": 95.2,
-        "uptime_30d": 94.6
+        "uptime_24h": 84.4,
+        "uptime_7d": 95.1,
+        "uptime_30d": 94.5
       },
       {
         "name": "Imap",
@@ -754,15 +754,15 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 44.6,
-        "uptime_30d": 44.7
+        "uptime_7d": 44.5,
+        "uptime_30d": 44.6
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 44.6,
-        "uptime_30d": 44.7
+        "uptime_7d": 44.5,
+        "uptime_30d": 44.6
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -775,17 +775,17 @@
     "Ping": [
       {
         "name": "Valchedrym Security System",
-        "status": "up",
-        "uptime_24h": 86.2,
-        "uptime_7d": 78.9,
-        "uptime_30d": 76.1
+        "status": "down",
+        "uptime_24h": 84.7,
+        "uptime_7d": 78.4,
+        "uptime_30d": 75.7
       },
       {
         "name": "Valchedrym Video System",
-        "status": "up",
-        "uptime_24h": 90.8,
-        "uptime_7d": 80.4,
-        "uptime_30d": 77.4
+        "status": "down",
+        "uptime_24h": 89.7,
+        "uptime_7d": 80.1,
+        "uptime_30d": 77.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -797,9 +797,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 84.6,
-        "uptime_7d": 94.0,
-        "uptime_30d": 90.3
+        "uptime_24h": 84.0,
+        "uptime_7d": 93.8,
+        "uptime_30d": 90.1
       },
       {
         "name": "pfSense Gateway",
@@ -822,9 +822,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 91.2,
-        "uptime_7d": 97.2,
-        "uptime_30d": 96.7
+        "uptime_24h": 90.6,
+        "uptime_7d": 97.0,
+        "uptime_30d": 96.5
       }
     ],
     "Push": [
