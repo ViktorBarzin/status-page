@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T14:46:07.001812+00:00",
+  "last_updated": "2026-04-14T14:50:15.898808+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 90.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -213,7 +213,7 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 82.6,
+        "uptime_24h": 82.5,
         "uptime_7d": 94.9,
         "uptime_30d": 89.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
@@ -430,7 +430,7 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.5,
+        "uptime_7d": 81.6,
         "uptime_30d": 80.9,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -549,7 +549,7 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 80.2,
+        "uptime_24h": 80.1,
         "uptime_7d": 93.7,
         "uptime_30d": 90.0,
         "url": "https://docker.viktorbarzin.me"
@@ -573,9 +573,9 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 74.7,
-        "uptime_7d": 92.5,
-        "uptime_30d": 92.0,
+        "uptime_24h": 74.2,
+        "uptime_7d": 92.4,
+        "uptime_30d": 91.8,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -621,7 +621,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.8,
+        "uptime_24h": 81.7,
         "uptime_7d": 88.9,
         "uptime_30d": 85.9,
         "url": "https://docker.viktorbarzin.me"
@@ -661,7 +661,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 89.4,
+        "uptime_24h": 89.3,
         "uptime_7d": 92.9,
         "uptime_30d": 89.5,
         "url": "https://poison.viktorbarzin.me"
@@ -711,9 +711,9 @@
       {
         "name": "SMTP",
         "status": "down",
-        "uptime_24h": 65.0,
-        "uptime_7d": 89.6,
-        "uptime_30d": 89.1
+        "uptime_24h": 64.4,
+        "uptime_7d": 89.4,
+        "uptime_30d": 88.9
       },
       {
         "name": "Imap",
@@ -747,21 +747,21 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 71.5,
-        "uptime_7d": 91.5,
-        "uptime_30d": 91.5
+        "uptime_7d": 91.6,
+        "uptime_30d": 91.6
       },
       {
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 42.3,
+        "uptime_7d": 42.2,
         "uptime_30d": 42.3
       },
       {
         "name": "Mailserver IMAP",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 42.3,
+        "uptime_7d": 42.2,
         "uptime_30d": 42.3
       },
       {
@@ -777,7 +777,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 82.6,
-        "uptime_7d": 79.0,
+        "uptime_7d": 79.1,
         "uptime_30d": 76.4
       },
       {
@@ -815,16 +815,16 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.2
+        "uptime_30d": 96.3
       }
     ],
     "Redis": [
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 71.3,
-        "uptime_7d": 91.4,
-        "uptime_30d": 91.0
+        "uptime_24h": 70.7,
+        "uptime_7d": 91.3,
+        "uptime_30d": 90.8
       }
     ],
     "Push": [
