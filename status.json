@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T22:45:53.898800+00:00",
+  "last_updated": "2026-04-14T22:50:52.799694+00:00",
   "groups": {
     "HTTP": [
       {
@@ -101,9 +101,9 @@
       {
         "name": "authentik-server",
         "status": "down",
-        "uptime_24h": 96.1,
-        "uptime_7d": 99.0,
-        "uptime_30d": 98.6,
+        "uptime_24h": 95.0,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.3,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -125,9 +125,9 @@
       {
         "name": "Immich server",
         "status": "down",
-        "uptime_24h": 97.2,
-        "uptime_7d": 98.4,
-        "uptime_30d": 93.7,
+        "uptime_24h": 96.6,
+        "uptime_7d": 98.3,
+        "uptime_30d": 93.6,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 25.6,
-        "uptime_7d": 23.0,
-        "uptime_30d": 23.6,
+        "uptime_24h": 26.1,
+        "uptime_7d": 23.1,
+        "uptime_30d": 23.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -551,7 +551,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -738,7 +738,7 @@
       {
         "name": "NFS Server (Proxmox)",
         "status": "up",
-        "uptime_24h": 85.3,
+        "uptime_24h": 85.9,
         "uptime_7d": 92.7,
         "uptime_30d": 92.7
       },
@@ -746,22 +746,22 @@
         "name": "Mailserver SMTP",
         "status": "down",
         "uptime_24h": 19.7,
-        "uptime_7d": 41.5,
+        "uptime_7d": 41.4,
         "uptime_30d": 41.5
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 21.3,
+        "uptime_24h": 21.8,
         "uptime_7d": 41.9,
-        "uptime_30d": 41.9
+        "uptime_30d": 42.0
       },
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 98.5,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4
+        "uptime_24h": 98.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3
       },
       {
         "name": "PVE NFS (2049)",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 23.5,
         "uptime_7d": 79.8,
-        "uptime_30d": 79.5
+        "uptime_30d": 79.6
       }
     ],
     "Push": [
@@ -838,10 +838,10 @@
     "External Reachability": [
       {
         "name": "[External] authentik",
-        "status": "up",
-        "uptime_24h": 90.7,
-        "uptime_7d": 90.7,
-        "uptime_30d": 90.7,
+        "status": "down",
+        "uptime_24h": 83.0,
+        "uptime_7d": 83.0,
+        "uptime_30d": 83.0,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
@@ -1239,17 +1239,17 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 81.4,
-        "uptime_7d": 81.4,
-        "uptime_30d": 81.4,
+        "uptime_24h": 81.8,
+        "uptime_7d": 81.8,
+        "uptime_30d": 81.8,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
         "name": "[External] frigate",
         "status": "up",
-        "uptime_24h": 95.2,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_24h": 95.3,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1359,9 +1359,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 63.6,
-        "uptime_7d": 63.6,
-        "uptime_30d": 63.6,
+        "uptime_24h": 64.4,
+        "uptime_7d": 64.4,
+        "uptime_30d": 64.4,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1439,9 +1439,9 @@
       {
         "name": "[External] authelia",
         "status": "up",
-        "uptime_24h": 97.6,
-        "uptime_7d": 97.6,
-        "uptime_30d": 97.6,
+        "uptime_24h": 97.7,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.7,
         "url": "https://authelia.viktorbarzin.me"
       },
       {
@@ -1479,9 +1479,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 97.6,
-        "uptime_7d": 97.6,
-        "uptime_30d": 97.6,
+        "uptime_24h": 97.7,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.7,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
