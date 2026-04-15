@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T20:05:47.714135+00:00",
+  "last_updated": "2026-04-15T20:10:21.375224+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 76.2,
+        "uptime_7d": 76.3,
         "uptime_30d": 74.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 97.3,
+        "uptime_24h": 98.6,
         "uptime_7d": 97.2,
         "uptime_30d": 86.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.9,
+        "uptime_30d": 86.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 84.7,
+        "uptime_30d": 84.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.5,
-        "uptime_30d": 87.5,
+        "uptime_30d": 87.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.5,
-        "uptime_30d": 88.1,
+        "uptime_30d": 88.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 97.7,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.8,
+        "uptime_30d": 97.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -326,8 +326,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.6,
-        "uptime_30d": 93.0,
+        "uptime_7d": 93.7,
+        "uptime_30d": 93.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 73.1,
-        "uptime_30d": 72.2,
+        "uptime_30d": 72.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 97.9,
-        "uptime_7d": 72.2,
-        "uptime_30d": 71.7,
+        "uptime_24h": 98.3,
+        "uptime_7d": 72.3,
+        "uptime_30d": 71.8,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -704,8 +704,8 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.4,
-        "uptime_30d": 71.1
+        "uptime_7d": 71.5,
+        "uptime_30d": 71.2
       },
       {
         "name": "Imap",
@@ -739,22 +739,22 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.5
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.6
       },
       {
         "name": "Mailserver SMTP",
         "status": "up",
         "uptime_24h": 96.7,
-        "uptime_7d": 69.2,
+        "uptime_7d": 69.3,
         "uptime_30d": 69.2
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.2,
-        "uptime_30d": 71.2
+        "uptime_7d": 71.3,
+        "uptime_30d": 71.3
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -1359,7 +1359,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 97.9,
+        "uptime_24h": 98.3,
         "uptime_7d": 94.4,
         "uptime_30d": 94.4,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1439,7 +1439,7 @@
       {
         "name": "[External] authelia",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://authelia.viktorbarzin.me"
