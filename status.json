@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T11:15:17.903858+00:00",
+  "last_updated": "2026-04-15T11:20:25.677933+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 68.1,
-        "uptime_30d": 66.8,
+        "uptime_7d": 68.2,
+        "uptime_30d": 66.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 97.3,
         "uptime_7d": 96.2,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -205,15 +205,15 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 96.2,
+        "uptime_24h": 96.5,
         "uptime_7d": 91.3,
-        "uptime_30d": 84.0,
+        "uptime_30d": 84.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 96.9,
+        "uptime_24h": 97.2,
         "uptime_7d": 92.5,
         "uptime_30d": 84.1,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
@@ -229,7 +229,7 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
-        "uptime_24h": 96.2,
+        "uptime_24h": 96.6,
         "uptime_7d": 92.4,
         "uptime_30d": 84.9,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -325,8 +325,8 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 91.5,
+        "uptime_24h": 96.9,
+        "uptime_7d": 91.6,
         "uptime_30d": 90.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 67.7,
-        "uptime_7d": 63.7,
-        "uptime_30d": 63.0,
+        "uptime_24h": 68.1,
+        "uptime_7d": 63.8,
+        "uptime_30d": 63.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -541,7 +541,7 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 95.9,
+        "uptime_24h": 96.2,
         "uptime_7d": 90.3,
         "uptime_30d": 83.9,
         "url": "https://docker.viktorbarzin.me"
@@ -550,7 +550,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.1,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 61.5,
-        "uptime_7d": 62.9,
-        "uptime_30d": 62.4,
+        "uptime_24h": 61.8,
+        "uptime_7d": 63.0,
+        "uptime_30d": 62.5,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -613,8 +613,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 95.5,
-        "uptime_7d": 88.0,
+        "uptime_24h": 95.9,
+        "uptime_7d": 88.1,
         "uptime_30d": 82.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -703,9 +703,9 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 66.0,
-        "uptime_7d": 61.7,
-        "uptime_30d": 61.5
+        "uptime_24h": 66.3,
+        "uptime_7d": 61.8,
+        "uptime_30d": 61.6
       },
       {
         "name": "Imap",
@@ -739,22 +739,22 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
-        "uptime_30d": 98.0
+        "uptime_7d": 98.1,
+        "uptime_30d": 98.1
       },
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 62.2,
-        "uptime_7d": 58.7,
-        "uptime_30d": 58.7
+        "uptime_24h": 62.5,
+        "uptime_7d": 58.8,
+        "uptime_30d": 58.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 64.9,
-        "uptime_7d": 61.3,
-        "uptime_30d": 61.2
+        "uptime_24h": 65.3,
+        "uptime_7d": 61.4,
+        "uptime_30d": 61.4
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -782,9 +782,9 @@
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 95.9,
+        "uptime_24h": 96.9,
         "uptime_7d": 93.7,
-        "uptime_30d": 86.4
+        "uptime_30d": 86.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 54.2,
-        "uptime_7d": 56.5,
-        "uptime_30d": 56.4
+        "uptime_24h": 55.1,
+        "uptime_7d": 56.6,
+        "uptime_30d": 56.5
       }
     ],
     "Push": [
