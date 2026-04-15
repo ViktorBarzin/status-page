@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T16:40:19.904452+00:00",
+  "last_updated": "2026-04-15T16:45:18.654346+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 73.6,
+        "uptime_7d": 73.7,
         "uptime_30d": 72.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 97.3,
         "uptime_7d": 96.9,
-        "uptime_30d": 84.8,
+        "uptime_30d": 84.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.9,
+        "uptime_7d": 94.0,
         "uptime_30d": 87.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -421,8 +421,8 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 90.3,
-        "uptime_7d": 70.1,
+        "uptime_24h": 90.6,
+        "uptime_7d": 70.2,
         "uptime_30d": 69.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -565,7 +565,7 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 84.0,
+        "uptime_24h": 84.4,
         "uptime_7d": 69.4,
         "uptime_30d": 68.9,
         "url": "https://meshcentral.viktorbarzin.me"
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 90.0,
-        "uptime_30d": 85.3,
+        "uptime_30d": 85.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -703,9 +703,9 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 88.5,
+        "uptime_24h": 88.9,
         "uptime_7d": 68.4,
-        "uptime_30d": 68.1
+        "uptime_30d": 68.2
       },
       {
         "name": "Imap",
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 84.4,
-        "uptime_7d": 65.8,
-        "uptime_30d": 65.8
+        "uptime_24h": 84.7,
+        "uptime_7d": 66.0,
+        "uptime_30d": 65.9
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 87.5,
+        "uptime_24h": 87.8,
         "uptime_7d": 68.1,
-        "uptime_30d": 68.0
+        "uptime_30d": 68.1
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,15 +776,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.4,
+        "uptime_7d": 92.5,
         "uptime_30d": 86.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.7,
-        "uptime_30d": 88.4
+        "uptime_7d": 94.8,
+        "uptime_30d": 88.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,18 +821,18 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 76.9,
-        "uptime_7d": 63.9,
-        "uptime_30d": 63.7
+        "uptime_24h": 77.2,
+        "uptime_7d": 64.0,
+        "uptime_30d": 63.8
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 73.7,
-        "uptime_7d": 69.8,
-        "uptime_30d": 62.7
+        "uptime_24h": 74.0,
+        "uptime_7d": 69.9,
+        "uptime_30d": 62.8
       }
     ],
     "External Reachability": [
