@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T16:45:18.654346+00:00",
+  "last_updated": "2026-04-15T16:50:20.258530+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 66.3,
         "uptime_7d": 73.7,
-        "uptime_30d": 72.2,
+        "uptime_30d": 72.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -207,14 +207,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 86.4,
+        "uptime_30d": 86.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.8,
+        "uptime_7d": 93.9,
         "uptime_30d": 86.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 90.6,
+        "uptime_24h": 91.0,
         "uptime_7d": 70.2,
-        "uptime_30d": 69.3,
+        "uptime_30d": 69.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 84.4,
-        "uptime_7d": 69.4,
-        "uptime_30d": 68.9,
+        "uptime_24h": 84.7,
+        "uptime_7d": 69.5,
+        "uptime_30d": 69.0,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -654,7 +654,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.2,
-        "uptime_7d": 93.3,
+        "uptime_7d": 93.4,
         "uptime_30d": 88.1,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -703,8 +703,8 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 88.9,
-        "uptime_7d": 68.4,
+        "uptime_24h": 89.2,
+        "uptime_7d": 68.5,
         "uptime_30d": 68.2
       },
       {
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 84.7,
+        "uptime_24h": 85.1,
         "uptime_7d": 66.0,
-        "uptime_30d": 65.9
+        "uptime_30d": 66.0
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 87.8,
-        "uptime_7d": 68.1,
-        "uptime_30d": 68.1
+        "uptime_24h": 88.2,
+        "uptime_7d": 68.2,
+        "uptime_30d": 68.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 77.2,
-        "uptime_7d": 64.0,
-        "uptime_30d": 63.8
+        "uptime_24h": 77.6,
+        "uptime_7d": 64.1,
+        "uptime_30d": 63.9
       }
     ],
     "Push": [
@@ -1359,9 +1359,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 93.8,
-        "uptime_7d": 93.8,
-        "uptime_30d": 93.8,
+        "uptime_24h": 93.9,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.9,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
