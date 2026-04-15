@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T06:35:46.732924+00:00",
+  "last_updated": "2026-04-15T06:40:19.391765+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,9 +125,9 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 61.1,
-        "uptime_7d": 61.0,
-        "uptime_30d": 60.1,
+        "uptime_24h": 61.3,
+        "uptime_7d": 61.2,
+        "uptime_30d": 60.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -205,9 +205,9 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 89.6,
-        "uptime_7d": 89.3,
-        "uptime_30d": 81.0,
+        "uptime_24h": 89.7,
+        "uptime_7d": 89.4,
+        "uptime_30d": 81.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 91.4,
         "uptime_7d": 90.8,
-        "uptime_30d": 82.3,
+        "uptime_30d": 82.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -326,8 +326,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 90.0,
-        "uptime_7d": 89.7,
-        "uptime_30d": 88.5,
+        "uptime_7d": 89.8,
+        "uptime_30d": 88.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 97.3,
-        "uptime_30d": 72.2,
+        "uptime_30d": 72.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 55.8,
-        "uptime_7d": 55.6,
-        "uptime_30d": 55.2,
+        "uptime_24h": 56.0,
+        "uptime_7d": 55.8,
+        "uptime_30d": 55.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 88.8,
         "uptime_7d": 87.9,
-        "uptime_30d": 81.1,
+        "uptime_30d": 81.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 54.6,
-        "uptime_7d": 54.6,
-        "uptime_30d": 54.3,
+        "uptime_24h": 54.8,
+        "uptime_7d": 54.8,
+        "uptime_30d": 54.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -612,10 +612,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 89.8,
-        "uptime_7d": 86.6,
-        "uptime_30d": 80.7,
+        "status": "down",
+        "uptime_24h": 88.8,
+        "uptime_7d": 85.7,
+        "uptime_30d": 80.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -655,7 +655,7 @@
         "status": "up",
         "uptime_24h": 91.7,
         "uptime_7d": 91.7,
-        "uptime_30d": 84.6,
+        "uptime_30d": 84.7,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -703,9 +703,9 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 53.2,
-        "uptime_7d": 53.2,
-        "uptime_30d": 53.1
+        "uptime_24h": 53.4,
+        "uptime_7d": 53.4,
+        "uptime_30d": 53.3
       },
       {
         "name": "Imap",
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 49.7,
-        "uptime_7d": 49.6,
-        "uptime_30d": 49.7
+        "uptime_24h": 49.8,
+        "uptime_7d": 49.8,
+        "uptime_30d": 49.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 52.6,
-        "uptime_7d": 52.6,
-        "uptime_30d": 52.6
+        "uptime_24h": 52.9,
+        "uptime_7d": 52.8,
+        "uptime_30d": 52.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -775,7 +775,7 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 89.2,
+        "uptime_24h": 89.3,
         "uptime_7d": 89.0,
         "uptime_30d": 81.7
       },
@@ -796,8 +796,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 90.7,
-        "uptime_7d": 89.8,
+        "uptime_24h": 90.8,
+        "uptime_7d": 89.9,
         "uptime_30d": 82.9
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 47.3,
-        "uptime_7d": 47.1,
-        "uptime_30d": 47.2
+        "uptime_24h": 47.5,
+        "uptime_7d": 47.3,
+        "uptime_30d": 47.4
       }
     ],
     "Push": [
@@ -1359,9 +1359,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 88.4,
-        "uptime_7d": 88.4,
-        "uptime_30d": 88.4,
+        "uptime_24h": 88.5,
+        "uptime_7d": 88.5,
+        "uptime_30d": 88.5,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
