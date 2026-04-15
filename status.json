@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T23:06:11.069310+00:00",
+  "last_updated": "2026-04-15T23:10:19.365990+00:00",
   "groups": {
     "HTTP": [
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.5,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.0,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.6,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 69.1,
+        "uptime_24h": 69.4,
         "uptime_7d": 78.1,
         "uptime_30d": 76.7,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 86.9,
+        "uptime_30d": 87.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 85.6,
+        "uptime_30d": 85.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.1,
+        "uptime_7d": 94.2,
         "uptime_30d": 93.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -422,7 +422,7 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.2,
+        "uptime_7d": 75.3,
         "uptime_30d": 74.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -566,7 +566,7 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 74.4,
+        "uptime_7d": 74.5,
         "uptime_30d": 74.0,
         "url": "https://meshcentral.viktorbarzin.me"
       },
@@ -705,14 +705,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 73.8,
-        "uptime_30d": 73.5
+        "uptime_30d": 73.6
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.6
       },
       {
         "name": "ShadowSocks Proxy",
@@ -745,21 +745,21 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.2,
         "uptime_7d": 71.7,
-        "uptime_30d": 71.6
+        "uptime_30d": 71.7
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 73.6,
-        "uptime_30d": 73.5
+        "uptime_30d": 73.6
       },
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 99.4,
+        "uptime_24h": 99.5,
         "uptime_7d": 98.6,
         "uptime_30d": 98.6
       },
@@ -784,7 +784,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.6,
-        "uptime_30d": 90.1
+        "uptime_30d": 90.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -822,8 +822,8 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 70.0,
-        "uptime_30d": 69.9
+        "uptime_7d": 70.1,
+        "uptime_30d": 70.0
       }
     ],
     "Push": [
