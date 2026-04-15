@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T18:30:54.195196+00:00",
+  "last_updated": "2026-04-15T18:35:18.607979+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 66.3,
         "uptime_7d": 75.1,
-        "uptime_30d": 73.6,
+        "uptime_30d": 73.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 97.3,
         "uptime_7d": 97.0,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.3,
+        "uptime_7d": 93.4,
         "uptime_30d": 92.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 97.9,
+        "uptime_24h": 98.3,
         "uptime_7d": 71.8,
-        "uptime_30d": 70.9,
+        "uptime_30d": 71.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -565,7 +565,7 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 91.7,
+        "uptime_24h": 92.0,
         "uptime_7d": 71.1,
         "uptime_30d": 70.6,
         "url": "https://meshcentral.viktorbarzin.me"
@@ -703,7 +703,7 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 96.2,
+        "uptime_24h": 96.5,
         "uptime_7d": 70.1,
         "uptime_30d": 69.8
       },
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 91.9,
-        "uptime_7d": 67.7,
-        "uptime_30d": 67.7
+        "uptime_24h": 92.2,
+        "uptime_7d": 67.8,
+        "uptime_30d": 67.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 95.1,
+        "uptime_24h": 95.4,
         "uptime_7d": 69.9,
-        "uptime_30d": 69.8
+        "uptime_30d": 69.9
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -798,7 +798,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.4,
-        "uptime_30d": 88.1
+        "uptime_30d": 88.2
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 84.4,
-        "uptime_7d": 65.9,
-        "uptime_30d": 65.7
+        "uptime_24h": 84.7,
+        "uptime_7d": 66.0,
+        "uptime_30d": 65.8
       }
     ],
     "Push": [
@@ -1239,9 +1239,9 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 97.1,
-        "uptime_7d": 97.1,
-        "uptime_30d": 97.1,
+        "uptime_24h": 97.2,
+        "uptime_7d": 97.2,
+        "uptime_30d": 97.2,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
