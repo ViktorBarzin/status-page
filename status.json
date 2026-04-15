@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T23:15:47.951394+00:00",
+  "last_updated": "2026-04-15T23:20:19.910574+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 69.8,
+        "uptime_24h": 70.1,
         "uptime_7d": 78.2,
         "uptime_30d": 76.8,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.0,
-        "uptime_30d": 88.4,
+        "uptime_7d": 94.1,
+        "uptime_30d": 88.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -422,7 +422,7 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.3,
+        "uptime_7d": 75.4,
         "uptime_30d": 74.5,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -654,8 +654,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.4,
-        "uptime_7d": 92.9,
-        "uptime_30d": 88.5,
+        "uptime_7d": 93.0,
+        "uptime_30d": 88.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -704,7 +704,7 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 73.8,
+        "uptime_7d": 73.9,
         "uptime_30d": 73.7
       },
       {
@@ -747,14 +747,14 @@
         "status": "up",
         "uptime_24h": 99.2,
         "uptime_7d": 71.8,
-        "uptime_30d": 71.7
+        "uptime_30d": 71.8
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 73.7,
-        "uptime_30d": 73.6
+        "uptime_30d": 73.7
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,7 +776,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.7,
+        "uptime_7d": 93.8,
         "uptime_30d": 88.7
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 70.2,
-        "uptime_30d": 70.0
+        "uptime_30d": 70.1
       }
     ],
     "Push": [
@@ -840,8 +840,8 @@
         "name": "[External] authentik",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
