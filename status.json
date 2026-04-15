@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T21:20:25.751291+00:00",
+  "last_updated": "2026-04-15T21:26:09.833653+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 77.0,
-        "uptime_30d": 75.6,
+        "uptime_7d": 77.1,
+        "uptime_30d": 75.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -422,8 +422,8 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 74.0,
-        "uptime_30d": 73.1,
+        "uptime_7d": 74.1,
+        "uptime_30d": 73.2,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -542,7 +542,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
+        "uptime_7d": 93.0,
         "uptime_30d": 87.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -566,8 +566,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 73.2,
-        "uptime_30d": 72.7,
+        "uptime_7d": 73.3,
+        "uptime_30d": 72.8,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -704,8 +704,8 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 72.4,
-        "uptime_30d": 72.1
+        "uptime_7d": 72.6,
+        "uptime_30d": 72.2
       },
       {
         "name": "Imap",
@@ -747,14 +747,14 @@
         "status": "up",
         "uptime_24h": 97.1,
         "uptime_7d": 70.3,
-        "uptime_30d": 70.2
+        "uptime_30d": 70.3
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 72.3,
-        "uptime_30d": 72.2
+        "uptime_30d": 72.3
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -798,7 +798,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.9,
-        "uptime_30d": 89.1
+        "uptime_30d": 89.2
       },
       {
         "name": "pfSense Gateway",
@@ -821,18 +821,18 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 95.5,
+        "uptime_24h": 95.9,
         "uptime_7d": 68.6,
-        "uptime_30d": 68.5
+        "uptime_30d": 68.6
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 81.8,
-        "uptime_7d": 71.8,
-        "uptime_30d": 64.4
+        "uptime_24h": 82.1,
+        "uptime_7d": 72.0,
+        "uptime_30d": 64.5
       }
     ],
     "External Reachability": [
