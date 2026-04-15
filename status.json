@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T18:50:20.258772+00:00",
+  "last_updated": "2026-04-15T18:55:18.242537+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 75.3,
+        "uptime_7d": 75.4,
         "uptime_30d": 73.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.2,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.2,
-        "uptime_30d": 87.1,
+        "uptime_7d": 93.3,
+        "uptime_30d": 87.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 72.0,
-        "uptime_30d": 71.2,
+        "uptime_24h": 99.7,
+        "uptime_7d": 72.1,
+        "uptime_30d": 71.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -471,7 +471,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://uptime.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -565,7 +565,7 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 93.1,
+        "uptime_24h": 93.4,
         "uptime_7d": 71.4,
         "uptime_30d": 70.9,
         "url": "https://meshcentral.viktorbarzin.me"
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 90.6,
-        "uptime_30d": 86.1,
+        "uptime_30d": 86.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -654,7 +654,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.5,
-        "uptime_7d": 93.2,
+        "uptime_7d": 93.3,
         "uptime_30d": 88.3,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -687,7 +687,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -703,9 +703,9 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 97.9,
         "uptime_7d": 70.4,
-        "uptime_30d": 70.0
+        "uptime_30d": 70.1
       },
       {
         "name": "Imap",
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 93.3,
-        "uptime_7d": 68.0,
-        "uptime_30d": 68.0
+        "uptime_24h": 93.6,
+        "uptime_7d": 68.1,
+        "uptime_30d": 68.1
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 96.5,
+        "uptime_24h": 96.8,
         "uptime_7d": 70.2,
-        "uptime_30d": 70.1
+        "uptime_30d": 70.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -797,8 +797,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.4,
-        "uptime_30d": 88.2
+        "uptime_7d": 93.5,
+        "uptime_30d": 88.3
       },
       {
         "name": "pfSense Gateway",
@@ -821,16 +821,16 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 85.7,
+        "uptime_24h": 86.1,
         "uptime_7d": 66.3,
-        "uptime_30d": 66.0
+        "uptime_30d": 66.1
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 79.7,
+        "uptime_24h": 80.8,
         "uptime_7d": 70.9,
         "uptime_30d": 63.6
       }
