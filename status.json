@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T07:45:18.080279+00:00",
+  "last_updated": "2026-04-15T07:50:19.781263+00:00",
   "groups": {
     "HTTP": [
       {
@@ -70,7 +70,7 @@
         "name": "Grafana",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.5,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -101,8 +101,8 @@
       {
         "name": "authentik-server",
         "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 96.6,
+        "uptime_24h": 96.7,
+        "uptime_7d": 96.7,
         "uptime_30d": 95.6,
         "url": "http://goauthentik-server.authentik"
       },
@@ -125,9 +125,9 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 63.2,
-        "uptime_7d": 63.1,
-        "uptime_30d": 62.0,
+        "uptime_24h": 63.3,
+        "uptime_7d": 63.2,
+        "uptime_30d": 62.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 96.3,
         "uptime_7d": 95.7,
-        "uptime_30d": 80.8,
+        "uptime_30d": 80.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.0,
+        "uptime_30d": 81.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 91.7,
-        "uptime_7d": 91.3,
-        "uptime_30d": 82.1,
+        "uptime_7d": 91.4,
+        "uptime_30d": 82.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 91.9,
-        "uptime_7d": 91.2,
-        "uptime_30d": 83.0,
+        "uptime_7d": 91.3,
+        "uptime_30d": 83.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -421,9 +421,9 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 58.2,
-        "uptime_7d": 58.0,
-        "uptime_30d": 57.4,
+        "uptime_24h": 58.3,
+        "uptime_7d": 58.1,
+        "uptime_30d": 57.6,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -455,7 +455,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -535,7 +535,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://travel.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 89.4,
         "uptime_7d": 88.5,
-        "uptime_30d": 81.9,
+        "uptime_30d": 82.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 57.0,
-        "uptime_7d": 57.0,
-        "uptime_30d": 56.6,
+        "uptime_24h": 57.1,
+        "uptime_7d": 57.1,
+        "uptime_30d": 56.8,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -622,7 +622,7 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.5,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -653,9 +653,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 92.1,
-        "uptime_7d": 92.1,
-        "uptime_30d": 85.3,
+        "uptime_24h": 92.2,
+        "uptime_7d": 92.2,
+        "uptime_30d": 85.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -703,9 +703,9 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 55.6,
-        "uptime_7d": 55.6,
-        "uptime_30d": 55.5
+        "uptime_24h": 55.8,
+        "uptime_7d": 55.8,
+        "uptime_30d": 55.7
       },
       {
         "name": "Imap",
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 52.3,
-        "uptime_7d": 52.2,
-        "uptime_30d": 52.3
+        "uptime_24h": 52.5,
+        "uptime_7d": 52.4,
+        "uptime_30d": 52.4
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 55.2,
-        "uptime_7d": 55.1,
-        "uptime_30d": 55.1
+        "uptime_24h": 55.4,
+        "uptime_7d": 55.3,
+        "uptime_30d": 55.3
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,15 +776,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 89.8,
-        "uptime_7d": 89.5,
-        "uptime_30d": 82.4
+        "uptime_7d": 89.6,
+        "uptime_30d": 82.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 93.0,
         "uptime_7d": 92.7,
-        "uptime_30d": 84.7
+        "uptime_30d": 84.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -797,7 +797,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 91.2,
-        "uptime_7d": 90.3,
+        "uptime_7d": 90.4,
         "uptime_30d": 83.6
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 50.0,
-        "uptime_7d": 49.8,
-        "uptime_30d": 49.8
+        "uptime_24h": 50.2,
+        "uptime_7d": 50.0,
+        "uptime_30d": 50.0
       }
     ],
     "Push": [
