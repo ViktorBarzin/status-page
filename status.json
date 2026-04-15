@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T15:45:46.746762+00:00",
+  "last_updated": "2026-04-15T15:50:18.839916+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 72.8,
-        "uptime_30d": 71.4,
+        "uptime_7d": 72.9,
+        "uptime_30d": 71.5,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.6,
-        "uptime_30d": 86.0,
+        "uptime_30d": 86.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 91.8,
+        "uptime_30d": 91.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -421,8 +421,8 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 86.5,
-        "uptime_7d": 69.2,
+        "uptime_24h": 86.8,
+        "uptime_7d": 69.3,
         "uptime_30d": 68.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 80.2,
-        "uptime_7d": 68.4,
-        "uptime_30d": 67.9,
+        "uptime_24h": 80.6,
+        "uptime_7d": 68.5,
+        "uptime_30d": 68.0,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -703,9 +703,9 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 84.7,
-        "uptime_7d": 67.4,
-        "uptime_30d": 67.1
+        "uptime_24h": 85.1,
+        "uptime_7d": 67.5,
+        "uptime_30d": 67.2
       },
       {
         "name": "Imap",
@@ -733,7 +733,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "NFS Server (Proxmox)",
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 80.6,
-        "uptime_7d": 64.8,
-        "uptime_30d": 64.8
+        "uptime_24h": 81.0,
+        "uptime_7d": 64.9,
+        "uptime_30d": 64.9
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 83.6,
-        "uptime_7d": 67.1,
-        "uptime_30d": 67.0
+        "uptime_24h": 84.0,
+        "uptime_7d": 67.2,
+        "uptime_30d": 67.1
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -777,14 +777,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.2,
-        "uptime_30d": 86.3
+        "uptime_30d": 86.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.6,
-        "uptime_30d": 88.1
+        "uptime_30d": 88.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -798,7 +798,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 87.2
+        "uptime_30d": 87.3
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 73.1,
-        "uptime_7d": 62.9,
-        "uptime_30d": 62.7
+        "uptime_24h": 73.5,
+        "uptime_7d": 63.0,
+        "uptime_30d": 62.8
       }
     ],
     "Push": [
@@ -1359,9 +1359,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 93.5,
-        "uptime_7d": 93.5,
-        "uptime_30d": 93.5,
+        "uptime_24h": 93.6,
+        "uptime_7d": 93.6,
+        "uptime_30d": 93.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
