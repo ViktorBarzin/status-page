@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T20:45:48.363608+00:00",
+  "last_updated": "2026-04-15T20:55:19.198374+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 76.7,
-        "uptime_30d": 75.2,
+        "uptime_7d": 76.8,
+        "uptime_30d": 75.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.1,
+        "uptime_30d": 86.2,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 84.9,
+        "uptime_30d": 85.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.6,
-        "uptime_30d": 87.7,
+        "uptime_30d": 87.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.5,
-        "uptime_30d": 87.7,
+        "uptime_30d": 87.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -230,8 +230,8 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.6,
-        "uptime_30d": 88.3,
+        "uptime_7d": 94.7,
+        "uptime_30d": 88.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -276,10 +276,10 @@
       },
       {
         "name": "AFFiNE",
-        "status": "down",
-        "uptime_24h": 96.2,
-        "uptime_7d": 97.2,
-        "uptime_30d": 95.9,
+        "status": "up",
+        "uptime_24h": 95.9,
+        "uptime_7d": 96.9,
+        "uptime_30d": 95.7,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 78.7,
+        "uptime_30d": 78.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -422,8 +422,8 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 73.6,
-        "uptime_30d": 72.7,
+        "uptime_7d": 73.7,
+        "uptime_30d": 72.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 87.6,
+        "uptime_30d": 87.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -566,8 +566,8 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 72.7,
-        "uptime_30d": 72.3,
+        "uptime_7d": 72.9,
+        "uptime_30d": 72.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -704,8 +704,8 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 72.0,
-        "uptime_30d": 71.7
+        "uptime_7d": 72.1,
+        "uptime_30d": 71.8
       },
       {
         "name": "Imap",
@@ -746,15 +746,15 @@
         "name": "Mailserver SMTP",
         "status": "up",
         "uptime_24h": 97.1,
-        "uptime_7d": 69.8,
-        "uptime_30d": 69.7
+        "uptime_7d": 69.9,
+        "uptime_30d": 69.9
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.8,
-        "uptime_30d": 71.7
+        "uptime_7d": 71.9,
+        "uptime_30d": 71.9
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -777,7 +777,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.3,
-        "uptime_30d": 88.0
+        "uptime_30d": 88.1
       },
       {
         "name": "Valchedrym Video System",
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 93.1,
-        "uptime_7d": 68.1,
-        "uptime_30d": 68.0
+        "uptime_24h": 93.8,
+        "uptime_7d": 68.2,
+        "uptime_30d": 68.1
       }
     ],
     "Push": [
@@ -1248,8 +1248,8 @@
         "name": "[External] frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
