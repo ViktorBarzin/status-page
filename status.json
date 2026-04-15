@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T18:00:28.770166+00:00",
+  "last_updated": "2026-04-15T18:05:46.257956+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.1,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.2,
+        "uptime_7d": 93.3,
         "uptime_30d": 92.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -421,8 +421,8 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 95.8,
-        "uptime_7d": 71.3,
+        "uptime_24h": 96.2,
+        "uptime_7d": 71.4,
         "uptime_30d": 70.5,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -565,9 +565,9 @@
       {
         "name": "MeshCentral",
         "status": "up",
-        "uptime_24h": 89.6,
-        "uptime_7d": 70.6,
-        "uptime_30d": 70.1,
+        "uptime_24h": 89.9,
+        "uptime_7d": 70.7,
+        "uptime_30d": 70.2,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -597,7 +597,7 @@
       {
         "name": "Prometheus",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 100.0,
         "uptime_7d": 98.7,
         "uptime_30d": 97.3,
         "url": "https://grafana.viktorbarzin.me"
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 90.4,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -655,7 +655,7 @@
         "status": "up",
         "uptime_24h": 93.8,
         "uptime_7d": 93.3,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -703,9 +703,9 @@
       {
         "name": "SMTP",
         "status": "up",
-        "uptime_24h": 94.1,
-        "uptime_7d": 69.6,
-        "uptime_30d": 69.3
+        "uptime_24h": 94.4,
+        "uptime_7d": 69.7,
+        "uptime_30d": 69.4
       },
       {
         "name": "Imap",
@@ -745,16 +745,16 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 89.9,
-        "uptime_7d": 67.2,
-        "uptime_30d": 67.2
+        "uptime_24h": 90.2,
+        "uptime_7d": 67.3,
+        "uptime_30d": 67.3
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
-        "uptime_24h": 93.1,
-        "uptime_7d": 69.4,
-        "uptime_30d": 69.3
+        "uptime_24h": 93.3,
+        "uptime_7d": 69.5,
+        "uptime_30d": 69.4
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -777,7 +777,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 87.1
+        "uptime_30d": 87.2
       },
       {
         "name": "Valchedrym Video System",
@@ -821,27 +821,27 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 82.3,
-        "uptime_7d": 65.4,
-        "uptime_30d": 65.2
+        "uptime_24h": 82.7,
+        "uptime_7d": 65.5,
+        "uptime_30d": 65.3
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 77.9,
-        "uptime_7d": 70.4,
-        "uptime_30d": 63.2
+        "uptime_24h": 78.2,
+        "uptime_7d": 70.6,
+        "uptime_30d": 63.3
       }
     ],
     "External Reachability": [
       {
         "name": "[External] authentik",
         "status": "up",
-        "uptime_24h": 96.7,
-        "uptime_7d": 96.7,
-        "uptime_30d": 96.7,
+        "uptime_24h": 96.8,
+        "uptime_7d": 96.8,
+        "uptime_30d": 96.8,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
