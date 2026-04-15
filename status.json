@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T22:25:48.134446+00:00",
+  "last_updated": "2026-04-15T22:30:55.383597+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 77.7,
+        "uptime_7d": 77.8,
         "uptime_30d": 76.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 86.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.0,
+        "uptime_7d": 94.1,
         "uptime_30d": 93.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -399,7 +399,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 74.8,
-        "uptime_30d": 73.9,
+        "uptime_30d": 74.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -479,7 +479,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -542,7 +542,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.1,
+        "uptime_7d": 93.2,
         "uptime_30d": 88.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -559,7 +559,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 74.0,
-        "uptime_30d": 73.5,
+        "uptime_30d": 73.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -647,13 +647,13 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://cc.viktorbarzin.me"
       },
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.8,
+        "uptime_24h": 94.1,
         "uptime_7d": 93.5,
         "uptime_30d": 88.9,
         "url": "https://poison.viktorbarzin.me"
@@ -704,8 +704,8 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 73.2,
-        "uptime_30d": 72.9
+        "uptime_7d": 73.3,
+        "uptime_30d": 73.0
       },
       {
         "name": "Imap",
@@ -746,7 +746,7 @@
         "name": "Mailserver SMTP",
         "status": "up",
         "uptime_24h": 97.1,
-        "uptime_7d": 71.1,
+        "uptime_7d": 71.2,
         "uptime_30d": 71.1
       },
       {
@@ -754,7 +754,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 73.1,
-        "uptime_30d": 73.0
+        "uptime_30d": 73.1
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -822,8 +822,8 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 69.5,
-        "uptime_30d": 69.4
+        "uptime_7d": 69.6,
+        "uptime_30d": 69.5
       }
     ],
     "Push": [
