@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T20:40:53.776996+00:00",
+  "last_updated": "2026-04-15T20:45:48.363608+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 66.3,
-        "uptime_7d": 76.6,
+        "uptime_7d": 76.7,
         "uptime_30d": 75.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 96.6,
-        "uptime_7d": 97.4,
-        "uptime_30d": 96.1,
+        "uptime_24h": 96.2,
+        "uptime_7d": 97.2,
+        "uptime_30d": 95.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -422,8 +422,8 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 73.5,
-        "uptime_30d": 72.6,
+        "uptime_7d": 73.6,
+        "uptime_30d": 72.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 72.7,
-        "uptime_30d": 72.2,
+        "uptime_30d": 72.3,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 91.1,
-        "uptime_30d": 86.7,
+        "uptime_30d": 86.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -653,9 +653,9 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.4,
+        "uptime_24h": 93.8,
         "uptime_7d": 93.4,
-        "uptime_30d": 88.6,
+        "uptime_30d": 88.7,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -704,8 +704,8 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.9,
-        "uptime_30d": 71.6
+        "uptime_7d": 72.0,
+        "uptime_30d": 71.7
       },
       {
         "name": "Imap",
@@ -746,14 +746,14 @@
         "name": "Mailserver SMTP",
         "status": "up",
         "uptime_24h": 97.1,
-        "uptime_7d": 69.7,
+        "uptime_7d": 69.8,
         "uptime_30d": 69.7
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.7,
+        "uptime_7d": 71.8,
         "uptime_30d": 71.7
       },
       {
@@ -784,7 +784,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.3,
-        "uptime_30d": 89.5
+        "uptime_30d": 89.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,9 +821,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 92.8,
-        "uptime_7d": 68.0,
-        "uptime_30d": 67.9
+        "uptime_24h": 93.1,
+        "uptime_7d": 68.1,
+        "uptime_30d": 68.0
       }
     ],
     "Push": [
