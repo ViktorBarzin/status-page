@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T02:50:20.769193+00:00",
+  "last_updated": "2026-04-16T02:55:19.420677+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,8 +125,8 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 84.7,
-        "uptime_7d": 81.9,
+        "uptime_24h": 85.1,
+        "uptime_7d": 82.0,
         "uptime_30d": 79.6,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 84.4,
+        "uptime_30d": 84.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.3,
+        "uptime_30d": 82.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 89.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -798,7 +798,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 90.4
+        "uptime_30d": 90.5
       },
       {
         "name": "pfSense Gateway",
