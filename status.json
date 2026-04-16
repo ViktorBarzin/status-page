@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T10:10:19.578105+00:00",
+  "last_updated": "2026-04-16T10:15:19.811275+00:00",
   "groups": {
     "HTTP": [
       {
@@ -93,9 +93,9 @@
       {
         "name": "Dawarich",
         "status": "down",
-        "uptime_24h": 96.9,
-        "uptime_7d": 97.7,
-        "uptime_30d": 94.9,
+        "uptime_24h": 96.5,
+        "uptime_7d": 97.4,
+        "uptime_30d": 94.6,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 86.0,
-        "uptime_30d": 83.9,
+        "uptime_7d": 86.1,
+        "uptime_30d": 84.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -260,10 +260,10 @@
       },
       {
         "name": "Paperless-ngx",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 98.7,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.0,
+        "uptime_30d": 98.0,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -326,8 +326,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 97.2,
-        "uptime_30d": 96.5,
+        "uptime_7d": 97.3,
+        "uptime_30d": 96.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -654,7 +654,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.5,
-        "uptime_7d": 94.5,
+        "uptime_7d": 94.6,
         "uptime_30d": 89.3,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -998,10 +998,10 @@
       },
       {
         "name": "[External] pdf",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -1207,9 +1207,9 @@
       {
         "name": "[External] dawarich",
         "status": "down",
-        "uptime_24h": 96.6,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_24h": 96.2,
+        "uptime_7d": 97.2,
+        "uptime_30d": 97.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
