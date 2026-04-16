@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T01:15:48.027986+00:00",
+  "last_updated": "2026-04-16T01:20:19.900652+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 78.1,
+        "uptime_24h": 78.5,
         "uptime_7d": 79.3,
         "uptime_30d": 77.9,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.3,
+        "uptime_7d": 94.4,
         "uptime_30d": 89.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 76.6,
-        "uptime_30d": 75.7,
+        "uptime_30d": 75.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -566,7 +566,7 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 75.8,
+        "uptime_7d": 75.9,
         "uptime_30d": 75.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
@@ -653,7 +653,7 @@
       {
         "name": "Poison Fountain",
         "status": "up",
-        "uptime_24h": 93.8,
+        "uptime_24h": 94.1,
         "uptime_7d": 93.1,
         "uptime_30d": 88.9,
         "url": "https://poison.viktorbarzin.me"
@@ -705,7 +705,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 75.2,
-        "uptime_30d": 75.0
+        "uptime_30d": 75.1
       },
       {
         "name": "Imap",
@@ -746,15 +746,15 @@
         "name": "Mailserver SMTP",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 73.1,
+        "uptime_7d": 73.2,
         "uptime_30d": 73.1
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.0,
-        "uptime_30d": 74.9
+        "uptime_7d": 75.1,
+        "uptime_30d": 75.0
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -776,7 +776,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.0,
+        "uptime_7d": 94.1,
         "uptime_30d": 89.2
       },
       {
@@ -822,8 +822,8 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.6,
-        "uptime_30d": 71.5
+        "uptime_7d": 71.7,
+        "uptime_30d": 71.6
       }
     ],
     "Push": [
