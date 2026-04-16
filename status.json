@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T15:50:18.585373+00:00",
+  "last_updated": "2026-04-16T15:55:17.129581+00:00",
   "groups": {
     "HTTP": [
       {
@@ -93,8 +93,8 @@
       {
         "name": "Dawarich",
         "status": "down",
-        "uptime_24h": 73.4,
-        "uptime_7d": 83.0,
+        "uptime_24h": 73.0,
+        "uptime_7d": 82.8,
         "uptime_30d": 81.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.1,
+        "uptime_7d": 88.2,
         "uptime_30d": 86.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.1,
+        "uptime_30d": 86.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 75.9,
-        "uptime_7d": 84.4,
-        "uptime_30d": 83.8,
+        "uptime_24h": 75.5,
+        "uptime_7d": 84.2,
+        "uptime_30d": 83.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -326,7 +326,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 97.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -429,9 +429,9 @@
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 77.5,
-        "uptime_7d": 85.5,
-        "uptime_30d": 84.8,
+        "uptime_24h": 77.2,
+        "uptime_7d": 85.3,
+        "uptime_30d": 84.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -655,7 +655,7 @@
         "status": "up",
         "uptime_24h": 94.5,
         "uptime_7d": 94.9,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -830,9 +830,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 71.2,
-        "uptime_7d": 69.8,
-        "uptime_30d": 62.5
+        "uptime_24h": 72.2,
+        "uptime_7d": 69.4,
+        "uptime_30d": 62.3
       }
     ],
     "External Reachability": [
