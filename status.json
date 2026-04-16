@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T08:40:19.659299+00:00",
+  "last_updated": "2026-04-16T08:45:19.778007+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 77.1,
+        "uptime_30d": 77.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -542,7 +542,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 91.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -784,7 +784,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 91.9
+        "uptime_30d": 92.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -831,8 +831,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 82.3,
-        "uptime_7d": 73.2,
-        "uptime_30d": 64.2
+        "uptime_7d": 73.4,
+        "uptime_30d": 64.3
       }
     ],
     "External Reachability": [
