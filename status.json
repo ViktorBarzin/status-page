@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T00:00:43.083157+00:00",
+  "last_updated": "2026-04-16T00:05:48.529646+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,9 +125,9 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 72.9,
-        "uptime_7d": 78.6,
-        "uptime_30d": 77.2,
+        "uptime_24h": 73.3,
+        "uptime_7d": 78.7,
+        "uptime_30d": 77.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.2,
-        "uptime_30d": 88.6,
+        "uptime_30d": 88.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -422,8 +422,8 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.8,
-        "uptime_30d": 74.9,
+        "uptime_7d": 75.9,
+        "uptime_30d": 75.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 91.8,
-        "uptime_30d": 87.7,
+        "uptime_30d": 87.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -655,7 +655,7 @@
         "status": "up",
         "uptime_24h": 93.4,
         "uptime_7d": 93.1,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -704,7 +704,7 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 74.3,
+        "uptime_7d": 74.4,
         "uptime_30d": 74.2
       },
       {
@@ -747,14 +747,14 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 72.3,
-        "uptime_30d": 72.2
+        "uptime_30d": 72.3
       },
       {
         "name": "Mailserver IMAP",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 74.2,
-        "uptime_30d": 74.1
+        "uptime_30d": 74.2
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -784,7 +784,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.7,
-        "uptime_30d": 90.3
+        "uptime_30d": 90.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -822,8 +822,8 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 70.7,
-        "uptime_30d": 70.6
+        "uptime_7d": 70.8,
+        "uptime_30d": 70.7
       }
     ],
     "Push": [
@@ -831,8 +831,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 87.0,
-        "uptime_7d": 72.9,
-        "uptime_30d": 65.3
+        "uptime_7d": 73.0,
+        "uptime_30d": 65.4
       }
     ],
     "External Reachability": [
