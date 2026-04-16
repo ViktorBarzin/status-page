@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T10:30:55.587308+00:00",
+  "last_updated": "2026-04-16T10:35:26.657626+00:00",
   "groups": {
     "HTTP": [
       {
@@ -93,9 +93,9 @@
       {
         "name": "Dawarich",
         "status": "down",
-        "uptime_24h": 95.5,
-        "uptime_7d": 96.6,
-        "uptime_30d": 93.9,
+        "uptime_24h": 95.2,
+        "uptime_7d": 96.4,
+        "uptime_30d": 93.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 87.1,
+        "uptime_30d": 87.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 98.2,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.5,
+        "uptime_30d": 84.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 97.9,
-        "uptime_7d": 98.2,
-        "uptime_30d": 97.2,
+        "uptime_24h": 97.6,
+        "uptime_7d": 98.0,
+        "uptime_30d": 97.0,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 77.8,
+        "uptime_30d": 77.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -428,10 +428,10 @@
       },
       {
         "name": "Wealthfolio",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 98.7,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.2,
+        "uptime_30d": 98.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -925,94 +925,6 @@
         "url": "https://whiteboard.viktorbarzin.me"
       },
       {
-        "name": "[External] highlights-immich",
-        "status": "pending",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://highlights-immich.viktorbarzin.me"
-      },
-      {
-        "name": "[External] nextcloud",
-        "status": "pending",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://nextcloud.viktorbarzin.me"
-      },
-      {
-        "name": "[External] crowdsec-web",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://crowdsec-web.viktorbarzin.me"
-      },
-      {
-        "name": "[External] networking-toolbox",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://networking-toolbox.viktorbarzin.me"
-      },
-      {
-        "name": "[External] tuya-bridge",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://tuya-bridge.viktorbarzin.me"
-      },
-      {
-        "name": "[External] vault",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://vault.viktorbarzin.me"
-      },
-      {
-        "name": "[External] stacks",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://stacks.viktorbarzin.me"
-      },
-      {
-        "name": "[External] stirling-pdf",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://stirling-pdf.viktorbarzin.me"
-      },
-      {
-        "name": "[External] rybbit",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://rybbit.viktorbarzin.me"
-      },
-      {
-        "name": "[External] rybbit-api",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://rybbit-api.viktorbarzin.me"
-      },
-      {
-        "name": "[External] wealthfolio",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://wealthfolio.viktorbarzin.me"
-      },
-      {
         "name": "[External] authelia",
         "status": "up",
         "uptime_24h": 100.0,
@@ -1021,148 +933,12 @@
         "url": "https://authelia.viktorbarzin.me"
       },
       {
-        "name": "[External] netbox",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://netbox.viktorbarzin.me"
-      },
-      {
-        "name": "[External] listenarr",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://listenarr.viktorbarzin.me"
-      },
-      {
-        "name": "[External] aiostreams",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://aiostreams.viktorbarzin.me"
-      },
-      {
-        "name": "[External] speedtest",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://speedtest.viktorbarzin.me"
-      },
-      {
-        "name": "[External] budget-emo",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://budget-emo.viktorbarzin.me"
-      },
-      {
         "name": "[External] mcaptcha",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://mcaptcha.viktorbarzin.me"
-      },
-      {
-        "name": "[External] mbp14",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://mbp14.viktorbarzin.me"
-      },
-      {
-        "name": "[External] trading",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://trading.viktorbarzin.me"
-      },
-      {
-        "name": "[External] goldilocks",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://goldilocks.viktorbarzin.me"
-      },
-      {
-        "name": "[External] terminal",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://terminal.viktorbarzin.me"
-      },
-      {
-        "name": "[External] terminal-ro",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://terminal-ro.viktorbarzin.me"
-      },
-      {
-        "name": "[External] openlobster",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://openlobster.viktorbarzin.me"
-      },
-      {
-        "name": "[External] priority-pass",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://priority-pass.viktorbarzin.me"
-      },
-      {
-        "name": "[External] book-search",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://book-search.viktorbarzin.me"
-      },
-      {
-        "name": "[External] claude-memory",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://claude-memory.viktorbarzin.me"
-      },
-      {
-        "name": "[External] insta2spotify",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://insta2spotify.viktorbarzin.me"
-      },
-      {
-        "name": "[External] foolery",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://foolery.viktorbarzin.me"
-      },
-      {
-        "name": "[External] phpipam",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://phpipam.viktorbarzin.me"
       }
     ]
   },
