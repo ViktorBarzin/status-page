@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T03:20:20.963438+00:00",
+  "last_updated": "2026-04-16T03:25:19.080439+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,9 +125,9 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 86.8,
-        "uptime_7d": 82.3,
-        "uptime_30d": 79.9,
+        "uptime_24h": 87.2,
+        "uptime_7d": 82.4,
+        "uptime_30d": 80.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 84.6,
+        "uptime_30d": 84.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 95.9,
-        "uptime_7d": 95.7,
+        "uptime_7d": 95.8,
         "uptime_30d": 94.3,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 74.7,
+        "uptime_30d": 74.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 94.9,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -652,10 +652,10 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "up",
-        "uptime_24h": 94.5,
-        "uptime_7d": 94.7,
-        "uptime_30d": 88.2,
+        "status": "down",
+        "uptime_24h": 94.1,
+        "uptime_7d": 94.4,
+        "uptime_30d": 87.9,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -784,7 +784,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 90.5
+        "uptime_30d": 90.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -831,8 +831,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 84.6,
-        "uptime_7d": 72.7,
-        "uptime_30d": 63.2
+        "uptime_7d": 72.8,
+        "uptime_30d": 63.4
       }
     ],
     "External Reachability": [
