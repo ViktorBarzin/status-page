@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T11:20:17.494713+00:00",
+  "last_updated": "2026-04-16T11:25:16.958258+00:00",
   "groups": {
     "HTTP": [
       {
@@ -70,7 +70,7 @@
         "name": "Grafana",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -93,9 +93,9 @@
       {
         "name": "Dawarich",
         "status": "down",
-        "uptime_24h": 92.0,
-        "uptime_7d": 94.2,
-        "uptime_30d": 91.7,
+        "uptime_24h": 91.7,
+        "uptime_7d": 94.0,
+        "uptime_30d": 91.5,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 86.5,
+        "uptime_7d": 86.6,
         "uptime_30d": 84.5,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 94.5,
-        "uptime_7d": 95.8,
-        "uptime_30d": 94.9,
+        "uptime_24h": 94.1,
+        "uptime_7d": 95.5,
+        "uptime_30d": 94.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -422,16 +422,16 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 97.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 96.2,
-        "uptime_7d": 97.0,
-        "uptime_30d": 96.1,
+        "uptime_24h": 95.8,
+        "uptime_7d": 96.8,
+        "uptime_30d": 95.8,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -486,7 +486,7 @@
         "name": "Actual Budget (Viktor)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.0,
         "url": "https://budget-anca.viktorbarzin.me"
       },
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -574,7 +574,7 @@
         "name": "OwnTracks",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.8,
         "url": "https://owntracks.viktorbarzin.me"
       },
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 93.3,
-        "uptime_30d": 88.6,
+        "uptime_30d": 88.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -654,7 +654,7 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.8,
-        "uptime_7d": 94.7,
+        "uptime_7d": 94.8,
         "uptime_30d": 89.6,
         "url": "https://poison.viktorbarzin.me"
       },
@@ -739,8 +739,8 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8
       },
       {
         "name": "Mailserver SMTP",
@@ -777,7 +777,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 92.3
+        "uptime_30d": 92.4
       },
       {
         "name": "Valchedrym Video System",
@@ -830,9 +830,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 82.1,
-        "uptime_7d": 73.3,
-        "uptime_30d": 64.5
+        "uptime_24h": 80.8,
+        "uptime_7d": 72.9,
+        "uptime_30d": 64.3
       }
     ],
     "External Reachability": [
