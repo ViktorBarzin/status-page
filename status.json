@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T08:10:19.249632+00:00",
+  "last_updated": "2026-04-16T08:15:19.498253+00:00",
   "groups": {
     "HTTP": [
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -102,7 +102,7 @@
         "name": "authentik-server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 98.9,
         "url": "http://goauthentik-server.authentik"
       },
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.1,
-        "uptime_30d": 82.9,
+        "uptime_7d": 85.2,
+        "uptime_30d": 83.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.5,
+        "uptime_30d": 84.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 97.2,
         "uptime_7d": 97.8,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -399,7 +399,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -566,7 +566,7 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 98.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
@@ -615,14 +615,14 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 93.9,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 98.9,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -654,8 +654,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 94.8,
-        "uptime_7d": 94.7,
-        "uptime_30d": 89.1,
+        "uptime_7d": 94.8,
+        "uptime_30d": 89.2,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -733,7 +733,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "NFS Server (Proxmox)",
