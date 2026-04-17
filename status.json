@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T19:00:34.121414+00:00",
+  "last_updated": "2026-04-17T19:05:23.465817+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.6,
+        "uptime_7d": 91.7,
         "uptime_30d": 90.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 62.5,
+        "uptime_7d": 62.4,
         "uptime_30d": 62.3,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.8,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -293,9 +293,9 @@
       {
         "name": "Ollama",
         "status": "down",
-        "uptime_24h": 97.5,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.1,
+        "uptime_24h": 96.9,
+        "uptime_7d": 99.2,
+        "uptime_30d": 98.9,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -430,7 +430,7 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.3,
+        "uptime_7d": 84.4,
         "uptime_30d": 83.9,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -533,9 +533,9 @@
       {
         "name": "Travel Blog",
         "status": "down",
-        "uptime_24h": 98.1,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.2,
+        "uptime_24h": 97.5,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.1,
         "url": "https://travel.viktorbarzin.me"
       },
       {
@@ -653,9 +653,9 @@
       {
         "name": "Poison Fountain",
         "status": "down",
-        "uptime_24h": 91.1,
-        "uptime_7d": 93.4,
-        "uptime_30d": 90.2,
+        "uptime_24h": 90.6,
+        "uptime_7d": 93.2,
+        "uptime_30d": 90.0,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -759,7 +759,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 92.0,
+        "uptime_24h": 92.1,
         "uptime_7d": 97.4,
         "uptime_30d": 97.4
       },
@@ -1823,17 +1823,17 @@
       {
         "name": "[External] poison",
         "status": "down",
-        "uptime_24h": 43.3,
-        "uptime_7d": 43.3,
-        "uptime_30d": 43.3,
+        "uptime_24h": 43.0,
+        "uptime_7d": 43.0,
+        "uptime_30d": 43.0,
         "url": "https://poison.viktorbarzin.me"
       },
       {
         "name": "[External] poison",
         "status": "down",
-        "uptime_24h": 47.9,
-        "uptime_7d": 47.9,
-        "uptime_30d": 47.9,
+        "uptime_24h": 47.6,
+        "uptime_7d": 47.6,
+        "uptime_30d": 47.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -2309,14 +2309,6 @@
         "url": "https://dns.viktorbarzin.me"
       },
       {
-        "name": "[External] dns",
-        "status": "down",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://dns.viktorbarzin.me"
-      },
-      {
         "name": "[External] terminal",
         "status": "up",
         "uptime_24h": 100.0,
@@ -2527,17 +2519,17 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 96.0,
-        "uptime_7d": 96.0,
-        "uptime_30d": 96.0,
+        "uptime_24h": 96.1,
+        "uptime_7d": 96.1,
+        "uptime_30d": 96.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 96.0,
-        "uptime_7d": 96.0,
-        "uptime_30d": 96.0,
+        "uptime_24h": 96.1,
+        "uptime_7d": 96.1,
+        "uptime_30d": 96.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
