@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T20:15:24.201994+00:00",
+  "last_updated": "2026-04-17T20:20:26.521980+00:00",
   "groups": {
     "HTTP": [
       {
@@ -260,8 +260,8 @@
       },
       {
         "name": "Paperless-ngx",
-        "status": "down",
-        "uptime_24h": 0.0,
+        "status": "up",
+        "uptime_24h": 0.6,
         "uptime_7d": 61.1,
         "uptime_30d": 61.0,
         "url": "https://pdf.viktorbarzin.me"
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.0,
+        "uptime_30d": 84.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -559,7 +559,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 92.7,
+        "uptime_24h": 92.8,
         "uptime_7d": 97.5,
         "uptime_30d": 97.5
       },
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 76.3,
-        "uptime_7d": 71.3,
-        "uptime_30d": 63.0
+        "uptime_24h": 76.9,
+        "uptime_7d": 71.4,
+        "uptime_30d": 63.1
       }
     ],
     "External Reachability": [
@@ -2527,9 +2527,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 11.1,
-        "uptime_7d": 11.1,
-        "uptime_30d": 11.1,
+        "uptime_24h": 20.0,
+        "uptime_7d": 20.0,
+        "uptime_30d": 20.0,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
