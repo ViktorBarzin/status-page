@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T18:05:22.278466+00:00",
+  "last_updated": "2026-04-17T18:20:31.232054+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 85.0,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.5,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.1,
+        "uptime_30d": 89.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -261,16 +261,16 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 5.2,
-        "uptime_7d": 63.6,
-        "uptime_30d": 63.4,
+        "uptime_24h": 3.2,
+        "uptime_7d": 63.3,
+        "uptime_30d": 63.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
         "name": "Rybbit Analytics",
         "status": "up",
-        "uptime_24h": 94.8,
-        "uptime_7d": 95.7,
+        "uptime_24h": 96.7,
+        "uptime_7d": 95.8,
         "uptime_30d": 95.2,
         "url": "https://rybbit.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.6,
+        "uptime_30d": 83.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -429,9 +429,9 @@
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 94.8,
+        "uptime_24h": 96.7,
         "uptime_7d": 84.1,
-        "uptime_30d": 83.6,
+        "uptime_30d": 83.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -614,7 +614,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 99.4,
-        "uptime_7d": 94.9,
+        "uptime_7d": 95.0,
         "uptime_30d": 91.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -654,8 +654,8 @@
         "name": "Poison Fountain",
         "status": "up",
         "uptime_24h": 93.5,
-        "uptime_7d": 94.0,
-        "uptime_30d": 90.7,
+        "uptime_7d": 94.1,
+        "uptime_30d": 90.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -1822,18 +1822,18 @@
       },
       {
         "name": "[External] poison",
-        "status": "down",
-        "uptime_24h": 44.2,
-        "uptime_7d": 44.2,
-        "uptime_30d": 44.2,
+        "status": "up",
+        "uptime_24h": 43.4,
+        "uptime_7d": 43.4,
+        "uptime_30d": 43.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
         "name": "[External] poison",
         "status": "down",
-        "uptime_24h": 48.8,
-        "uptime_7d": 48.8,
-        "uptime_30d": 48.8,
+        "uptime_24h": 47.7,
+        "uptime_7d": 47.7,
+        "uptime_30d": 47.7,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -2527,17 +2527,17 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 95.6,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6,
+        "uptime_24h": 95.7,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 95.6,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6,
+        "uptime_24h": 95.7,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
