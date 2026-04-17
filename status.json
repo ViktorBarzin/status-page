@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T20:45:23.811757+00:00",
+  "last_updated": "2026-04-17T20:50:26.038757+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 91.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.5,
+        "uptime_30d": 89.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 3.4,
-        "uptime_7d": 61.4,
-        "uptime_30d": 61.3,
+        "uptime_24h": 3.9,
+        "uptime_7d": 61.5,
+        "uptime_30d": 61.4,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.1,
+        "uptime_30d": 84.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "uptime_30d": 99.9,
         "url": "https://uptime.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "uptime_30d": 99.9,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 99.4,
-        "uptime_7d": 95.2,
-        "uptime_30d": 92.0,
+        "uptime_24h": 98.3,
+        "uptime_7d": 94.9,
+        "uptime_30d": 91.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "uptime_30d": 99.9,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 76.9,
-        "uptime_7d": 71.4,
-        "uptime_30d": 63.1
+        "uptime_24h": 75.0,
+        "uptime_7d": 71.1,
+        "uptime_30d": 62.9
       }
     ],
     "External Reachability": [
@@ -2495,9 +2495,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 46.7,
-        "uptime_7d": 46.7,
-        "uptime_30d": 46.7,
+        "uptime_24h": 50.0,
+        "uptime_7d": 50.0,
+        "uptime_30d": 50.0,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
