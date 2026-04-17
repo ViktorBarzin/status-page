@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T09:20:49.931497+00:00",
+  "last_updated": "2026-04-17T09:25:51.523131+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 89.8,
+        "uptime_30d": 89.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 19.6,
-        "uptime_7d": 76.0,
-        "uptime_30d": 75.6,
+        "uptime_24h": 19.0,
+        "uptime_7d": 75.8,
+        "uptime_30d": 75.5,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 96.7,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.5,
+        "uptime_30d": 81.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -431,7 +431,7 @@
         "status": "up",
         "uptime_24h": 35.1,
         "uptime_7d": 80.9,
-        "uptime_30d": 80.4,
+        "uptime_30d": 80.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -487,7 +487,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://budget-anca.viktorbarzin.me"
       },
       {
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -551,7 +551,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
@@ -747,7 +747,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.6
+        "uptime_30d": 98.7
       },
       {
         "name": "Mailserver IMAP",
