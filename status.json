@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T16:40:25.912553+00:00",
+  "last_updated": "2026-04-17T16:50:23.010716+00:00",
   "groups": {
     "HTTP": [
       {
@@ -93,7 +93,7 @@
       {
         "name": "Dawarich",
         "status": "up",
-        "uptime_24h": 94.8,
+        "uptime_24h": 96.1,
         "uptime_7d": 84.6,
         "uptime_30d": 83.9,
         "url": "https://dawarich.viktorbarzin.me"
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.3,
-        "uptime_30d": 89.8,
+        "uptime_30d": 89.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -262,14 +262,14 @@
         "name": "Paperless-ngx",
         "status": "down",
         "uptime_24h": 13.5,
-        "uptime_7d": 65.3,
-        "uptime_30d": 65.1,
+        "uptime_7d": 65.1,
+        "uptime_30d": 64.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
         "name": "Rybbit Analytics",
         "status": "up",
-        "uptime_24h": 82.6,
+        "uptime_24h": 85.0,
         "uptime_7d": 95.6,
         "uptime_30d": 95.0,
         "url": "https://rybbit.viktorbarzin.me"
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -429,9 +429,9 @@
       {
         "name": "Wealthfolio",
         "status": "up",
-        "uptime_24h": 83.7,
-        "uptime_7d": 83.6,
-        "uptime_30d": 83.2,
+        "uptime_24h": 85.0,
+        "uptime_7d": 83.7,
+        "uptime_30d": 83.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -830,9 +830,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 64.5,
-        "uptime_7d": 70.3,
-        "uptime_30d": 62.3
+        "uptime_24h": 65.6,
+        "uptime_7d": 70.4,
+        "uptime_30d": 62.4
       }
     ],
     "External Reachability": [
@@ -1822,18 +1822,18 @@
       },
       {
         "name": "[External] poison",
-        "status": "down",
-        "uptime_24h": 43.6,
-        "uptime_7d": 43.6,
-        "uptime_30d": 43.6,
+        "status": "up",
+        "uptime_24h": 43.4,
+        "uptime_7d": 43.4,
+        "uptime_30d": 43.4,
         "url": "https://poison.viktorbarzin.me"
       },
       {
         "name": "[External] poison",
         "status": "up",
-        "uptime_24h": 53.5,
-        "uptime_7d": 53.5,
-        "uptime_30d": 53.5,
+        "uptime_24h": 52.8,
+        "uptime_7d": 52.8,
+        "uptime_30d": 52.8,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -2527,17 +2527,17 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 94.5,
-        "uptime_7d": 94.5,
-        "uptime_30d": 94.5,
+        "uptime_24h": 94.7,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 94.5,
-        "uptime_7d": 94.5,
-        "uptime_30d": 94.5,
+        "uptime_24h": 94.7,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
