@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T08:00:23.116996+00:00",
+  "last_updated": "2026-04-17T08:05:49.894969+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 29.9,
-        "uptime_7d": 78.5,
-        "uptime_30d": 78.1,
+        "uptime_24h": 29.1,
+        "uptime_7d": 78.2,
+        "uptime_30d": 77.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -295,7 +295,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.6,
         "url": "https://ollama.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -430,8 +430,8 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 35.1,
-        "uptime_7d": 80.3,
-        "uptime_30d": 79.8,
+        "uptime_7d": 80.4,
+        "uptime_30d": 79.9,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -830,9 +830,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 28.6,
-        "uptime_7d": 67.8,
-        "uptime_30d": 60.6
+        "uptime_24h": 25.0,
+        "uptime_7d": 67.4,
+        "uptime_30d": 60.4
       }
     ],
     "External Reachability": [
