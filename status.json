@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T20:40:26.506417+00:00",
+  "last_updated": "2026-04-17T20:45:23.811757+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 85.7,
-        "uptime_30d": 85.0,
+        "uptime_30d": 85.1,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 2.8,
+        "uptime_24h": 3.4,
         "uptime_7d": 61.4,
-        "uptime_30d": 61.2,
+        "uptime_30d": 61.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 97.3,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -721,7 +721,7 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 93.1,
+        "uptime_24h": 93.2,
         "uptime_7d": 97.2,
         "uptime_30d": 97.1
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 92.9,
+        "uptime_24h": 93.0,
         "uptime_7d": 97.5,
         "uptime_30d": 97.5
       },
@@ -1709,14 +1709,6 @@
         "url": "https://task-webhook.viktorbarzin.me"
       },
       {
-        "name": "[External] task-webhook",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://task-webhook.viktorbarzin.me"
-      },
-      {
         "name": "[External] owntracks",
         "status": "up",
         "uptime_24h": 100.0,
@@ -1779,14 +1771,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://priority-pass.viktorbarzin.me"
-      },
-      {
-        "name": "[External] resume",
-        "status": "down",
-        "uptime_24h": 0.8,
-        "uptime_7d": 0.8,
-        "uptime_30d": 0.8,
-        "url": "https://resume.viktorbarzin.me"
       },
       {
         "name": "[External] resume",
@@ -2269,14 +2253,6 @@
         "url": "https://torrserver.viktorbarzin.me"
       },
       {
-        "name": "[External] torrserver",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://torrserver.viktorbarzin.me"
-      },
-      {
         "name": "[External] traefik",
         "status": "up",
         "uptime_24h": 100.0,
@@ -2403,14 +2379,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://webhook.viktorbarzin.me"
-      },
-      {
-        "name": "[External] www",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://www.viktorbarzin.me"
       },
       {
         "name": "[External] www",
@@ -2527,9 +2495,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 42.9,
-        "uptime_7d": 42.9,
-        "uptime_30d": 42.9,
+        "uptime_24h": 46.7,
+        "uptime_7d": 46.7,
+        "uptime_30d": 46.7,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
