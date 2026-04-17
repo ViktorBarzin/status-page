@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T09:00:23.913407+00:00",
+  "last_updated": "2026-04-17T09:05:16.876204+00:00",
   "groups": {
     "HTTP": [
       {
@@ -94,8 +94,8 @@
         "name": "Dawarich",
         "status": "up",
         "uptime_24h": 38.7,
-        "uptime_7d": 81.8,
-        "uptime_30d": 81.1,
+        "uptime_7d": 81.9,
+        "uptime_30d": 81.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.7,
-        "uptime_30d": 88.1,
+        "uptime_7d": 89.8,
+        "uptime_30d": 88.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -181,7 +181,7 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 99.4,
+        "uptime_24h": 99.3,
         "uptime_7d": 99.6,
         "uptime_30d": 87.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,16 +261,16 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 22.3,
-        "uptime_7d": 76.7,
-        "uptime_30d": 76.3,
+        "uptime_24h": 21.7,
+        "uptime_7d": 76.6,
+        "uptime_30d": 76.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
         "name": "Rybbit Analytics",
         "status": "up",
         "uptime_24h": 82.6,
-        "uptime_7d": 94.8,
+        "uptime_7d": 94.9,
         "uptime_30d": 94.2,
         "url": "https://rybbit.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.4,
+        "uptime_30d": 81.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -777,7 +777,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 93.9
+        "uptime_30d": 94.0
       },
       {
         "name": "Valchedrym Video System",
@@ -830,9 +830,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 18.5,
-        "uptime_7d": 67.2,
-        "uptime_30d": 60.2
+        "uptime_24h": 14.8,
+        "uptime_7d": 66.9,
+        "uptime_30d": 60.0
       }
     ],
     "External Reachability": [
