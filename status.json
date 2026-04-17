@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T21:50:23.449957+00:00",
+  "last_updated": "2026-04-17T21:55:25.901872+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 86.0,
-        "uptime_30d": 85.3,
+        "uptime_30d": 85.4,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.1,
-        "uptime_30d": 90.7,
+        "uptime_30d": 90.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 9.9,
+        "uptime_24h": 10.4,
         "uptime_7d": 62.2,
-        "uptime_30d": 62.0,
+        "uptime_30d": 62.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -597,7 +597,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 98.4,
+        "uptime_24h": 98.5,
         "uptime_7d": 95.0,
         "uptime_30d": 91.9,
         "url": "https://docker.viktorbarzin.me"
@@ -721,7 +721,7 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 93.6,
+        "uptime_24h": 93.7,
         "uptime_7d": 97.3,
         "uptime_30d": 97.2
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 93.4,
+        "uptime_24h": 93.5,
         "uptime_7d": 97.6,
         "uptime_30d": 97.6
       },
@@ -1071,9 +1071,9 @@
       {
         "name": "[External] echo",
         "status": "up",
-        "uptime_24h": 99.2,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -1106,7 +1106,7 @@
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://forgejo.viktorbarzin.me"
+        "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
         "name": "[External] music-emo",
@@ -1135,9 +1135,9 @@
       {
         "name": "[External] hackmd",
         "status": "up",
-        "uptime_24h": 99.2,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://hackmd.viktorbarzin.me"
       },
       {
@@ -1151,9 +1151,9 @@
       {
         "name": "[External] health",
         "status": "up",
-        "uptime_24h": 99.2,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -1423,9 +1423,9 @@
       {
         "name": "[External] music-assistant",
         "status": "up",
-        "uptime_24h": 99.2,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1639,9 +1639,9 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 97.0,
-        "uptime_7d": 97.0,
-        "uptime_30d": 97.0,
+        "uptime_24h": 97.1,
+        "uptime_7d": 97.1,
+        "uptime_30d": 97.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 71.4,
-        "uptime_7d": 71.4,
-        "uptime_30d": 71.4,
+        "uptime_24h": 72.4,
+        "uptime_7d": 72.4,
+        "uptime_30d": 72.4,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
