@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T22:05:20.144046+00:00",
+  "last_updated": "2026-04-17T22:10:21.645819+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.5,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.7,
+        "uptime_30d": 89.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -261,8 +261,8 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 11.3,
-        "uptime_7d": 62.3,
+        "uptime_24h": 11.8,
+        "uptime_7d": 62.4,
         "uptime_30d": 62.2,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -721,7 +721,7 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 93.7,
+        "uptime_24h": 93.8,
         "uptime_7d": 97.3,
         "uptime_30d": 97.2
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 93.5,
+        "uptime_24h": 93.6,
         "uptime_7d": 97.6,
         "uptime_30d": 97.6
       },
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 74.2,
-        "uptime_7d": 74.2,
-        "uptime_30d": 74.2,
+        "uptime_24h": 75.0,
+        "uptime_7d": 75.0,
+        "uptime_30d": 75.0,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
