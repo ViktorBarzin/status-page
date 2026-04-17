@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T10:10:19.306480+00:00",
+  "last_updated": "2026-04-17T10:15:17.014698+00:00",
   "groups": {
     "HTTP": [
       {
@@ -93,7 +93,7 @@
       {
         "name": "Dawarich",
         "status": "up",
-        "uptime_24h": 43.8,
+        "uptime_24h": 44.4,
         "uptime_7d": 82.3,
         "uptime_30d": 81.6,
         "url": "https://dawarich.viktorbarzin.me"
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 90.0,
-        "uptime_30d": 88.4,
+        "uptime_30d": 88.5,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 13.4,
-        "uptime_7d": 74.7,
-        "uptime_30d": 74.4,
+        "uptime_24h": 13.5,
+        "uptime_7d": 74.6,
+        "uptime_30d": 74.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -837,108 +837,156 @@
     ],
     "External Reachability": [
       {
-        "name": "[External] grafana",
+        "name": "[External] crowdsec-web",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://grafana.viktorbarzin.me"
+        "url": "https://crowdsec-web.viktorbarzin.me"
       },
       {
-        "name": "[External] nfty",
+        "name": "[External] cc",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://nfty.viktorbarzin.me"
+        "url": "https://cc.viktorbarzin.me"
       },
       {
-        "name": "[External] prometheus",
+        "name": "[External] dawarich",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://prometheus.viktorbarzin.me"
+        "url": "https://dawarich.viktorbarzin.me"
       },
       {
-        "name": "[External] redis",
+        "name": "[External] pgadmin",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://redis.viktorbarzin.me"
+        "url": "https://pgadmin.viktorbarzin.me"
       },
       {
-        "name": "[External] status",
+        "name": "[External] pma",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://status.viktorbarzin.me"
+        "url": "https://pma.viktorbarzin.me"
       },
       {
-        "name": "[External] finance",
+        "name": "[External] book-search",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://finance.viktorbarzin.me"
+        "url": "https://book-search.viktorbarzin.me"
       },
       {
-        "name": "[External] crowdsec",
+        "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://crowdsec.viktorbarzin.me"
+        "url": "https://calibre.viktorbarzin.me"
       },
       {
-        "name": "[External] immich-powertools",
+        "name": "[External] stacks",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://immich-powertools.viktorbarzin.me"
+        "url": "https://stacks.viktorbarzin.me"
       },
       {
-        "name": "[External] alertmanager",
+        "name": "[External] frigate",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://alertmanager.viktorbarzin.me"
+        "url": "https://frigate.viktorbarzin.me"
       },
       {
-        "name": "[External] loki",
+        "name": "[External] highlights-immich",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://loki.viktorbarzin.me"
+        "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
-        "name": "[External] whiteboard",
+        "name": "[External] navidrome",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://whiteboard.viktorbarzin.me"
+        "url": "https://navidrome.viktorbarzin.me"
       },
       {
-        "name": "[External] authelia",
+        "name": "[External] networking-toolbox",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://authelia.viktorbarzin.me"
+        "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
-        "name": "[External] mcaptcha",
+        "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
-        "url": "https://mcaptcha.viktorbarzin.me"
+        "url": "https://nextcloud.viktorbarzin.me"
+      },
+      {
+        "name": "[External] ollama",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://ollama.viktorbarzin.me"
+      },
+      {
+        "name": "[External] pdf",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://pdf.viktorbarzin.me"
+      },
+      {
+        "name": "[External] pb",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 100.0,
+        "url": "https://pb.viktorbarzin.me"
+      },
+      {
+        "name": "[External] rybbit",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 100.0,
+        "url": "https://rybbit.viktorbarzin.me"
+      },
+      {
+        "name": "[External] rybbit",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 100.0,
+        "url": "https://rybbit.viktorbarzin.me"
+      },
+      {
+        "name": "[External] uptime",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 100.0,
+        "url": "https://uptime.viktorbarzin.me"
       }
     ]
   },
