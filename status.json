@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T19:45:23.861937+00:00",
+  "last_updated": "2026-04-17T19:50:26.515432+00:00",
   "groups": {
     "HTTP": [
       {
@@ -94,7 +94,7 @@
         "name": "Dawarich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.4,
+        "uptime_7d": 85.5,
         "uptime_30d": 84.8,
         "url": "https://dawarich.viktorbarzin.me"
       },
@@ -263,7 +263,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 61.6,
-        "uptime_30d": 61.5,
+        "uptime_30d": 61.4,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -289,14 +289,6 @@
         "uptime_7d": 98.8,
         "uptime_30d": 97.9,
         "url": "https://health.viktorbarzin.me"
-      },
-      {
-        "name": "Ollama",
-        "status": "down",
-        "uptime_24h": 92.2,
-        "uptime_7d": 98.0,
-        "uptime_30d": 97.7,
-        "url": "https://ollama.viktorbarzin.me"
       },
       {
         "name": "Ntfy",
@@ -351,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.9,
+        "uptime_30d": 84.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -431,7 +423,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 84.6,
-        "uptime_30d": 84.1,
+        "uptime_30d": 84.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -529,14 +521,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 99.8,
         "url": "https://plotting-book.viktorbarzin.me"
-      },
-      {
-        "name": "Travel Blog",
-        "status": "down",
-        "uptime_24h": 92.8,
-        "uptime_7d": 98.2,
-        "uptime_30d": 97.9,
-        "url": "https://travel.viktorbarzin.me"
       },
       {
         "name": "Music Assistant",
@@ -649,14 +633,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 99.7,
         "url": "https://cc.viktorbarzin.me"
-      },
-      {
-        "name": "Poison Fountain",
-        "status": "down",
-        "uptime_24h": 86.2,
-        "uptime_7d": 92.1,
-        "uptime_30d": 89.0,
-        "url": "https://poison.viktorbarzin.me"
       },
       {
         "name": "Flaresolverr",
@@ -784,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.1
+        "uptime_30d": 95.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -939,22 +915,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://nextcloud.viktorbarzin.me"
-      },
-      {
-        "name": "[External] ollama",
-        "status": "down",
-        "uptime_24h": 0.8,
-        "uptime_7d": 0.8,
-        "uptime_30d": 0.8,
-        "url": "https://ollama.viktorbarzin.me"
-      },
-      {
-        "name": "[External] pdf",
-        "status": "down",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://pdf.viktorbarzin.me"
       },
       {
         "name": "[External] pb",
@@ -1693,22 +1653,6 @@
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
-        "name": "[External] ollama-api",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://ollama-api.viktorbarzin.me"
-      },
-      {
-        "name": "[External] ollama-api",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
-        "url": "https://ollama-api.viktorbarzin.me"
-      },
-      {
         "name": "[External] onlyoffice",
         "status": "up",
         "uptime_24h": 100.0,
@@ -1819,22 +1763,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://plotting-book.viktorbarzin.me"
-      },
-      {
-        "name": "[External] poison",
-        "status": "down",
-        "uptime_24h": 41.0,
-        "uptime_7d": 41.0,
-        "uptime_30d": 41.0,
-        "url": "https://poison.viktorbarzin.me"
-      },
-      {
-        "name": "[External] poison",
-        "status": "down",
-        "uptime_24h": 45.0,
-        "uptime_7d": 45.0,
-        "uptime_30d": 45.0,
-        "url": "https://poison.viktorbarzin.me"
       },
       {
         "name": "[External] priority-pass",
@@ -2365,22 +2293,6 @@
         "url": "https://traefik.viktorbarzin.me"
       },
       {
-        "name": "[External] travel",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://travel.viktorbarzin.me"
-      },
-      {
-        "name": "[External] travel",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://travel.viktorbarzin.me"
-      },
-      {
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
@@ -2611,6 +2523,14 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://beadboard.viktorbarzin.me"
+      },
+      {
+        "name": "[External] pdf",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://pdf.viktorbarzin.me"
       }
     ]
   },
