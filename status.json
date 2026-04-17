@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T08:40:50.464232+00:00",
+  "last_updated": "2026-04-17T08:45:49.518046+00:00",
   "groups": {
     "HTTP": [
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "down",
-        "uptime_24h": 24.7,
-        "uptime_7d": 77.1,
-        "uptime_30d": 76.7,
+        "uptime_24h": 24.1,
+        "uptime_7d": 77.0,
+        "uptime_30d": 76.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -430,7 +430,7 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 35.1,
-        "uptime_7d": 80.6,
+        "uptime_7d": 80.7,
         "uptime_30d": 80.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -613,9 +613,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 94.3,
-        "uptime_7d": 94.1,
-        "uptime_30d": 90.3,
+        "uptime_24h": 93.7,
+        "uptime_7d": 93.9,
+        "uptime_30d": 90.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -652,10 +652,10 @@
       },
       {
         "name": "Poison Fountain",
-        "status": "up",
-        "uptime_24h": 91.0,
-        "uptime_7d": 93.7,
-        "uptime_30d": 89.7,
+        "status": "down",
+        "uptime_24h": 90.3,
+        "uptime_7d": 93.5,
+        "uptime_30d": 89.6,
         "url": "https://poison.viktorbarzin.me"
       },
       {
@@ -784,7 +784,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -830,7 +830,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 21.4,
+        "uptime_24h": 18.5,
         "uptime_7d": 67.2,
         "uptime_30d": 60.2
       }
