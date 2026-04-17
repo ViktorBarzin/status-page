@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T20:55:20.262240+00:00",
+  "last_updated": "2026-04-17T21:00:34.777619+00:00",
   "groups": {
     "HTTP": [
       {
@@ -94,7 +94,7 @@
         "name": "Dawarich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.7,
+        "uptime_7d": 85.8,
         "uptime_30d": 85.1,
         "url": "https://dawarich.viktorbarzin.me"
       },
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.9,
+        "uptime_7d": 100.0,
         "uptime_30d": 91.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -166,7 +166,7 @@
         "name": "Vaultwarden",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 98.8,
         "url": "http://vaultwarden.vaultwarden"
       },
@@ -247,23 +247,23 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "uptime_30d": 99.9,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
       {
         "name": "Onlyoffice",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.8,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 4.4,
-        "uptime_7d": 61.5,
-        "uptime_30d": 61.4,
+        "uptime_24h": 5.0,
+        "uptime_7d": 61.6,
+        "uptime_30d": 61.5,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 84.8,
-        "uptime_30d": 84.3,
+        "uptime_30d": 84.4,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -542,7 +542,7 @@
         "name": "Matrix",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.6,
         "url": "https://matrix.viktorbarzin.me"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Prometheus",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.4,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -605,7 +605,7 @@
       {
         "name": "Woodpecker CI",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.4,
         "uptime_7d": 99.3,
         "uptime_30d": 99.0,
         "url": "https://ci.viktorbarzin.me"
@@ -614,7 +614,7 @@
         "name": "pgAdmin",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.0,
         "url": "https://pgadmin.viktorbarzin.me"
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 93.0,
+        "uptime_24h": 93.1,
         "uptime_7d": 97.5,
         "uptime_30d": 97.5
       },
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.2
+        "uptime_30d": 95.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 95.2
+        "uptime_30d": 95.3
       },
       {
         "name": "pfSense Gateway",
@@ -1743,9 +1743,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 52.9,
-        "uptime_7d": 52.9,
-        "uptime_30d": 52.9,
+        "uptime_24h": 55.6,
+        "uptime_7d": 55.6,
+        "uptime_30d": 55.6,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
