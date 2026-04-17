@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T21:05:25.061304+00:00",
+  "last_updated": "2026-04-17T21:10:29.147017+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 85.8,
-        "uptime_30d": 85.1,
+        "uptime_30d": 85.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -181,7 +181,7 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 99.4,
+        "uptime_24h": 99.5,
         "uptime_7d": 99.7,
         "uptime_30d": 89.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 5.5,
+        "uptime_24h": 6.0,
         "uptime_7d": 61.7,
-        "uptime_30d": 61.5,
+        "uptime_30d": 61.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 98.4,
         "uptime_7d": 94.9,
-        "uptime_30d": 91.8,
+        "uptime_30d": 91.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -721,7 +721,7 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 93.3,
+        "uptime_24h": 93.4,
         "uptime_7d": 97.2,
         "uptime_30d": 97.1
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 93.1,
+        "uptime_24h": 93.2,
         "uptime_7d": 97.5,
         "uptime_30d": 97.5
       },
@@ -1037,22 +1037,6 @@
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
-        "name": "[External] complaints",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://complaints.viktorbarzin.me"
-      },
-      {
-        "name": "[External] complaints-admin",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://complaints-admin.viktorbarzin.me"
-      },
-      {
         "name": "[External] dashy",
         "status": "up",
         "uptime_24h": 100.0,
@@ -1171,14 +1155,6 @@
         "uptime_7d": 99.2,
         "uptime_30d": 99.2,
         "url": "https://health.viktorbarzin.me"
-      },
-      {
-        "name": "[External] hermes-agent",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://hermes-agent.viktorbarzin.me"
       },
       {
         "name": "[External] home",
@@ -1347,14 +1323,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://openlobster.viktorbarzin.me"
-      },
-      {
-        "name": "[External] task-webhook",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://task-webhook.viktorbarzin.me"
       },
       {
         "name": "[External] owntracks",
@@ -1605,14 +1573,6 @@
         "url": "https://terminal-ro.viktorbarzin.me"
       },
       {
-        "name": "[External] torrserver",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://torrserver.viktorbarzin.me"
-      },
-      {
         "name": "[External] traefik",
         "status": "up",
         "uptime_24h": 100.0,
@@ -1677,19 +1637,11 @@
         "url": "https://webhook.viktorbarzin.me"
       },
       {
-        "name": "[External] www",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0,
-        "url": "https://www.viktorbarzin.me"
-      },
-      {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 96.8,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.8,
+        "uptime_24h": 96.9,
+        "uptime_7d": 96.9,
+        "uptime_30d": 96.9,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -1699,14 +1651,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://xray-grpc.viktorbarzin.me"
-      },
-      {
-        "name": "[External] xray-vless",
-        "status": "down",
-        "uptime_24h": 0.8,
-        "uptime_7d": 0.8,
-        "uptime_30d": 0.8,
-        "url": "https://xray-vless.viktorbarzin.me"
       },
       {
         "name": "[External] xray-ws",
@@ -1743,9 +1687,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 57.9,
-        "uptime_7d": 57.9,
-        "uptime_30d": 57.9,
+        "uptime_24h": 60.0,
+        "uptime_7d": 60.0,
+        "uptime_30d": 60.0,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
