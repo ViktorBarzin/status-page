@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T13:56:11.539468+00:00",
+  "last_updated": "2026-04-18T14:00:30.305840+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.4,
+        "uptime_30d": 84.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 79.5,
-        "uptime_7d": 64.7,
-        "uptime_30d": 58.2
+        "uptime_24h": 79.7,
+        "uptime_7d": 64.9,
+        "uptime_30d": 58.3
       }
     ],
     "External Reachability": [
@@ -1705,9 +1705,9 @@
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 96.7,
-        "uptime_7d": 96.7,
-        "uptime_30d": 96.7
+        "uptime_24h": 96.8,
+        "uptime_7d": 96.8,
+        "uptime_30d": 96.8
       }
     ]
   },
