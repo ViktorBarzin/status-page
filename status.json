@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T03:00:27.151441+00:00",
+  "last_updated": "2026-04-18T03:05:18.964741+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 80.5,
+        "uptime_30d": 80.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.7,
-        "uptime_30d": 87.7,
+        "uptime_30d": 87.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 32.0,
-        "uptime_7d": 32.3,
-        "uptime_30d": 32.8,
+        "uptime_24h": 32.3,
+        "uptime_7d": 32.6,
+        "uptime_30d": 33.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 98.8,
         "uptime_7d": 92.8,
-        "uptime_30d": 86.0,
+        "uptime_30d": 86.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -736,8 +736,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 94.3,
-        "uptime_7d": 94.1,
-        "uptime_30d": 94.1
+        "uptime_7d": 94.2,
+        "uptime_30d": 94.2
       },
       {
         "name": "PVE NFS (2049)",
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 89.1
+        "uptime_30d": 89.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 89.1
+        "uptime_30d": 89.2
       },
       {
         "name": "pfSense Gateway",
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 75.4,
-        "uptime_7d": 61.0,
-        "uptime_30d": 55.6
+        "uptime_24h": 75.8,
+        "uptime_7d": 61.3,
+        "uptime_30d": 55.7
       }
     ],
     "External Reachability": [
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 91.2,
-        "uptime_7d": 91.2,
-        "uptime_30d": 91.2,
+        "uptime_24h": 91.3,
+        "uptime_7d": 91.3,
+        "uptime_30d": 91.3,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
