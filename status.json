@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T11:30:23.186395+00:00",
+  "last_updated": "2026-04-18T11:35:19.354599+00:00",
   "groups": {
     "HTTP": [
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 90.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 63.5,
-        "uptime_7d": 51.5,
-        "uptime_30d": 51.5,
+        "uptime_24h": 63.9,
+        "uptime_7d": 51.7,
+        "uptime_30d": 51.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 76.7,
+        "uptime_30d": 76.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -598,8 +598,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 94.6,
-        "uptime_30d": 89.0,
+        "uptime_7d": 94.7,
+        "uptime_30d": 89.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 91.7
+        "uptime_30d": 91.8
       },
       {
         "name": "pfSense Gateway",
@@ -1681,9 +1681,9 @@
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 89.4,
-        "uptime_7d": 89.4,
-        "uptime_30d": 89.4
+        "uptime_24h": 90.0,
+        "uptime_7d": 90.0,
+        "uptime_30d": 90.0
       }
     ]
   },
