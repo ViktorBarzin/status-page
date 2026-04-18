@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T08:30:22.555828+00:00",
+  "last_updated": "2026-04-18T08:35:18.962686+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.1,
+        "uptime_30d": 85.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.2,
+        "uptime_30d": 83.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 82.3,
+        "uptime_30d": 82.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 51.0,
-        "uptime_7d": 46.1,
-        "uptime_30d": 46.2,
+        "uptime_24h": 51.4,
+        "uptime_7d": 46.3,
+        "uptime_30d": 46.4,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.6,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 94.4,
-        "uptime_30d": 88.3,
+        "uptime_24h": 98.6,
+        "uptime_7d": 94.1,
+        "uptime_30d": 88.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -722,7 +722,7 @@
         "name": "Mailserver SMTP",
         "status": "up",
         "uptime_24h": 95.2,
-        "uptime_7d": 95.3,
+        "uptime_7d": 95.4,
         "uptime_30d": 95.1
       },
       {
@@ -736,8 +736,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 95.0,
-        "uptime_7d": 95.3,
-        "uptime_30d": 95.3
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.4
       },
       {
         "name": "PVE NFS (2049)",
@@ -806,7 +806,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 80.3,
+        "uptime_24h": 81.3,
         "uptime_7d": 63.4,
         "uptime_30d": 57.1
       }
