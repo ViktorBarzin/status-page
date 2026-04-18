@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T15:00:26.479000+00:00",
+  "last_updated": "2026-04-18T15:05:18.761210+00:00",
   "groups": {
     "HTTP": [
       {
@@ -70,7 +70,7 @@
         "name": "Grafana",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -94,7 +94,7 @@
         "name": "Dawarich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.3,
         "url": "https://dawarich.viktorbarzin.me"
       },
@@ -119,7 +119,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://10.0.20.100:6443"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 78.1,
-        "uptime_7d": 56.6,
-        "uptime_30d": 56.5,
+        "uptime_24h": 78.5,
+        "uptime_7d": 56.7,
+        "uptime_30d": 56.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 78.1,
+        "uptime_30d": 78.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -422,7 +422,7 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://uptime.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -639,7 +639,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -680,7 +680,7 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.3
       },
       {
@@ -695,7 +695,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7
+        "uptime_30d": 99.8
       },
       {
         "name": "KMS (Windows Activation Service)",
@@ -721,7 +721,7 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 96.0,
+        "uptime_24h": 96.4,
         "uptime_7d": 96.2,
         "uptime_30d": 96.1
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 96.0,
+        "uptime_24h": 96.1,
         "uptime_7d": 96.3,
         "uptime_30d": 96.3
       },
@@ -807,8 +807,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 79.5,
-        "uptime_7d": 65.3,
-        "uptime_30d": 58.6
+        "uptime_7d": 65.5,
+        "uptime_30d": 58.7
       }
     ],
     "External Reachability": [
