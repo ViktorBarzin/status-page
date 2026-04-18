@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T10:25:19.689098+00:00",
+  "last_updated": "2026-04-18T10:30:23.587863+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 83.1,
+        "uptime_30d": 83.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 59.0,
-        "uptime_7d": 49.7,
-        "uptime_30d": 49.7,
+        "uptime_24h": 59.4,
+        "uptime_7d": 49.9,
+        "uptime_30d": 49.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -455,7 +455,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -722,8 +722,8 @@
         "name": "Mailserver SMTP",
         "status": "up",
         "uptime_24h": 95.2,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.4
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.5
       },
       {
         "name": "Mailserver IMAP",
@@ -1071,9 +1071,9 @@
       {
         "name": "[External] echo",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -1135,9 +1135,9 @@
       {
         "name": "[External] hackmd",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://hackmd.viktorbarzin.me"
       },
       {
@@ -1151,9 +1151,9 @@
       {
         "name": "[External] health",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -1423,9 +1423,9 @@
       {
         "name": "[External] music-assistant",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1680,10 +1680,10 @@
     "MySQL": [
       {
         "name": "MySQL Standalone (dbaas)",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 0.0
+        "status": "up",
+        "uptime_24h": 12.5,
+        "uptime_7d": 12.5,
+        "uptime_30d": 12.5
       }
     ]
   },
