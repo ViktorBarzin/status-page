@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T18:36:11.111942+00:00",
+  "last_updated": "2026-04-18T18:40:21.025990+00:00",
   "groups": {
     "HTTP": [
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -102,7 +102,7 @@
         "name": "authentik-server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 99.3,
         "url": "http://goauthentik-server.authentik"
       },
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 97.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 93.1
+        "uptime_30d": 93.2
       },
       {
         "name": "Valchedrym DDNS",
