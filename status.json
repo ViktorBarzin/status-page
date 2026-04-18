@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T04:50:21.366585+00:00",
+  "last_updated": "2026-04-18T04:55:18.773890+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.5,
+        "uptime_30d": 83.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.5,
+        "uptime_30d": 81.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.2,
-        "uptime_30d": 89.0,
+        "uptime_30d": 89.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 37.5,
-        "uptime_7d": 37.6,
-        "uptime_30d": 38.0,
+        "uptime_24h": 37.7,
+        "uptime_7d": 37.9,
+        "uptime_30d": 38.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -318,7 +318,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 96.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 73.5,
+        "uptime_30d": 73.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 98.2,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 89.8
+        "uptime_30d": 89.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.6,
-        "uptime_30d": 89.8
+        "uptime_30d": 89.9
       },
       {
         "name": "pfSense Gateway",
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 92.9,
-        "uptime_7d": 92.9,
-        "uptime_30d": 92.9,
+        "uptime_24h": 93.0,
+        "uptime_7d": 93.0,
+        "uptime_30d": 93.0,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
