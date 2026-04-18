@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T18:20:22.457103+00:00",
+  "last_updated": "2026-04-18T18:26:11.435370+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.5,
-        "uptime_30d": 85.6,
+        "uptime_30d": 85.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 92.0,
-        "uptime_7d": 60.5,
-        "uptime_30d": 60.4,
+        "uptime_24h": 92.7,
+        "uptime_7d": 60.7,
+        "uptime_30d": 60.5,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 79.3,
+        "uptime_30d": 79.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -526,7 +526,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 92.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -581,7 +581,7 @@
       {
         "name": "Prometheus",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.1,
         "uptime_30d": 97.4,
         "url": "https://grafana.viktorbarzin.me"
@@ -598,8 +598,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 97.6,
-        "uptime_7d": 94.9,
-        "uptime_30d": 90.0,
+        "uptime_7d": 95.0,
+        "uptime_30d": 90.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -805,10 +805,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 79.7,
-        "uptime_7d": 66.3,
-        "uptime_30d": 59.4
+        "uptime_7d": 66.5,
+        "uptime_30d": 59.5
       }
     ],
     "External Reachability": [
