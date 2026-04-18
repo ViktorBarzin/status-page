@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T00:05:20.336121+00:00",
+  "last_updated": "2026-04-18T00:10:20.984501+00:00",
   "groups": {
     "HTTP": [
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,8 +261,8 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 21.1,
-        "uptime_7d": 63.6,
+        "uptime_24h": 21.5,
+        "uptime_7d": 63.7,
         "uptime_30d": 63.5,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1639,9 +1639,9 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 97.5,
-        "uptime_7d": 97.5,
-        "uptime_30d": 97.5,
+        "uptime_24h": 97.6,
+        "uptime_7d": 97.6,
+        "uptime_30d": 97.6,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 85.7,
-        "uptime_7d": 85.7,
-        "uptime_30d": 85.7,
+        "uptime_24h": 86.0,
+        "uptime_7d": 86.0,
+        "uptime_30d": 86.0,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
