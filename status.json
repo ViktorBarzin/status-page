@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T12:30:24.871207+00:00",
+  "last_updated": "2026-04-18T12:36:11.230519+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.7,
-        "uptime_30d": 91.3,
+        "uptime_30d": 91.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.4,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 90.8,
+        "uptime_30d": 90.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 67.7,
-        "uptime_7d": 53.1,
-        "uptime_30d": 53.0,
+        "uptime_24h": 68.4,
+        "uptime_7d": 53.4,
+        "uptime_30d": 53.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -423,7 +423,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 94.8,
-        "uptime_30d": 89.3,
+        "uptime_30d": 89.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -723,7 +723,7 @@
         "status": "up",
         "uptime_24h": 95.2,
         "uptime_7d": 95.9,
-        "uptime_30d": 95.7
+        "uptime_30d": 95.8
       },
       {
         "name": "Mailserver IMAP",
@@ -773,7 +773,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.4,
         "uptime_30d": 92.0
       },
       {
@@ -1689,9 +1689,9 @@
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 94.4,
-        "uptime_7d": 94.4,
-        "uptime_30d": 94.4
+        "uptime_24h": 94.7,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.7
       }
     ]
   },
