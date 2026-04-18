@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T01:50:20.622927+00:00",
+  "last_updated": "2026-04-18T01:55:19.867563+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 98.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.9,
+        "uptime_30d": 91.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 94.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -261,7 +261,7 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 28.0,
+        "uptime_24h": 28.3,
         "uptime_7d": 64.7,
         "uptime_30d": 64.5,
         "url": "https://pdf.viktorbarzin.me"
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -721,7 +721,7 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 94.7,
+        "uptime_24h": 94.8,
         "uptime_7d": 97.4,
         "uptime_30d": 97.3
       },
@@ -734,10 +734,10 @@
       },
       {
         "name": "Mail SMTP (port 25 external)",
-        "status": "up",
-        "uptime_24h": 94.5,
-        "uptime_7d": 97.7,
-        "uptime_30d": 97.7
+        "status": "down",
+        "uptime_24h": 94.1,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.5
       },
       {
         "name": "PVE NFS (2049)",
@@ -805,10 +805,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "up",
-        "uptime_24h": 76.8,
-        "uptime_7d": 72.2,
-        "uptime_30d": 63.7
+        "status": "down",
+        "uptime_24h": 74.1,
+        "uptime_7d": 71.6,
+        "uptime_30d": 63.4
       }
     ],
     "External Reachability": [
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 89.6,
-        "uptime_7d": 89.6,
-        "uptime_30d": 89.6,
+        "uptime_24h": 89.7,
+        "uptime_7d": 89.7,
+        "uptime_30d": 89.7,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
