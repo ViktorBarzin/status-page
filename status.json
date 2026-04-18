@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T14:40:23.686895+00:00",
+  "last_updated": "2026-04-18T14:46:12.968370+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 91.8,
+        "uptime_7d": 98.8,
+        "uptime_30d": 91.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 90.9,
+        "uptime_30d": 91.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 76.7,
-        "uptime_7d": 56.2,
-        "uptime_30d": 56.0,
+        "uptime_24h": 77.4,
+        "uptime_7d": 56.4,
+        "uptime_30d": 56.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 78.0,
+        "uptime_30d": 78.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -606,7 +606,7 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.3,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -721,7 +721,7 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 95.5,
+        "uptime_24h": 95.8,
         "uptime_7d": 96.2,
         "uptime_30d": 96.0
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 95.2,
+        "uptime_24h": 95.5,
         "uptime_7d": 96.2,
         "uptime_30d": 96.2
       },
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 92.4
+        "uptime_30d": 92.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 92.4
+        "uptime_30d": 92.5
       },
       {
         "name": "pfSense Gateway",
@@ -807,8 +807,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 79.5,
-        "uptime_7d": 65.1,
-        "uptime_30d": 58.4
+        "uptime_7d": 65.3,
+        "uptime_30d": 58.6
       }
     ],
     "External Reachability": [
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 96.5,
-        "uptime_7d": 96.5,
-        "uptime_30d": 96.5,
+        "uptime_24h": 96.6,
+        "uptime_7d": 96.6,
+        "uptime_30d": 96.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
