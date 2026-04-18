@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T03:15:19.068314+00:00",
+  "last_updated": "2026-04-18T03:20:20.952013+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.7,
+        "uptime_30d": 82.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.6,
-        "uptime_30d": 79.7,
+        "uptime_30d": 79.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 87.8,
+        "uptime_30d": 87.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 32.8,
-        "uptime_7d": 33.1,
-        "uptime_30d": 33.6,
+        "uptime_24h": 33.1,
+        "uptime_7d": 33.3,
+        "uptime_30d": 33.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -318,7 +318,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 96.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 72.6,
+        "uptime_30d": 72.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -511,7 +511,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -639,7 +639,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.4,
         "uptime_7d": 94.2,
         "uptime_30d": 94.2
       },
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 89.2
+        "uptime_30d": 89.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 89.2
+        "uptime_30d": 89.3
       },
       {
         "name": "pfSense Gateway",
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 91.5,
-        "uptime_7d": 91.5,
-        "uptime_30d": 91.5,
+        "uptime_24h": 91.6,
+        "uptime_7d": 91.6,
+        "uptime_30d": 91.6,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
