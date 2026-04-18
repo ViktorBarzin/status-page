@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T08:20:21.741660+00:00",
+  "last_updated": "2026-04-18T08:25:18.868352+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.5,
-        "uptime_30d": 90.2,
+        "uptime_30d": 90.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 50.3,
-        "uptime_7d": 45.8,
-        "uptime_30d": 45.9,
+        "uptime_24h": 50.7,
+        "uptime_7d": 46.0,
+        "uptime_30d": 46.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 75.3,
+        "uptime_30d": 75.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 90.5,
+        "uptime_30d": 90.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 96.4,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -598,15 +598,15 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 94.3,
-        "uptime_30d": 88.2,
+        "uptime_7d": 94.4,
+        "uptime_30d": 88.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 97.9,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 90.9
+        "uptime_30d": 91.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 90.9
+        "uptime_30d": 91.0
       },
       {
         "name": "pfSense Gateway",
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 80.0,
-        "uptime_7d": 63.2,
-        "uptime_30d": 56.9
+        "uptime_24h": 80.3,
+        "uptime_7d": 63.4,
+        "uptime_30d": 57.1
       }
     ],
     "External Reachability": [
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 94.8,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.8,
+        "uptime_24h": 94.9,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.9,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
