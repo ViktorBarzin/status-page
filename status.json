@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T23:30:23.558085+00:00",
+  "last_updated": "2026-04-18T23:35:19.559803+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 93.3,
+        "uptime_30d": 93.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 65.4,
+        "uptime_7d": 65.5,
         "uptime_30d": 65.2,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 93.5,
+        "uptime_30d": 93.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 98.4,
+        "uptime_24h": 98.6,
+        "uptime_7d": 99.0,
+        "uptime_30d": 98.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 93.8
+        "uptime_30d": 93.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 75.9,
-        "uptime_7d": 66.8,
-        "uptime_30d": 60.1
+        "uptime_24h": 76.2,
+        "uptime_7d": 67.0,
+        "uptime_30d": 60.2
       }
     ],
     "External Reachability": [
