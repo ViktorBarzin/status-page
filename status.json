@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T16:10:23.433172+00:00",
+  "last_updated": "2026-04-18T16:16:11.047533+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 85.1,
+        "uptime_30d": 85.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 83.0,
-        "uptime_7d": 58.1,
-        "uptime_30d": 57.9,
+        "uptime_24h": 83.7,
+        "uptime_7d": 58.3,
+        "uptime_30d": 58.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -526,7 +526,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 92.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 98.5,
+        "uptime_24h": 98.8,
         "uptime_7d": 96.4,
         "uptime_30d": 96.4
       },
@@ -753,7 +753,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 92.5
+        "uptime_30d": 92.6
       },
       {
         "name": "Valchedrym Video System",
