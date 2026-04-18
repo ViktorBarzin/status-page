@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T07:00:25.688572+00:00",
+  "last_updated": "2026-04-18T07:05:19.176380+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.5,
+        "uptime_30d": 84.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 44.8,
-        "uptime_7d": 43.0,
-        "uptime_30d": 43.1,
+        "uptime_24h": 45.1,
+        "uptime_7d": 43.1,
+        "uptime_30d": 43.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -723,7 +723,7 @@
         "status": "up",
         "uptime_24h": 95.2,
         "uptime_7d": 95.1,
-        "uptime_30d": 94.8
+        "uptime_30d": 94.9
       },
       {
         "name": "Mailserver IMAP",
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 90.5
+        "uptime_30d": 90.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 90.5
+        "uptime_30d": 90.6
       },
       {
         "name": "pfSense Gateway",
@@ -805,10 +805,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
-        "uptime_24h": 75.7,
-        "uptime_7d": 62.2,
-        "uptime_30d": 56.3
+        "status": "up",
+        "uptime_24h": 77.0,
+        "uptime_7d": 62.4,
+        "uptime_30d": 56.5
       }
     ],
     "External Reachability": [
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 94.2,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2,
+        "uptime_24h": 94.3,
+        "uptime_7d": 94.3,
+        "uptime_30d": 94.3,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
