@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T11:40:23.849739+00:00",
+  "last_updated": "2026-04-18T11:45:19.693460+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 83.6,
+        "uptime_30d": 83.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.6,
-        "uptime_30d": 91.1,
+        "uptime_30d": 91.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 64.2,
-        "uptime_7d": 51.8,
-        "uptime_30d": 51.8,
+        "uptime_24h": 64.6,
+        "uptime_7d": 51.9,
+        "uptime_30d": 51.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -318,7 +318,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 97.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -736,8 +736,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 95.0,
-        "uptime_7d": 95.8,
-        "uptime_30d": 95.8
+        "uptime_7d": 95.9,
+        "uptime_30d": 95.9
       },
       {
         "name": "PVE NFS (2049)",
@@ -807,8 +807,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 81.8,
-        "uptime_7d": 64.2,
-        "uptime_30d": 57.7
+        "uptime_7d": 64.4,
+        "uptime_30d": 57.9
       }
     ],
     "External Reachability": [
@@ -1675,15 +1675,23 @@
         "uptime_7d": 95.9,
         "uptime_30d": 95.9,
         "url": "https://pdf.viktorbarzin.me"
+      },
+      {
+        "name": "[External] family",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://family.viktorbarzin.me"
       }
     ],
     "MySQL": [
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 90.8,
-        "uptime_7d": 90.8,
-        "uptime_30d": 90.8
+        "uptime_24h": 91.2,
+        "uptime_7d": 91.2,
+        "uptime_30d": 91.2
       }
     ]
   },
