@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T08:15:19.740918+00:00",
+  "last_updated": "2026-04-18T08:20:21.741660+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.0,
+        "uptime_30d": 85.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.1,
+        "uptime_30d": 83.2,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 82.2,
+        "uptime_30d": 82.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 90.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 89.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 50.0,
-        "uptime_7d": 45.6,
-        "uptime_30d": 45.7,
+        "uptime_24h": 50.3,
+        "uptime_7d": 45.8,
+        "uptime_30d": 45.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
