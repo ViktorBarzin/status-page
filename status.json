@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T09:20:21.327843+00:00",
+  "last_updated": "2026-04-18T09:25:19.311318+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.2,
-        "uptime_30d": 89.5,
+        "uptime_30d": 89.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 54.5,
-        "uptime_7d": 47.7,
-        "uptime_30d": 47.8,
+        "uptime_24h": 54.9,
+        "uptime_7d": 47.9,
+        "uptime_30d": 48.0,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -805,10 +805,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
-        "uptime_24h": 80.3,
-        "uptime_7d": 62.6,
-        "uptime_30d": 56.7
+        "status": "up",
+        "uptime_24h": 80.5,
+        "uptime_7d": 62.8,
+        "uptime_30d": 56.8
       }
     ],
     "External Reachability": [
