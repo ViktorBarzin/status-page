@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T12:50:20.864307+00:00",
+  "last_updated": "2026-04-18T12:56:11.097935+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.0,
+        "uptime_30d": 84.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 90.9,
+        "uptime_30d": 91.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 69.1,
-        "uptime_7d": 53.6,
-        "uptime_30d": 53.5,
+        "uptime_24h": 69.8,
+        "uptime_7d": 53.8,
+        "uptime_30d": 53.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 77.3,
+        "uptime_30d": 77.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 94.9,
-        "uptime_30d": 89.4,
+        "uptime_30d": 89.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -759,7 +759,7 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 92.1
       },
       {
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 92.0
+        "uptime_30d": 92.1
       },
       {
         "name": "pfSense Gateway",
@@ -805,10 +805,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "up",
-        "uptime_24h": 81.6,
-        "uptime_7d": 64.8,
-        "uptime_30d": 58.1
+        "status": "down",
+        "uptime_24h": 79.5,
+        "uptime_7d": 64.1,
+        "uptime_30d": 57.8
       }
     ],
     "External Reachability": [
@@ -1683,15 +1683,31 @@
         "uptime_7d": 0.0,
         "uptime_30d": 0.0,
         "url": "https://family.viktorbarzin.me"
+      },
+      {
+        "name": "[External] torrserver",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://torrserver.viktorbarzin.me"
+      },
+      {
+        "name": "[External] travel",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://travel.viktorbarzin.me"
       }
     ],
     "MySQL": [
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 95.2,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2
+        "uptime_24h": 95.4,
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.4
       }
     ]
   },
