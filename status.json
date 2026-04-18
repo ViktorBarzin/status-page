@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T05:20:20.985020+00:00",
+  "last_updated": "2026-04-18T05:25:19.172414+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.6,
-        "uptime_30d": 80.8,
+        "uptime_30d": 80.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 98.3,
-        "uptime_30d": 89.2,
+        "uptime_30d": 89.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -230,7 +230,7 @@
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.9,
+        "uptime_7d": 98.0,
         "uptime_30d": 88.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -255,15 +255,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 38.8,
-        "uptime_7d": 38.9,
-        "uptime_30d": 39.2,
+        "uptime_24h": 39.0,
+        "uptime_7d": 39.2,
+        "uptime_30d": 39.5,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 73.8,
+        "uptime_30d": 73.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -511,7 +511,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -639,7 +639,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 94.8,
+        "uptime_24h": 94.9,
         "uptime_7d": 94.7,
         "uptime_30d": 94.7
       },
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 75.4,
-        "uptime_7d": 62.0,
-        "uptime_30d": 56.1
+        "uptime_24h": 75.7,
+        "uptime_7d": 62.2,
+        "uptime_30d": 56.3
       }
     ],
     "External Reachability": [
