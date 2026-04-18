@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T03:25:19.658101+00:00",
+  "last_updated": "2026-04-18T03:30:20.697326+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.8,
+        "uptime_30d": 82.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.6,
-        "uptime_30d": 79.8,
+        "uptime_30d": 79.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 99.2,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 87.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 33.3,
-        "uptime_7d": 33.6,
-        "uptime_30d": 34.1,
+        "uptime_24h": 33.6,
+        "uptime_7d": 33.8,
+        "uptime_30d": 34.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 72.7,
+        "uptime_30d": 72.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 98.8,
+        "uptime_24h": 98.9,
         "uptime_7d": 93.2,
-        "uptime_30d": 86.2,
+        "uptime_30d": 86.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -736,8 +736,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 94.4,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2
+        "uptime_7d": 94.3,
+        "uptime_30d": 94.3
       },
       {
         "name": "PVE NFS (2049)",
@@ -1671,9 +1671,9 @@
       {
         "name": "[External] pdf",
         "status": "up",
-        "uptime_24h": 91.7,
-        "uptime_7d": 91.7,
-        "uptime_30d": 91.7,
+        "uptime_24h": 91.8,
+        "uptime_7d": 91.8,
+        "uptime_30d": 91.8,
         "url": "https://pdf.viktorbarzin.me"
       }
     ]
