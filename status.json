@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T12:25:19.222320+00:00",
+  "last_updated": "2026-04-18T12:30:24.871207+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.5,
+        "uptime_30d": 86.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.7,
+        "uptime_30d": 84.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 83.9,
+        "uptime_30d": 84.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 67.4,
-        "uptime_7d": 53.0,
-        "uptime_30d": 52.9,
+        "uptime_24h": 67.7,
+        "uptime_7d": 53.1,
+        "uptime_30d": 53.0,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 77.1,
+        "uptime_30d": 77.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -736,8 +736,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 95.0,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0
       },
       {
         "name": "PVE NFS (2049)",
@@ -1689,9 +1689,9 @@
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 94.2,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2
+        "uptime_24h": 94.4,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4
       }
     ]
   },
