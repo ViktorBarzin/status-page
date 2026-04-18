@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T11:45:19.693460+00:00",
+  "last_updated": "2026-04-18T11:50:21.529770+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.3,
+        "uptime_30d": 86.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 64.6,
-        "uptime_7d": 51.9,
-        "uptime_30d": 51.9,
+        "uptime_24h": 64.9,
+        "uptime_7d": 52.1,
+        "uptime_30d": 52.0,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 76.8,
+        "uptime_30d": 76.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -723,7 +723,7 @@
         "status": "up",
         "uptime_24h": 95.2,
         "uptime_7d": 95.8,
-        "uptime_30d": 95.6
+        "uptime_30d": 95.7
       },
       {
         "name": "Mailserver IMAP",
@@ -1689,9 +1689,9 @@
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 91.2,
-        "uptime_7d": 91.2,
-        "uptime_30d": 91.2
+        "uptime_24h": 91.8,
+        "uptime_7d": 91.8,
+        "uptime_30d": 91.8
       }
     ]
   },
