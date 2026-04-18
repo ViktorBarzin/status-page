@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T16:00:27.769076+00:00",
+  "last_updated": "2026-04-18T16:06:10.800955+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.6,
+        "uptime_30d": 87.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -261,9 +261,9 @@
       {
         "name": "Paperless-ngx",
         "status": "up",
-        "uptime_24h": 82.3,
-        "uptime_7d": 57.9,
-        "uptime_30d": 57.7,
+        "uptime_24h": 83.0,
+        "uptime_7d": 58.1,
+        "uptime_30d": 57.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 78.5,
+        "uptime_30d": 78.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 92.3,
+        "uptime_30d": 92.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -722,7 +722,7 @@
         "name": "Mailserver SMTP",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 96.3,
+        "uptime_7d": 96.4,
         "uptime_30d": 96.2
       },
       {
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.4,
         "uptime_7d": 96.4,
         "uptime_30d": 96.4
       },
@@ -807,8 +807,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 79.5,
-        "uptime_7d": 65.9,
-        "uptime_30d": 59.0
+        "uptime_7d": 66.1,
+        "uptime_30d": 59.1
       }
     ],
     "External Reachability": [
