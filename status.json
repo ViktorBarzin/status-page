@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T12:56:11.097935+00:00",
+  "last_updated": "2026-04-18T13:00:26.643170+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.7,
+        "uptime_30d": 86.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.9,
+        "uptime_30d": 85.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -1705,9 +1705,9 @@
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 95.4,
-        "uptime_7d": 95.4,
-        "uptime_30d": 95.4
+        "uptime_24h": 95.5,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.5
       }
     ]
   },
