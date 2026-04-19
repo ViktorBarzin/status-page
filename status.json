@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T15:40:30.521729+00:00",
+  "last_updated": "2026-04-19T15:45:22.522150+00:00",
   "groups": {
     "HTTP": [
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 78.7,
         "uptime_7d": 84.7,
-        "uptime_30d": 81.0,
+        "uptime_30d": 81.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.0,
         "uptime_7d": 84.8,
-        "uptime_30d": 81.2,
+        "uptime_30d": 81.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,25 +661,25 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 96.4,
-        "uptime_7d": 96.4,
-        "uptime_30d": 96.4,
+        "uptime_24h": 96.5,
+        "uptime_7d": 96.5,
+        "uptime_30d": 96.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 92.0,
-        "uptime_7d": 92.0,
-        "uptime_30d": 92.0,
+        "uptime_24h": 92.3,
+        "uptime_7d": 92.3,
+        "uptime_30d": 92.3,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 98.2,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.3,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 89.3,
         "uptime_7d": 92.3,
-        "uptime_30d": 87.4
+        "uptime_30d": 87.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 90.1,
+        "uptime_24h": 90.2,
         "uptime_7d": 92.5,
         "uptime_30d": 87.9
       },
@@ -812,16 +812,16 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 95.6,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.0
+        "uptime_24h": 94.2,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.0
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 88.0,
+        "uptime_24h": 87.8,
         "uptime_7d": 78.4,
         "uptime_30d": 65.4
       }
@@ -1407,8 +1407,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 88.9,
-        "uptime_7d": 92.6,
-        "uptime_30d": 92.6,
+        "uptime_7d": 92.7,
+        "uptime_30d": 92.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
