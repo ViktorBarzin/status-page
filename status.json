@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T08:30:23.803921+00:00",
+  "last_updated": "2026-04-19T08:35:18.790024+00:00",
   "groups": {
     "HTTP": [
       {
@@ -205,9 +205,9 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 97.6,
-        "uptime_7d": 97.1,
-        "uptime_30d": 90.0,
+        "uptime_24h": 97.3,
+        "uptime_7d": 96.8,
+        "uptime_30d": 89.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -316,7 +316,7 @@
       },
       {
         "name": "ha-london",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 95.3,
         "uptime_30d": 94.9,
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 77.0,
+        "uptime_30d": 77.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -526,8 +526,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 93.6,
-        "uptime_7d": 93.2,
-        "uptime_30d": 87.4,
+        "uptime_7d": 93.3,
+        "uptime_30d": 87.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 61.7,
-        "uptime_7d": 69.5,
-        "uptime_30d": 69.0,
+        "uptime_24h": 61.4,
+        "uptime_7d": 69.3,
+        "uptime_30d": 68.8,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -596,10 +596,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
+        "status": "down",
         "uptime_24h": 90.5,
-        "uptime_7d": 89.1,
-        "uptime_30d": 84.2,
+        "uptime_7d": 88.9,
+        "uptime_30d": 84.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -758,9 +758,9 @@
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 96.8,
-        "uptime_30d": 90.2
+        "uptime_24h": 96.9,
+        "uptime_7d": 96.6,
+        "uptime_30d": 90.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -1382,7 +1382,7 @@
       },
       {
         "name": "[External] ha-london",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 95.0,
         "uptime_7d": 96.0,
         "uptime_30d": 96.0,
@@ -1462,10 +1462,10 @@
       },
       {
         "name": "[External] registry",
-        "status": "up",
-        "uptime_24h": 94.3,
-        "uptime_7d": 95.5,
-        "uptime_30d": 95.5,
+        "status": "down",
+        "uptime_24h": 93.1,
+        "uptime_7d": 94.5,
+        "uptime_30d": 94.5,
         "url": "https://registry.viktorbarzin.me"
       },
       {
