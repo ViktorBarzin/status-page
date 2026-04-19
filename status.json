@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T18:06:14.845339+00:00",
+  "last_updated": "2026-04-19T18:10:24.521947+00:00",
   "groups": {
     "HTTP": [
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.0,
         "uptime_7d": 85.6,
-        "uptime_30d": 82.1,
+        "uptime_30d": 82.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,17 +661,17 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 98.2,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 96.1,
-        "uptime_7d": 96.1,
-        "uptime_30d": 96.1,
+        "uptime_24h": 96.2,
+        "uptime_7d": 96.2,
+        "uptime_30d": 96.2,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.5,
+        "uptime_24h": 89.6,
         "uptime_7d": 92.5,
         "uptime_30d": 88.2
       },
@@ -812,9 +812,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 93.5,
+        "uptime_24h": 93.6,
         "uptime_7d": 94.9,
-        "uptime_30d": 94.6
+        "uptime_30d": 94.7
       }
     ],
     "Push": [
