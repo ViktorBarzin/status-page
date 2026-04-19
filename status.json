@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T04:46:10.710605+00:00",
+  "last_updated": "2026-04-19T04:50:21.859928+00:00",
   "groups": {
     "HTTP": [
       {
@@ -47,7 +47,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 77.2,
-        "uptime_7d": 79.2,
-        "uptime_30d": 78.4,
+        "uptime_24h": 76.9,
+        "uptime_7d": 78.9,
+        "uptime_30d": 78.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 97.9,
-        "uptime_30d": 90.7
+        "uptime_30d": 90.8
       },
       {
         "name": "pfSense Gateway",
