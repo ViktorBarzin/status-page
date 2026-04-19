@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T07:40:21.911048+00:00",
+  "last_updated": "2026-04-19T07:46:10.646230+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.2,
+        "uptime_30d": 86.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,15 +207,15 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 97.5,
-        "uptime_30d": 90.2,
+        "uptime_30d": 90.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
-        "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 98.4,
-        "uptime_30d": 90.2,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 98.1,
+        "uptime_30d": 90.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -228,9 +228,9 @@
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 89.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 76.7,
+        "uptime_30d": 76.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -525,9 +525,9 @@
       {
         "name": "Music Assistant",
         "status": "down",
-        "uptime_24h": 95.3,
-        "uptime_7d": 94.4,
-        "uptime_30d": 88.3,
+        "uptime_24h": 94.9,
+        "uptime_7d": 94.1,
+        "uptime_30d": 88.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 65.2,
-        "uptime_7d": 71.4,
-        "uptime_30d": 70.9,
+        "uptime_24h": 64.8,
+        "uptime_7d": 71.2,
+        "uptime_30d": 70.7,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -596,10 +596,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 93.4,
-        "uptime_7d": 91.0,
-        "uptime_30d": 85.7,
+        "status": "down",
+        "uptime_24h": 92.4,
+        "uptime_7d": 90.3,
+        "uptime_30d": 85.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -751,13 +751,13 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 96.6,
-        "uptime_7d": 95.7,
-        "uptime_30d": 89.3
+        "uptime_24h": 96.2,
+        "uptime_7d": 95.4,
+        "uptime_30d": 89.1
       },
       {
         "name": "Valchedrym Video System",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 97.0,
         "uptime_30d": 90.2
@@ -807,8 +807,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 82.7,
-        "uptime_7d": 73.4,
-        "uptime_30d": 62.2
+        "uptime_7d": 73.5,
+        "uptime_30d": 62.4
       }
     ],
     "External Reachability": [
@@ -1383,9 +1383,9 @@
       {
         "name": "[External] ha-london",
         "status": "up",
-        "uptime_24h": 98.0,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_24h": 97.6,
+        "uptime_7d": 98.1,
+        "uptime_30d": 98.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1422,10 +1422,10 @@
       },
       {
         "name": "[External] music-assistant",
-        "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.2,
+        "status": "down",
+        "uptime_24h": 96.3,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1463,9 +1463,9 @@
       {
         "name": "[External] registry",
         "status": "up",
-        "uptime_24h": 95.6,
-        "uptime_7d": 96.4,
-        "uptime_30d": 96.4,
+        "uptime_24h": 95.3,
+        "uptime_7d": 96.2,
+        "uptime_30d": 96.2,
         "url": "https://registry.viktorbarzin.me"
       },
       {
