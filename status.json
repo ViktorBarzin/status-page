@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T18:25:19.428173+00:00",
+  "last_updated": "2026-04-19T18:30:31.629874+00:00",
   "groups": {
     "HTTP": [
       {
@@ -70,7 +70,7 @@
         "name": "Grafana",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.6,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.5,
+        "uptime_30d": 87.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 90.8,
         "uptime_7d": 93.6,
-        "uptime_30d": 87.9,
+        "uptime_30d": 88.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 78.7,
-        "uptime_7d": 85.6,
+        "uptime_7d": 85.7,
         "uptime_30d": 82.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.6,
+        "uptime_24h": 89.5,
         "uptime_7d": 92.6,
         "uptime_30d": 88.3
       },
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 93.7,
+        "uptime_24h": 93.8,
         "uptime_7d": 95.0,
         "uptime_30d": 94.8
       }
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 92.5,
+        "uptime_24h": 92.6,
         "uptime_7d": 95.5,
         "uptime_30d": 95.5,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 87.3,
-        "uptime_7d": 92.1,
-        "uptime_30d": 92.1,
+        "uptime_7d": 92.2,
+        "uptime_30d": 92.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
