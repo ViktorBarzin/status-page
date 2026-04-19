@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T10:10:21.589947+00:00",
+  "last_updated": "2026-04-19T10:15:19.325157+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.2,
+        "uptime_30d": 85.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.4,
+        "uptime_30d": 84.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -228,10 +228,10 @@
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 95.8,
-        "uptime_30d": 89.0,
+        "status": "down",
+        "uptime_24h": 95.9,
+        "uptime_7d": 95.5,
+        "uptime_30d": 88.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -317,9 +317,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 94.9,
-        "uptime_7d": 94.4,
-        "uptime_30d": 93.9,
+        "uptime_24h": 94.3,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -526,7 +526,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 89.2,
-        "uptime_7d": 90.3,
+        "uptime_7d": 90.4,
         "uptime_30d": 85.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 54.8,
-        "uptime_7d": 65.9,
-        "uptime_30d": 65.5,
+        "uptime_24h": 54.5,
+        "uptime_7d": 65.7,
+        "uptime_30d": 65.3,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -598,7 +598,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 89.3,
-        "uptime_7d": 88.5,
+        "uptime_7d": 88.6,
         "uptime_30d": 84.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -753,14 +753,14 @@
         "status": "up",
         "uptime_24h": 92.3,
         "uptime_7d": 92.9,
-        "uptime_30d": 87.3
+        "uptime_30d": 87.4
       },
       {
         "name": "Valchedrym Video System",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 94.0,
         "uptime_7d": 94.6,
-        "uptime_30d": 88.6
+        "uptime_30d": 88.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -912,8 +912,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 98.4,
-        "uptime_30d": 98.4,
+        "uptime_7d": 98.5,
+        "uptime_30d": 98.5,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1463,9 +1463,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 89.3,
-        "uptime_7d": 91.8,
-        "uptime_30d": 91.8,
+        "uptime_24h": 88.6,
+        "uptime_7d": 91.4,
+        "uptime_30d": 91.4,
         "url": "https://registry.viktorbarzin.me"
       },
       {
