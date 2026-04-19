@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T01:15:19.015343+00:00",
+  "last_updated": "2026-04-19T01:20:21.479580+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.7,
+        "uptime_30d": 89.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 93.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 66.8,
-        "uptime_30d": 66.5,
+        "uptime_7d": 66.9,
+        "uptime_30d": 66.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 91.7,
-        "uptime_7d": 95.2,
-        "uptime_30d": 94.5,
+        "uptime_24h": 91.4,
+        "uptime_7d": 95.0,
+        "uptime_30d": 94.4,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
