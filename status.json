@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T17:55:18.870974+00:00",
+  "last_updated": "2026-04-19T18:00:31.459806+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 93.3,
-        "uptime_7d": 95.1,
+        "uptime_7d": 95.2,
         "uptime_30d": 89.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.0,
-        "uptime_7d": 85.5,
+        "uptime_7d": 85.6,
         "uptime_30d": 82.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.6,
+        "uptime_24h": 89.5,
         "uptime_7d": 92.5,
-        "uptime_30d": 88.1
+        "uptime_30d": 88.2
       },
       {
         "name": "pfSense Gateway",
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 93.4,
+        "uptime_24h": 93.5,
         "uptime_7d": 94.8,
         "uptime_30d": 94.6
       }
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 87.8,
-        "uptime_7d": 79.1,
-        "uptime_30d": 66.1
+        "uptime_24h": 88.0,
+        "uptime_7d": 79.2,
+        "uptime_30d": 66.2
       }
     ],
     "External Reachability": [
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 92.5,
+        "uptime_24h": 92.6,
         "uptime_7d": 95.5,
         "uptime_30d": 95.5,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1399,16 +1399,16 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 87.3,
-        "uptime_7d": 92.0,
-        "uptime_30d": 92.0,
+        "uptime_7d": 92.1,
+        "uptime_30d": 92.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 88.9,
-        "uptime_7d": 93.0,
-        "uptime_30d": 93.0,
+        "uptime_7d": 93.1,
+        "uptime_30d": 93.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 80.2,
-        "uptime_7d": 87.4,
-        "uptime_30d": 87.4,
+        "uptime_7d": 87.5,
+        "uptime_30d": 87.5,
         "url": "https://registry.viktorbarzin.me"
       },
       {
