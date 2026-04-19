@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T16:30:30.976884+00:00",
+  "last_updated": "2026-04-19T16:35:18.943299+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 91.2,
-        "uptime_7d": 94.0,
-        "uptime_30d": 92.2,
+        "uptime_7d": 94.1,
+        "uptime_30d": 92.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 90.8,
         "uptime_7d": 93.3,
-        "uptime_30d": 87.4,
+        "uptime_30d": 87.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -661,17 +661,17 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_24h": 97.4,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 94.1,
-        "uptime_7d": 94.1,
-        "uptime_30d": 94.1,
+        "uptime_24h": 94.3,
+        "uptime_7d": 94.3,
+        "uptime_30d": 94.3,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -767,8 +767,8 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 85.4,
-        "uptime_7d": 89.6,
-        "uptime_30d": 85.3
+        "uptime_7d": 89.7,
+        "uptime_30d": 85.4
       },
       {
         "name": "Valchedrym Video System",
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 90.1,
+        "uptime_24h": 90.2,
         "uptime_7d": 92.6,
         "uptime_30d": 88.1
       },
@@ -812,9 +812,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 92.4,
+        "uptime_24h": 92.5,
         "uptime_7d": 94.1,
-        "uptime_30d": 93.8
+        "uptime_30d": 93.9
       }
     ],
     "Push": [
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 92.5,
         "uptime_7d": 95.3,
         "uptime_30d": 95.3,
         "url": "https://nextcloud.viktorbarzin.me"
