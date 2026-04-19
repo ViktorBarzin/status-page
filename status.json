@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T00:15:21.051600+00:00",
+  "last_updated": "2026-04-19T00:20:22.578161+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.5,
+        "uptime_30d": 89.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.6,
-        "uptime_30d": 87.1,
+        "uptime_30d": 87.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -231,7 +231,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 66.0,
+        "uptime_7d": 66.1,
         "uptime_30d": 65.8,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.6,
+        "uptime_30d": 93.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 95.9,
-        "uptime_7d": 97.5,
-        "uptime_30d": 96.7,
+        "uptime_24h": 95.5,
+        "uptime_7d": 97.3,
+        "uptime_30d": 96.5,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -752,7 +752,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 93.8
       },
       {
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 93.9
+        "uptime_30d": 94.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -797,9 +797,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.0
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.2,
+        "uptime_30d": 98.8
       }
     ],
     "Push": [
