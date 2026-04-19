@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T20:10:24.047833+00:00",
+  "last_updated": "2026-04-19T20:15:19.829717+00:00",
   "groups": {
     "HTTP": [
       {
@@ -436,10 +436,10 @@
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "up",
-        "uptime_24h": 99.9,
-        "uptime_7d": 99.9,
-        "uptime_30d": 99.7,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.0,
-        "uptime_7d": 86.3,
+        "uptime_7d": 86.4,
         "uptime_30d": 82.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 94.6,
-        "uptime_7d": 95.6,
+        "uptime_7d": 95.7,
         "uptime_30d": 95.4
       }
     ],
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 92.5,
         "uptime_7d": 95.7,
         "uptime_30d": 95.7,
         "url": "https://nextcloud.viktorbarzin.me"
