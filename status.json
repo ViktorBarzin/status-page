@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T15:56:13.425919+00:00",
+  "last_updated": "2026-04-19T16:00:30.200275+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 88.9,
         "uptime_7d": 91.4,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.0,
         "uptime_7d": 84.9,
-        "uptime_30d": 81.3,
+        "uptime_30d": 81.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 92.9,
-        "uptime_7d": 92.9,
-        "uptime_30d": 92.9,
+        "uptime_24h": 93.0,
+        "uptime_7d": 93.0,
+        "uptime_30d": 93.0,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -744,8 +744,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0
       },
       {
         "name": "PVE NFS (2049)",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 85.4,
         "uptime_7d": 89.5,
-        "uptime_30d": 85.1
+        "uptime_30d": 85.2
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 90.1,
         "uptime_7d": 92.5,
-        "uptime_30d": 87.9
+        "uptime_30d": 88.0
       },
       {
         "name": "pfSense Gateway",
@@ -811,19 +811,19 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "up",
-        "uptime_24h": 93.3,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.5
+        "status": "down",
+        "uptime_24h": 92.5,
+        "uptime_7d": 94.1,
+        "uptime_30d": 93.8
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 87.8,
-        "uptime_7d": 78.4,
-        "uptime_30d": 65.4
+        "uptime_24h": 88.0,
+        "uptime_7d": 78.5,
+        "uptime_30d": 65.5
       }
     ],
     "External Reachability": [
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 87.3,
-        "uptime_7d": 91.6,
-        "uptime_30d": 91.6,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1478,7 +1478,7 @@
       {
         "name": "[External] registry",
         "status": "up",
-        "uptime_24h": 80.5,
+        "uptime_24h": 80.4,
         "uptime_7d": 87.0,
         "uptime_30d": 87.0,
         "url": "https://registry.viktorbarzin.me"
