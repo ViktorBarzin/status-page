@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T10:15:19.325157+00:00",
+  "last_updated": "2026-04-19T10:20:23.429026+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -228,7 +228,7 @@
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 95.5,
         "uptime_30d": 88.8,
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 77.7,
+        "uptime_30d": 77.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -525,9 +525,9 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 89.2,
-        "uptime_7d": 90.4,
-        "uptime_30d": 85.3,
+        "uptime_24h": 88.6,
+        "uptime_7d": 90.0,
+        "uptime_30d": 85.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 54.5,
-        "uptime_7d": 65.7,
-        "uptime_30d": 65.3,
+        "uptime_24h": 54.1,
+        "uptime_7d": 65.6,
+        "uptime_30d": 65.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -596,10 +596,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 89.3,
-        "uptime_7d": 88.6,
-        "uptime_30d": 84.0,
+        "status": "down",
+        "uptime_24h": 89.0,
+        "uptime_7d": 88.4,
+        "uptime_30d": 83.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -772,9 +772,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 95.8,
-        "uptime_30d": 90.0
+        "uptime_24h": 95.9,
+        "uptime_7d": 95.5,
+        "uptime_30d": 89.8
       },
       {
         "name": "pfSense Gateway",
@@ -1384,8 +1384,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 93.0,
-        "uptime_7d": 94.7,
-        "uptime_30d": 94.7,
+        "uptime_7d": 94.8,
+        "uptime_30d": 94.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1423,9 +1423,9 @@
       {
         "name": "[External] music-assistant",
         "status": "up",
-        "uptime_24h": 92.4,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2,
+        "uptime_24h": 92.1,
+        "uptime_7d": 94.0,
+        "uptime_30d": 94.0,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1462,7 +1462,7 @@
       },
       {
         "name": "[External] registry",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 88.6,
         "uptime_7d": 91.4,
         "uptime_30d": 91.4,
