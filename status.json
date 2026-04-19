@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T01:56:09.841267+00:00",
+  "last_updated": "2026-04-19T02:00:30.843591+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 67.4,
-        "uptime_30d": 67.1,
+        "uptime_30d": 67.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 89.0,
-        "uptime_7d": 93.8,
-        "uptime_30d": 93.1,
+        "uptime_24h": 88.6,
+        "uptime_7d": 93.6,
+        "uptime_30d": 92.9,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -721,7 +721,7 @@
       {
         "name": "Mailserver SMTP",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 97.0,
         "uptime_30d": 96.9
       },
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 99.6,
+        "uptime_24h": 99.7,
         "uptime_7d": 97.0,
         "uptime_30d": 97.0
       },
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 94.1
+        "uptime_30d": 94.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 78.3,
-        "uptime_7d": 67.3,
-        "uptime_30d": 60.6
+        "uptime_24h": 78.6,
+        "uptime_7d": 67.4,
+        "uptime_30d": 60.7
       }
     ],
     "External Reachability": [
@@ -1705,9 +1705,9 @@
       {
         "name": "MySQL Standalone (dbaas)",
         "status": "up",
-        "uptime_24h": 99.2,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3
       }
     ]
   },
