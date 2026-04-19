@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T13:10:24.506931+00:00",
+  "last_updated": "2026-04-19T13:16:12.970396+00:00",
   "groups": {
     "HTTP": [
       {
@@ -212,7 +212,7 @@
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 93.8,
         "uptime_7d": 94.7,
         "uptime_30d": 88.2,
@@ -316,10 +316,10 @@
       },
       {
         "name": "ha-london",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 90.8,
-        "uptime_7d": 92.0,
-        "uptime_30d": 91.6,
+        "uptime_7d": 92.1,
+        "uptime_30d": 91.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 78.8,
+        "uptime_30d": 78.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -525,9 +525,9 @@
       {
         "name": "Music Assistant",
         "status": "down",
-        "uptime_24h": 84.5,
-        "uptime_7d": 87.9,
-        "uptime_30d": 83.5,
+        "uptime_24h": 83.9,
+        "uptime_7d": 87.5,
+        "uptime_30d": 83.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -588,10 +588,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 84.3,
-        "uptime_7d": 86.1,
-        "uptime_30d": 82.2,
+        "status": "down",
+        "uptime_24h": 83.4,
+        "uptime_7d": 85.6,
+        "uptime_30d": 81.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -744,8 +744,8 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 88.5,
-        "uptime_7d": 90.8,
-        "uptime_30d": 86.0
+        "uptime_7d": 90.9,
+        "uptime_30d": 86.1
       },
       {
         "name": "Valchedrym Video System",
@@ -766,7 +766,7 @@
         "status": "up",
         "uptime_24h": 92.3,
         "uptime_7d": 93.5,
-        "uptime_30d": 88.4
+        "uptime_30d": 88.5
       },
       {
         "name": "pfSense Gateway",
@@ -788,10 +788,10 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 97.2,
-        "uptime_30d": 96.8
+        "status": "down",
+        "uptime_24h": 95.6,
+        "uptime_7d": 96.3,
+        "uptime_30d": 95.9
       }
     ],
     "Push": [
@@ -903,9 +903,9 @@
       {
         "name": "[External] nextcloud",
         "status": "down",
-        "uptime_24h": 96.2,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_24h": 95.9,
+        "uptime_7d": 97.2,
+        "uptime_30d": 97.2,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1375,9 +1375,9 @@
       {
         "name": "[External] ha-london",
         "status": "up",
-        "uptime_24h": 89.6,
-        "uptime_7d": 92.7,
-        "uptime_30d": 92.7,
+        "uptime_24h": 89.1,
+        "uptime_7d": 92.3,
+        "uptime_30d": 92.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1454,7 +1454,7 @@
       },
       {
         "name": "[External] registry",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 84.3,
         "uptime_7d": 88.9,
         "uptime_30d": 88.9,
@@ -1675,6 +1675,22 @@
         "uptime_7d": 0.0,
         "uptime_30d": 0.0,
         "url": "https://family.viktorbarzin.me"
+      },
+      {
+        "name": "[External] task-webhook",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://task-webhook.viktorbarzin.me"
+      },
+      {
+        "name": "[External] torrserver",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://torrserver.viktorbarzin.me"
       }
     ],
     "MySQL": [
