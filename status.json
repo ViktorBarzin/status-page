@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T17:45:24.714019+00:00",
+  "last_updated": "2026-04-19T17:50:23.081677+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.6,
+        "uptime_30d": 86.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 88.9,
-        "uptime_7d": 91.7,
+        "uptime_7d": 91.8,
         "uptime_30d": 91.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 78.7,
         "uptime_7d": 85.4,
-        "uptime_30d": 81.8,
+        "uptime_30d": 81.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.0,
         "uptime_7d": 85.5,
-        "uptime_30d": 82.0,
+        "uptime_30d": 82.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -669,17 +669,17 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 95.8,
-        "uptime_7d": 95.8,
-        "uptime_30d": 95.8,
+        "uptime_24h": 95.9,
+        "uptime_7d": 95.9,
+        "uptime_30d": 95.9,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_24h": 99.1,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 85.4,
-        "uptime_7d": 89.9,
+        "uptime_7d": 90.0,
         "uptime_30d": 85.7
       },
       {
@@ -812,8 +812,8 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 93.3,
-        "uptime_7d": 94.7,
+        "uptime_24h": 93.4,
+        "uptime_7d": 94.8,
         "uptime_30d": 94.5
       }
     ],
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 92.5,
         "uptime_7d": 95.4,
         "uptime_30d": 95.4,
         "url": "https://nextcloud.viktorbarzin.me"
