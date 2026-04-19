@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T05:10:22.048147+00:00",
+  "last_updated": "2026-04-19T05:16:10.828086+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.3,
+        "uptime_30d": 85.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.4,
+        "uptime_30d": 83.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -318,7 +318,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 97.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 75.6,
+        "uptime_30d": 75.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 90.7,
+        "uptime_30d": 90.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 75.5,
-        "uptime_7d": 78.0,
-        "uptime_30d": 77.2,
+        "uptime_24h": 75.2,
+        "uptime_7d": 77.7,
+        "uptime_30d": 77.0,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -598,8 +598,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 97.3,
-        "uptime_7d": 93.3,
-        "uptime_30d": 87.3,
+        "uptime_7d": 93.4,
+        "uptime_30d": 87.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
