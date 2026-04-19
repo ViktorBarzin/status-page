@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T06:10:20.746920+00:00",
+  "last_updated": "2026-04-19T06:16:10.935886+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.8,
+        "uptime_30d": 83.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -223,15 +223,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
-        "uptime_30d": 90.2,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 98.0,
+        "uptime_30d": 90.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 76.0,
+        "uptime_30d": 76.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -551,15 +551,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 71.4,
-        "uptime_7d": 75.2,
-        "uptime_30d": 74.6,
+        "uptime_24h": 71.0,
+        "uptime_7d": 75.0,
+        "uptime_30d": 74.4,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 93.5,
-        "uptime_30d": 87.6,
+        "uptime_24h": 96.9,
+        "uptime_7d": 93.3,
+        "uptime_30d": 87.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -750,17 +750,17 @@
     "Ping": [
       {
         "name": "Valchedrym Security System",
-        "status": "down",
-        "uptime_24h": 99.7,
-        "uptime_7d": 98.0,
-        "uptime_30d": 90.9
+        "status": "up",
+        "uptime_24h": 99.3,
+        "uptime_7d": 97.7,
+        "uptime_30d": 90.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 98.6,
-        "uptime_30d": 91.1
+        "uptime_30d": 91.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 98.0,
-        "uptime_30d": 91.1
+        "uptime_30d": 91.2
       },
       {
         "name": "pfSense Gateway",
@@ -799,7 +799,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.4,
-        "uptime_30d": 96.8
+        "uptime_30d": 96.9
       }
     ],
     "Push": [
@@ -1462,10 +1462,10 @@
       },
       {
         "name": "[External] registry",
-        "status": "up",
-        "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "status": "down",
+        "uptime_24h": 97.9,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://registry.viktorbarzin.me"
       },
       {
