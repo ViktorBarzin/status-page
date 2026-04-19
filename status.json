@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T15:36:13.246945+00:00",
+  "last_updated": "2026-04-19T15:40:30.521729+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 93.3,
-        "uptime_7d": 94.8,
+        "uptime_7d": 94.9,
         "uptime_30d": 89.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.0,
-        "uptime_7d": 84.7,
+        "uptime_7d": 84.8,
         "uptime_30d": 81.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -661,25 +661,25 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_24h": 96.4,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 91.8,
-        "uptime_7d": 91.8,
-        "uptime_30d": 91.8,
+        "uptime_24h": 92.0,
+        "uptime_7d": 92.0,
+        "uptime_30d": 92.0,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 98.1,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_24h": 98.2,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 85.4,
         "uptime_7d": 89.4,
-        "uptime_30d": 85.0
+        "uptime_30d": 85.1
       },
       {
         "name": "Valchedrym Video System",
@@ -811,19 +811,19 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.5
+        "status": "down",
+        "uptime_24h": 95.6,
+        "uptime_7d": 96.3,
+        "uptime_30d": 96.0
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 87.8,
-        "uptime_7d": 78.3,
-        "uptime_30d": 65.3
+        "uptime_24h": 88.0,
+        "uptime_7d": 78.4,
+        "uptime_30d": 65.4
       }
     ],
     "External Reachability": [
@@ -1478,7 +1478,7 @@
       {
         "name": "[External] registry",
         "status": "up",
-        "uptime_24h": 80.5,
+        "uptime_24h": 80.4,
         "uptime_7d": 86.9,
         "uptime_30d": 86.9,
         "url": "https://registry.viktorbarzin.me"
