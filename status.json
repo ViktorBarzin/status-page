@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T12:30:29.220116+00:00",
+  "last_updated": "2026-04-19T12:35:19.405292+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -124,10 +124,10 @@
       },
       {
         "name": "Immich server",
-        "status": "up",
-        "uptime_24h": 92.5,
-        "uptime_7d": 94.3,
-        "uptime_30d": 92.3,
+        "status": "down",
+        "uptime_24h": 91.5,
+        "uptime_7d": 93.6,
+        "uptime_30d": 91.6,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -205,9 +205,9 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 95.2,
+        "uptime_24h": 95.3,
         "uptime_7d": 95.8,
-        "uptime_30d": 89.6,
+        "uptime_30d": 89.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -228,10 +228,10 @@
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "up",
-        "uptime_24h": 94.3,
-        "uptime_7d": 94.7,
-        "uptime_30d": 88.4,
+        "status": "down",
+        "uptime_24h": 93.9,
+        "uptime_7d": 94.5,
+        "uptime_30d": 88.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -318,7 +318,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 91.7,
-        "uptime_7d": 92.5,
+        "uptime_7d": 92.6,
         "uptime_30d": 92.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -526,7 +526,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 85.6,
-        "uptime_7d": 88.4,
+        "uptime_7d": 88.5,
         "uptime_30d": 84.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 45.2,
-        "uptime_7d": 61.4,
-        "uptime_30d": 61.1,
+        "uptime_24h": 44.8,
+        "uptime_7d": 61.3,
+        "uptime_30d": 61.0,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -598,8 +598,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 85.1,
-        "uptime_7d": 86.4,
-        "uptime_30d": 82.4,
+        "uptime_7d": 86.5,
+        "uptime_30d": 82.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1167,9 +1167,9 @@
       {
         "name": "[External] immich",
         "status": "down",
-        "uptime_24h": 92.4,
-        "uptime_7d": 94.7,
-        "uptime_30d": 94.7,
+        "uptime_24h": 92.1,
+        "uptime_7d": 94.5,
+        "uptime_30d": 94.5,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1384,16 +1384,16 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 90.2,
-        "uptime_7d": 93.0,
-        "uptime_30d": 93.0,
+        "uptime_7d": 93.1,
+        "uptime_30d": 93.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
         "name": "[External] ha-sofia",
         "status": "up",
-        "uptime_24h": 90.9,
-        "uptime_7d": 93.5,
-        "uptime_30d": 93.5,
+        "uptime_24h": 90.6,
+        "uptime_7d": 93.3,
+        "uptime_30d": 93.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1464,8 +1464,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 85.7,
-        "uptime_7d": 89.7,
-        "uptime_30d": 89.7,
+        "uptime_7d": 89.8,
+        "uptime_30d": 89.8,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1707,14 +1707,6 @@
         "uptime_7d": 0.0,
         "uptime_30d": 0.0,
         "url": "https://task-webhook.viktorbarzin.me"
-      },
-      {
-        "name": "[External] Paperless-ngx",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "https://pdf.viktorbarzin.me"
       }
     ],
     "MySQL": [
