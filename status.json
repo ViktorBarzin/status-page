@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T14:05:23.380515+00:00",
+  "last_updated": "2026-04-19T14:10:25.383090+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.4,
+        "uptime_30d": 86.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 94.6,
         "uptime_7d": 95.5,
-        "uptime_30d": 89.6,
+        "uptime_30d": 89.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 79.1,
+        "uptime_30d": 79.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -661,25 +661,25 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 89.5,
-        "uptime_7d": 89.5,
-        "uptime_30d": 89.5,
+        "uptime_24h": 90.6,
+        "uptime_7d": 90.6,
+        "uptime_30d": 90.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 87.2,
-        "uptime_7d": 87.2,
-        "uptime_30d": 87.2,
+        "uptime_24h": 88.5,
+        "uptime_7d": 88.5,
+        "uptime_30d": 88.5,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 94.2,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2,
+        "uptime_24h": 94.8,
+        "uptime_7d": 94.8,
+        "uptime_30d": 94.8,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -760,7 +760,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 87.5,
-        "uptime_7d": 90.4,
+        "uptime_7d": 90.5,
         "uptime_30d": 85.8
       },
       {
@@ -780,9 +780,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 92.0,
-        "uptime_7d": 93.4,
-        "uptime_30d": 88.5
+        "uptime_24h": 91.4,
+        "uptime_7d": 93.0,
+        "uptime_30d": 88.2
       },
       {
         "name": "pfSense Gateway",
@@ -805,9 +805,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 95.4,
-        "uptime_7d": 96.2,
-        "uptime_30d": 95.8
+        "uptime_24h": 95.5,
+        "uptime_7d": 96.3,
+        "uptime_30d": 95.9
       }
     ],
     "Push": [
@@ -919,7 +919,7 @@
       {
         "name": "[External] nextcloud",
         "status": "down",
-        "uptime_24h": 92.6,
+        "uptime_24h": 92.5,
         "uptime_7d": 95.0,
         "uptime_30d": 95.0,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1392,16 +1392,16 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 87.5,
-        "uptime_7d": 91.4,
-        "uptime_30d": 91.4,
+        "uptime_7d": 91.5,
+        "uptime_30d": 91.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 89.1,
-        "uptime_7d": 92.5,
-        "uptime_30d": 92.5,
+        "uptime_7d": 92.6,
+        "uptime_30d": 92.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
