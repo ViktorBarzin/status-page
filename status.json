@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T01:20:21.479580+00:00",
+  "last_updated": "2026-04-19T01:26:10.141609+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 66.9,
-        "uptime_30d": 66.6,
+        "uptime_7d": 67.0,
+        "uptime_30d": 66.7,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -319,7 +319,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -422,7 +422,7 @@
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 91.4,
-        "uptime_7d": 95.0,
-        "uptime_30d": 94.4,
+        "uptime_24h": 91.0,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -599,14 +599,14 @@
         "status": "up",
         "uptime_24h": 97.3,
         "uptime_7d": 95.2,
-        "uptime_30d": 90.9,
+        "uptime_30d": 91.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.7,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -807,8 +807,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 76.2,
-        "uptime_7d": 67.0,
-        "uptime_30d": 60.3
+        "uptime_7d": 67.1,
+        "uptime_30d": 60.5
       }
     ],
     "External Reachability": [
