@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T02:31:17.561101+00:00",
+  "last_updated": "2026-04-19T02:35:18.437755+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 81.3,
+        "uptime_30d": 81.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 86.6,
-        "uptime_7d": 86.4,
-        "uptime_30d": 85.4,
+        "uptime_24h": 86.2,
+        "uptime_7d": 86.1,
+        "uptime_30d": 85.1,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 90.3
+        "uptime_30d": 90.4
       },
       {
         "name": "Valchedrym DDNS",
