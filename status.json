@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T12:50:23.469123+00:00",
+  "last_updated": "2026-04-19T12:55:19.908446+00:00",
   "groups": {
     "HTTP": [
       {
@@ -93,9 +93,9 @@
       {
         "name": "Dawarich",
         "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.5,
-        "uptime_30d": 98.1,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 97.9,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -277,9 +277,9 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 98.4,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.3,
+        "uptime_30d": 98.1,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -588,10 +588,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 84.8,
-        "uptime_7d": 86.3,
-        "uptime_30d": 82.4,
+        "status": "up",
+        "uptime_24h": 84.5,
+        "uptime_7d": 86.2,
+        "uptime_30d": 82.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,7 +766,7 @@
         "status": "up",
         "uptime_24h": 92.7,
         "uptime_7d": 93.6,
-        "uptime_30d": 88.5
+        "uptime_30d": 88.6
       },
       {
         "name": "pfSense Gateway",
@@ -798,20 +798,12 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 85.7,
+        "uptime_24h": 87.8,
         "uptime_7d": 76.8,
         "uptime_30d": 64.4
       }
     ],
     "External Reachability": [
-      {
-        "name": "[External] OwnTracks",
-        "status": "up",
-        "uptime_24h": null,
-        "uptime_7d": null,
-        "uptime_30d": null,
-        "url": "http://owntracks.viktorbarzin.me"
-      },
       {
         "name": "[External] crowdsec-web",
         "status": "up",
@@ -831,9 +823,9 @@
       {
         "name": "[External] dawarich",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -1464,8 +1456,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 85.7,
-        "uptime_7d": 89.8,
-        "uptime_30d": 89.8,
+        "uptime_7d": 89.9,
+        "uptime_30d": 89.9,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1675,6 +1667,30 @@
         "uptime_7d": 99.5,
         "uptime_30d": 99.5,
         "url": "https://pdf.viktorbarzin.me"
+      },
+      {
+        "name": "[External] family",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://family.viktorbarzin.me"
+      },
+      {
+        "name": "[External] task-webhook",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://task-webhook.viktorbarzin.me"
+      },
+      {
+        "name": "[External] torrserver",
+        "status": "down",
+        "uptime_24h": 0.0,
+        "uptime_7d": 0.0,
+        "uptime_30d": 0.0,
+        "url": "https://torrserver.viktorbarzin.me"
       }
     ],
     "MySQL": [
