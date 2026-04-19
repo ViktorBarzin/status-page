@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T08:56:10.745106+00:00",
+  "last_updated": "2026-04-19T09:00:26.355431+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.8,
+        "uptime_30d": 84.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -228,10 +228,10 @@
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
-        "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 96.1,
-        "uptime_30d": 89.0,
+        "status": "down",
+        "uptime_24h": 96.6,
+        "uptime_7d": 95.9,
+        "uptime_30d": 88.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -317,9 +317,9 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 95.4,
-        "uptime_30d": 94.9,
+        "uptime_24h": 96.3,
+        "uptime_7d": 95.2,
+        "uptime_30d": 94.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -444,7 +444,7 @@
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
         "uptime_30d": 99.6,
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 60.0,
-        "uptime_7d": 68.5,
-        "uptime_30d": 68.1,
+        "uptime_24h": 59.7,
+        "uptime_7d": 68.4,
+        "uptime_30d": 67.9,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -751,9 +751,9 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 93.9,
-        "uptime_7d": 93.8,
-        "uptime_30d": 88.0
+        "uptime_24h": 93.6,
+        "uptime_7d": 93.6,
+        "uptime_30d": 87.8
       },
       {
         "name": "Valchedrym Video System",
@@ -772,9 +772,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 96.9,
-        "uptime_7d": 96.1,
-        "uptime_30d": 90.1
+        "uptime_24h": 96.6,
+        "uptime_7d": 95.9,
+        "uptime_30d": 89.9
       },
       {
         "name": "pfSense Gateway",
@@ -1391,9 +1391,9 @@
       {
         "name": "[External] ha-sofia",
         "status": "up",
-        "uptime_24h": 95.3,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_24h": 95.0,
+        "uptime_7d": 96.1,
+        "uptime_30d": 96.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
