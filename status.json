@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T09:46:11.104200+00:00",
+  "last_updated": "2026-04-19T09:50:21.355809+00:00",
   "groups": {
     "HTTP": [
       {
@@ -223,15 +223,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 95.9,
-        "uptime_30d": 89.0,
+        "uptime_7d": 96.0,
+        "uptime_30d": 89.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -524,10 +524,10 @@
       },
       {
         "name": "Music Assistant",
-        "status": "up",
-        "uptime_24h": 90.7,
-        "uptime_7d": 91.4,
-        "uptime_30d": 86.1,
+        "status": "down",
+        "uptime_24h": 89.8,
+        "uptime_7d": 90.7,
+        "uptime_30d": 85.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 56.6,
-        "uptime_7d": 66.8,
-        "uptime_30d": 66.3,
+        "uptime_24h": 56.2,
+        "uptime_7d": 66.6,
+        "uptime_30d": 66.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 89.6,
-        "uptime_7d": 88.6,
-        "uptime_30d": 84.0,
+        "uptime_24h": 89.3,
+        "uptime_7d": 88.4,
+        "uptime_30d": 83.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -757,7 +757,7 @@
       },
       {
         "name": "Valchedrym Video System",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 95.0,
         "uptime_7d": 95.2,
         "uptime_30d": 89.1
@@ -773,7 +773,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 95.9,
+        "uptime_7d": 96.0,
         "uptime_30d": 90.1
       },
       {
@@ -1422,10 +1422,10 @@
       },
       {
         "name": "[External] music-assistant",
-        "status": "up",
-        "uptime_24h": 93.7,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "status": "down",
+        "uptime_24h": 92.7,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1463,9 +1463,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 90.8,
-        "uptime_7d": 92.9,
-        "uptime_30d": 92.9,
+        "uptime_24h": 90.5,
+        "uptime_7d": 92.7,
+        "uptime_30d": 92.7,
         "url": "https://registry.viktorbarzin.me"
       },
       {
