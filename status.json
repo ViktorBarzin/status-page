@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T01:06:10.831404+00:00",
+  "last_updated": "2026-04-19T01:10:21.190037+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.6,
-        "uptime_30d": 87.3,
+        "uptime_30d": 87.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 92.4,
-        "uptime_7d": 95.6,
-        "uptime_30d": 94.9,
+        "uptime_24h": 92.1,
+        "uptime_7d": 95.4,
+        "uptime_30d": 94.7,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -736,8 +736,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0
       },
       {
         "name": "PVE NFS (2049)",
@@ -760,7 +760,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       },
       {
         "name": "Valchedrym DDNS",
