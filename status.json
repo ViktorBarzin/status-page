@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T13:20:26.525661+00:00",
+  "last_updated": "2026-04-19T13:26:13.086813+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.2,
+        "uptime_30d": 86.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -225,14 +225,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 97.0,
         "url": "https://grafana.viktorbarzin.me"
-      },
-      {
-        "name": "ha-sofia.viktorbarzin.me",
-        "status": "up",
-        "uptime_24h": 92.6,
-        "uptime_7d": 93.7,
-        "uptime_30d": 87.7,
-        "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "Traefik Dashboard",
@@ -415,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -524,10 +516,10 @@
       },
       {
         "name": "Music Assistant",
-        "status": "up",
-        "uptime_24h": 83.9,
-        "uptime_7d": 87.5,
-        "uptime_30d": 83.2,
+        "status": "down",
+        "uptime_24h": 83.0,
+        "uptime_7d": 86.9,
+        "uptime_30d": 82.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -665,6 +657,30 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://grafana.viktorbarzin.me"
+      },
+      {
+        "name": "ha-sofia-public",
+        "status": "up",
+        "uptime_24h": 62.5,
+        "uptime_7d": 62.5,
+        "uptime_30d": 62.5,
+        "url": "https://ha-sofia.viktorbarzin.me"
+      },
+      {
+        "name": "ha-sofia-internal",
+        "status": "up",
+        "uptime_24h": 75.0,
+        "uptime_7d": 75.0,
+        "uptime_30d": 75.0,
+        "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
+      },
+      {
+        "name": "ha-sofia-direct",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 100.0,
+        "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
     "TCP Port": [
@@ -749,10 +765,10 @@
       },
       {
         "name": "Valchedrym Video System",
-        "status": "up",
-        "uptime_24h": 91.8,
-        "uptime_7d": 93.5,
-        "uptime_30d": 88.2
+        "status": "down",
+        "uptime_24h": 90.9,
+        "uptime_7d": 92.9,
+        "uptime_30d": 87.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -788,17 +804,17 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "down",
-        "uptime_24h": 95.3,
-        "uptime_7d": 96.1,
-        "uptime_30d": 95.7
+        "status": "up",
+        "uptime_24h": 94.9,
+        "uptime_7d": 95.9,
+        "uptime_30d": 95.5
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 88.0,
+        "uptime_24h": 87.8,
         "uptime_7d": 77.1,
         "uptime_30d": 64.6
       }
@@ -1384,8 +1400,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 90.3,
-        "uptime_7d": 93.2,
-        "uptime_30d": 93.2,
+        "uptime_7d": 93.3,
+        "uptime_30d": 93.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1415,9 +1431,9 @@
       {
         "name": "[External] music-assistant",
         "status": "up",
-        "uptime_24h": 90.3,
-        "uptime_7d": 93.2,
-        "uptime_30d": 93.2,
+        "uptime_24h": 90.0,
+        "uptime_7d": 93.0,
+        "uptime_30d": 93.0,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
