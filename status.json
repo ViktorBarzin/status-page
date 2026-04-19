@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T18:55:22.021993+00:00",
+  "last_updated": "2026-04-19T19:00:35.761726+00:00",
   "groups": {
     "HTTP": [
       {
@@ -93,7 +93,7 @@
       {
         "name": "Dawarich",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 99.4,
         "uptime_30d": 98.2,
         "url": "https://dawarich.viktorbarzin.me"
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.6,
+        "uptime_30d": 87.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 93.3,
         "uptime_7d": 95.3,
-        "uptime_30d": 90.0,
+        "uptime_30d": 90.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.0,
-        "uptime_7d": 85.8,
-        "uptime_30d": 82.4,
+        "uptime_7d": 85.9,
+        "uptime_30d": 82.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,25 +661,25 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 98.3,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_24h": 98.4,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 96.7,
-        "uptime_7d": 96.7,
-        "uptime_30d": 96.7,
+        "uptime_24h": 96.8,
+        "uptime_7d": 96.8,
+        "uptime_30d": 96.8,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 99.2,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.6,
+        "uptime_24h": 89.5,
         "uptime_7d": 92.7,
         "uptime_30d": 88.4
       },
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 92.5,
-        "uptime_7d": 79.5,
-        "uptime_30d": 66.4
+        "uptime_24h": 92.6,
+        "uptime_7d": 79.6,
+        "uptime_30d": 66.5
       }
     ],
     "External Reachability": [
@@ -1638,9 +1638,9 @@
       {
         "name": "[External] webhook",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
