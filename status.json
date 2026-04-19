@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T01:50:21.438848+00:00",
+  "last_updated": "2026-04-19T01:56:09.841267+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.8,
+        "uptime_30d": 89.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.3,
+        "uptime_30d": 88.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 92.9,
+        "uptime_30d": 93.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -262,8 +262,8 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 67.2,
-        "uptime_30d": 67.0,
+        "uptime_7d": 67.4,
+        "uptime_30d": 67.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -343,7 +343,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.5,
+        "uptime_30d": 81.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -479,7 +479,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://budget-anca.viktorbarzin.me"
       },
       {
@@ -487,7 +487,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -535,7 +535,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 89.3,
-        "uptime_7d": 94.0,
-        "uptime_30d": 93.3,
+        "uptime_24h": 89.0,
+        "uptime_7d": 93.8,
+        "uptime_30d": 93.1,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -575,7 +575,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
@@ -735,7 +735,7 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 99.2,
+        "uptime_24h": 99.6,
         "uptime_7d": 97.0,
         "uptime_30d": 97.0
       },
@@ -806,7 +806,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 76.5,
+        "uptime_24h": 78.3,
         "uptime_7d": 67.3,
         "uptime_30d": 60.6
       }
