@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T03:46:10.640200+00:00",
+  "last_updated": "2026-04-19T03:50:20.863136+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 81.9,
+        "uptime_30d": 82.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 81.4,
-        "uptime_7d": 82.3,
-        "uptime_30d": 81.4,
+        "uptime_24h": 81.0,
+        "uptime_7d": 82.0,
+        "uptime_30d": 81.1,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
