@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T06:06:10.960385+00:00",
+  "last_updated": "2026-04-19T06:10:20.746920+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 82.9,
+        "uptime_30d": 83.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 71.7,
-        "uptime_7d": 75.4,
-        "uptime_30d": 74.8,
+        "uptime_24h": 71.4,
+        "uptime_7d": 75.2,
+        "uptime_30d": 74.6,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -750,16 +750,16 @@
     "Ping": [
       {
         "name": "Valchedrym Security System",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
-        "uptime_30d": 91.2
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 98.0,
+        "uptime_30d": 90.9
       },
       {
         "name": "Valchedrym Video System",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.6,
         "uptime_30d": 91.1
       },
       {
@@ -1462,7 +1462,7 @@
       },
       {
         "name": "[External] registry",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.8,
         "uptime_30d": 98.8,
