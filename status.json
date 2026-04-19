@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T11:36:13.022897+00:00",
+  "last_updated": "2026-04-19T11:40:29.018986+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -125,9 +125,9 @@
       {
         "name": "Immich server",
         "status": "down",
-        "uptime_24h": 95.9,
-        "uptime_7d": 96.6,
-        "uptime_30d": 94.4,
+        "uptime_24h": 95.5,
+        "uptime_7d": 96.3,
+        "uptime_30d": 94.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -229,9 +229,9 @@
       {
         "name": "ha-sofia.viktorbarzin.me",
         "status": "down",
-        "uptime_24h": 94.9,
-        "uptime_7d": 95.0,
-        "uptime_30d": 88.6,
+        "uptime_24h": 94.6,
+        "uptime_7d": 94.8,
+        "uptime_30d": 88.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -525,9 +525,9 @@
       {
         "name": "Music Assistant",
         "status": "down",
-        "uptime_24h": 87.1,
-        "uptime_7d": 89.2,
-        "uptime_30d": 84.5,
+        "uptime_24h": 86.8,
+        "uptime_7d": 89.0,
+        "uptime_30d": 84.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 48.8,
-        "uptime_7d": 63.1,
-        "uptime_30d": 62.8,
+        "uptime_24h": 48.6,
+        "uptime_7d": 63.0,
+        "uptime_30d": 62.6,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -598,7 +598,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 86.9,
-        "uptime_7d": 87.3,
+        "uptime_7d": 87.4,
         "uptime_30d": 83.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -750,16 +750,16 @@
     "Ping": [
       {
         "name": "Valchedrym Security System",
-        "status": "up",
-        "uptime_24h": 91.0,
-        "uptime_7d": 92.2,
-        "uptime_30d": 87.0
+        "status": "down",
+        "uptime_24h": 90.1,
+        "uptime_7d": 91.6,
+        "uptime_30d": 86.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 92.4,
-        "uptime_7d": 93.6,
+        "uptime_7d": 93.7,
         "uptime_30d": 88.1
       },
       {
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 85.2,
-        "uptime_7d": 75.9,
-        "uptime_30d": 63.7
+        "uptime_24h": 85.4,
+        "uptime_7d": 76.1,
+        "uptime_30d": 63.8
       }
     ],
     "External Reachability": [
@@ -1167,9 +1167,9 @@
       {
         "name": "[External] immich",
         "status": "down",
-        "uptime_24h": 96.2,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_24h": 95.9,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1390,7 +1390,7 @@
       },
       {
         "name": "[External] ha-sofia",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 92.1,
         "uptime_7d": 94.3,
         "uptime_30d": 94.3,
@@ -1464,8 +1464,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 86.6,
-        "uptime_7d": 90.1,
-        "uptime_30d": 90.1,
+        "uptime_7d": 90.2,
+        "uptime_30d": 90.2,
         "url": "https://registry.viktorbarzin.me"
       },
       {
