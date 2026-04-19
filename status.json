@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T20:40:23.628439+00:00",
+  "last_updated": "2026-04-19T20:45:19.817910+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.3,
+        "uptime_30d": 87.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 93.3,
-        "uptime_7d": 95.4,
+        "uptime_7d": 95.5,
         "uptime_30d": 90.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -247,7 +247,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.0,
-        "uptime_7d": 86.6,
+        "uptime_7d": 86.7,
         "uptime_30d": 83.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -661,9 +661,9 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 98.7,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_24h": 98.8,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 85.4,
         "uptime_7d": 90.6,
-        "uptime_30d": 86.5
+        "uptime_30d": 86.6
       },
       {
         "name": "Valchedrym Video System",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 95.0,
+        "uptime_24h": 94.9,
         "uptime_7d": 80.1,
         "uptime_30d": 67.0
       }
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 92.5,
         "uptime_7d": 95.8,
         "uptime_30d": 95.8,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 87.3,
-        "uptime_7d": 92.5,
-        "uptime_30d": 92.5,
+        "uptime_7d": 92.6,
+        "uptime_30d": 92.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
