@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T03:56:11.890262+00:00",
+  "last_updated": "2026-04-19T04:00:28.946039+00:00",
   "groups": {
     "HTTP": [
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.8,
+        "uptime_30d": 84.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 80.7,
-        "uptime_7d": 81.7,
-        "uptime_30d": 80.9,
+        "uptime_24h": 80.3,
+        "uptime_7d": 81.5,
+        "uptime_30d": 80.6,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -806,9 +806,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 78.3,
-        "uptime_7d": 71.0,
-        "uptime_30d": 60.8
+        "uptime_24h": 78.6,
+        "uptime_7d": 71.2,
+        "uptime_30d": 60.9
       }
     ],
     "External Reachability": [
