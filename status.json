@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T03:26:11.171303+00:00",
+  "last_updated": "2026-04-19T03:30:24.412097+00:00",
   "groups": {
     "HTTP": [
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -102,7 +102,7 @@
         "name": "authentik-server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.0,
         "url": "http://goauthentik-server.authentik"
       },
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 96.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.6,
+        "uptime_30d": 84.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 82.8,
-        "uptime_7d": 83.3,
-        "uptime_30d": 82.4,
+        "uptime_24h": 82.4,
+        "uptime_7d": 83.1,
+        "uptime_30d": 82.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 97.8,
-        "uptime_30d": 90.3
+        "uptime_30d": 90.4
       },
       {
         "name": "pfSense Gateway",
