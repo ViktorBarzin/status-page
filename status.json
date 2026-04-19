@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T00:50:21.359332+00:00",
+  "last_updated": "2026-04-19T00:55:18.608131+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.6,
+        "uptime_30d": 89.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 66.5,
-        "uptime_30d": 66.2,
+        "uptime_30d": 66.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -557,9 +557,9 @@
       {
         "name": "OwnTracks",
         "status": "down",
-        "uptime_24h": 93.4,
-        "uptime_7d": 96.1,
-        "uptime_30d": 95.4,
+        "uptime_24h": 93.1,
+        "uptime_7d": 96.0,
+        "uptime_30d": 95.2,
         "url": "https://owntracks.viktorbarzin.me"
       },
       {
@@ -774,7 +774,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.8
+        "uptime_30d": 93.9
       },
       {
         "name": "pfSense Gateway",
