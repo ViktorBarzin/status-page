@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T21:00:30.421165+00:00",
+  "last_updated": "2026-04-19T21:05:19.022303+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.2,
+        "uptime_30d": 81.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.0,
         "uptime_7d": 86.7,
-        "uptime_30d": 83.1,
+        "uptime_30d": 83.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 85.4,
         "uptime_7d": 90.7,
-        "uptime_30d": 86.6
+        "uptime_30d": 86.7
       },
       {
         "name": "Valchedrym Video System",
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.5,
+        "uptime_24h": 89.6,
         "uptime_7d": 93.0,
         "uptime_30d": 88.9
       },
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 94.9,
-        "uptime_7d": 80.1,
-        "uptime_30d": 67.0
+        "uptime_7d": 80.2,
+        "uptime_30d": 67.1
       }
     ],
     "External Reachability": [
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 92.5,
         "uptime_7d": 95.8,
         "uptime_30d": 95.8,
         "url": "https://nextcloud.viktorbarzin.me"
