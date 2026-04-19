@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T22:00:31.112103+00:00",
+  "last_updated": "2026-04-19T22:05:22.020205+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 93.3,
         "uptime_7d": 95.6,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.9,
         "uptime_7d": 87.0,
-        "uptime_30d": 83.4,
+        "uptime_30d": 83.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.5,
+        "uptime_24h": 89.6,
         "uptime_7d": 93.2,
         "uptime_30d": 89.1
       },
@@ -812,9 +812,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 95.2,
-        "uptime_7d": 96.1,
-        "uptime_30d": 95.9
+        "uptime_24h": 95.3,
+        "uptime_7d": 96.2,
+        "uptime_30d": 96.0
       }
     ],
     "Push": [
