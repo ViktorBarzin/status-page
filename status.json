@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T19:50:24.003015+00:00",
+  "last_updated": "2026-04-19T19:55:18.714385+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.1,
+        "uptime_30d": 87.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.0,
         "uptime_7d": 86.1,
-        "uptime_30d": 82.7,
+        "uptime_30d": 82.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -812,8 +812,8 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 94.4,
-        "uptime_7d": 95.5,
+        "uptime_24h": 94.5,
+        "uptime_7d": 95.6,
         "uptime_30d": 95.3
       }
     ],
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 94.9,
         "uptime_7d": 79.8,
         "uptime_30d": 66.7
       }
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 92.6,
+        "uptime_24h": 92.5,
         "uptime_7d": 95.7,
         "uptime_30d": 95.7,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1407,8 +1407,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 88.9,
-        "uptime_7d": 93.3,
-        "uptime_30d": 93.3,
+        "uptime_7d": 93.4,
+        "uptime_30d": 93.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1439,8 +1439,8 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 88.5,
-        "uptime_7d": 93.1,
-        "uptime_30d": 93.1,
+        "uptime_7d": 93.2,
+        "uptime_30d": 93.2,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
