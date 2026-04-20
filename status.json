@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T18:40:23.784848+00:00",
+  "last_updated": "2026-04-20T18:46:11.968280+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.4,
+        "uptime_30d": 87.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 89.3,
-        "uptime_7d": 81.3,
-        "uptime_30d": 67.9
+        "uptime_7d": 81.4,
+        "uptime_30d": 68.0
       }
     ],
     "External Reachability": [
