@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T08:20:25.501839+00:00",
+  "last_updated": "2026-04-20T08:25:19.200109+00:00",
   "groups": {
     "HTTP": [
       {
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -518,8 +518,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 84.1,
-        "uptime_7d": 81.4,
-        "uptime_30d": 77.5,
+        "uptime_7d": 81.5,
+        "uptime_30d": 77.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 88.7,
+        "uptime_24h": 89.0,
         "uptime_7d": 84.0,
         "uptime_30d": 79.1,
         "url": "https://docker.viktorbarzin.me"
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -744,8 +744,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 99.2,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9
       },
       {
         "name": "PVE NFS (2049)",
@@ -768,13 +768,13 @@
         "status": "up",
         "uptime_24h": 89.4,
         "uptime_7d": 86.8,
-        "uptime_30d": 81.9
+        "uptime_30d": 82.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 91.5,
-        "uptime_7d": 90.5,
+        "uptime_24h": 91.8,
+        "uptime_7d": 90.6,
         "uptime_30d": 85.0
       },
       {
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 91.1,
-        "uptime_7d": 90.5,
+        "uptime_7d": 90.6,
         "uptime_30d": 85.3
       },
       {
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.6
+        "uptime_30d": 98.7
       }
     ],
     "Redis": [
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 84.8,
-        "uptime_7d": 83.8,
-        "uptime_30d": 83.8,
+        "uptime_7d": 83.9,
+        "uptime_30d": 83.9,
         "url": "https://registry.viktorbarzin.me"
       },
       {
