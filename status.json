@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T06:26:11.934265+00:00",
+  "last_updated": "2026-04-20T06:31:01.714253+00:00",
   "groups": {
     "HTTP": [
       {
@@ -156,26 +156,26 @@
       },
       {
         "name": "Nextcloud",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 85.8,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 85.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
         "name": "Vaultwarden",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.1,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
         "name": "Wrongmove (UI)",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 83.9,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 83.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,23 +183,23 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.2,
+        "uptime_30d": 83.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.9,
+        "uptime_7d": 99.9,
+        "uptime_30d": 99.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
         "name": "Frigate",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 98.6,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.4,
+        "uptime_30d": 98.3,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -220,26 +220,26 @@
       },
       {
         "name": "SNMP Exporter",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 96.3,
+        "status": "down",
+        "uptime_24h": 99.9,
+        "uptime_7d": 99.9,
+        "uptime_30d": 96.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "Traefik Dashboard",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://traefik.viktorbarzin.me"
       },
       {
         "name": "CrowdSec LAPI",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.4,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -303,15 +303,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 88.9,
-        "uptime_7d": 88.7,
-        "uptime_30d": 88.3,
+        "uptime_24h": 89.2,
+        "uptime_7d": 88.8,
+        "uptime_30d": 88.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 76.0,
+        "uptime_30d": 76.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 83.4,
+        "uptime_24h": 83.9,
         "uptime_7d": 82.9,
-        "uptime_30d": 78.0,
+        "uptime_30d": 78.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -728,10 +728,10 @@
       },
       {
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
-        "status": "up",
-        "uptime_24h": 99.4,
-        "uptime_7d": 99.2,
-        "uptime_30d": 98.8
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.7
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -773,8 +773,8 @@
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 89.9,
-        "uptime_7d": 89.9,
+        "uptime_24h": 90.2,
+        "uptime_7d": 90.0,
         "uptime_30d": 84.2
       },
       {
@@ -788,15 +788,15 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 89.9,
-        "uptime_7d": 89.9,
+        "uptime_7d": 90.0,
         "uptime_30d": 84.5
       },
       {
         "name": "pfSense Gateway",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7
       }
     ],
     "PostgreSQL": [
@@ -1399,14 +1399,14 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 87.5,
-        "uptime_7d": 89.0,
-        "uptime_30d": 89.0,
+        "uptime_7d": 89.1,
+        "uptime_30d": 89.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
         "name": "[External] ha-sofia",
         "status": "up",
-        "uptime_24h": 88.9,
+        "uptime_24h": 89.4,
         "uptime_7d": 90.4,
         "uptime_30d": 90.4,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "up",
-        "uptime_24h": 82.0,
-        "uptime_7d": 82.8,
-        "uptime_30d": 82.8,
+        "uptime_24h": 82.6,
+        "uptime_7d": 82.9,
+        "uptime_30d": 82.9,
         "url": "https://registry.viktorbarzin.me"
       },
       {
