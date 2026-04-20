@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T16:20:27.967595+00:00",
+  "last_updated": "2026-04-20T16:25:19.651566+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.6,
+        "uptime_30d": 88.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.9,
+        "uptime_7d": 95.0,
         "uptime_30d": 89.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -438,7 +438,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -670,8 +670,8 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -688,7 +688,7 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.9
       },
       {
@@ -723,8 +723,8 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4
       },
       {
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 89.2,
-        "uptime_30d": 84.9
+        "uptime_30d": 85.0
       },
       {
         "name": "Valchedrym Video System",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 89.5,
+        "uptime_24h": 89.3,
         "uptime_7d": 80.7,
         "uptime_30d": 67.4
       }
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.7,
-        "uptime_30d": 91.7,
+        "uptime_7d": 91.8,
+        "uptime_30d": 91.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1439,8 +1439,8 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.5,
-        "uptime_30d": 92.5,
+        "uptime_7d": 92.6,
+        "uptime_30d": 92.6,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
