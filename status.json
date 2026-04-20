@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T12:36:12.585464+00:00",
+  "last_updated": "2026-04-20T12:40:23.441386+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 93.6,
         "uptime_30d": 91.4,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 90.6,
-        "uptime_30d": 90.2,
+        "uptime_30d": 90.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -517,8 +517,8 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 91.1,
-        "uptime_7d": 83.1,
+        "uptime_24h": 91.7,
+        "uptime_7d": 83.2,
         "uptime_30d": 79.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 94.9,
         "uptime_7d": 85.9,
-        "uptime_30d": 81.0,
+        "uptime_30d": 81.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.9
+        "uptime_30d": 99.0
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 93.0,
+        "uptime_24h": 94.0,
         "uptime_7d": 89.9,
         "uptime_30d": 85.3
       },
@@ -1182,7 +1182,7 @@
       {
         "name": "[External] immich",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 94.2,
         "uptime_30d": 94.2,
         "url": "https://immich.viktorbarzin.me"
