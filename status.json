@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T02:55:18.839279+00:00",
+  "last_updated": "2026-04-20T03:00:31.121099+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -45,7 +45,7 @@
       {
         "name": "IDRAC Redfish Exporter",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.9,
         "uptime_30d": 99.7,
         "url": "https://grafana.viktorbarzin.me"
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.4,
+        "uptime_30d": 84.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.4,
+        "uptime_30d": 82.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.7,
+        "uptime_30d": 81.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 90.8,
-        "uptime_7d": 89.7,
-        "uptime_30d": 82.1,
+        "uptime_7d": 89.8,
+        "uptime_30d": 82.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 78.7,
-        "uptime_7d": 78.0,
+        "uptime_7d": 78.1,
         "uptime_30d": 74.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.9,
-        "uptime_7d": 80.8,
-        "uptime_30d": 75.8,
+        "uptime_7d": 80.9,
+        "uptime_30d": 75.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_24h": 98.7,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 85.1,
         "uptime_7d": 84.2,
-        "uptime_30d": 78.9
+        "uptime_30d": 79.0
       },
       {
         "name": "Valchedrym Video System",
@@ -782,14 +782,14 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0
+        "uptime_30d": 98.1
       },
       {
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 89.9,
         "uptime_7d": 88.7,
-        "uptime_30d": 82.8
+        "uptime_30d": 82.9
       },
       {
         "name": "pfSense Gateway",
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 97.0,
+        "uptime_24h": 97.1,
         "uptime_7d": 96.7,
         "uptime_30d": 96.5
       }
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 87.3,
-        "uptime_7d": 87.6,
-        "uptime_30d": 87.6,
+        "uptime_7d": 87.7,
+        "uptime_30d": 87.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1439,8 +1439,8 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 88.5,
-        "uptime_7d": 88.8,
-        "uptime_30d": 88.8,
+        "uptime_7d": 88.9,
+        "uptime_30d": 88.9,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 80.2,
-        "uptime_7d": 80.7,
-        "uptime_30d": 80.7,
+        "uptime_7d": 80.8,
+        "uptime_30d": 80.8,
         "url": "https://registry.viktorbarzin.me"
       },
       {
