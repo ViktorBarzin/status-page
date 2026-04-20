@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T00:35:19.165569+00:00",
+  "last_updated": "2026-04-20T00:40:24.841742+00:00",
   "groups": {
     "HTTP": [
       {
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 85.4,
-        "uptime_7d": 91.3,
+        "uptime_7d": 91.4,
         "uptime_30d": 87.5
       },
       {
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 96.6,
+        "uptime_24h": 96.7,
         "uptime_7d": 96.7,
         "uptime_30d": 96.5
       }
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.2,
-        "uptime_30d": 68.0
+        "uptime_7d": 81.3,
+        "uptime_30d": 68.1
       }
     ],
     "External Reachability": [
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 87.3,
-        "uptime_7d": 93.1,
-        "uptime_30d": 93.1,
+        "uptime_7d": 93.2,
+        "uptime_30d": 93.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
