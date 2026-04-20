@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T01:56:10.671161+00:00",
+  "last_updated": "2026-04-20T02:01:40.634660+00:00",
   "groups": {
     "HTTP": [
       {
@@ -332,10 +332,10 @@
       },
       {
         "name": "Blog",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 82.5,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 82.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -436,10 +436,10 @@
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.9,
-        "uptime_30d": 99.7,
+        "status": "down",
+        "uptime_24h": 99.6,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 78.7,
         "uptime_7d": 87.7,
-        "uptime_30d": 84.4,
+        "uptime_30d": 84.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.9,
+        "uptime_24h": 82.8,
         "uptime_7d": 88.3,
-        "uptime_30d": 84.5,
+        "uptime_30d": 84.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -660,18 +660,18 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "status": "down",
+        "uptime_24h": 99.1,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 98.5,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.5,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.6,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -742,10 +742,10 @@
       },
       {
         "name": "Mail SMTP (port 25 external)",
-        "status": "up",
-        "uptime_24h": 99.4,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2
+        "status": "down",
+        "uptime_24h": 99.2,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1
       },
       {
         "name": "PVE NFS (2049)",
@@ -756,19 +756,19 @@
       },
       {
         "name": "TP-Link Gateway (192.168.1.1)",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7
       }
     ],
     "Ping": [
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 85.4,
-        "uptime_7d": 91.6,
-        "uptime_30d": 87.8
+        "uptime_24h": 85.1,
+        "uptime_7d": 91.4,
+        "uptime_30d": 87.7
       },
       {
         "name": "Valchedrym Video System",
@@ -780,14 +780,14 @@
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.1
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.0
       },
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.9,
+        "uptime_24h": 89.8,
         "uptime_7d": 93.7,
         "uptime_30d": 89.9
       },
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 96.9,
-        "uptime_30d": 96.7
+        "uptime_30d": 96.8
       }
     ],
     "Push": [
@@ -822,25 +822,25 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.5,
-        "uptime_30d": 68.4
+        "uptime_7d": 81.6,
+        "uptime_30d": 68.5
       }
     ],
     "External Reachability": [
       {
         "name": "[External] crowdsec-web",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
       {
         "name": "[External] cc",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -853,42 +853,42 @@
       },
       {
         "name": "[External] pgadmin",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
         "name": "[External] pma",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://pma.viktorbarzin.me"
       },
       {
         "name": "[External] book-search",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://book-search.viktorbarzin.me"
       },
       {
         "name": "[External] calibre",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
         "name": "[External] stacks",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://stacks.viktorbarzin.me"
       },
       {
@@ -926,9 +926,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 94.5,
-        "uptime_7d": 96.2,
-        "uptime_30d": 96.2,
+        "uptime_24h": 94.2,
+        "uptime_7d": 96.1,
+        "uptime_30d": 96.1,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
