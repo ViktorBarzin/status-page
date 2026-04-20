@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T01:00:32.295193+00:00",
+  "last_updated": "2026-04-20T01:06:10.224759+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -774,7 +774,7 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 89.3,
-        "uptime_7d": 93.7,
+        "uptime_7d": 93.8,
         "uptime_30d": 89.6
       },
       {
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 96.7,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 96.6
       }
     ],
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.4,
+        "uptime_7d": 81.3,
         "uptime_30d": 68.2
       }
     ],
@@ -1407,8 +1407,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 88.9,
-        "uptime_7d": 94.0,
-        "uptime_30d": 94.0,
+        "uptime_7d": 94.1,
+        "uptime_30d": 94.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
