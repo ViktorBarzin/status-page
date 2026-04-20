@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T15:56:11.687938+00:00",
+  "last_updated": "2026-04-20T16:00:30.210265+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.1,
+        "uptime_7d": 94.2,
         "uptime_30d": 92.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.4,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 79.6,
+        "uptime_30d": 79.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -518,8 +518,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 84.4,
-        "uptime_30d": 80.8,
+        "uptime_7d": 84.5,
+        "uptime_30d": 80.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 99.6,
+        "uptime_24h": 99.9,
         "uptime_7d": 98.2,
         "uptime_30d": 98.1
       }
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 89.3,
-        "uptime_7d": 80.5,
-        "uptime_30d": 67.2
+        "uptime_24h": 89.5,
+        "uptime_7d": 80.6,
+        "uptime_30d": 67.3
       }
     ],
     "External Reachability": [
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.6,
-        "uptime_30d": 91.6,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 86.6,
-        "uptime_30d": 86.6,
+        "uptime_7d": 86.7,
+        "uptime_30d": 86.7,
         "url": "https://registry.viktorbarzin.me"
       },
       {
