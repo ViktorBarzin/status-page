@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T22:20:23.072318+00:00",
+  "last_updated": "2026-04-20T22:25:19.421962+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 86.5,
-        "uptime_30d": 83.1,
+        "uptime_30d": 83.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.7,
-        "uptime_30d": 84.4,
+        "uptime_30d": 84.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -738,7 +738,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.3
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.4,
-        "uptime_30d": 89.0
+        "uptime_30d": 89.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 86.8,
-        "uptime_7d": 81.4,
-        "uptime_30d": 68.4
+        "uptime_7d": 81.5,
+        "uptime_30d": 68.5
       }
     ],
     "External Reachability": [
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 88.4,
-        "uptime_30d": 88.4,
+        "uptime_7d": 88.5,
+        "uptime_30d": 88.5,
         "url": "https://registry.viktorbarzin.me"
       },
       {
