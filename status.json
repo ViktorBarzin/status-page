@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T13:10:26.347143+00:00",
+  "last_updated": "2026-04-20T13:16:14.079676+00:00",
   "groups": {
     "HTTP": [
       {
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 92.6,
-        "uptime_30d": 86.4,
+        "uptime_7d": 92.7,
+        "uptime_30d": 86.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 90.7,
+        "uptime_7d": 90.8,
         "uptime_30d": 90.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -517,7 +517,7 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 92.4,
+        "uptime_24h": 93.0,
         "uptime_7d": 83.4,
         "uptime_30d": 79.7,
         "url": "https://docker.viktorbarzin.me"
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 95.9,
+        "uptime_24h": 96.9,
         "uptime_7d": 86.1,
         "uptime_30d": 81.3,
         "url": "https://docker.viktorbarzin.me"
@@ -677,9 +677,9 @@
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 88.3,
-        "uptime_30d": 83.8
+        "uptime_30d": 83.9
       },
       {
         "name": "Valchedrym Video System",
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 94.3,
-        "uptime_7d": 90.0,
+        "uptime_7d": 90.1,
         "uptime_30d": 85.5
       },
       {
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.5,
         "uptime_7d": 98.0,
         "uptime_30d": 97.9
       }
@@ -926,9 +926,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 95.2,
-        "uptime_7d": 95.3,
-        "uptime_30d": 95.3,
+        "uptime_24h": 95.6,
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.4,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1398,17 +1398,17 @@
       {
         "name": "[External] ha-london",
         "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 91.0,
-        "uptime_30d": 91.0,
+        "uptime_24h": 97.9,
+        "uptime_7d": 91.1,
+        "uptime_30d": 91.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 97.6,
-        "uptime_7d": 91.9,
-        "uptime_30d": 91.9,
+        "uptime_7d": 92.0,
+        "uptime_30d": 92.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
