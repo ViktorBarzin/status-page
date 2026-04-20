@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T19:10:25.335344+00:00",
+  "last_updated": "2026-04-20T19:15:21.237824+00:00",
   "groups": {
     "HTTP": [
       {
@@ -670,8 +670,8 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.9,
-        "uptime_30d": 88.3
+        "uptime_30d": 88.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -813,8 +813,8 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.2
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.3
       }
     ],
     "Push": [
@@ -1439,8 +1439,8 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.0,
-        "uptime_30d": 93.0,
+        "uptime_7d": 93.1,
+        "uptime_30d": 93.1,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
