@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T01:15:19.335707+00:00",
+  "last_updated": "2026-04-20T01:20:22.670231+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.9,
+        "uptime_30d": 89.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 90.8,
         "uptime_7d": 94.5,
-        "uptime_30d": 89.4,
+        "uptime_30d": 89.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.3,
+        "uptime_30d": 82.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -518,8 +518,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 78.7,
-        "uptime_7d": 87.5,
-        "uptime_30d": 84.2,
+        "uptime_7d": 87.6,
+        "uptime_30d": 84.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.9,
-        "uptime_7d": 88.1,
+        "uptime_7d": 88.2,
         "uptime_30d": 84.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -677,9 +677,9 @@
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 89.9,
         "uptime_7d": 93.6,
-        "uptime_30d": 89.7
+        "uptime_30d": 89.8
       },
       {
         "name": "pfSense Gateway",
