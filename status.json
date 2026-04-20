@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T11:15:22.173103+00:00",
+  "last_updated": "2026-04-20T11:20:25.898965+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 93.8,
+        "uptime_24h": 94.1,
         "uptime_7d": 93.3,
         "uptime_30d": 91.1,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 95.2,
-        "uptime_7d": 92.2,
+        "uptime_7d": 92.3,
         "uptime_30d": 85.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -309,7 +309,7 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 94.9,
+        "uptime_24h": 95.3,
         "uptime_7d": 90.3,
         "uptime_30d": 89.9,
         "url": "https://ha-london.viktorbarzin.me"
@@ -455,7 +455,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://uptime.viktorbarzin.me"
       },
       {
@@ -511,14 +511,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 88.7,
-        "uptime_7d": 82.5,
+        "uptime_7d": 82.6,
         "uptime_30d": 78.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 92.7,
+        "uptime_24h": 93.0,
         "uptime_7d": 85.4,
         "uptime_30d": 80.5,
         "url": "https://docker.viktorbarzin.me"
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -669,9 +669,9 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_24h": 99.1,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -688,7 +688,7 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.8
       },
       {
@@ -723,8 +723,8 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3
       },
       {
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
@@ -773,7 +773,7 @@
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 95.6,
+        "uptime_24h": 96.6,
         "uptime_7d": 91.3,
         "uptime_30d": 86.1
       },
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 92.3,
+        "uptime_24h": 92.7,
         "uptime_7d": 90.2,
         "uptime_30d": 85.4
       },
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 94.7,
-        "uptime_7d": 81.1,
-        "uptime_30d": 66.9
+        "uptime_24h": 94.8,
+        "uptime_7d": 81.2,
+        "uptime_30d": 67.0
       }
     ],
     "External Reachability": [
@@ -1182,7 +1182,7 @@
       {
         "name": "[External] immich",
         "status": "up",
-        "uptime_24h": 94.1,
+        "uptime_24h": 94.4,
         "uptime_7d": 94.0,
         "uptime_30d": 94.0,
         "url": "https://immich.viktorbarzin.me"
@@ -1398,9 +1398,9 @@
       {
         "name": "[External] ha-london",
         "status": "up",
-        "uptime_24h": 94.3,
-        "uptime_7d": 90.5,
-        "uptime_30d": 90.5,
+        "uptime_24h": 95.0,
+        "uptime_7d": 90.6,
+        "uptime_30d": 90.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 91.5,
-        "uptime_7d": 84.9,
-        "uptime_30d": 84.9,
+        "uptime_7d": 85.0,
+        "uptime_30d": 85.0,
         "url": "https://registry.viktorbarzin.me"
       },
       {
