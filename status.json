@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T23:50:25.518753+00:00",
+  "last_updated": "2026-04-20T23:56:11.260425+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.1,
+        "uptime_7d": 95.2,
         "uptime_30d": 93.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.9,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.3,
+        "uptime_7d": 94.5,
         "uptime_30d": 89.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.0,
-        "uptime_30d": 84.8,
+        "uptime_7d": 89.1,
+        "uptime_30d": 84.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 90.9,
+        "uptime_7d": 91.0,
         "uptime_30d": 87.1
       },
       {
@@ -1183,8 +1183,8 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1407,8 +1407,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 93.7,
-        "uptime_30d": 93.7,
+        "uptime_7d": 93.8,
+        "uptime_30d": 93.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
