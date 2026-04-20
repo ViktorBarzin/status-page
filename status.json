@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T09:16:12.501805+00:00",
+  "last_updated": "2026-04-20T09:20:25.049715+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.1,
+        "uptime_30d": 84.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 93.8,
+        "uptime_7d": 93.9,
         "uptime_30d": 87.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 77.2,
+        "uptime_30d": 77.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 89.9,
         "uptime_7d": 84.6,
-        "uptime_30d": 79.5,
+        "uptime_30d": 79.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -730,7 +730,7 @@
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 98.8
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 92.7,
         "uptime_7d": 90.8,
-        "uptime_30d": 85.3
+        "uptime_30d": 85.4
       },
       {
         "name": "Valchedrym DDNS",
