@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T21:55:20.113323+00:00",
+  "last_updated": "2026-04-20T22:00:32.758984+00:00",
   "groups": {
     "HTTP": [
       {
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 86.8,
-        "uptime_7d": 81.3,
-        "uptime_30d": 68.3
+        "uptime_24h": 87.0,
+        "uptime_7d": 81.4,
+        "uptime_30d": 68.4
       }
     ],
     "External Reachability": [
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.7,
-        "uptime_30d": 92.7,
+        "uptime_7d": 92.8,
+        "uptime_30d": 92.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 88.3,
-        "uptime_30d": 88.3,
+        "uptime_7d": 88.4,
+        "uptime_30d": 88.4,
         "url": "https://registry.viktorbarzin.me"
       },
       {
