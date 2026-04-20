@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T19:40:26.587318+00:00",
+  "last_updated": "2026-04-20T19:45:20.564573+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.8,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 85.7,
-        "uptime_30d": 82.2,
+        "uptime_30d": 82.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.0,
-        "uptime_30d": 83.6,
+        "uptime_7d": 88.1,
+        "uptime_30d": 83.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 89.5,
+        "uptime_24h": 89.3,
         "uptime_7d": 81.7,
         "uptime_30d": 68.3
       }
@@ -1407,8 +1407,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 93.1,
-        "uptime_30d": 93.1,
+        "uptime_7d": 93.2,
+        "uptime_30d": 93.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
