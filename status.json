@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T07:35:19.594976+00:00",
+  "last_updated": "2026-04-20T07:40:22.333202+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 83.5,
+        "uptime_30d": 83.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 94.9,
         "uptime_7d": 93.5,
-        "uptime_30d": 86.9,
+        "uptime_30d": 87.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -310,8 +310,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 90.1,
-        "uptime_7d": 89.1,
-        "uptime_30d": 88.7,
+        "uptime_7d": 89.2,
+        "uptime_30d": 88.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -517,8 +517,8 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 82.2,
-        "uptime_7d": 81.0,
+        "uptime_24h": 82.5,
+        "uptime_7d": 81.1,
         "uptime_30d": 77.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 86.3,
-        "uptime_7d": 83.6,
+        "uptime_7d": 83.7,
         "uptime_30d": 78.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -766,14 +766,14 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 87.8,
+        "uptime_24h": 88.2,
         "uptime_7d": 86.5,
         "uptime_30d": 81.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 91.1,
+        "uptime_24h": 91.5,
         "uptime_7d": 90.3,
         "uptime_30d": 84.7
       },
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 89.0,
-        "uptime_7d": 89.4,
-        "uptime_30d": 89.4,
+        "uptime_7d": 89.5,
+        "uptime_30d": 89.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
