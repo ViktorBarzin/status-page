@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T13:16:14.079676+00:00",
+  "last_updated": "2026-04-20T13:20:25.636945+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.0,
+        "uptime_30d": 86.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 78.7,
+        "uptime_30d": 78.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 86.1,
-        "uptime_30d": 81.3,
+        "uptime_30d": 81.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -757,9 +757,9 @@
       {
         "name": "TP-Link Gateway (192.168.1.1)",
         "status": "up",
-        "uptime_24h": 99.5,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5
+        "uptime_24h": 99.6,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6
       }
     ],
     "Ping": [
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 95.9,
-        "uptime_7d": 88.3,
+        "uptime_7d": 88.4,
         "uptime_30d": 83.9
       },
       {
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 98.5,
+        "uptime_24h": 98.6,
         "uptime_7d": 98.0,
         "uptime_30d": 97.9
       }
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 91.9,
-        "uptime_7d": 80.7,
-        "uptime_30d": 66.9
+        "uptime_24h": 92.0,
+        "uptime_7d": 80.8,
+        "uptime_30d": 67.0
       }
     ],
     "External Reachability": [
@@ -1183,8 +1183,8 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.3,
+        "uptime_7d": 94.4,
+        "uptime_30d": 94.4,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1406,7 +1406,7 @@
       {
         "name": "[External] ha-sofia",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 98.0,
         "uptime_7d": 92.0,
         "uptime_30d": 92.0,
         "url": "https://ha-sofia.viktorbarzin.me"
