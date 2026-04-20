@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T08:36:11.284724+00:00",
+  "last_updated": "2026-04-20T08:40:23.152049+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 91.2,
-        "uptime_7d": 92.5,
+        "uptime_7d": 92.6,
         "uptime_30d": 90.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 86.3,
+        "uptime_30d": 86.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.5,
+        "uptime_30d": 84.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -205,7 +205,7 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 96.2,
+        "uptime_24h": 96.3,
         "uptime_7d": 93.7,
         "uptime_30d": 87.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 97.7,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 97.4
       }
     ],
@@ -1407,8 +1407,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 93.1,
-        "uptime_7d": 91.0,
-        "uptime_30d": 91.0,
+        "uptime_7d": 91.1,
+        "uptime_30d": 91.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1478,7 +1478,7 @@
       {
         "name": "[External] registry",
         "status": "up",
-        "uptime_24h": 85.9,
+        "uptime_24h": 86.3,
         "uptime_7d": 84.0,
         "uptime_30d": 84.0,
         "url": "https://registry.viktorbarzin.me"
