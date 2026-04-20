@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T13:20:25.636945+00:00",
+  "last_updated": "2026-04-20T13:26:11.212236+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 90.8,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -517,9 +517,9 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 93.0,
-        "uptime_7d": 83.4,
-        "uptime_30d": 79.7,
+        "uptime_24h": 94.0,
+        "uptime_7d": 83.5,
+        "uptime_30d": 79.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 86.1,
+        "uptime_7d": 86.2,
         "uptime_30d": 81.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.4,
         "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -773,9 +773,9 @@
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 97.3,
+        "uptime_24h": 98.3,
         "uptime_7d": 91.8,
-        "uptime_30d": 86.7
+        "uptime_30d": 86.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 94.3,
         "uptime_7d": 90.1,
-        "uptime_30d": 85.5
+        "uptime_30d": 85.6
       },
       {
         "name": "pfSense Gateway",
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 98.7,
         "uptime_7d": 98.0,
         "uptime_30d": 97.9
       }
@@ -820,8 +820,8 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
-        "uptime_24h": 92.0,
+        "status": "up",
+        "uptime_24h": 91.9,
         "uptime_7d": 80.8,
         "uptime_30d": 67.0
       }
@@ -1438,9 +1438,9 @@
       {
         "name": "[External] music-assistant",
         "status": "up",
-        "uptime_24h": 98.0,
-        "uptime_7d": 91.9,
-        "uptime_30d": 91.9,
+        "uptime_24h": 98.3,
+        "uptime_7d": 92.0,
+        "uptime_30d": 92.0,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 94.6,
-        "uptime_7d": 85.7,
-        "uptime_30d": 85.7,
+        "uptime_7d": 85.8,
+        "uptime_30d": 85.8,
         "url": "https://registry.viktorbarzin.me"
       },
       {
