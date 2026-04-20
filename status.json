@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T02:01:40.634660+00:00",
+  "last_updated": "2026-04-20T02:06:13.478214+00:00",
   "groups": {
     "HTTP": [
       {
@@ -332,7 +332,7 @@
       },
       {
         "name": "Blog",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 82.4,
@@ -436,7 +436,7 @@
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
         "uptime_30d": 99.6,
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 78.7,
-        "uptime_7d": 87.7,
+        "uptime_7d": 87.8,
         "uptime_30d": 84.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -660,7 +660,7 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.1,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
@@ -742,7 +742,7 @@
       },
       {
         "name": "Mail SMTP (port 25 external)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.2,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1
@@ -756,7 +756,7 @@
       },
       {
         "name": "TP-Link Gateway (192.168.1.1)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.8,
+        "uptime_24h": 89.9,
         "uptime_7d": 93.7,
         "uptime_30d": 89.9
       },
@@ -829,7 +829,7 @@
     "External Reachability": [
       {
         "name": "[External] crowdsec-web",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -837,7 +837,7 @@
       },
       {
         "name": "[External] cc",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -853,7 +853,7 @@
       },
       {
         "name": "[External] pgadmin",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -861,7 +861,7 @@
       },
       {
         "name": "[External] pma",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -869,7 +869,7 @@
       },
       {
         "name": "[External] book-search",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -877,7 +877,7 @@
       },
       {
         "name": "[External] calibre",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -885,7 +885,7 @@
       },
       {
         "name": "[External] stacks",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
