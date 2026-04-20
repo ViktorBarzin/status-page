@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T02:26:12.174788+00:00",
+  "last_updated": "2026-04-20T02:30:31.638158+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.2,
+        "uptime_30d": 82.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 90.8,
-        "uptime_7d": 89.5,
-        "uptime_30d": 81.8,
+        "uptime_7d": 89.6,
+        "uptime_30d": 81.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 88.9,
         "uptime_7d": 87.1,
-        "uptime_30d": 86.6,
+        "uptime_30d": 86.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 74.1,
+        "uptime_30d": 74.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.8,
-        "uptime_7d": 80.5,
+        "uptime_24h": 82.9,
+        "uptime_7d": 80.6,
         "uptime_30d": 75.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -730,7 +730,7 @@
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
         "status": "up",
         "uptime_24h": 99.4,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.7
       },
       {
@@ -767,14 +767,14 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 85.1,
-        "uptime_7d": 83.9,
+        "uptime_7d": 84.0,
         "uptime_30d": 78.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 89.3,
-        "uptime_7d": 88.4,
+        "uptime_7d": 88.5,
         "uptime_30d": 82.2
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 89.9,
-        "uptime_7d": 88.4,
-        "uptime_30d": 82.5
+        "uptime_7d": 88.5,
+        "uptime_30d": 82.6
       },
       {
         "name": "pfSense Gateway",
@@ -1183,8 +1183,8 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 91.8,
-        "uptime_7d": 91.8,
-        "uptime_30d": 91.8,
+        "uptime_7d": 91.9,
+        "uptime_30d": 91.9,
         "url": "https://immich.viktorbarzin.me"
       },
       {
