@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T21:40:26.305894+00:00",
+  "last_updated": "2026-04-20T21:45:21.132568+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.5,
+        "uptime_7d": 95.6,
         "uptime_30d": 90.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.0,
+        "uptime_7d": 94.1,
         "uptime_30d": 88.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -310,8 +310,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.4,
-        "uptime_30d": 92.1,
+        "uptime_7d": 92.5,
+        "uptime_30d": 92.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.5,
-        "uptime_30d": 84.2,
+        "uptime_7d": 88.6,
+        "uptime_30d": 84.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -660,7 +660,7 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.3,
         "uptime_30d": 99.3,
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 87.0,
+        "uptime_24h": 86.8,
         "uptime_7d": 81.3,
         "uptime_30d": 68.3
       }
@@ -1407,8 +1407,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 93.4,
-        "uptime_30d": 93.4,
+        "uptime_7d": 93.5,
+        "uptime_30d": 93.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
