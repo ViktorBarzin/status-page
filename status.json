@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T22:36:11.800182+00:00",
+  "last_updated": "2026-04-21T22:40:24.943157+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.6,
         "uptime_30d": 97.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -446,7 +446,7 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -758,8 +758,8 @@
         "name": "TP-Link Gateway (192.168.1.1)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8
+        "uptime_7d": 99.9,
+        "uptime_30d": 99.9
       }
     ],
     "Ping": [
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Sofia RPI",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 90.5,
-        "uptime_7d": 80.5,
-        "uptime_30d": 67.7
+        "uptime_24h": 90.7,
+        "uptime_7d": 80.6,
+        "uptime_30d": 67.8
       }
     ],
     "External Reachability": [
