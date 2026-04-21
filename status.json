@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T18:06:11.256874+00:00",
+  "last_updated": "2026-04-21T18:10:25.870435+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -786,7 +786,7 @@
       },
       {
         "name": "Sofia RPI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 95.2,
         "uptime_30d": 89.6
