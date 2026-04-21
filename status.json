@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T14:55:19.519087+00:00",
+  "last_updated": "2026-04-21T15:00:30.884014+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -254,7 +254,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.7,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -566,7 +566,7 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 97.8,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -710,14 +710,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "Traefik LoadBalancer",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "NFS Server (Proxmox)",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 91.3
+        "uptime_30d": 91.4
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 98.6,
-        "uptime_7d": 96.1,
-        "uptime_30d": 89.9
+        "uptime_24h": 97.9,
+        "uptime_7d": 95.6,
+        "uptime_30d": 89.6
       },
       {
         "name": "pfSense Gateway",
@@ -814,16 +814,16 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 88.0,
-        "uptime_7d": 77.9,
-        "uptime_30d": 65.5
+        "uptime_24h": 88.2,
+        "uptime_7d": 78.0,
+        "uptime_30d": 65.6
       }
     ],
     "External Reachability": [
@@ -1647,8 +1647,8 @@
         "name": "[External] ci",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://ci.viktorbarzin.me"
       },
       {
