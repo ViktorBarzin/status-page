@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T06:26:12.670260+00:00",
+  "last_updated": "2026-04-21T06:30:32.226129+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,15 +157,15 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 85.7,
+        "uptime_30d": 85.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
         "name": "Vaultwarden",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.4,
         "uptime_30d": 99.1,
         "url": "http://vaultwarden.vaultwarden"
@@ -173,9 +173,9 @@
       {
         "name": "Wrongmove (UI)",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 83.7,
+        "uptime_30d": 83.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -189,7 +189,7 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.9,
         "uptime_30d": 99.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -197,7 +197,7 @@
       {
         "name": "Frigate",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 98.3,
         "url": "https://frigate.viktorbarzin.me"
@@ -221,7 +221,7 @@
       {
         "name": "SNMP Exporter",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.9,
         "uptime_30d": 96.2,
         "url": "https://grafana.viktorbarzin.me"
@@ -229,7 +229,7 @@
       {
         "name": "Traefik Dashboard",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://traefik.viktorbarzin.me"
@@ -237,7 +237,7 @@
       {
         "name": "CrowdSec LAPI",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.4,
         "url": "https://crowdsec-web.viktorbarzin.me"
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 95.4,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.7,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,9 +661,9 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 99.2,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 99.1,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -729,7 +729,7 @@
       {
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 99.2
       },
@@ -794,7 +794,7 @@
       {
         "name": "pfSense Gateway",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7
       }
@@ -1407,8 +1407,8 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1439,8 +1439,8 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
