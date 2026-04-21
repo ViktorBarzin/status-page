@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T13:56:11.283996+00:00",
+  "last_updated": "2026-04-21T14:00:26.989310+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 85.7,
+        "uptime_30d": 85.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 91.1
+        "uptime_30d": 91.2
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.8,
-        "uptime_30d": 90.4
+        "uptime_30d": 90.5
       },
       {
         "name": "pfSense Gateway",
