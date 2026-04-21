@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T22:40:24.943157+00:00",
+  "last_updated": "2026-04-21T22:46:12.605037+00:00",
   "groups": {
     "HTTP": [
       {
@@ -678,8 +678,8 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 90.7,
+        "uptime_24h": 90.5,
         "uptime_7d": 80.6,
         "uptime_30d": 67.8
       }
