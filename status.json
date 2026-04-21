@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T10:10:25.603388+00:00",
+  "last_updated": "2026-04-21T10:16:12.604245+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.0,
-        "uptime_30d": 90.8,
+        "uptime_30d": 90.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.4,
-        "uptime_30d": 89.1,
+        "uptime_30d": 89.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 91.5
+        "uptime_30d": 91.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 97.3,
         "uptime_7d": 95.8,
-        "uptime_30d": 89.5
+        "uptime_30d": 89.6
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 84.4,
+        "uptime_24h": 86.7,
         "uptime_7d": 78.7,
         "uptime_30d": 65.3
       }
