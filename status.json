@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T13:40:25.839326+00:00",
+  "last_updated": "2026-04-21T13:46:12.510456+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -669,7 +669,7 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 99.4,
+        "uptime_24h": 99.5,
         "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
@@ -677,7 +677,7 @@
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 99.4,
+        "uptime_24h": 99.5,
         "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "http://192.168.1.8:8123/manifest.json"
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 91.1
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 92.2
+        "uptime_30d": 92.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8
+        "uptime_30d": 98.9
       }
     ],
     "Redis": [
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
