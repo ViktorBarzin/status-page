@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T03:35:19.323654+00:00",
+  "last_updated": "2026-04-21T03:40:25.419321+00:00",
   "groups": {
     "HTTP": [
       {
@@ -102,7 +102,7 @@
         "name": "authentik-server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.0,
         "url": "http://goauthentik-server.authentik"
       },
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -159,14 +159,14 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.6,
+        "uptime_30d": 84.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
         "name": "Vaultwarden",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.0,
         "url": "http://vaultwarden.vaultwarden"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 82.5,
+        "uptime_30d": 82.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -239,7 +239,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 74.8,
+        "uptime_30d": 74.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.3,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -639,7 +639,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -723,7 +723,7 @@
         "name": "NFS Server (Proxmox)",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.0
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 84.4,
-        "uptime_7d": 76.1,
-        "uptime_30d": 63.2
+        "uptime_24h": 84.6,
+        "uptime_7d": 76.3,
+        "uptime_30d": 63.3
       }
     ],
     "External Reachability": [
@@ -895,16 +895,16 @@
         "name": "[External] frigate",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "[External] highlights-immich",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -919,8 +919,8 @@
         "name": "[External] networking-toolbox",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -935,8 +935,8 @@
         "name": "[External] pb",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -1679,8 +1679,8 @@
         "name": "[External] pdf",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://pdf.viktorbarzin.me"
       }
     ],
