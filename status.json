@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T20:35:19.162516+00:00",
+  "last_updated": "2026-04-21T20:40:22.555013+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 92.6,
+        "uptime_30d": 92.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.1,
+        "uptime_30d": 81.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 93.3
+        "uptime_30d": 93.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 95.5,
-        "uptime_30d": 90.1
+        "uptime_30d": 90.2
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 88.0,
-        "uptime_7d": 79.6,
-        "uptime_30d": 67.1
+        "uptime_24h": 88.2,
+        "uptime_7d": 79.7,
+        "uptime_30d": 67.2
       }
     ],
     "External Reachability": [
