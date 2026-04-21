@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T03:50:26.286403+00:00",
+  "last_updated": "2026-04-21T03:55:19.765360+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.7,
+        "uptime_30d": 84.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.5,
+        "uptime_7d": 95.6,
         "uptime_30d": 94.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.3,
-        "uptime_30d": 87.1,
+        "uptime_30d": 87.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 95.5,
-        "uptime_30d": 88.4
+        "uptime_30d": 88.5
       },
       {
         "name": "Valchedrym Video System",
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 99.4
       }
     ],
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://registry.viktorbarzin.me"
       },
       {
