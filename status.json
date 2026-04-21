@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T23:30:27.665668+00:00",
+  "last_updated": "2026-04-21T23:36:11.283853+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 92.3,
+        "uptime_30d": 92.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 92.7
+        "uptime_30d": 92.8
       },
       {
         "name": "Valchedrym Video System",
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 90.5,
-        "uptime_7d": 80.8,
+        "uptime_7d": 81.1,
         "uptime_30d": 67.9
       }
     ],
