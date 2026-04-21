@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T12:46:13.281468+00:00",
+  "last_updated": "2026-04-21T12:50:23.321998+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.7,
+        "uptime_30d": 87.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 90.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 89.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -670,8 +670,8 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
