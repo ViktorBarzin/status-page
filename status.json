@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:30:28.413561+00:00",
+  "last_updated": "2026-04-21T04:36:11.878402+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 82.9,
+        "uptime_30d": 83.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -660,7 +660,7 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.3,
         "uptime_30d": 99.3,
@@ -744,8 +744,8 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3
       },
       {
         "name": "PVE NFS (2049)",
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 95.6,
+        "uptime_7d": 95.7,
         "uptime_30d": 88.7
       },
       {
