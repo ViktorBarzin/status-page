@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T14:00:26.989310+00:00",
+  "last_updated": "2026-04-21T14:05:19.928067+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.2,
+        "uptime_30d": 86.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -786,10 +786,10 @@
       },
       {
         "name": "Sofia RPI",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 96.8,
-        "uptime_30d": 90.5
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 96.2,
+        "uptime_30d": 89.9
       },
       {
         "name": "pfSense Gateway",
@@ -820,10 +820,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 88.0,
-        "uptime_7d": 77.5,
-        "uptime_30d": 65.2
+        "uptime_7d": 77.7,
+        "uptime_30d": 65.3
       }
     ],
     "External Reachability": [
