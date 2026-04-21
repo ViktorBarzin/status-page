@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T22:46:12.605037+00:00",
+  "last_updated": "2026-04-21T22:50:22.692940+00:00",
   "groups": {
     "HTTP": [
       {
@@ -102,7 +102,7 @@
         "name": "authentik-server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.4,
         "url": "http://goauthentik-server.authentik"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 92.9,
+        "uptime_30d": 93.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -730,7 +730,7 @@
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 92.6
+        "uptime_30d": 92.7
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 95.7,
-        "uptime_30d": 90.5
+        "uptime_30d": 90.6
       },
       {
         "name": "pfSense Gateway",
