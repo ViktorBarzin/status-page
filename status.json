@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-22T15:10:21.681624+00:00",
+  "last_updated": "2026-04-22T15:16:13.104957+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 96.6,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -254,7 +254,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 95.8,
-        "uptime_7d": 96.8,
+        "uptime_7d": 96.9,
         "uptime_30d": 96.0,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.4,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -710,7 +710,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.6
+        "uptime_30d": 98.7
       },
       {
         "name": "Traefik LoadBalancer",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 97.4,
-        "uptime_30d": 90.9
+        "uptime_30d": 91.0
       },
       {
         "name": "Valchedrym Video System",
@@ -811,10 +811,10 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "up",
-        "uptime_24h": 84.6,
-        "uptime_7d": 89.6,
-        "uptime_30d": 89.5
+        "status": "down",
+        "uptime_24h": 84.1,
+        "uptime_7d": 89.3,
+        "uptime_30d": 89.2
       }
     ],
     "Push": [
@@ -926,9 +926,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 83.9,
-        "uptime_7d": 88.7,
-        "uptime_30d": 88.7,
+        "uptime_24h": 83.6,
+        "uptime_7d": 88.6,
+        "uptime_30d": 88.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1151,8 +1151,8 @@
         "name": "[External] hackmd",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 97.7,
-        "uptime_30d": 97.7,
+        "uptime_7d": 97.8,
+        "uptime_30d": 97.8,
         "url": "https://hackmd.viktorbarzin.me"
       },
       {
@@ -1183,8 +1183,8 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.8,
+        "uptime_7d": 96.9,
+        "uptime_30d": 96.9,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.3,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://kms.viktorbarzin.me"
@@ -1551,8 +1551,8 @@
         "name": "[External] tandoor",
         "status": "up",
         "uptime_24h": 96.5,
-        "uptime_7d": 97.7,
-        "uptime_30d": 97.7,
+        "uptime_7d": 97.8,
+        "uptime_30d": 97.8,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
