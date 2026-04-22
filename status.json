@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T19:15:20.093852+00:00",
+  "last_updated": "2026-04-22T19:20:21.959846+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 95.1,
-        "uptime_7d": 96.9,
+        "uptime_7d": 97.0,
         "uptime_30d": 96.2,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.1,
+        "uptime_30d": 87.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.8,
         "uptime_30d": 97.4,
         "url": "https://health.viktorbarzin.me"
       },
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 95.3,
         "uptime_7d": 97.3,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 66.9,
-        "uptime_7d": 77.6,
+        "uptime_7d": 77.7,
         "uptime_30d": 74.4
       },
       {
@@ -803,7 +803,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 88.2,
+        "uptime_24h": 88.1,
         "uptime_7d": 94.4,
         "uptime_30d": 93.2
       }
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 81.9,
         "uptime_7d": 89.0,
-        "uptime_30d": 88.8
+        "uptime_30d": 88.9
       }
     ],
     "Push": [
