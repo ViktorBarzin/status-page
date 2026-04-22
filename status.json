@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T18:06:10.815096+00:00",
+  "last_updated": "2026-04-22T18:10:21.702003+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 89.0,
+        "uptime_30d": 89.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.3,
+        "uptime_30d": 87.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 88.0,
-        "uptime_7d": 91.9,
+        "uptime_7d": 92.0,
         "uptime_30d": 86.1,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -710,7 +710,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.7
+        "uptime_30d": 98.8
       },
       {
         "name": "Traefik LoadBalancer",
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 81.9,
         "uptime_7d": 88.7,
-        "uptime_30d": 88.5
+        "uptime_30d": 88.6
       }
     ],
     "Push": [
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 80.2,
-        "uptime_7d": 87.1,
-        "uptime_30d": 87.1,
+        "uptime_7d": 87.2,
+        "uptime_30d": 87.2,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1023,8 +1023,8 @@
         "name": "[External] dolt-workbench",
         "status": "up",
         "uptime_24h": 98.2,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://dolt-workbench.viktorbarzin.me"
       },
       {
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.0,
         "uptime_30d": 99.0,
         "url": "https://kms.viktorbarzin.me"
@@ -1231,8 +1231,8 @@
         "name": "[External] linkwarden",
         "status": "up",
         "uptime_24h": 98.2,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://linkwarden.viktorbarzin.me"
       },
       {
