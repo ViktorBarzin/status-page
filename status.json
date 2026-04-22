@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T13:45:23.303982+00:00",
+  "last_updated": "2026-04-22T13:50:22.925826+00:00",
   "groups": {
     "HTTP": [
       {
@@ -438,7 +438,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 95.3,
-        "uptime_7d": 96.8,
+        "uptime_7d": 96.9,
         "uptime_30d": 96.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -446,7 +446,7 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 87.5,
-        "uptime_7d": 91.6,
+        "uptime_7d": 91.7,
         "uptime_30d": 91.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 97.3,
-        "uptime_30d": 90.6
+        "uptime_30d": 90.7
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 76.1,
-        "uptime_7d": 82.6,
-        "uptime_30d": 78.2
+        "uptime_24h": 75.8,
+        "uptime_7d": 82.4,
+        "uptime_30d": 78.0
       },
       {
         "name": "pfSense Gateway",
@@ -803,7 +803,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 91.3,
+        "uptime_24h": 91.2,
         "uptime_7d": 94.4,
         "uptime_30d": 93.2
       }
@@ -812,16 +812,16 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 89.8,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.6
+        "uptime_24h": 89.4,
+        "uptime_7d": 92.6,
+        "uptime_30d": 92.4
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 89.2,
+        "uptime_24h": 90.4,
         "uptime_7d": 78.6,
         "uptime_30d": 65.1
       }
@@ -925,10 +925,10 @@
       },
       {
         "name": "[External] nextcloud",
-        "status": "up",
-        "uptime_24h": 89.7,
-        "uptime_7d": 92.4,
-        "uptime_30d": 92.4,
+        "status": "down",
+        "uptime_24h": 88.5,
+        "uptime_7d": 91.6,
+        "uptime_30d": 91.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
