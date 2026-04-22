@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T16:36:10.950027+00:00",
+  "last_updated": "2026-04-22T16:40:22.335369+00:00",
   "groups": {
     "HTTP": [
       {
@@ -31,7 +31,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -630,7 +630,7 @@
         "name": "QBittorrent",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 97.1,
+        "uptime_7d": 97.2,
         "uptime_30d": 96.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -689,7 +689,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "Imap",
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 98.5,
-        "uptime_30d": 92.1
+        "uptime_30d": 92.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -786,7 +786,7 @@
       },
       {
         "name": "Sofia RPI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 70.0,
         "uptime_7d": 78.9,
         "uptime_30d": 75.3
@@ -820,10 +820,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "up",
-        "uptime_24h": 90.3,
-        "uptime_7d": 79.7,
-        "uptime_30d": 65.8
+        "status": "down",
+        "uptime_24h": 87.8,
+        "uptime_7d": 78.8,
+        "uptime_30d": 65.4
       }
     ],
     "External Reachability": [
@@ -1007,8 +1007,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 98.0,
-        "uptime_30d": 98.0,
+        "uptime_7d": 98.1,
+        "uptime_30d": 98.1,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://kms.viktorbarzin.me"
