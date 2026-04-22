@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-22T19:20:21.959846+00:00",
+  "last_updated": "2026-04-22T19:26:10.558820+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 97.0,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -166,7 +166,7 @@
         "name": "Vaultwarden",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.8,
         "url": "http://vaultwarden.vaultwarden"
       },
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.6,
+        "uptime_30d": 87.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.4,
-        "uptime_30d": 80.3,
+        "uptime_30d": 80.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 66.9,
         "uptime_7d": 77.7,
-        "uptime_30d": 74.4
+        "uptime_30d": 74.5
       },
       {
         "name": "pfSense Gateway",
@@ -803,7 +803,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 88.1,
+        "uptime_24h": 88.0,
         "uptime_7d": 94.4,
         "uptime_30d": 93.2
       }
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 85.3,
-        "uptime_7d": 78.8,
-        "uptime_30d": 65.7
+        "uptime_24h": 85.5,
+        "uptime_7d": 78.9,
+        "uptime_30d": 65.8
       }
     ],
     "External Reachability": [
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.3,
         "uptime_7d": 99.0,
         "uptime_30d": 99.0,
         "url": "https://kms.viktorbarzin.me"
