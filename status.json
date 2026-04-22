@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T03:15:20.322730+00:00",
+  "last_updated": "2026-04-22T03:20:22.570070+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.8,
+        "uptime_30d": 84.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.2,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 94.4,
-        "uptime_30d": 86.4
+        "uptime_30d": 86.5
       },
       {
         "name": "pfSense Gateway",
