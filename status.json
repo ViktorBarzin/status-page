@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T18:40:21.791674+00:00",
+  "last_updated": "2026-04-22T18:46:11.567962+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.4,
-        "uptime_30d": 80.1,
+        "uptime_30d": 80.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 87.5,
         "uptime_7d": 92.7,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 98.9,
-        "uptime_7d": 97.0,
-        "uptime_30d": 90.4,
+        "uptime_24h": 98.6,
+        "uptime_7d": 96.8,
+        "uptime_30d": 90.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 66.9,
-        "uptime_7d": 77.3,
+        "uptime_7d": 77.4,
         "uptime_30d": 74.1
       },
       {
@@ -803,7 +803,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 88.6,
+        "uptime_24h": 88.5,
         "uptime_7d": 94.4,
         "uptime_30d": 93.2
       }
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 81.9,
-        "uptime_7d": 88.8,
+        "uptime_7d": 88.9,
         "uptime_30d": 88.7
       }
     ],
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 85.3,
+        "uptime_24h": 85.1,
         "uptime_7d": 78.6,
         "uptime_30d": 65.6
       }
@@ -1007,8 +1007,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1175,8 +1175,8 @@
         "name": "[External] home",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.3,
         "uptime_7d": 99.0,
         "uptime_30d": 99.0,
         "url": "https://kms.viktorbarzin.me"
@@ -1645,7 +1645,7 @@
       },
       {
         "name": "[External] ci",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.2,
         "uptime_30d": 99.2,
