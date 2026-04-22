@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T01:30:29.286708+00:00",
+  "last_updated": "2026-04-22T01:35:19.614634+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.4,
+        "uptime_30d": 88.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -254,7 +254,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.0,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -710,14 +710,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6
+        "uptime_30d": 99.7
       },
       {
         "name": "Traefik LoadBalancer",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6
+        "uptime_30d": 99.7
       },
       {
         "name": "NFS Server (Proxmox)",
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.4
+        "uptime_30d": 98.5
       },
       {
         "name": "Sofia RPI",
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.6
+        "uptime_30d": 99.7
       }
     ],
     "Push": [
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 93.2,
-        "uptime_7d": 81.6,
+        "uptime_7d": 81.9,
         "uptime_30d": 68.5
       }
     ],
@@ -1647,8 +1647,8 @@
         "name": "[External] ci",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
