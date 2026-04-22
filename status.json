@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T14:20:22.696680+00:00",
+  "last_updated": "2026-04-22T14:25:20.076355+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 95.4,
         "uptime_7d": 97.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 87.5,
         "uptime_7d": 91.8,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -811,17 +811,17 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "down",
-        "uptime_24h": 87.6,
-        "uptime_7d": 91.5,
-        "uptime_30d": 91.3
+        "status": "up",
+        "uptime_24h": 87.3,
+        "uptime_7d": 91.3,
+        "uptime_30d": 91.1
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 90.4,
+        "uptime_24h": 90.3,
         "uptime_7d": 78.7,
         "uptime_30d": 65.2
       }
@@ -925,10 +925,10 @@
       },
       {
         "name": "[External] nextcloud",
-        "status": "up",
-        "uptime_24h": 87.3,
-        "uptime_7d": 90.9,
-        "uptime_30d": 90.9,
+        "status": "down",
+        "uptime_24h": 86.7,
+        "uptime_7d": 90.5,
+        "uptime_30d": 90.5,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
