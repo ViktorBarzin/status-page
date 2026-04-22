@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T09:50:25.245178+00:00",
+  "last_updated": "2026-04-22T09:55:20.191695+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.1,
+        "uptime_30d": 85.2,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 77.3,
+        "uptime_30d": 77.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -445,9 +445,9 @@
       {
         "name": "Book Search Deep Health",
         "status": "down",
-        "uptime_24h": 95.0,
-        "uptime_7d": 96.2,
-        "uptime_30d": 95.9,
+        "uptime_24h": 94.6,
+        "uptime_7d": 95.9,
+        "uptime_30d": 95.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 90.8
+        "uptime_30d": 90.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 90.8,
-        "uptime_7d": 91.3,
-        "uptime_30d": 85.1
+        "uptime_24h": 90.5,
+        "uptime_7d": 91.0,
+        "uptime_30d": 85.0
       },
       {
         "name": "pfSense Gateway",
@@ -803,9 +803,9 @@
       {
         "name": "Immich postgresql",
         "status": "down",
-        "uptime_24h": 95.8,
-        "uptime_7d": 96.8,
-        "uptime_30d": 95.6
+        "uptime_24h": 95.5,
+        "uptime_7d": 96.6,
+        "uptime_30d": 95.4
       }
     ],
     "Redis": [
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 88.0,
-        "uptime_7d": 78.3,
+        "uptime_7d": 78.7,
         "uptime_30d": 64.9
       }
     ],
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.2,
+        "uptime_7d": 97.3,
+        "uptime_30d": 97.3,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1614,9 +1614,9 @@
       {
         "name": "[External] vault",
         "status": "down",
-        "uptime_24h": 93.9,
-        "uptime_7d": 95.3,
-        "uptime_30d": 95.3,
+        "uptime_24h": 93.5,
+        "uptime_7d": 95.1,
+        "uptime_30d": 95.1,
         "url": "https://vault.viktorbarzin.me"
       },
       {
