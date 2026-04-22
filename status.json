@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T05:46:12.207686+00:00",
+  "last_updated": "2026-04-22T05:50:26.352497+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.6,
+        "uptime_30d": 83.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.1,
+        "uptime_30d": 83.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -518,8 +518,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.1,
-        "uptime_30d": 88.9,
+        "uptime_7d": 97.2,
+        "uptime_30d": 89.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.3,
+        "uptime_7d": 96.4,
         "uptime_30d": 87.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 90.4
+        "uptime_30d": 90.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 93.1,
-        "uptime_7d": 78.4,
-        "uptime_30d": 64.5
+        "uptime_24h": 91.8,
+        "uptime_7d": 77.9,
+        "uptime_30d": 64.3
       }
     ],
     "External Reachability": [
