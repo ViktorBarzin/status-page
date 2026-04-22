@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-22T22:40:21.392778+00:00",
+  "last_updated": "2026-04-22T22:45:19.745622+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 97.2,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -189,9 +189,9 @@
       {
         "name": "Tuya-Bridge",
         "status": "down",
-        "uptime_24h": 90.4,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.8,
+        "uptime_24h": 90.0,
+        "uptime_7d": 94.6,
+        "uptime_30d": 94.6,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.4,
-        "uptime_30d": 81.2,
+        "uptime_30d": 81.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 95.1,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 96.6,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -551,7 +551,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 95.5,
-        "uptime_7d": 95.5,
-        "uptime_30d": 89.7,
+        "status": "down",
+        "uptime_24h": 94.5,
+        "uptime_7d": 95.0,
+        "uptime_30d": 89.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 66.9,
-        "uptime_7d": 79.2,
-        "uptime_30d": 76.0
+        "uptime_7d": 79.3,
+        "uptime_30d": 76.1
       },
       {
         "name": "pfSense Gateway",
@@ -803,7 +803,7 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 84.8,
+        "uptime_24h": 84.7,
         "uptime_7d": 94.4,
         "uptime_30d": 93.2
       }
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 81.3,
+        "uptime_24h": 81.1,
         "uptime_7d": 78.4,
         "uptime_30d": 65.9
       }
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "down",
-        "uptime_24h": 89.5,
-        "uptime_7d": 94.4,
-        "uptime_30d": 94.4,
+        "uptime_24h": 89.1,
+        "uptime_7d": 94.2,
+        "uptime_30d": 94.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
