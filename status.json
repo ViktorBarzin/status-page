@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T04:40:25.272971+00:00",
+  "last_updated": "2026-04-22T04:46:12.060447+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 89.3,
+        "uptime_30d": 89.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.2,
-        "uptime_30d": 87.4,
+        "uptime_30d": 87.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,14 +768,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.3,
-        "uptime_30d": 88.9
+        "uptime_30d": 89.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 90.1
+        "uptime_30d": 90.2
       },
       {
         "name": "Valchedrym DDNS",
