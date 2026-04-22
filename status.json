@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T14:05:19.463948+00:00",
+  "last_updated": "2026-04-22T14:10:22.685980+00:00",
   "groups": {
     "HTTP": [
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 92.6,
         "uptime_7d": 95.1,
-        "uptime_30d": 94.0,
+        "uptime_30d": 94.1,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 88.0,
         "uptime_7d": 91.1,
-        "uptime_30d": 84.8,
+        "uptime_30d": 84.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -630,7 +630,7 @@
         "name": "QBittorrent",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 96.9,
+        "uptime_7d": 97.0,
         "uptime_30d": 95.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 76.7,
-        "uptime_7d": 82.6,
-        "uptime_30d": 78.1
+        "uptime_24h": 76.4,
+        "uptime_7d": 82.4,
+        "uptime_30d": 78.0
       },
       {
         "name": "pfSense Gateway",
@@ -811,10 +811,10 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "up",
-        "uptime_24h": 88.6,
-        "uptime_7d": 92.1,
-        "uptime_30d": 91.9
+        "status": "down",
+        "uptime_24h": 88.2,
+        "uptime_7d": 91.9,
+        "uptime_30d": 91.7
       }
     ],
     "Push": [
@@ -926,9 +926,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 88.2,
-        "uptime_7d": 91.4,
-        "uptime_30d": 91.4,
+        "uptime_24h": 87.9,
+        "uptime_7d": 91.2,
+        "uptime_30d": 91.2,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
