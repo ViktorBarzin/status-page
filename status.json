@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T23:46:11.388560+00:00",
+  "last_updated": "2026-04-22T23:50:22.414039+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 95.1,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 96.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -189,9 +189,9 @@
       {
         "name": "Tuya-Bridge",
         "status": "down",
-        "uptime_24h": 85.7,
-        "uptime_7d": 92.5,
-        "uptime_30d": 92.5,
+        "uptime_24h": 85.4,
+        "uptime_7d": 92.4,
+        "uptime_30d": 92.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.1,
+        "uptime_30d": 93.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 93.5,
-        "uptime_7d": 94.6,
-        "uptime_30d": 89.0,
+        "uptime_24h": 93.2,
+        "uptime_7d": 94.4,
+        "uptime_30d": 88.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 81.9,
-        "uptime_7d": 90.0,
+        "uptime_7d": 90.1,
         "uptime_30d": 89.9
       }
     ],
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://kms.viktorbarzin.me"
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "down",
-        "uptime_24h": 84.9,
-        "uptime_7d": 92.1,
-        "uptime_30d": 92.1,
+        "uptime_24h": 84.6,
+        "uptime_7d": 91.9,
+        "uptime_30d": 91.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1663,8 +1663,8 @@
         "name": "[External] yt",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://yt.viktorbarzin.me"
       },
       {
