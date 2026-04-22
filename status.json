@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T10:15:23.876507+00:00",
+  "last_updated": "2026-04-22T10:20:26.259035+00:00",
   "groups": {
     "HTTP": [
       {
@@ -85,9 +85,9 @@
       {
         "name": "calibre",
         "status": "down",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.5,
-        "uptime_30d": 97.7,
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.2,
+        "uptime_30d": 97.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.3,
+        "uptime_30d": 87.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -213,9 +213,9 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 98.0,
-        "uptime_30d": 90.1,
+        "uptime_24h": 98.6,
+        "uptime_7d": 97.7,
+        "uptime_30d": 89.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 97.3,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -445,9 +445,9 @@
       {
         "name": "Book Search Deep Health",
         "status": "down",
-        "uptime_24h": 93.2,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.6,
+        "uptime_24h": 92.9,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 89.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 96.3,
+        "uptime_7d": 96.4,
         "uptime_30d": 88.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 90.9
+        "uptime_30d": 91.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 89.1,
-        "uptime_7d": 90.1,
-        "uptime_30d": 84.2
+        "uptime_24h": 88.8,
+        "uptime_7d": 89.9,
+        "uptime_30d": 84.1
       },
       {
         "name": "pfSense Gateway",
@@ -803,9 +803,9 @@
       {
         "name": "Immich postgresql",
         "status": "down",
-        "uptime_24h": 94.1,
-        "uptime_7d": 95.6,
-        "uptime_30d": 94.4
+        "uptime_24h": 93.7,
+        "uptime_7d": 95.3,
+        "uptime_30d": 94.2
       }
     ],
     "Redis": [
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 88.2,
+        "uptime_24h": 90.5,
         "uptime_7d": 78.7,
         "uptime_30d": 65.0
       }
@@ -878,9 +878,9 @@
       {
         "name": "[External] calibre",
         "status": "down",
-        "uptime_24h": 97.9,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.5,
+        "uptime_24h": 97.6,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -1614,9 +1614,9 @@
       {
         "name": "[External] vault",
         "status": "down",
-        "uptime_24h": 92.2,
-        "uptime_7d": 94.1,
-        "uptime_30d": 94.1,
+        "uptime_24h": 91.8,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.9,
         "url": "https://vault.viktorbarzin.me"
       },
       {
