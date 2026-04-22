@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T13:20:24.607111+00:00",
+  "last_updated": "2026-04-22T13:26:09.572534+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 95.4,
         "uptime_7d": 96.9,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.3,
-        "uptime_30d": 78.3,
+        "uptime_30d": 78.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -439,14 +439,14 @@
         "status": "up",
         "uptime_24h": 95.3,
         "uptime_7d": 96.8,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 87.5,
-        "uptime_7d": 91.5,
+        "uptime_7d": 91.6,
         "uptime_30d": 91.3,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -479,7 +479,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 90.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -526,8 +526,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 95.1,
-        "uptime_7d": 96.6,
-        "uptime_30d": 95.7,
+        "uptime_7d": 96.7,
+        "uptime_30d": 95.8,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -607,7 +607,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 90.6
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 77.9,
-        "uptime_7d": 83.6,
-        "uptime_30d": 78.9
+        "uptime_24h": 77.5,
+        "uptime_7d": 83.4,
+        "uptime_30d": 78.8
       },
       {
         "name": "pfSense Gateway",
@@ -811,10 +811,10 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "up",
-        "uptime_24h": 91.5,
-        "uptime_7d": 93.9,
-        "uptime_30d": 93.7
+        "status": "down",
+        "uptime_24h": 91.1,
+        "uptime_7d": 93.7,
+        "uptime_30d": 93.5
       }
     ],
     "Push": [
@@ -925,7 +925,7 @@
       },
       {
         "name": "[External] nextcloud",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 90.0,
         "uptime_7d": 92.5,
         "uptime_30d": 92.5,
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.3,
         "uptime_7d": 98.8,
         "uptime_30d": 98.8,
         "url": "https://kms.viktorbarzin.me"
