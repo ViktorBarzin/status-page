@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T08:55:19.890309+00:00",
+  "last_updated": "2026-04-22T09:00:31.963268+00:00",
   "groups": {
     "HTTP": [
       {
@@ -437,17 +437,17 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 99.6,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_24h": 99.4,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
         "name": "Book Search Deep Health",
         "status": "down",
-        "uptime_24h": 98.8,
-        "uptime_7d": 99.0,
-        "uptime_30d": 98.7,
+        "uptime_24h": 98.5,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 99.5,
+        "uptime_24h": 99.4,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -743,9 +743,9 @@
       {
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 99.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.1
       },
       {
         "name": "PVE NFS (2049)",
@@ -774,7 +774,7 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 90.6
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 94.6,
-        "uptime_7d": 93.8,
-        "uptime_30d": 87.2
+        "uptime_24h": 94.2,
+        "uptime_7d": 93.6,
+        "uptime_30d": 87.0
       },
       {
         "name": "pfSense Gateway",
@@ -1054,105 +1054,105 @@
       {
         "name": "[External] dashy",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://dashy.viktorbarzin.me"
       },
       {
         "name": "[External] audiblez",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://audiblez.viktorbarzin.me"
       },
       {
         "name": "[External] ebook2audiobook",
         "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://ebook2audiobook.viktorbarzin.me"
       },
       {
         "name": "[External] audiobookshelf",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
         "name": "[External] echo",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://echo.viktorbarzin.me"
       },
       {
         "name": "[External] draw",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://draw.viktorbarzin.me"
       },
       {
         "name": "[External] f1",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://f1.viktorbarzin.me"
       },
       {
         "name": "[External] foolery",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://foolery.viktorbarzin.me"
       },
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
         "name": "[External] music-emo",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://music-emo.viktorbarzin.me"
       },
       {
         "name": "[External] music-viktor",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://music-viktor.viktorbarzin.me"
       },
       {
         "name": "[External] rss",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://rss.viktorbarzin.me"
       },
       {
         "name": "[External] hackmd",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://hackmd.viktorbarzin.me"
       },
       {
@@ -1174,9 +1174,9 @@
       {
         "name": "[External] home",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -1190,9 +1190,9 @@
       {
         "name": "[External] insta2spotify",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -1214,17 +1214,17 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://kms.viktorbarzin.me"
       },
       {
         "name": "[External] k8s",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://k8s.viktorbarzin.me"
       },
       {
@@ -1238,33 +1238,33 @@
       {
         "name": "[External] mail",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://mail.viktorbarzin.me"
       },
       {
         "name": "[External] matrix",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
         "name": "[External] meshcentral",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
         "name": "[External] grafana",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -1350,9 +1350,9 @@
       {
         "name": "[External] phpipam",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://phpipam.viktorbarzin.me"
       },
       {
@@ -1366,33 +1366,33 @@
       {
         "name": "[External] priority-pass",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://priority-pass.viktorbarzin.me"
       },
       {
         "name": "[External] docker",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "[External] files",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://files.viktorbarzin.me"
       },
       {
         "name": "[External] gw",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://gw.viktorbarzin.me"
       },
       {
@@ -1614,9 +1614,9 @@
       {
         "name": "[External] vault",
         "status": "down",
-        "uptime_24h": 97.6,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_24h": 97.3,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://vault.viktorbarzin.me"
       },
       {
