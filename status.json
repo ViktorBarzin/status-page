@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T08:30:24.873042+00:00",
+  "last_updated": "2026-04-22T08:35:19.529565+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 77.0,
+        "uptime_30d": 77.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 89.7,
+        "uptime_30d": 89.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -786,10 +786,10 @@
       },
       {
         "name": "Sofia RPI",
-        "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 95.3,
-        "uptime_30d": 88.3
+        "status": "down",
+        "uptime_24h": 95.9,
+        "uptime_7d": 94.8,
+        "uptime_30d": 87.9
       },
       {
         "name": "pfSense Gateway",
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
-        "uptime_30d": 97.6,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.7,
         "url": "https://registry.viktorbarzin.me"
       },
       {
