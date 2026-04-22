@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T04:36:11.308505+00:00",
+  "last_updated": "2026-04-22T04:40:25.272971+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 89.1,
+        "uptime_30d": 89.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 75.3,
+        "uptime_30d": 75.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 93.2,
-        "uptime_7d": 78.0,
-        "uptime_30d": 64.1
+        "uptime_7d": 78.1,
+        "uptime_30d": 64.2
       }
     ],
     "External Reachability": [
