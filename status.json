@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T09:55:20.191695+00:00",
+  "last_updated": "2026-04-22T10:00:46.167336+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.2,
+        "uptime_30d": 87.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 95.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -445,9 +445,9 @@
       {
         "name": "Book Search Deep Health",
         "status": "down",
-        "uptime_24h": 94.6,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.6,
+        "uptime_24h": 94.3,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 97.0,
-        "uptime_30d": 89.8
+        "uptime_30d": 89.9
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 90.5,
-        "uptime_7d": 91.0,
-        "uptime_30d": 85.0
+        "uptime_24h": 89.8,
+        "uptime_7d": 90.6,
+        "uptime_30d": 84.6
       },
       {
         "name": "pfSense Gateway",
@@ -803,9 +803,9 @@
       {
         "name": "Immich postgresql",
         "status": "down",
-        "uptime_24h": 95.5,
-        "uptime_7d": 96.6,
-        "uptime_30d": 95.4
+        "uptime_24h": 95.1,
+        "uptime_7d": 96.3,
+        "uptime_30d": 95.1
       }
     ],
     "Redis": [
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 88.0,
+        "uptime_24h": 88.2,
         "uptime_7d": 78.7,
-        "uptime_30d": 64.9
+        "uptime_30d": 65.0
       }
     ],
     "External Reachability": [
@@ -1005,10 +1005,10 @@
       },
       {
         "name": "[External] aiostreams",
-        "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "status": "down",
+        "uptime_24h": 98.6,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1614,9 +1614,9 @@
       {
         "name": "[External] vault",
         "status": "down",
-        "uptime_24h": 93.5,
-        "uptime_7d": 95.1,
-        "uptime_30d": 95.1,
+        "uptime_24h": 93.2,
+        "uptime_7d": 94.8,
+        "uptime_30d": 94.8,
         "url": "https://vault.viktorbarzin.me"
       },
       {
