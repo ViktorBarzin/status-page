@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T14:10:22.685980+00:00",
+  "last_updated": "2026-04-22T14:15:21.094158+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.3,
-        "uptime_30d": 78.6,
+        "uptime_30d": 78.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -446,7 +446,7 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 87.5,
-        "uptime_7d": 91.7,
+        "uptime_7d": 91.8,
         "uptime_30d": 91.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 95.1,
         "uptime_7d": 96.7,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 97.3,
-        "uptime_30d": 90.7
+        "uptime_30d": 90.8
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 76.4,
-        "uptime_7d": 82.4,
-        "uptime_30d": 78.0
+        "uptime_24h": 76.1,
+        "uptime_7d": 82.3,
+        "uptime_30d": 77.9
       },
       {
         "name": "pfSense Gateway",
@@ -811,10 +811,10 @@
     "Redis": [
       {
         "name": "Redis",
-        "status": "down",
-        "uptime_24h": 88.2,
-        "uptime_7d": 91.9,
-        "uptime_30d": 91.7
+        "status": "up",
+        "uptime_24h": 88.0,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.5
       }
     ],
     "Push": [
@@ -926,9 +926,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 87.9,
-        "uptime_7d": 91.2,
-        "uptime_30d": 91.2,
+        "uptime_24h": 87.6,
+        "uptime_7d": 91.0,
+        "uptime_30d": 91.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1079,8 +1079,8 @@
         "name": "[External] audiobookshelf",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
