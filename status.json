@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T10:00:46.167336+00:00",
+  "last_updated": "2026-04-22T10:05:26.575718+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.8,
+        "uptime_30d": 84.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -212,10 +212,10 @@
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 90.6,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 98.5,
+        "uptime_30d": 90.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -445,9 +445,9 @@
       {
         "name": "Book Search Deep Health",
         "status": "down",
-        "uptime_24h": 94.3,
-        "uptime_7d": 95.7,
-        "uptime_30d": 95.4,
+        "uptime_24h": 93.9,
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.1,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -460,10 +460,10 @@
       },
       {
         "name": "AIOStreams",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.2,
+        "uptime_30d": 98.7,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 97.0,
-        "uptime_30d": 89.7,
+        "uptime_30d": 89.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -803,9 +803,9 @@
       {
         "name": "Immich postgresql",
         "status": "down",
-        "uptime_24h": 95.1,
-        "uptime_7d": 96.3,
-        "uptime_30d": 95.1
+        "uptime_24h": 94.8,
+        "uptime_7d": 96.1,
+        "uptime_30d": 94.9
       }
     ],
     "Redis": [
@@ -1006,9 +1006,9 @@
       {
         "name": "[External] aiostreams",
         "status": "down",
-        "uptime_24h": 98.6,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_24h": 97.6,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1614,9 +1614,9 @@
       {
         "name": "[External] vault",
         "status": "down",
-        "uptime_24h": 93.2,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.8,
+        "uptime_24h": 92.8,
+        "uptime_7d": 94.6,
+        "uptime_30d": 94.6,
         "url": "https://vault.viktorbarzin.me"
       },
       {
