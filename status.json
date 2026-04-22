@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T16:46:11.022095+00:00",
+  "last_updated": "2026-04-22T16:50:23.561919+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 95.1,
-        "uptime_7d": 96.7,
-        "uptime_30d": 95.9,
+        "uptime_7d": 96.8,
+        "uptime_30d": 96.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 99.4,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 92.6,
         "uptime_7d": 95.4,
-        "uptime_30d": 94.4,
+        "uptime_30d": 94.5,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -222,7 +222,7 @@
         "name": "SNMP Exporter",
         "status": "up",
         "uptime_24h": 99.4,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 96.9,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 95.4,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 69.8,
-        "uptime_7d": 78.8,
-        "uptime_30d": 75.2
+        "uptime_7d": 78.9,
+        "uptime_30d": 75.3
       },
       {
         "name": "pfSense Gateway",
@@ -820,10 +820,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
-        "uptime_24h": 87.7,
-        "uptime_7d": 78.8,
-        "uptime_30d": 65.4
+        "status": "up",
+        "uptime_24h": 87.8,
+        "uptime_7d": 78.9,
+        "uptime_30d": 65.5
       }
     ],
     "External Reachability": [
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 80.2,
-        "uptime_7d": 86.7,
-        "uptime_30d": 86.7,
+        "uptime_7d": 86.8,
+        "uptime_30d": 86.8,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://kms.viktorbarzin.me"
@@ -1663,8 +1663,8 @@
         "name": "[External] yt",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 98.0,
-        "uptime_30d": 98.0,
+        "uptime_7d": 98.1,
+        "uptime_30d": 98.1,
         "url": "https://yt.viktorbarzin.me"
       },
       {
