@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T14:46:11.777613+00:00",
+  "last_updated": "2026-04-22T14:50:25.028689+00:00",
   "groups": {
     "HTTP": [
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 92.6,
         "uptime_7d": 95.2,
-        "uptime_30d": 94.1,
+        "uptime_30d": 94.2,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 97.6,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 75.3,
-        "uptime_7d": 81.9,
-        "uptime_30d": 77.7
+        "uptime_24h": 74.7,
+        "uptime_7d": 81.6,
+        "uptime_30d": 77.4
       },
       {
         "name": "pfSense Gateway",
@@ -812,9 +812,9 @@
       {
         "name": "Redis",
         "status": "down",
-        "uptime_24h": 85.9,
-        "uptime_7d": 90.5,
-        "uptime_30d": 90.3
+        "uptime_24h": 85.7,
+        "uptime_7d": 90.3,
+        "uptime_30d": 90.1
       }
     ],
     "Push": [
@@ -925,10 +925,10 @@
       },
       {
         "name": "[External] nextcloud",
-        "status": "up",
-        "uptime_24h": 85.6,
-        "uptime_7d": 89.8,
-        "uptime_30d": 89.8,
+        "status": "down",
+        "uptime_24h": 85.3,
+        "uptime_7d": 89.6,
+        "uptime_30d": 89.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1007,8 +1007,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://kms.viktorbarzin.me"
