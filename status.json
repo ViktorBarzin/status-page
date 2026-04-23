@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-23T20:55:19.530667+00:00",
+  "last_updated": "2026-04-23T21:00:27.173973+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.4,
+        "uptime_7d": 97.5,
         "uptime_30d": 97.1,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -127,14 +127,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.1,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 96.3,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -183,13 +183,13 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.7,
+        "uptime_30d": 87.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 56.9,
+        "uptime_24h": 57.4,
         "uptime_7d": 74.3,
         "uptime_30d": 74.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.5,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.1,
-        "uptime_30d": 92.8,
+        "uptime_30d": 92.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -744,7 +744,7 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 99.4
       },
       {
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.7,
+        "uptime_7d": 79.8,
         "uptime_30d": 76.5
       },
       {
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 56.9,
-        "uptime_7d": 73.9,
-        "uptime_30d": 73.9,
+        "uptime_24h": 57.3,
+        "uptime_7d": 74.0,
+        "uptime_30d": 74.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
