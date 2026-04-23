@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T18:50:25.012865+00:00",
+  "last_updated": "2026-04-23T18:55:19.951518+00:00",
   "groups": {
     "HTTP": [
       {
@@ -36,10 +36,10 @@
       },
       {
         "name": "Shlink (URL Shortener)",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.0,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 97.6,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 55.3,
-        "uptime_7d": 72.9,
-        "uptime_30d": 72.9,
+        "uptime_7d": 73.0,
+        "uptime_30d": 73.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.1,
-        "uptime_30d": 86.7,
+        "uptime_30d": 86.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -404,10 +404,10 @@
       },
       {
         "name": "Speedtest",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 98.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.4,
+        "uptime_30d": 97.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -438,7 +438,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 97.0,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.9,
-        "uptime_30d": 88.7
+        "uptime_30d": 88.8
       }
     ],
     "Push": [
@@ -925,10 +925,10 @@
       },
       {
         "name": "[External] nextcloud",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 87.4,
-        "uptime_30d": 87.4,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 87.0,
+        "uptime_30d": 87.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1103,8 +1103,8 @@
         "name": "[External] f1",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://f1.viktorbarzin.me"
       },
       {
