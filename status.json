@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-23T12:40:25.186833+00:00",
+  "last_updated": "2026-04-23T12:45:23.819753+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
-        "uptime_24h": 97.9,
+        "uptime_24h": 98.3,
         "uptime_7d": 96.8,
         "uptime_30d": 96.4,
         "url": "https://technitium.viktorbarzin.me"
@@ -133,7 +133,7 @@
       {
         "name": "Immich ML",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 97.9,
         "uptime_7d": 96.4,
         "uptime_30d": 95.5,
         "url": "http://immich-machine-learning.immich:3003"
@@ -190,14 +190,14 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 55.3,
-        "uptime_7d": 68.0,
-        "uptime_30d": 68.0,
+        "uptime_7d": 68.1,
+        "uptime_30d": 68.1,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
         "name": "Frigate",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 97.9,
         "uptime_7d": 94.9,
         "uptime_30d": 93.8,
         "url": "https://frigate.viktorbarzin.me"
@@ -213,7 +213,7 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 97.9,
         "uptime_7d": 90.7,
         "uptime_30d": 84.3,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 95.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -437,8 +437,8 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 97.5,
-        "uptime_7d": 96.7,
+        "uptime_24h": 97.8,
+        "uptime_7d": 96.8,
         "uptime_30d": 96.5,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -525,7 +525,7 @@
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 97.9,
         "uptime_7d": 96.6,
         "uptime_30d": 95.7,
         "url": "https://openclaw.viktorbarzin.me"
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.9,
-        "uptime_7d": 85.6,
-        "uptime_30d": 79.7,
+        "uptime_7d": 85.7,
+        "uptime_30d": 79.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 82.4,
+        "uptime_24h": 82.7,
         "uptime_7d": 75.3,
         "uptime_30d": 71.9
       },
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 87.4,
+        "uptime_24h": 87.7,
         "uptime_7d": 87.0,
         "uptime_30d": 86.8
       }
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 80.8,
+        "uptime_24h": 80.5,
         "uptime_7d": 77.4,
         "uptime_30d": 63.7
       }
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 85.9,
+        "uptime_24h": 87.0,
         "uptime_7d": 85.3,
         "uptime_30d": 85.3,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1167,8 +1167,8 @@
         "name": "[External] health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -1263,8 +1263,8 @@
         "name": "[External] grafana",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.5,
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -1302,7 +1302,7 @@
       {
         "name": "[External] novelapp",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 97.9,
         "uptime_7d": 95.6,
         "uptime_30d": 95.6,
         "url": "https://novelapp.viktorbarzin.me"
@@ -1311,8 +1311,8 @@
         "name": "[External] ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -1558,7 +1558,7 @@
       {
         "name": "[External] technitium",
         "status": "up",
-        "uptime_24h": 97.9,
+        "uptime_24h": 98.3,
         "uptime_7d": 96.1,
         "uptime_30d": 96.1,
         "url": "https://technitium.viktorbarzin.me"
@@ -1591,8 +1591,8 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 54.8,
-        "uptime_7d": 67.6,
-        "uptime_30d": 67.6,
+        "uptime_7d": 67.7,
+        "uptime_30d": 67.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1679,8 +1679,8 @@
         "name": "[External] pdf",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.1,
-        "uptime_30d": 96.1,
+        "uptime_7d": 96.2,
+        "uptime_30d": 96.2,
         "url": "https://pdf.viktorbarzin.me"
       }
     ],
