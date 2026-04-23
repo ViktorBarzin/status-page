@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T19:00:40.530808+00:00",
+  "last_updated": "2026-04-23T19:05:19.292002+00:00",
   "groups": {
     "HTTP": [
       {
@@ -36,7 +36,7 @@
       },
       {
         "name": "Shlink (URL Shortener)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.2,
         "uptime_30d": 97.4,
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.9,
+        "uptime_7d": 97.0,
         "uptime_30d": 94.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -156,10 +156,10 @@
       },
       {
         "name": "Nextcloud",
-        "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 89.0,
+        "status": "up",
+        "uptime_24h": 98.6,
+        "uptime_7d": 99.0,
+        "uptime_30d": 88.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.7,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.0,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -404,7 +404,7 @@
       },
       {
         "name": "Speedtest",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.2,
         "uptime_30d": 97.6,
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.6,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 79.2,
-        "uptime_7d": 84.8,
+        "uptime_7d": 84.9,
         "uptime_30d": 79.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -925,7 +925,7 @@
       },
       {
         "name": "[External] nextcloud",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 86.7,
         "uptime_30d": 86.7,
@@ -1605,7 +1605,7 @@
       },
       {
         "name": "[External] url",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 97.6,
         "uptime_30d": 97.6,
@@ -1615,8 +1615,8 @@
         "name": "[External] vault",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.8,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9,
         "url": "https://vault.viktorbarzin.me"
       },
       {
