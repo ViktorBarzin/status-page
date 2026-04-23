@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T16:21:12.089965+00:00",
+  "last_updated": "2026-04-23T16:25:19.034682+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.2,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.5,
+        "uptime_30d": 86.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.6,
-        "uptime_30d": 85.8,
+        "uptime_30d": 85.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 79.5,
+        "uptime_30d": 79.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.5,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 79.7,
-        "uptime_7d": 84.7,
+        "uptime_7d": 84.8,
         "uptime_30d": 79.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 93.9,
+        "uptime_24h": 94.2,
         "uptime_7d": 77.5,
         "uptime_30d": 74.2
       },
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.2,
-        "uptime_30d": 88.0
+        "uptime_30d": 88.1
       }
     ],
     "Push": [
@@ -879,8 +879,8 @@
         "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -1615,8 +1615,8 @@
         "name": "[External] vault",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.3,
-        "uptime_30d": 92.3,
+        "uptime_7d": 92.4,
+        "uptime_30d": 92.4,
         "url": "https://vault.viktorbarzin.me"
       },
       {
