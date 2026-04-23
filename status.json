@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T05:36:10.814175+00:00",
+  "last_updated": "2026-04-23T05:40:22.287405+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,15 +183,15 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.7,
-        "uptime_30d": 82.8,
+        "uptime_30d": 82.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "down",
-        "uptime_24h": 60.9,
-        "uptime_7d": 65.8,
-        "uptime_30d": 65.8,
+        "uptime_24h": 60.6,
+        "uptime_7d": 65.6,
+        "uptime_30d": 65.6,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 88.0,
-        "uptime_7d": 88.3,
+        "uptime_7d": 88.4,
         "uptime_30d": 81.1,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -254,7 +254,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 95.8,
-        "uptime_7d": 95.7,
+        "uptime_7d": 95.8,
         "uptime_30d": 94.7,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 97.1,
-        "uptime_30d": 94.4,
+        "uptime_30d": 94.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 96.5,
-        "uptime_30d": 88.4
+        "uptime_30d": 88.5
       },
       {
         "name": "Valchedrym Video System",
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 66.9,
-        "uptime_7d": 69.5,
+        "uptime_7d": 69.6,
         "uptime_30d": 66.4
       },
       {
@@ -813,8 +813,8 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 81.9,
-        "uptime_7d": 83.8,
-        "uptime_30d": 83.6
+        "uptime_7d": 83.9,
+        "uptime_30d": 83.7
       }
     ],
     "Push": [
@@ -879,8 +879,8 @@
         "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 93.1,
-        "uptime_7d": 93.9,
-        "uptime_30d": 93.9,
+        "uptime_7d": 94.0,
+        "uptime_30d": 94.0,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 80.2,
-        "uptime_7d": 81.9,
-        "uptime_30d": 81.9,
+        "uptime_7d": 82.0,
+        "uptime_30d": 82.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1183,14 +1183,14 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 95.7,
-        "uptime_30d": 95.7,
+        "uptime_7d": 95.8,
+        "uptime_30d": 95.8,
         "url": "https://immich.viktorbarzin.me"
       },
       {
         "name": "[External] insta2spotify",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 98.5,
         "uptime_30d": 98.5,
         "url": "https://insta2spotify.viktorbarzin.me"
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 98.5,
         "uptime_30d": 98.5,
         "url": "https://kms.viktorbarzin.me"
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "down",
-        "uptime_24h": 60.4,
-        "uptime_7d": 65.3,
-        "uptime_30d": 65.3,
+        "uptime_24h": 60.0,
+        "uptime_7d": 65.1,
+        "uptime_30d": 65.1,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1615,8 +1615,8 @@
         "name": "[External] vault",
         "status": "up",
         "uptime_24h": 87.8,
-        "uptime_7d": 89.3,
-        "uptime_30d": 89.3,
+        "uptime_7d": 89.4,
+        "uptime_30d": 89.4,
         "url": "https://vault.viktorbarzin.me"
       },
       {
@@ -1663,8 +1663,8 @@
         "name": "[External] yt",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.2,
+        "uptime_7d": 97.3,
+        "uptime_30d": 97.3,
         "url": "https://yt.viktorbarzin.me"
       },
       {
