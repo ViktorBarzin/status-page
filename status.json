@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-23T09:00:30.963169+00:00",
+  "last_updated": "2026-04-23T09:05:19.651200+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 95.4,
-        "uptime_7d": 96.4,
-        "uptime_30d": 95.9,
+        "uptime_7d": 96.5,
+        "uptime_30d": 96.0,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 94.4,
         "uptime_7d": 95.6,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 95.1,
         "uptime_7d": 95.9,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -190,15 +190,15 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 54.2,
-        "uptime_7d": 64.2,
-        "uptime_30d": 64.2,
+        "uptime_7d": 64.3,
+        "uptime_30d": 64.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 92.6,
-        "uptime_7d": 94.2,
+        "uptime_7d": 94.3,
         "uptime_30d": 93.1,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
-        "uptime_30d": 90.4,
+        "uptime_7d": 98.2,
+        "uptime_30d": 90.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 95.8,
         "uptime_7d": 96.2,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -445,9 +445,9 @@
       {
         "name": "Book Search Deep Health",
         "status": "up",
-        "uptime_24h": 89.1,
-        "uptime_7d": 90.3,
-        "uptime_30d": 90.0,
+        "uptime_24h": 89.5,
+        "uptime_7d": 90.4,
+        "uptime_30d": 90.1,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 95.1,
         "uptime_7d": 96.2,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 84.8,
         "uptime_7d": 85.5,
-        "uptime_30d": 79.3,
+        "uptime_30d": 79.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -654,8 +654,8 @@
         "name": "Proxmox Exporter",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 90.5
+        "uptime_30d": 90.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,8 +787,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 69.3,
-        "uptime_7d": 72.6,
+        "uptime_24h": 69.4,
+        "uptime_7d": 72.7,
         "uptime_30d": 69.3
       },
       {
@@ -813,8 +813,8 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 81.9,
-        "uptime_7d": 85.5,
-        "uptime_30d": 85.3
+        "uptime_7d": 85.6,
+        "uptime_30d": 85.4
       }
     ],
     "Push": [
@@ -878,7 +878,7 @@
       {
         "name": "[External] calibre",
         "status": "up",
-        "uptime_24h": 93.7,
+        "uptime_24h": 93.8,
         "uptime_7d": 94.6,
         "uptime_30d": 94.6,
         "url": "https://calibre.viktorbarzin.me"
@@ -926,9 +926,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 80.7,
-        "uptime_7d": 83.7,
-        "uptime_30d": 83.7,
+        "uptime_24h": 80.8,
+        "uptime_7d": 83.8,
+        "uptime_30d": 83.8,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1174,7 +1174,7 @@
       {
         "name": "[External] home",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 97.6,
         "uptime_30d": 97.6,
         "url": "https://home.viktorbarzin.me"
@@ -1559,8 +1559,8 @@
         "name": "[External] technitium",
         "status": "up",
         "uptime_24h": 95.1,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 53.7,
-        "uptime_7d": 63.8,
-        "uptime_30d": 63.8,
+        "uptime_24h": 53.9,
+        "uptime_7d": 63.9,
+        "uptime_30d": 63.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1614,7 +1614,7 @@
       {
         "name": "[External] vault",
         "status": "up",
-        "uptime_24h": 90.4,
+        "uptime_24h": 90.8,
         "uptime_7d": 90.5,
         "uptime_30d": 90.5,
         "url": "https://vault.viktorbarzin.me"
