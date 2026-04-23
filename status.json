@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T14:10:25.326071+00:00",
+  "last_updated": "2026-04-23T14:16:13.490355+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 78.6,
+        "uptime_30d": 78.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -446,7 +446,7 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.7,
+        "uptime_7d": 91.8,
         "uptime_30d": 91.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -487,7 +487,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.7,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 82.1,
-        "uptime_7d": 85.6,
-        "uptime_30d": 79.9,
+        "status": "down",
+        "uptime_24h": 81.3,
+        "uptime_7d": 85.1,
+        "uptime_30d": 79.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.3,
-        "uptime_30d": 90.7
+        "uptime_30d": 90.8
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 87.2,
-        "uptime_7d": 76.2,
-        "uptime_30d": 72.8
+        "uptime_24h": 87.5,
+        "uptime_7d": 76.3,
+        "uptime_30d": 72.9
       },
       {
         "name": "pfSense Gateway",
@@ -812,9 +812,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 93.1,
+        "uptime_24h": 93.5,
         "uptime_7d": 87.5,
-        "uptime_30d": 87.3
+        "uptime_30d": 87.4
       }
     ],
     "Push": [
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 91.2,
+        "uptime_24h": 91.5,
         "uptime_7d": 85.9,
         "uptime_30d": 85.9,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1079,8 +1079,8 @@
         "name": "[External] audiobookshelf",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -1591,8 +1591,8 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 54.8,
-        "uptime_7d": 69.0,
-        "uptime_30d": 69.0,
+        "uptime_7d": 69.1,
+        "uptime_30d": 69.1,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1607,8 +1607,8 @@
         "name": "[External] url",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://url.viktorbarzin.me"
       },
       {
