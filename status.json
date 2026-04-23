@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T17:30:25.394221+00:00",
+  "last_updated": "2026-04-23T17:36:12.110497+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.8,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.4,
+        "uptime_30d": 87.5,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,15 +183,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.9,
+        "uptime_30d": 87.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 55.3,
-        "uptime_7d": 72.0,
-        "uptime_30d": 72.0,
+        "uptime_7d": 72.1,
+        "uptime_30d": 72.1,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.5,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -446,7 +446,7 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.4,
+        "uptime_7d": 92.5,
         "uptime_30d": 92.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -455,7 +455,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://uptime.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 79.5,
         "uptime_7d": 85.0,
-        "uptime_30d": 79.8,
+        "uptime_30d": 79.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -724,7 +724,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.1
+        "uptime_30d": 99.2
       },
       {
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.5,
-        "uptime_30d": 91.5
+        "uptime_30d": 91.6
       },
       {
         "name": "Valchedrym Video System",
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.3,
         "uptime_7d": 78.1,
         "uptime_30d": 74.8
       },
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.5,
+        "uptime_7d": 88.6,
         "uptime_30d": 88.4
       }
     ],
@@ -1591,8 +1591,8 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 54.8,
-        "uptime_7d": 71.6,
-        "uptime_30d": 71.6,
+        "uptime_7d": 71.7,
+        "uptime_30d": 71.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1647,8 +1647,8 @@
         "name": "[External] ci",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://ci.viktorbarzin.me"
       },
       {
