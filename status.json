@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T01:16:11.545836+00:00",
+  "last_updated": "2026-04-23T01:20:21.561317+00:00",
   "groups": {
     "HTTP": [
       {
@@ -15,7 +15,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -86,7 +86,7 @@
         "name": "calibre",
         "status": "up",
         "uptime_24h": 94.4,
-        "uptime_7d": 97.1,
+        "uptime_7d": 97.2,
         "uptime_30d": 96.0,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 95.5,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 95.6,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -189,16 +189,16 @@
       {
         "name": "Tuya-Bridge",
         "status": "down",
-        "uptime_24h": 79.3,
-        "uptime_7d": 89.5,
-        "uptime_30d": 89.5,
+        "uptime_24h": 79.0,
+        "uptime_7d": 89.4,
+        "uptime_30d": 89.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 92.6,
-        "uptime_7d": 96.2,
+        "uptime_7d": 96.3,
         "uptime_30d": 95.4,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 66.9,
         "uptime_7d": 80.3,
-        "uptime_30d": 77.1
+        "uptime_30d": 77.2
       },
       {
         "name": "pfSense Gateway",
@@ -1214,7 +1214,7 @@
       {
         "name": "[External] kms",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.2,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://kms.viktorbarzin.me"
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "down",
-        "uptime_24h": 78.6,
-        "uptime_7d": 89.1,
-        "uptime_30d": 89.1,
+        "uptime_24h": 78.2,
+        "uptime_7d": 89.0,
+        "uptime_30d": 89.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
