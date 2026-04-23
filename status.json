@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-23T17:50:23.122724+00:00",
+  "last_updated": "2026-04-23T17:56:10.658038+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.2,
-        "uptime_30d": 96.8,
+        "uptime_7d": 97.3,
+        "uptime_30d": 96.9,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 89.2,
+        "uptime_30d": 89.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.5,
+        "uptime_7d": 95.6,
         "uptime_30d": 94.6,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -247,7 +247,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -310,8 +310,8 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.9,
-        "uptime_30d": 96.2,
+        "uptime_7d": 98.0,
+        "uptime_30d": 96.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 80.0,
+        "uptime_30d": 80.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 78.7,
         "uptime_7d": 84.6,
-        "uptime_30d": 79.5,
+        "uptime_30d": 79.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Sofia RPI",
@@ -1679,8 +1679,8 @@
         "name": "[External] pdf",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.6,
-        "uptime_30d": 96.6,
+        "uptime_7d": 96.7,
+        "uptime_30d": 96.7,
         "url": "https://pdf.viktorbarzin.me"
       }
     ],
