@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T19:36:11.006526+00:00",
+  "last_updated": "2026-04-23T19:40:21.835697+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,15 +183,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.4,
+        "uptime_30d": 87.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 55.3,
-        "uptime_7d": 73.4,
-        "uptime_30d": 73.4,
+        "uptime_7d": 73.5,
+        "uptime_30d": 73.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.7,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 79.2,
-        "uptime_7d": 85.0,
-        "uptime_30d": 80.1,
+        "uptime_24h": 79.0,
+        "uptime_7d": 84.9,
+        "uptime_30d": 80.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.1,
-        "uptime_30d": 75.8
+        "uptime_7d": 79.2,
+        "uptime_30d": 75.9
       },
       {
         "name": "pfSense Gateway",
@@ -1615,8 +1615,8 @@
         "name": "[External] vault",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
-        "uptime_30d": 92.9,
+        "uptime_7d": 93.0,
+        "uptime_30d": 93.0,
         "url": "https://vault.viktorbarzin.me"
       },
       {
