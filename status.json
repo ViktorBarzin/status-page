@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T13:30:26.212904+00:00",
+  "last_updated": "2026-04-23T13:35:19.777613+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -94,7 +94,7 @@
         "name": "Dawarich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 97.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.4,
+        "uptime_7d": 96.5,
         "uptime_30d": 95.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.9,
+        "uptime_30d": 88.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.1,
+        "uptime_30d": 86.2,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 55.3,
-        "uptime_7d": 68.8,
-        "uptime_30d": 68.8,
+        "uptime_7d": 68.9,
+        "uptime_30d": 68.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.0,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.3,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.4,
         "uptime_7d": 85.6,
-        "uptime_30d": 79.8,
+        "uptime_30d": 79.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -782,14 +782,14 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.1
+        "uptime_30d": 98.2
       },
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 85.6,
-        "uptime_7d": 75.8,
-        "uptime_30d": 72.4
+        "uptime_24h": 85.9,
+        "uptime_7d": 75.9,
+        "uptime_30d": 72.5
       },
       {
         "name": "pfSense Gateway",
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 90.6,
+        "uptime_24h": 90.9,
         "uptime_7d": 87.3,
         "uptime_30d": 87.1
       }
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 89.1,
-        "uptime_7d": 85.6,
-        "uptime_30d": 85.6,
+        "uptime_7d": 85.7,
+        "uptime_30d": 85.7,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -999,8 +999,8 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -1047,8 +1047,8 @@
         "name": "[External] claude-memory",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -1095,24 +1095,24 @@
         "name": "[External] draw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://draw.viktorbarzin.me"
       },
       {
         "name": "[External] f1",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://f1.viktorbarzin.me"
       },
       {
         "name": "[External] foolery",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://foolery.viktorbarzin.me"
       },
       {
@@ -1223,8 +1223,8 @@
         "name": "[External] k8s",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://k8s.viktorbarzin.me"
       },
       {
@@ -1351,8 +1351,8 @@
         "name": "[External] phpipam",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://phpipam.viktorbarzin.me"
       },
       {
@@ -1367,16 +1367,16 @@
         "name": "[External] priority-pass",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://priority-pass.viktorbarzin.me"
       },
       {
         "name": "[External] docker",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1391,8 +1391,8 @@
         "name": "[External] gw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://gw.viktorbarzin.me"
       },
       {
@@ -1591,8 +1591,8 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 54.8,
-        "uptime_7d": 68.4,
-        "uptime_30d": 68.4,
+        "uptime_7d": 68.5,
+        "uptime_30d": 68.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1647,8 +1647,8 @@
         "name": "[External] ci",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
