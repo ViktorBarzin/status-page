@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T22:46:12.727365+00:00",
+  "last_updated": "2026-04-23T22:50:25.076717+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
-        "uptime_30d": 89.6,
+        "uptime_30d": 89.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,15 +183,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.1,
+        "uptime_30d": 88.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 64.6,
-        "uptime_7d": 75.3,
-        "uptime_30d": 75.3,
+        "uptime_24h": 65.0,
+        "uptime_7d": 75.4,
+        "uptime_30d": 75.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -446,8 +446,8 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.3,
-        "uptime_30d": 93.1,
+        "uptime_7d": 93.4,
+        "uptime_30d": 93.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -455,7 +455,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://uptime.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 80.1,
-        "uptime_7d": 84.9,
-        "uptime_30d": 80.3,
+        "uptime_24h": 80.4,
+        "uptime_7d": 85.0,
+        "uptime_30d": 80.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -630,7 +630,7 @@
         "name": "QBittorrent",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 96.7,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -724,14 +724,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.3
       },
       {
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 93.2
+        "uptime_30d": 93.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.5,
+        "uptime_7d": 80.6,
         "uptime_30d": 77.3
       },
       {
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 87.7,
-        "uptime_30d": 87.7,
+        "uptime_7d": 87.8,
+        "uptime_30d": 87.8,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1167,8 +1167,8 @@
         "name": "[External] health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -1311,8 +1311,8 @@
         "name": "[External] ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 64.6,
+        "uptime_24h": 64.9,
         "uptime_7d": 75.0,
         "uptime_30d": 75.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -1615,8 +1615,8 @@
         "name": "[External] vault",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.4,
-        "uptime_30d": 93.4,
+        "uptime_7d": 93.5,
+        "uptime_30d": 93.5,
         "url": "https://vault.viktorbarzin.me"
       },
       {
