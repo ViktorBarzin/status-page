@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T14:20:25.193767+00:00",
+  "last_updated": "2026-04-23T14:26:12.179788+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -71,7 +71,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 55.3,
-        "uptime_7d": 69.5,
-        "uptime_30d": 69.5,
+        "uptime_7d": 69.6,
+        "uptime_30d": 69.6,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 78.7,
+        "uptime_30d": 78.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.8,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -580,7 +580,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 81.0,
         "uptime_7d": 84.9,
         "uptime_30d": 79.4,
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 87.5,
-        "uptime_7d": 76.3,
-        "uptime_30d": 72.9
+        "uptime_7d": 76.4,
+        "uptime_30d": 73.0
       },
       {
         "name": "pfSense Gateway",
@@ -812,7 +812,7 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 93.8,
+        "uptime_24h": 94.1,
         "uptime_7d": 87.6,
         "uptime_30d": 87.4
       }
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 84.2,
-        "uptime_7d": 77.9,
-        "uptime_30d": 64.1
+        "uptime_24h": 84.4,
+        "uptime_7d": 78.0,
+        "uptime_30d": 64.2
       }
     ],
     "External Reachability": [
@@ -926,9 +926,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 91.8,
-        "uptime_7d": 85.9,
-        "uptime_30d": 85.9,
+        "uptime_24h": 92.4,
+        "uptime_7d": 86.0,
+        "uptime_30d": 86.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1591,8 +1591,8 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 54.8,
-        "uptime_7d": 69.1,
-        "uptime_30d": 69.1,
+        "uptime_7d": 69.2,
+        "uptime_30d": 69.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
