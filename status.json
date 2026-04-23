@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T17:10:22.726542+00:00",
+  "last_updated": "2026-04-23T17:16:11.561968+00:00",
   "groups": {
     "HTTP": [
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.4,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 77.9,
-        "uptime_30d": 74.6
+        "uptime_7d": 78.0,
+        "uptime_30d": 74.7
       },
       {
         "name": "pfSense Gateway",
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.4,
+        "uptime_7d": 88.5,
         "uptime_30d": 88.3
       }
     ],
@@ -1591,8 +1591,8 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 54.8,
-        "uptime_7d": 71.4,
-        "uptime_30d": 71.4,
+        "uptime_7d": 71.5,
+        "uptime_30d": 71.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
