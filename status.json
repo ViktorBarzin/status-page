@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T14:46:15.074736+00:00",
+  "last_updated": "2026-04-23T14:50:22.391463+00:00",
   "groups": {
     "HTTP": [
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 55.3,
-        "uptime_7d": 69.9,
-        "uptime_30d": 69.9,
+        "uptime_7d": 70.0,
+        "uptime_30d": 70.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.2,
-        "uptime_30d": 94.1,
+        "uptime_30d": 94.2,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 80.5,
-        "uptime_7d": 84.7,
-        "uptime_30d": 79.3,
+        "status": "down",
+        "uptime_24h": 80.2,
+        "uptime_7d": 84.5,
+        "uptime_30d": 79.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 88.4,
+        "uptime_24h": 89.0,
         "uptime_7d": 76.6,
         "uptime_30d": 73.3
       },
@@ -812,9 +812,9 @@
       {
         "name": "Redis",
         "status": "up",
-        "uptime_24h": 95.5,
+        "uptime_24h": 95.8,
         "uptime_7d": 87.7,
-        "uptime_30d": 87.5
+        "uptime_30d": 87.6
       }
     ],
     "Push": [
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 93.6,
+        "uptime_24h": 94.0,
         "uptime_7d": 86.1,
         "uptime_30d": 86.1,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1007,8 +1007,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1591,8 +1591,8 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 54.8,
-        "uptime_7d": 69.5,
-        "uptime_30d": 69.5,
+        "uptime_7d": 69.6,
+        "uptime_30d": 69.6,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
