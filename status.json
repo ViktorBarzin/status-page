@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T21:46:13.905450+00:00",
+  "last_updated": "2026-04-24T21:50:25.672790+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.3,
+        "uptime_30d": 88.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 92.6
+        "uptime_30d": 92.7
       },
       {
         "name": "Valchedrym Video System",
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.3,
+        "uptime_7d": 88.4,
         "uptime_30d": 88.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
