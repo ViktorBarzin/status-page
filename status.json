@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T00:50:24.738796+00:00",
+  "last_updated": "2026-04-24T00:55:19.393330+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,13 +183,13 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 73.3,
+        "uptime_24h": 73.6,
         "uptime_7d": 76.5,
         "uptime_30d": 76.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.2,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.6,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 96.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -446,8 +446,8 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.6,
-        "uptime_30d": 93.4,
+        "uptime_7d": 93.7,
+        "uptime_30d": 93.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 81.3,
-        "uptime_7d": 85.1,
-        "uptime_30d": 80.7,
+        "uptime_7d": 85.0,
+        "uptime_30d": 80.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -927,16 +927,16 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 88.2,
-        "uptime_30d": 88.2,
+        "uptime_7d": 88.3,
+        "uptime_30d": 88.3,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
         "name": "[External] pb",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -951,8 +951,8 @@
         "name": "[External] uptime",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://uptime.viktorbarzin.me"
       },
       {
@@ -1199,8 +1199,8 @@
         "name": "[External] json",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://json.viktorbarzin.me"
       },
       {
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 73.3,
-        "uptime_7d": 76.1,
-        "uptime_30d": 76.1,
+        "uptime_24h": 73.6,
+        "uptime_7d": 76.2,
+        "uptime_30d": 76.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1615,8 +1615,8 @@
         "name": "[External] vault",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.7,
-        "uptime_30d": 93.7,
+        "uptime_7d": 93.8,
+        "uptime_30d": 93.8,
         "url": "https://vault.viktorbarzin.me"
       },
       {
@@ -1679,8 +1679,8 @@
         "name": "[External] pdf",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.1,
-        "uptime_30d": 97.1,
+        "uptime_7d": 97.2,
+        "uptime_30d": 97.2,
         "url": "https://pdf.viktorbarzin.me"
       }
     ],
