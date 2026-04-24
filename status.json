@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T06:55:20.689695+00:00",
+  "last_updated": "2026-04-24T07:00:32.817727+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 85.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -189,7 +189,7 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 99.0,
         "uptime_7d": 82.3,
         "uptime_30d": 82.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 90.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 97.0,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.0,
-        "uptime_7d": 79.3,
-        "uptime_30d": 74.1,
+        "uptime_24h": 80.5,
+        "uptime_7d": 79.0,
+        "uptime_30d": 73.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.3,
-        "uptime_30d": 89.6
+        "uptime_30d": 89.7
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.5,
-        "uptime_30d": 88.5
+        "uptime_30d": 88.6
       },
       {
         "name": "pfSense Gateway",
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 96.4,
-        "uptime_30d": 96.4,
+        "uptime_7d": 96.5,
+        "uptime_30d": 96.5,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1399,16 +1399,16 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 99.0,
         "uptime_7d": 82.4,
         "uptime_30d": 82.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
