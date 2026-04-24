@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T06:00:30.804227+00:00",
+  "last_updated": "2026-04-24T06:06:11.920818+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,13 +183,13 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 83.4,
+        "uptime_30d": 83.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 94.8,
+        "uptime_24h": 95.1,
         "uptime_7d": 81.7,
         "uptime_30d": 81.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -254,7 +254,7 @@
         "name": "Paperless-ngx",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.7,
         "uptime_30d": 98.0,
         "url": "https://pdf.viktorbarzin.me"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 76.1,
+        "uptime_30d": 76.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 80.7,
-        "uptime_7d": 78.8,
-        "uptime_30d": 73.5,
+        "uptime_24h": 80.8,
+        "uptime_7d": 78.9,
+        "uptime_30d": 73.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -745,7 +745,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "PVE NFS (2049)",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.4,
-        "uptime_30d": 88.2
+        "uptime_30d": 88.3
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 94.6,
+        "uptime_24h": 94.5,
         "uptime_7d": 78.4,
         "uptime_30d": 63.6
       }
@@ -1399,8 +1399,8 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.8,
+        "uptime_7d": 96.9,
+        "uptime_30d": 96.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 94.8,
+        "uptime_24h": 95.1,
         "uptime_7d": 81.8,
         "uptime_30d": 81.8,
         "url": "https://tuya-bridge.viktorbarzin.me"
