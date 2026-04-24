@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T12:35:19.766064+00:00",
+  "last_updated": "2026-04-24T12:40:25.294950+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.2,
+        "uptime_30d": 86.3,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 78.7,
+        "uptime_30d": 78.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -710,7 +710,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.0
+        "uptime_30d": 99.1
       },
       {
         "name": "Traefik LoadBalancer",
@@ -768,14 +768,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.7,
-        "uptime_30d": 91.0
+        "uptime_30d": 91.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 92.0
+        "uptime_30d": 92.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://music-assistant.viktorbarzin.me"
       },
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.2,
+        "uptime_7d": 85.3,
         "uptime_30d": 85.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
