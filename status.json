@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T12:45:21.443717+00:00",
+  "last_updated": "2026-04-24T12:50:26.419955+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.0,
-        "uptime_30d": 87.6,
+        "uptime_30d": 87.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 97.4,
+        "uptime_7d": 97.5,
         "uptime_30d": 95.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -471,7 +471,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://budget-anca.viktorbarzin.me"
       },
       {
@@ -559,7 +559,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -575,15 +575,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
+        "status": "down",
         "uptime_24h": 82.1,
-        "uptime_7d": 79.3,
-        "uptime_30d": 74.8,
+        "uptime_7d": 79.1,
+        "uptime_30d": 74.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1592,7 +1592,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 85.3,
-        "uptime_30d": 85.3,
+        "uptime_30d": 85.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
