@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T10:10:23.485649+00:00",
+  "last_updated": "2026-04-24T10:16:14.381025+00:00",
   "groups": {
     "HTTP": [
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 95.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 77.8,
+        "uptime_30d": 77.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.2,
+        "uptime_24h": 82.5,
         "uptime_7d": 79.1,
-        "uptime_30d": 74.3,
+        "uptime_30d": 74.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 91.5
+        "uptime_30d": 91.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -820,10 +820,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "up",
+        "status": "down",
         "uptime_24h": 89.2,
-        "uptime_7d": 77.5,
-        "uptime_30d": 63.7
+        "uptime_7d": 76.6,
+        "uptime_30d": 63.3
       }
     ],
     "External Reachability": [
