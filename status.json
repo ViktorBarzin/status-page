@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T20:05:19.837481+00:00",
+  "last_updated": "2026-04-24T20:10:25.226408+00:00",
   "groups": {
     "HTTP": [
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.8,
-        "uptime_30d": 87.8,
+        "uptime_7d": 87.9,
+        "uptime_30d": 87.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 81.2,
         "uptime_7d": 78.8,
-        "uptime_30d": 75.0,
+        "uptime_30d": 75.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.8,
-        "uptime_30d": 91.5
+        "uptime_30d": 91.6
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 89.0,
-        "uptime_7d": 79.3,
-        "uptime_30d": 65.7
+        "uptime_24h": 87.8,
+        "uptime_7d": 78.9,
+        "uptime_30d": 65.5
       }
     ],
     "External Reachability": [
