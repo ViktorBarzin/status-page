@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T20:20:25.289937+00:00",
+  "last_updated": "2026-04-24T20:25:19.975901+00:00",
   "groups": {
     "HTTP": [
       {
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 81.2,
         "uptime_7d": 78.9,
-        "uptime_30d": 75.1,
+        "uptime_30d": 75.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.6
+        "uptime_30d": 98.7
       },
       {
         "name": "Sofia RPI",
@@ -820,8 +820,8 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
-        "uptime_24h": 86.8,
+        "status": "up",
+        "uptime_24h": 86.7,
         "uptime_7d": 78.6,
         "uptime_30d": 65.4
       }
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.9,
+        "uptime_7d": 88.0,
         "uptime_30d": 88.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
