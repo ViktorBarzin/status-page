@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T01:00:33.364669+00:00",
+  "last_updated": "2026-04-24T01:05:20.357906+00:00",
   "groups": {
     "HTTP": [
       {
@@ -189,9 +189,9 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 74.0,
-        "uptime_7d": 76.5,
-        "uptime_30d": 76.5,
+        "uptime_24h": 74.3,
+        "uptime_7d": 76.6,
+        "uptime_30d": 76.6,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 81.3,
-        "uptime_7d": 85.0,
+        "uptime_7d": 85.1,
         "uptime_30d": 80.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -879,8 +879,8 @@
         "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.4,
-        "uptime_30d": 96.4,
+        "uptime_7d": 96.5,
+        "uptime_30d": 96.5,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -1045,7 +1045,7 @@
       },
       {
         "name": "[External] claude-memory",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 74.0,
+        "uptime_24h": 74.3,
         "uptime_7d": 76.2,
         "uptime_30d": 76.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
