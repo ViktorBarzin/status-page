@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T08:46:11.783369+00:00",
+  "last_updated": "2026-04-24T08:50:25.518120+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.9,
-        "uptime_30d": 86.4,
+        "uptime_30d": 86.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.0,
+        "uptime_30d": 85.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.3,
-        "uptime_30d": 83.3,
+        "uptime_7d": 83.4,
+        "uptime_30d": 83.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 90.1
+        "uptime_30d": 90.2
       },
       {
         "name": "Valchedrym Video System",
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 96.6,
-        "uptime_30d": 96.6,
+        "uptime_7d": 96.7,
+        "uptime_30d": 96.7,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1591,8 +1591,8 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.4,
-        "uptime_30d": 83.4,
+        "uptime_7d": 83.5,
+        "uptime_30d": 83.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
