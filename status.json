@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T00:20:25.340020+00:00",
+  "last_updated": "2026-04-24T00:25:19.155132+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -189,7 +189,7 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 71.2,
+        "uptime_24h": 71.5,
         "uptime_7d": 76.2,
         "uptime_30d": 76.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.2,
-        "uptime_30d": 95.3,
+        "uptime_30d": 95.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 81.8,
+        "uptime_30d": 81.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 94.7,
+        "uptime_24h": 94.6,
         "uptime_7d": 81.1,
         "uptime_30d": 67.0
       }
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 71.2,
+        "uptime_24h": 71.5,
         "uptime_7d": 75.9,
         "uptime_30d": 75.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
