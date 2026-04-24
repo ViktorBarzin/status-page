@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T19:20:25.718647+00:00",
+  "last_updated": "2026-04-24T19:26:11.192101+00:00",
   "groups": {
     "HTTP": [
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 96.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 80.9,
+        "uptime_30d": 81.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 89.3,
+        "uptime_24h": 89.2,
         "uptime_7d": 79.2,
         "uptime_30d": 65.6
       }
