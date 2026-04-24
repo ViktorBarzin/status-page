@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T18:00:30.882556+00:00",
+  "last_updated": "2026-04-24T18:06:10.939133+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 80.5,
+        "uptime_30d": 80.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.2,
-        "uptime_7d": 78.5,
-        "uptime_30d": 74.6,
+        "uptime_24h": 80.7,
+        "uptime_7d": 78.2,
+        "uptime_30d": 74.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 89.2,
         "uptime_7d": 78.8,
-        "uptime_30d": 65.1
+        "uptime_30d": 65.2
       }
     ],
     "External Reachability": [
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "[External] aiostreams",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
         "uptime_30d": 99.4,
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.2,
+        "uptime_7d": 87.3,
         "uptime_30d": 87.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
