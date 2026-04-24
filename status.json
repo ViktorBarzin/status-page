@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T15:40:24.807791+00:00",
+  "last_updated": "2026-04-24T15:45:21.537461+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 80.7,
-        "uptime_7d": 78.0,
-        "uptime_30d": 74.0,
+        "uptime_24h": 81.0,
+        "uptime_7d": 78.1,
+        "uptime_30d": 74.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 91.9,
+        "uptime_24h": 91.8,
         "uptime_7d": 78.6,
         "uptime_30d": 65.0
       }
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 86.4,
+        "uptime_7d": 86.5,
         "uptime_30d": 86.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
