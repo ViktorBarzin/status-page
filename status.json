@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T15:10:21.923379+00:00",
+  "last_updated": "2026-04-24T15:16:13.211682+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -183,15 +183,15 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.4,
+        "uptime_30d": 86.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 86.2,
-        "uptime_30d": 86.2,
+        "uptime_7d": 86.3,
+        "uptime_30d": 86.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 79.6,
+        "uptime_30d": 79.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 81.6,
-        "uptime_7d": 78.3,
-        "uptime_30d": 74.2,
+        "status": "down",
+        "uptime_24h": 81.0,
+        "uptime_7d": 78.0,
+        "uptime_30d": 74.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.4,
-        "uptime_30d": 90.6
+        "uptime_30d": 90.7
       },
       {
         "name": "pfSense Gateway",
