@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T16:56:10.755839+00:00",
+  "last_updated": "2026-04-24T17:00:28.850459+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 86.8,
-        "uptime_30d": 86.8,
+        "uptime_7d": 86.9,
+        "uptime_30d": 86.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 92.6,
+        "uptime_30d": 92.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.3,
+        "uptime_24h": 81.2,
         "uptime_7d": 78.6,
         "uptime_30d": 74.7,
         "url": "https://docker.viktorbarzin.me"
@@ -1509,10 +1509,10 @@
       },
       {
         "name": "[External] listenarr",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://listenarr.viktorbarzin.me"
       },
       {
