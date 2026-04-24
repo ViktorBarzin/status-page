@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T17:30:23.589097+00:00",
+  "last_updated": "2026-04-24T17:35:19.507425+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.5,
+        "uptime_30d": 87.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,15 +183,15 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.0,
-        "uptime_30d": 87.0,
+        "uptime_7d": 87.1,
+        "uptime_30d": 87.1,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 96.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 89.2,
-        "uptime_7d": 78.3,
+        "uptime_7d": 78.7,
         "uptime_30d": 65.1
       }
     ],
@@ -1607,7 +1607,7 @@
         "name": "[External] url",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 99.0,
         "url": "https://url.viktorbarzin.me"
       },
