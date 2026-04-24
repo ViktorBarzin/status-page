@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T02:45:21.101428+00:00",
+  "last_updated": "2026-04-24T02:50:25.099184+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.7,
-        "uptime_30d": 84.1,
+        "uptime_30d": 84.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.6,
+        "uptime_30d": 82.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -189,9 +189,9 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 81.2,
-        "uptime_7d": 79.3,
-        "uptime_30d": 79.3,
+        "uptime_24h": 81.7,
+        "uptime_7d": 79.4,
+        "uptime_30d": 79.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -479,7 +479,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 80.2,
+        "uptime_24h": 80.5,
         "uptime_7d": 78.4,
         "uptime_30d": 72.7,
         "url": "https://docker.viktorbarzin.me"
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 81.2,
-        "uptime_7d": 79.4,
-        "uptime_30d": 79.4,
+        "uptime_24h": 81.6,
+        "uptime_7d": 79.5,
+        "uptime_30d": 79.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
