@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T15:30:25.192957+00:00",
+  "last_updated": "2026-04-24T15:35:19.417564+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
-        "uptime_30d": 88.3,
+        "uptime_30d": 88.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.0,
+        "uptime_30d": 87.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,15 +183,15 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.5,
+        "uptime_30d": 86.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 86.3,
-        "uptime_30d": 86.3,
+        "uptime_7d": 86.4,
+        "uptime_30d": 86.4,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 79.7,
+        "uptime_30d": 79.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 80.7,
-        "uptime_7d": 77.9,
-        "uptime_30d": 73.9,
+        "uptime_7d": 78.0,
+        "uptime_30d": 74.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -730,7 +730,7 @@
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.4
       },
       {
