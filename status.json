@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T11:26:11.039088+00:00",
+  "last_updated": "2026-04-24T11:30:29.751268+00:00",
   "groups": {
     "HTTP": [
       {
@@ -70,7 +70,7 @@
         "name": "Grafana",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.3,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 85.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.4,
-        "uptime_7d": 79.3,
+        "uptime_7d": 79.4,
         "uptime_30d": 74.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -1006,9 +1006,9 @@
       {
         "name": "[External] aiostreams",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1047,7 +1047,7 @@
         "name": "[External] claude-memory",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://claude-memory.viktorbarzin.me"
       },
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.7,
+        "uptime_7d": 84.8,
         "uptime_30d": 84.8,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
