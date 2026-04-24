@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T14:06:11.003418+00:00",
+  "last_updated": "2026-04-24T14:10:23.332212+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 86.1,
+        "uptime_30d": 86.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 81.0,
-        "uptime_7d": 78.8,
-        "uptime_30d": 74.5,
+        "status": "up",
+        "uptime_24h": 81.1,
+        "uptime_7d": 78.7,
+        "uptime_30d": 74.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 91.3
+        "uptime_30d": 91.4
       },
       {
         "name": "Valchedrym Video System",
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.8,
+        "uptime_7d": 85.9,
         "uptime_30d": 85.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
