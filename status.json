@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T18:40:23.173519+00:00",
+  "last_updated": "2026-04-24T18:45:21.815673+00:00",
   "groups": {
     "HTTP": [
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 89.2,
-        "uptime_7d": 78.9,
-        "uptime_30d": 65.3
+        "uptime_7d": 79.0,
+        "uptime_30d": 65.4
       }
     ],
     "External Reachability": [
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 87.4,
+        "uptime_7d": 87.5,
         "uptime_30d": 87.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
