@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T12:00:33.502081+00:00",
+  "last_updated": "2026-04-24T12:05:19.166034+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.0,
-        "uptime_30d": 87.4,
+        "uptime_30d": 87.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,15 +183,15 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 85.5,
+        "uptime_30d": 85.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.9,
-        "uptime_30d": 84.9,
+        "uptime_7d": 85.0,
+        "uptime_30d": 85.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 78.5,
+        "uptime_30d": 78.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 90.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 82.2,
-        "uptime_7d": 79.1,
-        "uptime_30d": 74.6,
+        "uptime_24h": 81.9,
+        "uptime_7d": 78.9,
+        "uptime_30d": 74.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 90.9
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 91.9,
+        "uptime_24h": 91.8,
         "uptime_7d": 77.3,
         "uptime_30d": 63.9
       }
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 96.9,
+        "uptime_7d": 97.0,
         "uptime_30d": 97.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
