@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T05:16:11.669122+00:00",
+  "last_updated": "2026-04-24T05:20:25.525405+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.7,
+        "uptime_30d": 83.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,13 +183,13 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 83.1,
+        "uptime_30d": 83.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 91.7,
+        "uptime_24h": 92.1,
         "uptime_7d": 81.2,
         "uptime_30d": 81.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.6,
+        "uptime_24h": 81.5,
         "uptime_7d": 79.4,
         "uptime_30d": 73.9,
         "url": "https://docker.viktorbarzin.me"
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.1,
-        "uptime_30d": 89.1
+        "uptime_30d": 89.2
       },
       {
         "name": "Valchedrym Video System",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 94.6,
-        "uptime_7d": 78.1,
-        "uptime_30d": 63.4
+        "uptime_24h": 94.7,
+        "uptime_7d": 78.3,
+        "uptime_30d": 63.5
       }
     ],
     "External Reachability": [
@@ -927,8 +927,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 96.2,
-        "uptime_30d": 96.2,
+        "uptime_7d": 96.3,
+        "uptime_30d": 96.3,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 91.7,
+        "uptime_24h": 92.0,
         "uptime_7d": 81.3,
         "uptime_30d": 81.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
