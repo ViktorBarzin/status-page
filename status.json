@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T11:40:26.716393+00:00",
+  "last_updated": "2026-04-24T11:45:23.022295+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.0,
-        "uptime_30d": 87.3,
+        "uptime_30d": 87.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.5,
-        "uptime_30d": 91.3,
+        "uptime_7d": 98.6,
+        "uptime_30d": 91.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -247,7 +247,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.4,
         "uptime_7d": 79.5,
-        "uptime_30d": 74.8,
+        "uptime_30d": 74.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.6,
-        "uptime_30d": 90.8
+        "uptime_30d": 90.9
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.1,
-        "uptime_30d": 89.8
+        "uptime_30d": 89.9
       },
       {
         "name": "pfSense Gateway",
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.8,
+        "uptime_7d": 84.9,
         "uptime_30d": 84.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
