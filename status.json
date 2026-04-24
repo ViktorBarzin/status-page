@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T22:35:19.115191+00:00",
+  "last_updated": "2026-04-24T22:40:25.116294+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -438,7 +438,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -737,7 +737,7 @@
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.6
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.0,
-        "uptime_30d": 91.9
+        "uptime_30d": 92.0
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 86.7,
-        "uptime_7d": 79.5,
-        "uptime_30d": 66.0
+        "uptime_24h": 86.8,
+        "uptime_7d": 79.6,
+        "uptime_30d": 66.1
       }
     ],
     "External Reachability": [
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 97.7,
         "url": "https://nextcloud.viktorbarzin.me"
       },
