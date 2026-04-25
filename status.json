@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T03:20:22.328875+00:00",
+  "last_updated": "2026-04-25T03:25:19.220213+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.4,
+        "uptime_30d": 85.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 84.8,
+        "uptime_30d": 85.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 96.5,
+        "uptime_7d": 96.6,
         "uptime_30d": 94.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -351,7 +351,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.9,
-        "uptime_30d": 88.1,
+        "uptime_30d": 88.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 80.9,
-        "uptime_7d": 78.1,
-        "uptime_30d": 72.6,
+        "uptime_7d": 78.2,
+        "uptime_30d": 72.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 84.2,
-        "uptime_7d": 75.8,
-        "uptime_30d": 61.7
+        "uptime_7d": 76.0,
+        "uptime_30d": 61.9
       }
     ],
     "External Reachability": [
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -1184,7 +1184,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1608,7 +1608,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://url.viktorbarzin.me"
       },
       {
@@ -1648,7 +1648,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.4,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
