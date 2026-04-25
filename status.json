@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T00:26:11.216698+00:00",
+  "last_updated": "2026-04-25T00:30:33.585831+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 89.4,
+        "uptime_30d": 89.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 80.7,
         "uptime_7d": 79.5,
-        "uptime_30d": 75.9,
+        "uptime_30d": 76.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 86.5,
-        "uptime_7d": 80.3,
-        "uptime_30d": 66.4
+        "uptime_24h": 85.3,
+        "uptime_7d": 79.9,
+        "uptime_30d": 66.2
       }
     ],
     "External Reachability": [
