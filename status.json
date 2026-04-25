@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T04:30:28.185001+00:00",
+  "last_updated": "2026-04-25T04:36:10.997372+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.9,
+        "uptime_30d": 88.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 76.9,
+        "uptime_30d": 77.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.0,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 78.3,
-        "uptime_7d": 76.8,
-        "uptime_30d": 71.8,
+        "uptime_24h": 77.8,
+        "uptime_7d": 76.4,
+        "uptime_30d": 71.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.1,
-        "uptime_30d": 87.7
+        "uptime_30d": 87.8
       },
       {
         "name": "pfSense Gateway",
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.9
       }
     ],
