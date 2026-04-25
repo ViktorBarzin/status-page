@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T21:10:25.636249+00:00",
+  "last_updated": "2026-04-25T21:15:20.947794+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 97.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 93.8,
-        "uptime_7d": 96.3,
-        "uptime_30d": 92.6,
+        "uptime_24h": 93.5,
+        "uptime_7d": 96.2,
+        "uptime_30d": 92.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.1,
+        "uptime_24h": 77.6,
         "uptime_7d": 76.6,
-        "uptime_30d": 73.1,
+        "uptime_30d": 73.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
