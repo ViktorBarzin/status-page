@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T09:40:25.170871+00:00",
+  "last_updated": "2026-04-25T09:46:13.284997+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,7 +175,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.6,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.6,
+        "uptime_30d": 89.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 80.2,
+        "uptime_30d": 80.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.5,
-        "uptime_30d": 90.0,
+        "uptime_30d": 90.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.5,
-        "uptime_7d": 76.1,
+        "uptime_24h": 77.2,
+        "uptime_7d": 76.2,
         "uptime_30d": 71.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.9,
-        "uptime_30d": 89.3
+        "uptime_30d": 89.4
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 89.6,
+        "uptime_24h": 89.5,
         "uptime_7d": 79.6,
         "uptime_30d": 64.0
       }
