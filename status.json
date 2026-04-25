@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T22:30:26.727506+00:00",
+  "last_updated": "2026-04-25T22:35:19.916236+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,14 +175,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.7,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 88.3,
-        "uptime_7d": 93.5,
+        "uptime_24h": 88.0,
+        "uptime_7d": 93.3,
         "uptime_30d": 90.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -446,7 +446,7 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.6,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.7,
-        "uptime_7d": 76.1,
+        "uptime_7d": 76.2,
         "uptime_30d": 72.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -590,7 +590,7 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.3,
         "url": "https://ci.viktorbarzin.me"
       },
