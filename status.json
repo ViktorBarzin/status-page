@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T00:15:21.491806+00:00",
+  "last_updated": "2026-04-25T00:20:22.417154+00:00",
   "groups": {
     "HTTP": [
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.9,
-        "uptime_30d": 88.9,
+        "uptime_7d": 89.0,
+        "uptime_30d": 89.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 80.7,
-        "uptime_7d": 79.4,
+        "uptime_7d": 79.5,
         "uptime_30d": 75.9,
         "url": "https://docker.viktorbarzin.me"
       },
