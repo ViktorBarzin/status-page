@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T23:00:34.475099+00:00",
+  "last_updated": "2026-04-25T23:05:19.553191+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 86.3,
-        "uptime_7d": 92.4,
-        "uptime_30d": 89.5,
+        "uptime_24h": 85.9,
+        "uptime_7d": 92.3,
+        "uptime_30d": 89.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.4,
-        "uptime_7d": 76.2,
-        "uptime_30d": 72.9,
+        "uptime_24h": 75.2,
+        "uptime_7d": 76.1,
+        "uptime_30d": 72.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1408,7 +1408,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
