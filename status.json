@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T09:46:13.284997+00:00",
+  "last_updated": "2026-04-25T09:50:23.503226+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,16 +581,16 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.2,
+        "uptime_24h": 77.5,
         "uptime_7d": 76.2,
-        "uptime_30d": 71.9,
+        "uptime_30d": 72.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 97.7,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 91.4
+        "uptime_30d": 91.5
       },
       {
         "name": "Valchedrym DDNS",
