@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T19:50:25.383864+00:00",
+  "last_updated": "2026-04-25T19:55:19.769811+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 76.3,
-        "uptime_7d": 76.1,
-        "uptime_30d": 72.6,
+        "status": "up",
+        "uptime_24h": 76.1,
+        "uptime_7d": 76.0,
+        "uptime_30d": 72.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 93.2
+        "uptime_30d": 93.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 94.6,
-        "uptime_7d": 83.8,
+        "uptime_7d": 84.2,
         "uptime_30d": 66.9
       }
     ],
