@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T21:01:30.008860+00:00",
+  "last_updated": "2026-04-25T21:05:19.949124+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 94.5,
-        "uptime_7d": 96.7,
-        "uptime_30d": 92.9,
+        "uptime_24h": 94.2,
+        "uptime_7d": 96.5,
+        "uptime_30d": 92.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
