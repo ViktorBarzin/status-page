@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T22:40:25.590944+00:00",
+  "last_updated": "2026-04-25T22:45:20.614453+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 87.6,
-        "uptime_7d": 93.1,
-        "uptime_30d": 90.0,
+        "uptime_24h": 87.3,
+        "uptime_7d": 92.9,
+        "uptime_30d": 89.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 75.4,
         "uptime_7d": 76.1,
-        "uptime_30d": 72.7,
+        "uptime_30d": 72.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
