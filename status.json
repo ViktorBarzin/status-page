@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T11:26:13.525893+00:00",
+  "last_updated": "2026-04-26T11:30:30.319552+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 43.0,
-        "uptime_7d": 58.7,
-        "uptime_30d": 58.6,
+        "uptime_7d": 58.8,
+        "uptime_30d": 58.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.8,
-        "uptime_7d": 69.4,
+        "uptime_7d": 69.5,
         "uptime_30d": 66.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -758,8 +758,8 @@
         "name": "TP-Link Gateway (192.168.1.1)",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8
+        "uptime_7d": 99.9,
+        "uptime_30d": 99.9
       }
     ],
     "Ping": [
@@ -1015,7 +1015,7 @@
         "name": "[External] authentik",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://authentik.viktorbarzin.me"
       },
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1527,7 +1527,7 @@
         "name": "[External] qbittorrent",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://qbittorrent.viktorbarzin.me"
       },
@@ -1690,7 +1690,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.8
+        "uptime_30d": 99.9
       }
     ]
   },
