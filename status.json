@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T09:50:26.849612+00:00",
+  "last_updated": "2026-04-26T09:55:20.709890+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.2,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 43.0,
-        "uptime_7d": 56.7,
-        "uptime_30d": 56.4,
+        "uptime_7d": 56.8,
+        "uptime_30d": 56.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 70.9,
-        "uptime_7d": 68.9,
-        "uptime_30d": 65.6,
+        "uptime_24h": 70.6,
+        "uptime_7d": 68.7,
+        "uptime_30d": 65.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.0,
         "url": "https://music-assistant.viktorbarzin.me"
       },
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://registry.viktorbarzin.me"
       },
       {
