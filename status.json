@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T13:30:29.988002+00:00",
+  "last_updated": "2026-04-26T13:35:21.391365+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 43.0,
-        "uptime_7d": 61.1,
-        "uptime_30d": 61.0,
+        "uptime_7d": 61.2,
+        "uptime_30d": 61.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 92.0,
+        "uptime_30d": 92.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.5,
-        "uptime_7d": 71.0,
-        "uptime_30d": 67.5,
+        "uptime_7d": 71.1,
+        "uptime_30d": 67.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.5,
         "uptime_30d": 91.2
       },
       {
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
