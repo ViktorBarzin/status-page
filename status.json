@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T09:40:27.697721+00:00",
+  "last_updated": "2026-04-26T09:45:22.611406+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 43.0,
-        "uptime_7d": 56.4,
-        "uptime_30d": 56.2,
+        "uptime_7d": 56.5,
+        "uptime_30d": 56.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 85.6,
+        "uptime_30d": 85.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 90.0,
+        "uptime_30d": 90.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 71.9,
-        "uptime_7d": 69.4,
-        "uptime_30d": 66.1,
+        "status": "down",
+        "uptime_24h": 71.2,
+        "uptime_7d": 69.0,
+        "uptime_30d": 65.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -774,7 +774,7 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.2,
         "uptime_30d": 91.4
       },
       {
@@ -1479,7 +1479,7 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.7,
         "uptime_30d": 97.7,
         "url": "https://registry.viktorbarzin.me"
       },
