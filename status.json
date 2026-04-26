@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T08:45:22.210162+00:00",
+  "last_updated": "2026-04-26T08:50:26.893165+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.1,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 46.0,
-        "uptime_7d": 57.6,
-        "uptime_30d": 57.2,
+        "uptime_24h": 45.7,
+        "uptime_7d": 57.4,
+        "uptime_30d": 57.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.5,
-        "uptime_7d": 68.9,
-        "uptime_30d": 65.6,
+        "uptime_24h": 71.8,
+        "uptime_7d": 69.0,
+        "uptime_30d": 65.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,8 +767,8 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
-        "uptime_30d": 90.1
+        "uptime_7d": 98.4,
+        "uptime_30d": 90.2
       },
       {
         "name": "Valchedrym Video System",
@@ -904,7 +904,7 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
