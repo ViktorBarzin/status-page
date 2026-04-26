@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T03:40:27.751134+00:00",
+  "last_updated": "2026-04-26T03:45:22.941423+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,15 +175,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 67.0,
-        "uptime_7d": 68.9,
-        "uptime_30d": 67.3,
+        "uptime_24h": 66.7,
+        "uptime_7d": 68.7,
+        "uptime_30d": 67.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.2,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.8,
+        "uptime_30d": 81.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.9,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.3,
-        "uptime_7d": 68.5,
+        "uptime_24h": 70.8,
+        "uptime_7d": 68.4,
         "uptime_30d": 64.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -1184,7 +1184,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1231,7 +1231,7 @@
         "name": "[External] linkwarden",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "https://linkwarden.viktorbarzin.me"
       },
