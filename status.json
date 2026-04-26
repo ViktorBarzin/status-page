@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T11:35:21.191801+00:00",
+  "last_updated": "2026-04-26T11:40:27.643998+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 43.0,
-        "uptime_7d": 58.9,
-        "uptime_30d": 58.8,
+        "uptime_7d": 59.0,
+        "uptime_30d": 58.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.8,
-        "uptime_7d": 69.5,
+        "uptime_7d": 69.6,
         "uptime_30d": 66.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 99.0,
         "uptime_30d": 90.8
       },
       {
@@ -775,21 +775,21 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 91.8
+        "uptime_30d": 91.9
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5
+        "uptime_30d": 98.6
       },
       {
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.7,
-        "uptime_30d": 89.8
+        "uptime_30d": 89.9
       },
       {
         "name": "pfSense Gateway",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 97.3,
-        "uptime_7d": 85.0,
-        "uptime_30d": 66.4
+        "uptime_7d": 85.1,
+        "uptime_30d": 66.5
       }
     ],
     "External Reachability": [
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 97.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.0,
         "url": "https://music-assistant.viktorbarzin.me"
       },
