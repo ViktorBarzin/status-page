@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T06:50:25.570311+00:00",
+  "last_updated": "2026-04-26T06:55:20.329367+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 54.0,
-        "uptime_7d": 61.4,
-        "uptime_30d": 60.7,
+        "uptime_24h": 53.6,
+        "uptime_7d": 61.2,
+        "uptime_30d": 60.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 90.5,
+        "uptime_30d": 90.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 72.6,
-        "uptime_7d": 69.4,
-        "uptime_30d": 65.8,
+        "uptime_24h": 72.4,
+        "uptime_7d": 69.1,
+        "uptime_30d": 65.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 90.7
+        "uptime_30d": 90.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.7,
-        "uptime_30d": 88.5
+        "uptime_30d": 88.6
       },
       {
         "name": "pfSense Gateway",
@@ -1400,7 +1400,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1479,7 +1479,7 @@
         "name": "[External] registry",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 97.5,
         "url": "https://registry.viktorbarzin.me"
       },
