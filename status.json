@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T03:15:21.276415+00:00",
+  "last_updated": "2026-04-26T03:20:25.669810+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 68.7,
-        "uptime_7d": 70.1,
-        "uptime_30d": 68.2,
+        "uptime_24h": 68.4,
+        "uptime_7d": 69.8,
+        "uptime_30d": 68.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.7,
-        "uptime_7d": 68.4,
-        "uptime_30d": 64.8,
+        "uptime_24h": 70.3,
+        "uptime_7d": 68.2,
+        "uptime_30d": 64.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
