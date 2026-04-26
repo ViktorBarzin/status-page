@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T10:50:28.129492+00:00",
+  "last_updated": "2026-04-26T10:55:22.765443+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 43.0,
-        "uptime_7d": 58.0,
-        "uptime_30d": 57.9,
+        "uptime_7d": 58.1,
+        "uptime_30d": 58.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 86.1,
+        "uptime_30d": 86.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.0,
-        "uptime_7d": 69.4,
+        "uptime_24h": 71.3,
+        "uptime_7d": 69.5,
         "uptime_30d": 66.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 90.6
+        "uptime_30d": 90.7
       },
       {
         "name": "Valchedrym Video System",
