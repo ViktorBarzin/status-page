@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T05:50:22.894076+00:00",
+  "last_updated": "2026-04-26T05:55:19.568752+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,15 +175,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 58.1,
-        "uptime_7d": 63.6,
-        "uptime_30d": 62.6,
+        "uptime_24h": 57.9,
+        "uptime_7d": 63.4,
+        "uptime_30d": 62.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 73.9,
-        "uptime_7d": 69.5,
+        "uptime_24h": 74.2,
+        "uptime_7d": 69.6,
         "uptime_30d": 66.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.3,
+        "uptime_7d": 95.4,
         "uptime_30d": 88.2
       },
       {
