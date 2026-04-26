@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T01:50:23.415776+00:00",
+  "last_updated": "2026-04-26T01:55:19.943513+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 74.6,
-        "uptime_7d": 87.0,
-        "uptime_30d": 84.9,
+        "uptime_24h": 74.2,
+        "uptime_7d": 86.8,
+        "uptime_30d": 84.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 92.9,
+        "uptime_30d": 93.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.0,
-        "uptime_7d": 74.3,
+        "uptime_7d": 74.4,
         "uptime_30d": 71.4,
         "url": "https://docker.viktorbarzin.me"
       },
