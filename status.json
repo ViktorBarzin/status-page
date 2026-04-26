@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T20:20:25.142532+00:00",
+  "last_updated": "2026-04-26T20:25:19.374587+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 96.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -181,8 +181,8 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 45.1,
-        "uptime_7d": 67.4,
+        "uptime_24h": 45.5,
+        "uptime_7d": 67.5,
         "uptime_30d": 67.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 72.0,
         "uptime_7d": 71.3,
-        "uptime_30d": 68.1,
+        "uptime_30d": 68.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 94.8,
-        "uptime_7d": 95.1,
-        "uptime_30d": 89.2
+        "uptime_24h": 94.5,
+        "uptime_7d": 94.9,
+        "uptime_30d": 89.0
       },
       {
         "name": "pfSense Gateway",
