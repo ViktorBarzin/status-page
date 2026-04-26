@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T08:00:32.270558+00:00",
+  "last_updated": "2026-04-26T08:05:19.582838+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 49.1,
-        "uptime_7d": 59.0,
-        "uptime_30d": 58.7,
+        "uptime_24h": 49.0,
+        "uptime_7d": 58.8,
+        "uptime_30d": 58.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 90.8,
+        "uptime_30d": 90.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.6,
-        "uptime_7d": 69.6,
+        "uptime_24h": 72.8,
+        "uptime_7d": 69.7,
         "uptime_30d": 66.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -615,7 +615,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.9,
-        "uptime_30d": 89.9
+        "uptime_7d": 98.1,
+        "uptime_30d": 90.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 91.0
+        "uptime_30d": 91.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -1608,7 +1608,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://url.viktorbarzin.me"
       },
       {
