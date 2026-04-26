@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T06:35:20.080986+00:00",
+  "last_updated": "2026-04-26T06:40:26.359963+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 55.0,
-        "uptime_7d": 61.9,
-        "uptime_30d": 61.3,
+        "uptime_24h": 54.6,
+        "uptime_7d": 61.7,
+        "uptime_30d": 61.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -399,7 +399,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -471,7 +471,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://budget-anca.viktorbarzin.me"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.5,
         "uptime_30d": 89.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -559,7 +559,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -575,15 +575,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 73.9,
-        "uptime_7d": 69.9,
-        "uptime_30d": 66.4,
+        "uptime_24h": 73.7,
+        "uptime_7d": 69.8,
+        "uptime_30d": 66.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,8 +767,8 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.2,
-        "uptime_30d": 89.5
+        "uptime_7d": 97.5,
+        "uptime_30d": 89.6
       },
       {
         "name": "Valchedrym Video System",
