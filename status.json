@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T21:00:33.354970+00:00",
+  "last_updated": "2026-04-26T21:05:19.332917+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,8 +181,8 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 47.9,
-        "uptime_7d": 67.9,
+        "uptime_24h": 48.3,
+        "uptime_7d": 68.0,
         "uptime_30d": 67.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.0,
+        "uptime_30d": 89.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 92.1,
-        "uptime_7d": 93.7,
-        "uptime_30d": 88.0
+        "uptime_24h": 91.7,
+        "uptime_7d": 93.5,
+        "uptime_30d": 87.9
       },
       {
         "name": "pfSense Gateway",
@@ -1183,7 +1183,7 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 96.6,
         "url": "https://immich.viktorbarzin.me"
       },
