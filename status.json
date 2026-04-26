@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T11:50:27.051850+00:00",
+  "last_updated": "2026-04-26T11:55:21.304418+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 43.0,
-        "uptime_7d": 59.2,
-        "uptime_30d": 59.1,
+        "uptime_7d": 59.3,
+        "uptime_30d": 59.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.5,
         "uptime_30d": 91.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.5,
-        "uptime_7d": 69.7,
-        "uptime_30d": 66.4,
+        "uptime_7d": 69.8,
+        "uptime_30d": 66.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
