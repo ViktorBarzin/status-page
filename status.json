@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T19:45:22.152595+00:00",
+  "last_updated": "2026-04-26T19:50:26.592996+00:00",
   "groups": {
     "HTTP": [
       {
@@ -124,10 +124,10 @@
       },
       {
         "name": "Immich server",
-        "status": "up",
-        "uptime_24h": 97.9,
-        "uptime_7d": 97.2,
-        "uptime_30d": 95.4,
+        "status": "down",
+        "uptime_24h": 97.6,
+        "uptime_7d": 97.0,
+        "uptime_30d": 95.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 43.3,
-        "uptime_7d": 66.9,
-        "uptime_30d": 66.8,
+        "uptime_7d": 67.0,
+        "uptime_30d": 66.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.7,
+        "uptime_24h": 72.2,
         "uptime_7d": 71.1,
-        "uptime_30d": 67.9,
+        "uptime_30d": 68.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 92.3
+        "uptime_30d": 92.4
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 97.2,
-        "uptime_7d": 96.4,
-        "uptime_30d": 90.2
+        "uptime_24h": 96.9,
+        "uptime_7d": 96.2,
+        "uptime_30d": 90.0
       },
       {
         "name": "pfSense Gateway",
