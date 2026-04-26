@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T02:30:29.396798+00:00",
+  "last_updated": "2026-04-26T02:35:20.169050+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 71.8,
-        "uptime_7d": 72.2,
-        "uptime_30d": 69.9,
+        "uptime_24h": 71.5,
+        "uptime_7d": 72.0,
+        "uptime_30d": 69.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.0,
+        "uptime_30d": 81.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.8,
-        "uptime_30d": 87.8,
+        "uptime_30d": 87.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.5,
-        "uptime_7d": 67.7,
+        "uptime_7d": 67.8,
         "uptime_30d": 64.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 89.4
+        "uptime_30d": 89.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.8,
-        "uptime_30d": 87.0
+        "uptime_30d": 87.1
       },
       {
         "name": "pfSense Gateway",
@@ -1069,7 +1069,7 @@
       },
       {
         "name": "[External] ebook2audiobook",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1125,10 +1125,10 @@
       },
       {
         "name": "[External] music-emo",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://music-emo.viktorbarzin.me"
       },
       {
