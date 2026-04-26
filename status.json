@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T06:30:32.814314+00:00",
+  "last_updated": "2026-04-26T06:35:20.080986+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 97.1,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -175,14 +175,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.8,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 55.3,
-        "uptime_7d": 62.1,
+        "uptime_24h": 55.0,
+        "uptime_7d": 61.9,
         "uptime_30d": 61.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.8,
         "uptime_30d": 95.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.0,
+        "uptime_24h": 73.9,
         "uptime_7d": 69.9,
         "uptime_30d": 66.4,
         "url": "https://docker.viktorbarzin.me"
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 90.6
+        "uptime_30d": 90.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.4,
-        "uptime_30d": 88.4
+        "uptime_7d": 95.7,
+        "uptime_30d": 88.5
       },
       {
         "name": "pfSense Gateway",
