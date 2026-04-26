@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T01:40:26.105835+00:00",
+  "last_updated": "2026-04-26T01:45:21.153029+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 75.3,
-        "uptime_7d": 87.3,
-        "uptime_30d": 85.2,
+        "uptime_24h": 74.9,
+        "uptime_7d": 87.1,
+        "uptime_30d": 85.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.0,
-        "uptime_7d": 74.4,
+        "uptime_7d": 74.3,
         "uptime_30d": 71.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -999,7 +999,7 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -1231,7 +1231,7 @@
         "name": "[External] linkwarden",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://linkwarden.viktorbarzin.me"
       },
@@ -1527,7 +1527,7 @@
         "name": "[External] qbittorrent",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://qbittorrent.viktorbarzin.me"
       },
