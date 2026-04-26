@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T05:20:26.198122+00:00",
+  "last_updated": "2026-04-26T05:25:19.381883+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 97.0,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -175,14 +175,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.8,
+        "uptime_30d": 97.1,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 60.1,
-        "uptime_7d": 64.7,
+        "uptime_24h": 59.9,
+        "uptime_7d": 64.5,
         "uptime_30d": 63.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 89.7,
+        "uptime_30d": 89.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.3,
-        "uptime_7d": 69.4,
-        "uptime_30d": 65.8,
+        "uptime_7d": 69.5,
+        "uptime_30d": 65.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
