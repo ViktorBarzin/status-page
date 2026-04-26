@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T03:35:19.639986+00:00",
+  "last_updated": "2026-04-26T03:40:27.751134+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 67.4,
-        "uptime_7d": 69.2,
-        "uptime_30d": 67.6,
+        "uptime_24h": 67.0,
+        "uptime_7d": 68.9,
+        "uptime_30d": 67.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -358,7 +358,7 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.1,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -382,7 +382,7 @@
         "name": "Homepage",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.7,
         "url": "https://home.viktorbarzin.me"
       },
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.1,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.3,
-        "uptime_7d": 68.4,
-        "uptime_30d": 64.8,
+        "uptime_7d": 68.5,
+        "uptime_30d": 64.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.0,
-        "uptime_30d": 87.4
+        "uptime_30d": 87.5
       },
       {
         "name": "pfSense Gateway",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.8,
-        "uptime_30d": 64.4
+        "uptime_7d": 83.9,
+        "uptime_30d": 64.5
       }
     ],
     "External Reachability": [
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "[External] authentik",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1151,7 +1151,7 @@
         "name": "[External] hackmd",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.0,
         "url": "https://hackmd.viktorbarzin.me"
       },
@@ -1199,7 +1199,7 @@
         "name": "[External] json",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "https://json.viktorbarzin.me"
       },
@@ -1232,7 +1232,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://linkwarden.viktorbarzin.me"
       },
       {
@@ -1679,7 +1679,7 @@
         "name": "[External] pdf",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.7,
         "url": "https://pdf.viktorbarzin.me"
       }
