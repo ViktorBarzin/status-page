@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T22:25:19.174864+00:00",
+  "last_updated": "2026-04-26T22:30:26.279723+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 97.9,
+        "uptime_7d": 98.0,
         "uptime_30d": 97.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -181,8 +181,8 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 53.8,
-        "uptime_7d": 68.9,
+        "uptime_24h": 54.2,
+        "uptime_7d": 69.0,
         "uptime_30d": 68.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.4,
+        "uptime_30d": 89.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -580,7 +580,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 72.7,
         "uptime_7d": 71.7,
         "uptime_30d": 68.6,
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 92.7
+        "uptime_30d": 92.8
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 86.2,
-        "uptime_7d": 90.8,
-        "uptime_30d": 85.6
+        "uptime_24h": 85.9,
+        "uptime_7d": 90.6,
+        "uptime_30d": 85.5
       },
       {
         "name": "pfSense Gateway",
@@ -1109,7 +1109,7 @@
       },
       {
         "name": "[External] foolery",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
