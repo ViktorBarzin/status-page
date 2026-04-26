@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T07:55:20.592086+00:00",
+  "last_updated": "2026-04-26T08:00:32.270558+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 49.5,
-        "uptime_7d": 59.2,
-        "uptime_30d": 58.8,
+        "uptime_24h": 49.1,
+        "uptime_7d": 59.0,
+        "uptime_30d": 58.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 98.1,
         "uptime_30d": 95.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.6,
+        "uptime_30d": 84.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 72.6,
         "uptime_7d": 69.6,
-        "uptime_30d": 66.0,
+        "uptime_30d": 66.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 89.9
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.2,
-        "uptime_30d": 65.8
+        "uptime_7d": 85.3,
+        "uptime_30d": 65.9
       }
     ],
     "External Reachability": [
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.6,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1399,7 +1399,7 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.4,
         "uptime_30d": 98.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -1407,7 +1407,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.9,
         "url": "https://music-assistant.viktorbarzin.me"
       },
