@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T06:20:27.102070+00:00",
+  "last_updated": "2026-04-26T06:25:19.638486+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
+        "uptime_7d": 98.0,
         "uptime_30d": 96.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 56.0,
-        "uptime_7d": 62.5,
-        "uptime_30d": 61.6,
+        "uptime_24h": 55.8,
+        "uptime_7d": 62.3,
+        "uptime_30d": 61.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.6,
         "uptime_30d": 90.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.2,
-        "uptime_7d": 69.9,
-        "uptime_30d": 66.4,
+        "uptime_24h": 74.0,
+        "uptime_7d": 69.8,
+        "uptime_30d": 66.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
