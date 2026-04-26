@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T07:20:24.502847+00:00",
+  "last_updated": "2026-04-26T07:25:20.027449+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 51.9,
-        "uptime_7d": 60.3,
-        "uptime_30d": 59.7,
+        "uptime_24h": 51.5,
+        "uptime_7d": 60.2,
+        "uptime_30d": 59.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.8,
-        "uptime_7d": 69.1,
-        "uptime_30d": 65.7,
+        "uptime_24h": 72.6,
+        "uptime_7d": 69.0,
+        "uptime_30d": 65.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,14 +767,14 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.5,
-        "uptime_30d": 89.7
+        "uptime_7d": 97.6,
+        "uptime_30d": 89.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.9,
         "uptime_30d": 90.9
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 85.0,
-        "uptime_30d": 65.6
+        "uptime_7d": 85.1,
+        "uptime_30d": 65.7
       }
     ],
     "External Reachability": [
@@ -904,7 +904,7 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 97.7,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 97.3,
         "url": "https://nextcloud.viktorbarzin.me"
       },
