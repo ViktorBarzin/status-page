@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T02:50:25.860855+00:00",
+  "last_updated": "2026-04-26T02:55:19.726321+00:00",
   "groups": {
     "HTTP": [
       {
@@ -175,15 +175,15 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "http://realestate-crawler-ui.realestate-crawler.svc"
       },
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 70.4,
-        "uptime_7d": 71.2,
-        "uptime_30d": 69.2,
+        "uptime_24h": 70.1,
+        "uptime_7d": 71.0,
+        "uptime_30d": 69.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
-        "uptime_30d": 89.3,
+        "uptime_7d": 98.1,
+        "uptime_30d": 89.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -247,7 +247,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.8,
-        "uptime_30d": 87.9,
+        "uptime_30d": 88.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.7,
-        "uptime_7d": 68.0,
+        "uptime_7d": 68.1,
         "uptime_30d": 64.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 89.5
+        "uptime_30d": 89.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -904,7 +904,7 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.1,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://registry.viktorbarzin.me"
       },
       {
