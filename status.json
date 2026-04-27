@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T22:50:22.542221+00:00",
+  "last_updated": "2026-04-27T22:55:19.243228+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 83.4,
+        "uptime_7d": 83.5,
         "uptime_30d": 83.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 79.4,
+        "status": "up",
+        "uptime_24h": 79.7,
         "uptime_7d": 75.3,
-        "uptime_30d": 71.7,
+        "uptime_30d": 71.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 55.2,
+        "uptime_24h": 55.5,
         "uptime_7d": 67.0,
-        "uptime_30d": 64.7
+        "uptime_30d": 64.8
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 76.9,
-        "uptime_7d": 82.4,
-        "uptime_30d": 65.8
+        "uptime_24h": 75.8,
+        "uptime_7d": 81.9,
+        "uptime_30d": 65.6
       }
     ],
     "External Reachability": [
@@ -1400,7 +1400,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
