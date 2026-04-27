@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T13:20:22.243614+00:00",
+  "last_updated": "2026-04-27T13:26:11.001919+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 96.3,
+        "uptime_24h": 96.2,
         "uptime_7d": 97.0,
         "uptime_30d": 94.9,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -516,10 +516,10 @@
       },
       {
         "name": "Music Assistant",
-        "status": "down",
-        "uptime_24h": 97.3,
-        "uptime_7d": 98.1,
-        "uptime_30d": 89.4,
+        "status": "up",
+        "uptime_24h": 96.9,
+        "uptime_7d": 97.9,
+        "uptime_30d": 89.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -660,25 +660,25 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.2,
+        "status": "up",
+        "uptime_24h": 98.9,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
-        "status": "down",
-        "uptime_24h": 99.1,
-        "uptime_7d": 99.4,
+        "status": "up",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.2,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
-        "status": "down",
-        "uptime_24h": 99.1,
-        "uptime_7d": 99.4,
+        "status": "up",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 42.1,
-        "uptime_7d": 59.8,
-        "uptime_30d": 58.3
+        "uptime_24h": 41.6,
+        "uptime_7d": 59.7,
+        "uptime_30d": 58.1
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.2,
-        "uptime_30d": 67.8
+        "uptime_30d": 67.9
       }
     ],
     "External Reachability": [
@@ -1405,7 +1405,7 @@
       },
       {
         "name": "[External] ha-sofia",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 97.9,
         "uptime_30d": 97.2,
@@ -1437,7 +1437,7 @@
       },
       {
         "name": "[External] music-assistant",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 97.9,
         "uptime_30d": 97.0,
