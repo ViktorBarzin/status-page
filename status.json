@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T23:45:20.134135+00:00",
+  "last_updated": "2026-04-27T23:50:25.160846+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 79.8,
         "uptime_7d": 75.3,
-        "uptime_30d": 71.8,
+        "uptime_30d": 71.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 59.0,
-        "uptime_7d": 67.6,
-        "uptime_30d": 65.3
+        "uptime_24h": 59.3,
+        "uptime_7d": 67.7,
+        "uptime_30d": 65.4
       },
       {
         "name": "pfSense Gateway",
