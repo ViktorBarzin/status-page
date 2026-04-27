@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T14:35:19.473463+00:00",
+  "last_updated": "2026-04-27T14:40:26.240467+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 79.7,
-        "uptime_30d": 79.4,
+        "uptime_30d": 79.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.2,
+        "uptime_30d": 92.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.4,
-        "uptime_7d": 73.7,
+        "uptime_24h": 77.1,
+        "uptime_7d": 73.8,
         "uptime_30d": 69.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 91.4
+        "uptime_30d": 91.5
       },
       {
         "name": "Valchedrym Video System",
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 40.1,
-        "uptime_7d": 59.8,
-        "uptime_30d": 58.3
+        "uptime_7d": 59.9,
+        "uptime_30d": 58.4
       },
       {
         "name": "pfSense Gateway",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.9,
-        "uptime_30d": 68.1
+        "uptime_7d": 89.0,
+        "uptime_30d": 68.2
       }
     ],
     "External Reachability": [
@@ -1400,14 +1400,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 97.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 96.9,
         "url": "https://music-assistant.viktorbarzin.me"
       },
