@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T00:36:10.091478+00:00",
+  "last_updated": "2026-04-27T00:40:22.561871+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 96.2,
+        "uptime_24h": 96.3,
         "uptime_7d": 96.6,
         "uptime_30d": 95.1,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 62.8,
+        "uptime_24h": 63.2,
         "uptime_7d": 70.4,
-        "uptime_30d": 70.2,
+        "uptime_30d": 70.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 74.5,
         "uptime_7d": 71.5,
-        "uptime_30d": 68.5,
+        "uptime_30d": 68.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 93.8
+        "uptime_30d": 93.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 77.2,
-        "uptime_7d": 86.7,
-        "uptime_30d": 82.3
+        "uptime_24h": 76.9,
+        "uptime_7d": 86.6,
+        "uptime_30d": 82.1
       },
       {
         "name": "pfSense Gateway",
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.4
       }
     ],
