@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T11:50:24.258362+00:00",
+  "last_updated": "2026-04-27T11:55:19.229954+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 78.0,
+        "uptime_7d": 78.1,
         "uptime_30d": 77.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.0,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.7,
-        "uptime_7d": 73.3,
-        "uptime_30d": 69.3,
+        "uptime_24h": 76.5,
+        "uptime_7d": 73.2,
+        "uptime_30d": 69.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 44.1,
-        "uptime_7d": 59.6,
-        "uptime_30d": 58.0
+        "uptime_7d": 59.7,
+        "uptime_30d": 58.1
       },
       {
         "name": "pfSense Gateway",
