@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T16:05:20.264372+00:00",
+  "last_updated": "2026-04-27T16:10:22.308088+00:00",
   "groups": {
     "HTTP": [
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 96.3,
         "uptime_7d": 97.2,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 80.5,
-        "uptime_30d": 80.2,
+        "uptime_30d": 80.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -738,7 +738,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6
+        "uptime_30d": 99.7
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 40.1,
-        "uptime_7d": 61.3,
-        "uptime_30d": 59.6
+        "uptime_7d": 61.4,
+        "uptime_30d": 59.7
       },
       {
         "name": "pfSense Gateway",
