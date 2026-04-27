@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T14:30:28.754377+00:00",
+  "last_updated": "2026-04-27T14:35:19.473463+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 79.6,
+        "uptime_7d": 79.7,
         "uptime_30d": 79.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 76.4,
         "uptime_7d": 73.7,
-        "uptime_30d": 69.8,
+        "uptime_30d": 69.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 40.1,
-        "uptime_7d": 59.7,
-        "uptime_30d": 58.2
+        "uptime_7d": 59.8,
+        "uptime_30d": 58.3
       },
       {
         "name": "pfSense Gateway",
