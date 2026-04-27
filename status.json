@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T13:40:24.939471+00:00",
+  "last_updated": "2026-04-27T13:45:19.241310+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 96.3,
         "uptime_7d": 97.0,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 91.7,
+        "uptime_30d": 91.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -479,7 +479,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -516,7 +516,7 @@
       },
       {
         "name": "Music Assistant",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 97.2,
         "uptime_30d": 88.8,
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.0,
+        "uptime_24h": 75.3,
         "uptime_7d": 73.4,
-        "uptime_30d": 69.5,
+        "uptime_30d": 69.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 98.8,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 99.0,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 98.8,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 99.1,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 92.2
+        "uptime_30d": 92.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 40.8,
-        "uptime_7d": 59.3,
-        "uptime_30d": 57.8
+        "uptime_24h": 40.4,
+        "uptime_7d": 59.2,
+        "uptime_30d": 57.7
       },
       {
         "name": "pfSense Gateway",
@@ -1408,7 +1408,7 @@
         "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 97.7,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
