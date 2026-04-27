@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T02:45:20.499120+00:00",
+  "last_updated": "2026-04-27T02:50:24.611435+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 71.6,
-        "uptime_7d": 69.9,
-        "uptime_30d": 69.7,
+        "uptime_24h": 72.0,
+        "uptime_7d": 70.0,
+        "uptime_30d": 69.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -479,7 +479,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -516,7 +516,7 @@
       },
       {
         "name": "Music Assistant",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.0,
         "uptime_30d": 87.2,
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 74.1,
-        "uptime_7d": 70.9,
-        "uptime_30d": 66.4,
+        "uptime_24h": 73.8,
+        "uptime_7d": 70.7,
+        "uptime_30d": 66.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -660,26 +660,26 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.5,
+        "status": "down",
+        "uptime_24h": 99.6,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
-        "status": "up",
-        "uptime_24h": 99.8,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.6,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.5,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
-        "status": "up",
-        "uptime_24h": 99.8,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -782,14 +782,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0
+        "uptime_30d": 98.1
       },
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 68.3,
-        "uptime_7d": 67.6,
-        "uptime_30d": 64.1
+        "uptime_24h": 67.9,
+        "uptime_7d": 67.4,
+        "uptime_30d": 63.9
       },
       {
         "name": "pfSense Gateway",
@@ -1183,7 +1183,7 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 96.0,
+        "uptime_7d": 96.1,
         "uptime_30d": 95.8,
         "url": "https://immich.viktorbarzin.me"
       },
@@ -1408,7 +1408,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
