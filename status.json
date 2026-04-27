@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T13:35:19.013541+00:00",
+  "last_updated": "2026-04-27T13:40:24.939471+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 79.1,
-        "uptime_30d": 78.8,
+        "uptime_7d": 79.2,
+        "uptime_30d": 78.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -516,10 +516,10 @@
       },
       {
         "name": "Music Assistant",
-        "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 89.3,
+        "status": "down",
+        "uptime_24h": 95.9,
+        "uptime_7d": 97.2,
+        "uptime_30d": 88.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.1,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.5,
-        "uptime_7d": 73.6,
-        "uptime_30d": 69.7,
+        "uptime_24h": 75.0,
+        "uptime_7d": 73.4,
+        "uptime_30d": 69.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -660,26 +660,26 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "down",
-        "uptime_24h": 98.8,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.1,
+        "status": "up",
+        "uptime_24h": 98.6,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
-        "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.1,
+        "status": "up",
+        "uptime_24h": 98.8,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.0,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
-        "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.2,
+        "status": "up",
+        "uptime_24h": 98.8,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 91.2
+        "uptime_30d": 91.3
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 41.1,
-        "uptime_7d": 59.4,
-        "uptime_30d": 57.9
+        "uptime_24h": 40.8,
+        "uptime_7d": 59.3,
+        "uptime_30d": 57.8
       },
       {
         "name": "pfSense Gateway",
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 88.2,
+        "uptime_7d": 88.3,
         "uptime_30d": 67.9
       }
     ],
@@ -1406,9 +1406,9 @@
       {
         "name": "[External] ha-sofia",
         "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.3,
+        "uptime_24h": 96.6,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1438,9 +1438,9 @@
       {
         "name": "[External] music-assistant",
         "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.0,
+        "uptime_24h": 96.6,
+        "uptime_7d": 97.7,
+        "uptime_30d": 96.8,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 97.6,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 98.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
