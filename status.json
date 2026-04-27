@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T03:00:35.044606+00:00",
+  "last_updated": "2026-04-27T03:05:19.374481+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 72.7,
-        "uptime_7d": 70.2,
-        "uptime_30d": 70.0,
+        "uptime_24h": 73.0,
+        "uptime_7d": 70.3,
+        "uptime_30d": 70.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 73.2,
-        "uptime_7d": 70.4,
-        "uptime_30d": 66.0,
+        "uptime_24h": 72.9,
+        "uptime_7d": 70.2,
+        "uptime_30d": 65.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 67.1,
-        "uptime_7d": 67.0,
-        "uptime_30d": 63.6
+        "uptime_24h": 66.9,
+        "uptime_7d": 66.8,
+        "uptime_30d": 63.4
       },
       {
         "name": "pfSense Gateway",
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 96.9,
         "url": "https://nextcloud.viktorbarzin.me"
       },
