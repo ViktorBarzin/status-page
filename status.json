@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T21:40:25.564974+00:00",
+  "last_updated": "2026-04-27T21:45:20.857151+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 83.0,
-        "uptime_30d": 82.7,
+        "uptime_30d": 82.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.3,
+        "uptime_30d": 93.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -787,8 +787,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 50.3,
-        "uptime_7d": 66.1,
+        "uptime_24h": 50.7,
+        "uptime_7d": 66.2,
         "uptime_30d": 64.0
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 80.6,
+        "uptime_24h": 80.3,
         "uptime_7d": 83.2,
         "uptime_30d": 66.1
       }
