@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T01:01:19.895245+00:00",
+  "last_updated": "2026-04-27T01:06:12.450706+00:00",
   "groups": {
     "HTTP": [
       {
@@ -44,9 +44,9 @@
       },
       {
         "name": "IDRAC Redfish Exporter",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.9,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.9,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -181,8 +181,8 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 64.6,
-        "uptime_7d": 70.6,
+        "uptime_24h": 64.9,
+        "uptime_7d": 70.7,
         "uptime_30d": 70.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 73.7,
-        "uptime_7d": 71.2,
+        "uptime_24h": 74.2,
+        "uptime_7d": 71.1,
         "uptime_30d": 68.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 75.4,
-        "uptime_7d": 86.0,
-        "uptime_30d": 81.7
+        "uptime_24h": 75.1,
+        "uptime_7d": 85.8,
+        "uptime_30d": 81.5
       },
       {
         "name": "pfSense Gateway",
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 97.3,
-        "uptime_7d": 87.9,
+        "uptime_7d": 88.0,
         "uptime_30d": 69.9
       }
     ],
@@ -1421,10 +1421,10 @@
       },
       {
         "name": "[External] london",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://london.viktorbarzin.me"
       },
       {
