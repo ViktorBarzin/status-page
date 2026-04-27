@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T12:55:18.840453+00:00",
+  "last_updated": "2026-04-27T13:00:31.693882+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -126,8 +126,8 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 96.3,
-        "uptime_7d": 96.9,
-        "uptime_30d": 94.8,
+        "uptime_7d": 97.0,
+        "uptime_30d": 94.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 78.7,
-        "uptime_30d": 78.4,
+        "uptime_7d": 78.8,
+        "uptime_30d": 78.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.9,
+        "uptime_30d": 92.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.5,
-        "uptime_7d": 73.2,
-        "uptime_30d": 69.3,
+        "uptime_7d": 73.3,
+        "uptime_30d": 69.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -786,10 +786,10 @@
       },
       {
         "name": "Sofia RPI",
-        "status": "up",
-        "uptime_24h": 44.1,
-        "uptime_7d": 60.8,
-        "uptime_30d": 59.0
+        "status": "down",
+        "uptime_24h": 43.5,
+        "uptime_7d": 60.4,
+        "uptime_30d": 58.7
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 88.2,
-        "uptime_30d": 67.7
+        "uptime_30d": 67.8
       }
     ],
     "External Reachability": [
