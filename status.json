@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T00:06:11.061677+00:00",
+  "last_updated": "2026-04-27T00:10:24.355226+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 96.2,
+        "uptime_24h": 96.3,
         "uptime_7d": 96.6,
         "uptime_30d": 95.0,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -181,8 +181,8 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 60.8,
-        "uptime_7d": 70.0,
+        "uptime_24h": 61.1,
+        "uptime_7d": 70.1,
         "uptime_30d": 69.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.4,
-        "uptime_7d": 71.2,
+        "uptime_7d": 71.3,
         "uptime_30d": 68.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 79.2,
-        "uptime_7d": 87.6,
-        "uptime_30d": 83.0
+        "uptime_24h": 79.0,
+        "uptime_7d": 87.5,
+        "uptime_30d": 82.9
       },
       {
         "name": "pfSense Gateway",
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
