@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T21:00:34.594988+00:00",
+  "last_updated": "2026-04-27T21:05:19.542943+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 82.7,
+        "uptime_7d": 82.8,
         "uptime_30d": 82.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -787,8 +787,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 47.6,
-        "uptime_7d": 65.6,
+        "uptime_24h": 47.9,
+        "uptime_7d": 65.7,
         "uptime_30d": 63.5
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 82.4,
+        "uptime_24h": 82.1,
         "uptime_7d": 83.3,
         "uptime_30d": 66.2
       }
