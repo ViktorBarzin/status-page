@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T23:40:25.378770+00:00",
+  "last_updated": "2026-04-27T23:45:20.134135+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 83.7,
+        "uptime_7d": 83.8,
         "uptime_30d": 83.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 80.2,
-        "uptime_7d": 75.6,
-        "uptime_30d": 72.1,
+        "status": "down",
+        "uptime_24h": 79.8,
+        "uptime_7d": 75.3,
+        "uptime_30d": 71.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 93.0
+        "uptime_30d": 93.1
       },
       {
         "name": "Valchedrym Video System",
@@ -787,8 +787,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 58.6,
-        "uptime_7d": 67.5,
+        "uptime_24h": 59.0,
+        "uptime_7d": 67.6,
         "uptime_30d": 65.3
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 73.8,
+        "uptime_24h": 73.4,
         "uptime_7d": 81.5,
         "uptime_30d": 65.5
       }
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.2,
         "url": "https://nextcloud.viktorbarzin.me"
       },
