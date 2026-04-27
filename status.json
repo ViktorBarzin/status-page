@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T02:01:39.315448+00:00",
+  "last_updated": "2026-04-27T02:05:20.001854+00:00",
   "groups": {
     "HTTP": [
       {
@@ -125,7 +125,7 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 96.2,
+        "uptime_24h": 96.3,
         "uptime_7d": 96.7,
         "uptime_30d": 95.2,
         "url": "https://highlights-immich.viktorbarzin.me"
@@ -181,8 +181,8 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 68.5,
-        "uptime_7d": 71.1,
+        "uptime_24h": 68.9,
+        "uptime_7d": 71.2,
         "uptime_30d": 71.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -308,7 +308,7 @@
       },
       {
         "name": "ha-london",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 96.9,
@@ -332,7 +332,7 @@
       },
       {
         "name": "Blog",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 90.3,
@@ -436,7 +436,7 @@
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.5,
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 74.4,
-        "uptime_7d": 71.1,
-        "uptime_30d": 68.3,
+        "uptime_7d": 71.2,
+        "uptime_30d": 68.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -660,7 +660,7 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
         "uptime_30d": 99.8,
@@ -742,7 +742,7 @@
       },
       {
         "name": "Mail SMTP (port 25 external)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
         "uptime_30d": 99.6
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 71.3,
-        "uptime_7d": 84.3,
-        "uptime_30d": 80.2
+        "uptime_24h": 71.0,
+        "uptime_7d": 84.1,
+        "uptime_30d": 80.1
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 97.2,
-        "uptime_7d": 88.1,
-        "uptime_30d": 70.1
+        "uptime_24h": 97.3,
+        "uptime_7d": 88.2,
+        "uptime_30d": 70.2
       }
     ],
     "External Reachability": [
@@ -893,7 +893,7 @@
       },
       {
         "name": "[External] frigate",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -997,7 +997,7 @@
       },
       {
         "name": "[External] affine",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1069,7 +1069,7 @@
       },
       {
         "name": "[External] ebook2audiobook",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1093,7 +1093,7 @@
       },
       {
         "name": "[External] draw",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1109,7 +1109,7 @@
       },
       {
         "name": "[External] foolery",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1125,7 +1125,7 @@
       },
       {
         "name": "[External] music-emo",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "[External] rss",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1149,7 +1149,7 @@
       },
       {
         "name": "[External] hackmd",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.5,
         "uptime_30d": 99.3,
@@ -1173,7 +1173,7 @@
       },
       {
         "name": "[External] home",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1189,7 +1189,7 @@
       },
       {
         "name": "[External] insta2spotify",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1197,7 +1197,7 @@
       },
       {
         "name": "[External] json",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.5,
         "uptime_30d": 99.5,
@@ -1205,7 +1205,7 @@
       },
       {
         "name": "[External] k8s-portal",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1213,7 +1213,7 @@
       },
       {
         "name": "[External] kms",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1221,7 +1221,7 @@
       },
       {
         "name": "[External] k8s",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1237,7 +1237,7 @@
       },
       {
         "name": "[External] mail",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1261,7 +1261,7 @@
       },
       {
         "name": "[External] grafana",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1325,7 +1325,7 @@
       },
       {
         "name": "[External] openclaw",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1333,7 +1333,7 @@
       },
       {
         "name": "[External] openlobster",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1373,7 +1373,7 @@
       },
       {
         "name": "[External] docker",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "[External] listenarr",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1597,7 +1597,7 @@
       },
       {
         "name": "[External] shlink",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1613,7 +1613,7 @@
       },
       {
         "name": "[External] vault",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1621,7 +1621,7 @@
       },
       {
         "name": "[External] goldilocks",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1629,7 +1629,7 @@
       },
       {
         "name": "[External] wealthfolio",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1637,7 +1637,7 @@
       },
       {
         "name": "[External] webhook",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1653,7 +1653,7 @@
       },
       {
         "name": "[External] yt-highlights",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1661,7 +1661,7 @@
       },
       {
         "name": "[External] yt",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1669,7 +1669,7 @@
       },
       {
         "name": "[External] beadboard",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
