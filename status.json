@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T19:50:25.601388+00:00",
+  "last_updated": "2026-04-27T19:55:20.391919+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -125,8 +125,8 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 98.6,
-        "uptime_7d": 97.4,
+        "uptime_24h": 99.7,
+        "uptime_7d": 97.5,
         "uptime_30d": 95.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 82.2,
+        "uptime_7d": 82.3,
         "uptime_30d": 82.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 79.1,
-        "uptime_7d": 75.1,
-        "uptime_30d": 71.4,
+        "uptime_7d": 75.2,
+        "uptime_30d": 71.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 93.2
+        "uptime_30d": 93.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 42.8,
-        "uptime_7d": 64.7,
-        "uptime_30d": 62.6
+        "uptime_24h": 43.1,
+        "uptime_7d": 64.8,
+        "uptime_30d": 62.7
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 86.8,
-        "uptime_7d": 84.7,
-        "uptime_30d": 66.8
+        "uptime_24h": 85.5,
+        "uptime_7d": 84.2,
+        "uptime_30d": 66.6
       }
     ],
     "External Reachability": [
@@ -1182,7 +1182,7 @@
       {
         "name": "[External] immich",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 97.6,
         "uptime_30d": 97.5,
         "url": "https://immich.viktorbarzin.me"
