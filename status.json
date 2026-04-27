@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T13:45:19.241310+00:00",
+  "last_updated": "2026-04-27T13:50:24.183290+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,8 +182,8 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 79.2,
-        "uptime_30d": 78.9,
+        "uptime_7d": 79.3,
+        "uptime_30d": 79.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.3,
-        "uptime_7d": 73.4,
+        "uptime_24h": 75.8,
+        "uptime_7d": 73.5,
         "uptime_30d": 69.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -662,23 +662,23 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.0,
         "uptime_30d": 98.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 98.8,
-        "uptime_7d": 99.2,
+        "uptime_24h": 98.7,
+        "uptime_7d": 99.1,
         "uptime_30d": 99.0,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 98.8,
-        "uptime_7d": 99.2,
+        "uptime_24h": 98.7,
+        "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 40.4,
-        "uptime_7d": 59.2,
-        "uptime_30d": 57.7
+        "uptime_24h": 40.1,
+        "uptime_7d": 59.0,
+        "uptime_30d": 57.6
       },
       {
         "name": "pfSense Gateway",
