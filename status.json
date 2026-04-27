@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T22:35:19.714316+00:00",
+  "last_updated": "2026-04-27T22:40:25.711875+00:00",
   "groups": {
     "HTTP": [
       {
@@ -47,7 +47,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.8,
+        "uptime_30d": 99.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 83.3,
+        "uptime_7d": 83.4,
         "uptime_30d": 83.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 54.1,
+        "uptime_24h": 54.5,
         "uptime_7d": 66.8,
         "uptime_30d": 64.6
       },
@@ -1407,7 +1407,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 97.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1439,8 +1439,8 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 98.1,
-        "uptime_30d": 97.4,
+        "uptime_7d": 98.2,
+        "uptime_30d": 97.5,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
