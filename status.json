@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T14:10:25.984358+00:00",
+  "last_updated": "2026-04-27T14:15:20.711092+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 79.4,
+        "uptime_7d": 79.5,
         "uptime_30d": 79.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 91.8,
+        "uptime_30d": 91.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 76.1,
-        "uptime_7d": 73.5,
+        "uptime_7d": 73.6,
         "uptime_30d": 69.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -745,7 +745,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "PVE NFS (2049)",
@@ -775,21 +775,21 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 92.3
+        "uptime_30d": 92.4
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6
+        "uptime_30d": 98.7
       },
       {
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 40.1,
-        "uptime_7d": 59.4,
-        "uptime_30d": 57.9
+        "uptime_7d": 59.5,
+        "uptime_30d": 58.0
       },
       {
         "name": "pfSense Gateway",
@@ -1589,10 +1589,10 @@
       },
       {
         "name": "[External] tuya-bridge",
-        "status": "up",
-        "uptime_24h": 97.6,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "status": "down",
+        "uptime_24h": 97.3,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
