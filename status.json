@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T15:40:25.694654+00:00",
+  "last_updated": "2026-04-27T15:45:19.995023+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.7,
-        "uptime_7d": 73.7,
+        "uptime_24h": 78.0,
+        "uptime_7d": 73.8,
         "uptime_30d": 70.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 40.1,
-        "uptime_7d": 60.9,
-        "uptime_30d": 59.3
+        "uptime_7d": 61.0,
+        "uptime_30d": 59.4
       },
       {
         "name": "pfSense Gateway",
