@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T09:45:20.760856+00:00",
+  "last_updated": "2026-04-27T09:50:24.702815+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 96.3,
-        "uptime_7d": 96.6,
+        "uptime_7d": 96.7,
         "uptime_30d": 94.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 76.6,
-        "uptime_30d": 76.3,
+        "uptime_30d": 76.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.1,
-        "uptime_7d": 72.4,
-        "uptime_30d": 68.4,
+        "uptime_24h": 76.4,
+        "uptime_7d": 72.5,
+        "uptime_30d": 68.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.5,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 99.4,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 99.5,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 99.5,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 91.4
+        "uptime_30d": 91.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 44.1,
-        "uptime_7d": 57.0,
-        "uptime_30d": 55.8
+        "uptime_7d": 57.1,
+        "uptime_30d": 55.9
       },
       {
         "name": "pfSense Gateway",
