@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T06:15:20.481551+00:00",
+  "last_updated": "2026-04-27T06:20:25.040421+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 96.3,
-        "uptime_7d": 96.2,
+        "uptime_7d": 96.3,
         "uptime_30d": 93.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 96.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 86.2,
+        "uptime_24h": 86.5,
         "uptime_7d": 73.7,
-        "uptime_30d": 73.4,
+        "uptime_30d": 73.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 85.5,
+        "uptime_30d": 85.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.8,
-        "uptime_7d": 72.2,
-        "uptime_30d": 67.8,
+        "uptime_7d": 72.3,
+        "uptime_30d": 67.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.4
+        "uptime_30d": 89.5
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "down",
-        "uptime_24h": 53.8,
-        "uptime_7d": 59.7,
-        "uptime_30d": 58.0
+        "uptime_24h": 53.4,
+        "uptime_7d": 59.6,
+        "uptime_30d": 57.8
       },
       {
         "name": "pfSense Gateway",
