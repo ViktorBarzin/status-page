@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T06:00:35.474626+00:00",
+  "last_updated": "2026-04-28T06:05:19.299842+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 83.8,
-        "uptime_7d": 77.2,
+        "uptime_24h": 83.5,
+        "uptime_7d": 77.0,
         "uptime_30d": 71.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 99.2,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -745,7 +745,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "PVE NFS (2049)",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.5
+        "uptime_30d": 89.6
       },
       {
         "name": "Valchedrym Video System",
@@ -782,14 +782,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5
+        "uptime_30d": 98.6
       },
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 84.8,
-        "uptime_7d": 72.0,
-        "uptime_30d": 67.8
+        "uptime_24h": 85.2,
+        "uptime_7d": 72.1,
+        "uptime_30d": 67.9
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 48.3,
         "uptime_7d": 67.1,
-        "uptime_30d": 57.1
+        "uptime_30d": 57.3
       }
     ],
     "External Reachability": [
@@ -1184,7 +1184,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://immich.viktorbarzin.me"
       },
       {
