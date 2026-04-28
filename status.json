@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T07:10:21.905503+00:00",
+  "last_updated": "2026-04-28T07:15:21.162147+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 96.6,
-        "uptime_30d": 86.8,
+        "uptime_30d": 86.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.5,
-        "uptime_7d": 77.0,
+        "uptime_7d": 77.1,
         "uptime_30d": 72.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 89.7,
-        "uptime_7d": 73.1,
-        "uptime_30d": 68.8
+        "uptime_24h": 90.0,
+        "uptime_7d": 73.2,
+        "uptime_30d": 68.9
       },
       {
         "name": "pfSense Gateway",
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1680,7 +1680,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://pdf.viktorbarzin.me"
       }
     ],
