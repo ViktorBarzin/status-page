@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T23:55:19.499927+00:00",
+  "last_updated": "2026-04-28T00:00:46.112572+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 79.5,
+        "uptime_24h": 79.8,
         "uptime_7d": 75.3,
         "uptime_30d": 71.8,
         "url": "https://docker.viktorbarzin.me"
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 59.7,
-        "uptime_7d": 67.7,
-        "uptime_30d": 65.4
+        "uptime_24h": 60.0,
+        "uptime_7d": 67.8,
+        "uptime_30d": 65.5
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 72.3,
+        "uptime_24h": 71.9,
         "uptime_7d": 81.1,
         "uptime_30d": 65.3
       }
