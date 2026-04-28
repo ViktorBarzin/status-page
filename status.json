@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T00:00:46.112572+00:00",
+  "last_updated": "2026-04-28T00:06:11.654438+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 83.8,
+        "uptime_7d": 83.9,
         "uptime_30d": 83.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.6,
+        "uptime_30d": 93.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 79.8,
+        "uptime_24h": 80.0,
         "uptime_7d": 75.3,
-        "uptime_30d": 71.8,
+        "uptime_30d": 71.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 60.0,
+        "uptime_24h": 60.3,
         "uptime_7d": 67.8,
         "uptime_30d": 65.5
       },
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 71.9,
         "uptime_7d": 81.1,
-        "uptime_30d": 65.3
+        "uptime_30d": 65.4
       }
     ],
     "External Reachability": [
@@ -1183,7 +1183,7 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 97.7,
         "url": "https://immich.viktorbarzin.me"
       },
