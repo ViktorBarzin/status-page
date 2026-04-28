@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T01:45:20.665187+00:00",
+  "last_updated": "2026-04-28T01:50:26.132398+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.4,
+        "uptime_7d": 84.5,
         "uptime_30d": 84.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.4,
-        "uptime_7d": 76.0,
+        "uptime_7d": 76.1,
         "uptime_30d": 72.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -787,8 +787,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 67.2,
-        "uptime_7d": 68.9,
+        "uptime_24h": 67.6,
+        "uptime_7d": 69.0,
         "uptime_30d": 66.6
       },
       {
@@ -1071,7 +1071,7 @@
         "name": "[External] ebook2audiobook",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://ebook2audiobook.viktorbarzin.me"
       },
@@ -1111,7 +1111,7 @@
         "name": "[External] foolery",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://foolery.viktorbarzin.me"
       },
@@ -1127,7 +1127,7 @@
         "name": "[External] music-emo",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://music-emo.viktorbarzin.me"
       },
@@ -1335,7 +1335,7 @@
         "name": "[External] openlobster",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://openlobster.viktorbarzin.me"
       },
