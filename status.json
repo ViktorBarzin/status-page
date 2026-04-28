@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T16:00:32.566991+00:00",
+  "last_updated": "2026-04-28T16:05:19.819428+00:00",
   "groups": {
     "HTTP": [
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 79.7,
-        "uptime_7d": 75.6,
-        "uptime_30d": 71.7,
+        "uptime_24h": 79.4,
+        "uptime_7d": 75.5,
+        "uptime_30d": 71.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -738,7 +738,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6
+        "uptime_30d": 99.7
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 79.4,
-        "uptime_30d": 74.7
+        "uptime_30d": 74.8
       },
       {
         "name": "pfSense Gateway",
