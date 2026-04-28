@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T03:40:26.256465+00:00",
+  "last_updated": "2026-04-28T03:45:21.111029+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 96.1,
+        "uptime_7d": 96.2,
         "uptime_30d": 85.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 84.6,
+        "uptime_24h": 84.9,
         "uptime_7d": 76.7,
         "uptime_30d": 71.2,
         "url": "https://docker.viktorbarzin.me"
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.2,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.6,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 99.2,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.7,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 90.0
+        "uptime_30d": 90.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 75.2,
-        "uptime_7d": 69.6,
-        "uptime_30d": 65.6
+        "uptime_24h": 75.5,
+        "uptime_7d": 69.7,
+        "uptime_30d": 65.7
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 59.0,
+        "uptime_24h": 58.3,
         "uptime_7d": 69.6,
         "uptime_30d": 58.0
       }
@@ -1408,7 +1408,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 96.8,
-        "uptime_30d": 95.9,
+        "uptime_30d": 96.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
