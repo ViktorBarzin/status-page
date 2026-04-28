@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T11:40:25.742189+00:00",
+  "last_updated": "2026-04-28T11:45:21.196452+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 91.3,
+        "uptime_30d": 91.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -247,7 +247,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.1,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.4,
+        "uptime_24h": 82.7,
         "uptime_7d": 77.1,
-        "uptime_30d": 72.5,
+        "uptime_30d": 72.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.2,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.9,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 99.2,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 99.0,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -775,21 +775,21 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 92.0
+        "uptime_30d": 92.1
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5
+        "uptime_30d": 98.6
       },
       {
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 95.5,
-        "uptime_7d": 76.5,
-        "uptime_30d": 72.1
+        "uptime_7d": 76.6,
+        "uptime_30d": 72.2
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 22.6,
+        "uptime_24h": 21.2,
         "uptime_7d": 62.4,
         "uptime_30d": 55.4
       }
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.3,
         "uptime_7d": 97.6,
         "uptime_30d": 97.6,
         "url": "https://tuya-bridge.viktorbarzin.me"
