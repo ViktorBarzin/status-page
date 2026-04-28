@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T02:36:11.596126+00:00",
+  "last_updated": "2026-04-28T02:40:26.470511+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.2,
+        "uptime_30d": 89.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 88.8,
+        "uptime_30d": 88.9,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -517,7 +517,7 @@
       {
         "name": "Music Assistant",
         "status": "up",
-        "uptime_24h": 95.9,
+        "uptime_24h": 96.6,
         "uptime_7d": 96.0,
         "uptime_30d": 85.0,
         "url": "https://docker.viktorbarzin.me"
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.4,
-        "uptime_7d": 76.1,
+        "uptime_24h": 82.5,
+        "uptime_7d": 76.0,
         "uptime_30d": 70.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 98.7,
+        "uptime_24h": 98.9,
         "uptime_7d": 98.6,
         "uptime_30d": 98.5,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -669,7 +669,7 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 98.7,
+        "uptime_24h": 98.9,
         "uptime_7d": 98.7,
         "uptime_30d": 98.5,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
@@ -677,7 +677,7 @@
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 98.7,
+        "uptime_24h": 98.9,
         "uptime_7d": 98.7,
         "uptime_30d": 98.6,
         "url": "http://192.168.1.8:8123/manifest.json"
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 88.4
+        "uptime_30d": 88.5
       },
       {
         "name": "Valchedrym Video System",
@@ -782,14 +782,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 70.7,
-        "uptime_7d": 68.4,
-        "uptime_30d": 64.5
+        "uptime_24h": 71.0,
+        "uptime_7d": 68.5,
+        "uptime_30d": 64.6
       },
       {
         "name": "pfSense Gateway",
@@ -1184,7 +1184,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1406,7 +1406,7 @@
       {
         "name": "[External] ha-sofia",
         "status": "up",
-        "uptime_24h": 96.6,
+        "uptime_24h": 96.9,
         "uptime_7d": 96.7,
         "uptime_30d": 95.8,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -1438,7 +1438,7 @@
       {
         "name": "[External] music-assistant",
         "status": "up",
-        "uptime_24h": 96.6,
+        "uptime_24h": 96.9,
         "uptime_7d": 96.7,
         "uptime_30d": 95.5,
         "url": "https://music-assistant.viktorbarzin.me"
