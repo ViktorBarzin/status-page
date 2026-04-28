@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T01:05:19.820151+00:00",
+  "last_updated": "2026-04-28T01:10:26.313727+00:00",
   "groups": {
     "HTTP": [
       {
@@ -45,7 +45,7 @@
       {
         "name": "IDRAC Redfish Exporter",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.9,
         "uptime_30d": 99.9,
         "url": "https://grafana.viktorbarzin.me"
@@ -181,7 +181,7 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 84.2,
         "uptime_30d": 84.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -787,7 +787,7 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 64.5,
+        "uptime_24h": 64.8,
         "uptime_7d": 68.5,
         "uptime_30d": 66.2
       },
@@ -1408,7 +1408,7 @@
         "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 98.2,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1422,7 +1422,7 @@
       {
         "name": "[External] london",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://london.viktorbarzin.me"
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 98.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
