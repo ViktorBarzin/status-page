@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T04:45:21.424229+00:00",
+  "last_updated": "2026-04-28T04:50:26.147555+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 96.3,
-        "uptime_30d": 85.9,
+        "uptime_30d": 86.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 83.8,
-        "uptime_7d": 76.6,
-        "uptime_30d": 71.3,
+        "uptime_24h": 84.1,
+        "uptime_7d": 76.7,
+        "uptime_30d": 71.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -787,8 +787,8 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 79.7,
-        "uptime_7d": 70.8,
+        "uptime_24h": 80.0,
+        "uptime_7d": 70.9,
         "uptime_30d": 66.7
       },
       {
@@ -1590,8 +1590,8 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 96.9,
+        "uptime_24h": 97.6,
+        "uptime_7d": 97.0,
         "uptime_30d": 97.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
