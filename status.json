@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T09:45:20.522335+00:00",
+  "last_updated": "2026-04-28T09:50:26.032332+00:00",
   "groups": {
     "HTTP": [
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 99.4,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 82.7,
-        "uptime_7d": 76.4,
-        "uptime_30d": 71.8,
+        "uptime_24h": 82.4,
+        "uptime_7d": 76.2,
+        "uptime_30d": 71.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 95.5,
         "uptime_7d": 75.2,
-        "uptime_30d": 70.8
+        "uptime_30d": 70.9
       },
       {
         "name": "pfSense Gateway",
