@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T09:00:32.494924+00:00",
+  "last_updated": "2026-04-28T09:05:19.463243+00:00",
   "groups": {
     "HTTP": [
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 96.8,
-        "uptime_30d": 87.4,
+        "uptime_30d": 87.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 83.2,
-        "uptime_7d": 77.1,
-        "uptime_30d": 72.3,
+        "uptime_24h": 83.0,
+        "uptime_7d": 76.9,
+        "uptime_30d": 72.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 95.5,
-        "uptime_7d": 74.6,
+        "uptime_7d": 74.7,
         "uptime_30d": 70.3
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 35.7,
+        "uptime_24h": 34.5,
         "uptime_7d": 64.4,
         "uptime_30d": 56.2
       }
@@ -1407,7 +1407,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 96.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 96.4,
         "url": "https://music-assistant.viktorbarzin.me"
       },
