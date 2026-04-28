@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T11:30:28.072389+00:00",
+  "last_updated": "2026-04-28T11:35:19.495125+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 82.4,
         "uptime_7d": 77.0,
-        "uptime_30d": 72.4,
+        "uptime_30d": 72.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -744,7 +744,7 @@
         "name": "Mail SMTP (port 25 external)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.9,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.5
       },
       {
@@ -758,7 +758,7 @@
         "name": "TP-Link Gateway (192.168.1.1)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.9,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.9
       }
     ],
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 95.5,
-        "uptime_7d": 76.4,
-        "uptime_30d": 72.0
+        "uptime_7d": 76.5,
+        "uptime_30d": 72.1
       },
       {
         "name": "pfSense Gateway",
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 97.6,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
