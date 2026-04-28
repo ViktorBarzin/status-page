@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T22:10:25.041055+00:00",
+  "last_updated": "2026-04-28T22:15:19.870788+00:00",
   "groups": {
     "HTTP": [
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 90.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 74.7,
         "uptime_7d": 74.5,
-        "uptime_30d": 71.1,
+        "uptime_30d": 71.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 92.8
+        "uptime_30d": 92.9
       },
       {
         "name": "Valchedrym Video System",
@@ -820,10 +820,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "up",
-        "uptime_24h": 7.8,
-        "uptime_7d": 56.1,
-        "uptime_30d": 52.8
+        "status": "down",
+        "uptime_24h": 7.7,
+        "uptime_7d": 55.8,
+        "uptime_30d": 52.7
       }
     ],
     "External Reachability": [
