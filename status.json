@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T22:15:19.870788+00:00",
+  "last_updated": "2026-04-28T22:20:24.972361+00:00",
   "groups": {
     "HTTP": [
       {
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 82.3,
-        "uptime_30d": 77.8
+        "uptime_7d": 82.4,
+        "uptime_30d": 77.9
       },
       {
         "name": "pfSense Gateway",
@@ -1662,9 +1662,9 @@
       {
         "name": "[External] yt",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://yt.viktorbarzin.me"
       },
       {
