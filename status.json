@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T08:35:19.626280+00:00",
+  "last_updated": "2026-04-28T08:40:27.346710+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 83.8,
-        "uptime_7d": 77.6,
-        "uptime_30d": 72.6,
+        "status": "down",
+        "uptime_24h": 83.0,
+        "uptime_7d": 77.1,
+        "uptime_30d": 72.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 95.5,
-        "uptime_7d": 74.3,
-        "uptime_30d": 69.9
+        "uptime_7d": 74.4,
+        "uptime_30d": 70.0
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 37.5,
+        "uptime_24h": 36.4,
         "uptime_7d": 64.8,
         "uptime_30d": 56.3
       }
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 97.4,
         "url": "https://nextcloud.viktorbarzin.me"
       },
