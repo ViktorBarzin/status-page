@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T18:30:28.921395+00:00",
+  "last_updated": "2026-04-28T18:35:19.369167+00:00",
   "groups": {
     "HTTP": [
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 89.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 77.6,
-        "uptime_7d": 75.0,
+        "uptime_7d": 75.1,
         "uptime_30d": 71.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -662,7 +662,7 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 99.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -745,7 +745,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "PVE NFS (2049)",
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.7,
-        "uptime_30d": 76.0
+        "uptime_7d": 80.8,
+        "uptime_30d": 76.1
       },
       {
         "name": "pfSense Gateway",
