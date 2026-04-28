@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T13:50:25.331678+00:00",
+  "last_updated": "2026-04-28T13:55:19.004253+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.1,
+        "uptime_24h": 81.9,
         "uptime_7d": 76.6,
-        "uptime_30d": 72.4,
+        "uptime_30d": 72.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 92.4
+        "uptime_30d": 92.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 77.9,
+        "uptime_7d": 78.0,
         "uptime_30d": 73.5
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 10.0,
-        "uptime_7d": 61.2,
-        "uptime_30d": 54.7
+        "uptime_24h": 9.8,
+        "uptime_7d": 60.8,
+        "uptime_30d": 54.6
       }
     ],
     "External Reachability": [
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.7,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
