@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T18:20:25.815864+00:00",
+  "last_updated": "2026-04-28T18:25:20.680814+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 77.6,
         "uptime_7d": 75.0,
-        "uptime_30d": 71.3,
+        "uptime_30d": 71.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.6,
-        "uptime_30d": 75.9
+        "uptime_7d": 80.7,
+        "uptime_30d": 76.0
       },
       {
         "name": "pfSense Gateway",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 57.5,
-        "uptime_30d": 53.4
+        "uptime_7d": 57.1,
+        "uptime_30d": 53.2
       }
     ],
     "External Reachability": [
