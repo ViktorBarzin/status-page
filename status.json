@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T11:55:19.598511+00:00",
+  "last_updated": "2026-04-28T12:00:35.841530+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.7,
+        "uptime_30d": 91.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 83.1,
-        "uptime_7d": 77.2,
-        "uptime_30d": 72.6,
+        "uptime_7d": 77.1,
+        "uptime_30d": 72.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 95.5,
-        "uptime_7d": 76.7,
-        "uptime_30d": 72.3
+        "uptime_7d": 76.8,
+        "uptime_30d": 72.4
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 20.8,
+        "uptime_24h": 19.2,
         "uptime_7d": 62.0,
         "uptime_30d": 55.2
       }
@@ -846,9 +846,9 @@
       {
         "name": "[External] dawarich",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
