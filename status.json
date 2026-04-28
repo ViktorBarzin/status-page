@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T01:10:26.313727+00:00",
+  "last_updated": "2026-04-28T01:15:20.892216+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 84.2,
+        "uptime_7d": 84.3,
         "uptime_30d": 84.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.4,
+        "uptime_24h": 81.6,
         "uptime_7d": 75.8,
-        "uptime_30d": 72.3,
+        "uptime_30d": 72.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 93.2
+        "uptime_30d": 93.3
       },
       {
         "name": "Valchedrym Video System",
@@ -787,9 +787,9 @@
       {
         "name": "Sofia RPI",
         "status": "up",
-        "uptime_24h": 64.8,
-        "uptime_7d": 68.5,
-        "uptime_30d": 66.2
+        "uptime_24h": 65.2,
+        "uptime_7d": 68.6,
+        "uptime_30d": 66.3
       },
       {
         "name": "pfSense Gateway",
@@ -1407,7 +1407,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 97.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 97.6,
         "url": "https://music-assistant.viktorbarzin.me"
       },
