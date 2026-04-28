@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T10:05:19.610662+00:00",
+  "last_updated": "2026-04-28T10:10:24.730918+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.3,
+        "uptime_30d": 91.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.4,
+        "uptime_24h": 82.7,
         "uptime_7d": 76.4,
         "uptime_30d": 71.8,
         "url": "https://docker.viktorbarzin.me"
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 99.2,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 90.6
+        "uptime_30d": 90.7
       },
       {
         "name": "Valchedrym Video System",
@@ -788,8 +788,8 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 95.5,
-        "uptime_7d": 75.4,
-        "uptime_30d": 71.0
+        "uptime_7d": 75.5,
+        "uptime_30d": 71.1
       },
       {
         "name": "pfSense Gateway",
@@ -1592,7 +1592,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
