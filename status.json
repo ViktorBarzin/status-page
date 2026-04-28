@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T12:40:22.786005+00:00",
+  "last_updated": "2026-04-28T12:45:21.841595+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 96.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 82.9,
-        "uptime_7d": 76.8,
-        "uptime_30d": 72.4,
+        "uptime_24h": 82.6,
+        "uptime_7d": 76.6,
+        "uptime_30d": 72.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 17.3,
+        "uptime_24h": 15.7,
         "uptime_7d": 61.6,
         "uptime_30d": 55.0
       }
@@ -1183,7 +1183,7 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.8,
         "url": "https://immich.viktorbarzin.me"
       },
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.6,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
