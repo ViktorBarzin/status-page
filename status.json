@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T20:26:10.343146+00:00",
+  "last_updated": "2026-04-28T20:30:27.805156+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.0,
+        "uptime_24h": 76.1,
         "uptime_7d": 75.2,
-        "uptime_30d": 71.6,
+        "uptime_30d": 71.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 81.6,
-        "uptime_30d": 76.9
+        "uptime_30d": 77.0
       },
       {
         "name": "pfSense Gateway",
