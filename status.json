@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T10:10:26.656336+00:00",
+  "last_updated": "2026-04-29T10:15:21.135564+00:00",
   "groups": {
     "HTTP": [
       {
@@ -86,7 +86,7 @@
         "name": "calibre",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.7,
         "uptime_30d": 98.7,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.1,
-        "uptime_7d": 70.1,
-        "uptime_30d": 66.7,
+        "uptime_7d": 70.2,
+        "uptime_30d": 66.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 25.0,
+        "uptime_7d": 28.6,
         "uptime_30d": 75.5
       }
     ],
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.8,
-        "uptime_7d": 30.2,
-        "uptime_30d": 41.8
+        "uptime_24h": 7.7,
+        "uptime_7d": 30.0,
+        "uptime_30d": 41.7
       }
     ],
     "External Reachability": [
@@ -879,7 +879,7 @@
         "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.5,
         "url": "https://calibre.viktorbarzin.me"
       },
