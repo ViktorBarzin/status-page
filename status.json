@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T06:20:25.828306+00:00",
+  "last_updated": "2026-04-29T06:26:11.365351+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.8,
-        "uptime_7d": 69.1,
+        "uptime_24h": 71.7,
+        "uptime_7d": 69.2,
         "uptime_30d": 65.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.6
+        "uptime_30d": 89.7
       },
       {
         "name": "Valchedrym Video System",
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 58.5,
+        "uptime_7d": 56.9,
         "uptime_30d": 75.5
       }
     ],
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.7,
+        "uptime_24h": 7.8,
         "uptime_7d": 32.1,
         "uptime_30d": 42.8
       }
