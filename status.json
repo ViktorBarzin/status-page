@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T02:05:19.531552+00:00",
+  "last_updated": "2026-04-29T02:10:22.777957+00:00",
   "groups": {
     "HTTP": [
       {
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -1382,7 +1382,7 @@
       {
         "name": "[External] files",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://files.viktorbarzin.me"
