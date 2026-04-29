@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T04:10:26.241120+00:00",
+  "last_updated": "2026-04-29T04:16:12.398558+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 95.9,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 94.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -367,7 +367,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 87.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 73.5,
-        "uptime_7d": 69.1,
+        "uptime_24h": 73.7,
+        "uptime_7d": 69.2,
         "uptime_30d": 65.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.6,
-        "uptime_30d": 87.5
+        "uptime_30d": 87.6
       },
       {
         "name": "pfSense Gateway",
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 72.2,
+        "uptime_7d": 71.4,
         "uptime_30d": 75.5
       }
     ],
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.8,
-        "uptime_7d": 33.6,
-        "uptime_30d": 43.4
+        "uptime_24h": 7.7,
+        "uptime_7d": 33.3,
+        "uptime_30d": 43.3
       }
     ],
     "External Reachability": [
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 97.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
@@ -1183,8 +1183,8 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.4,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.5,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
