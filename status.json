@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T16:20:27.453387+00:00",
+  "last_updated": "2026-04-29T16:25:20.418010+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.2,
+        "uptime_30d": 92.3,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 96.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.7,
+        "uptime_24h": 7.8,
         "uptime_7d": 27.3,
         "uptime_30d": 40.3
       }
