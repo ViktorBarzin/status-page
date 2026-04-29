@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T18:35:19.773970+00:00",
+  "last_updated": "2026-04-29T18:40:26.062586+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 79.2,
-        "uptime_7d": 73.0,
-        "uptime_30d": 69.7,
+        "status": "down",
+        "uptime_24h": 78.7,
+        "uptime_7d": 72.8,
+        "uptime_30d": 69.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
