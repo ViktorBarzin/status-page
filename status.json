@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T02:40:23.085573+00:00",
+  "last_updated": "2026-04-29T02:45:20.787485+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 87.1,
+        "uptime_30d": 87.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 74.0,
-        "uptime_7d": 68.8,
-        "uptime_30d": 65.1,
+        "uptime_24h": 73.7,
+        "uptime_7d": 68.6,
+        "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 77.3,
+        "uptime_7d": 77.1,
         "uptime_30d": 75.5
       }
     ],
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.8,
-        "uptime_7d": 34.4,
-        "uptime_30d": 43.8
+        "uptime_24h": 7.7,
+        "uptime_7d": 34.1,
+        "uptime_30d": 43.7
       }
     ],
     "External Reachability": [
