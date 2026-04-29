@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T19:50:25.302826+00:00",
+  "last_updated": "2026-04-29T19:55:19.620203+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 79.6,
+        "uptime_24h": 79.4,
         "uptime_7d": 73.0,
-        "uptime_30d": 69.8,
+        "uptime_30d": 69.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.7,
+        "uptime_24h": 7.8,
         "uptime_7d": 25.5,
         "uptime_30d": 39.5
       }
