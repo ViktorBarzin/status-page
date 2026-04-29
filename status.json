@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T19:10:25.658848+00:00",
+  "last_updated": "2026-04-29T19:15:20.838046+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 78.7,
-        "uptime_7d": 72.7,
-        "uptime_30d": 69.5,
+        "uptime_7d": 72.8,
+        "uptime_30d": 69.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.8,
-        "uptime_7d": 25.8,
-        "uptime_30d": 39.7
+        "uptime_24h": 7.7,
+        "uptime_7d": 25.7,
+        "uptime_30d": 39.6
       }
     ],
     "External Reachability": [
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
