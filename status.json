@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T16:16:12.766041+00:00",
+  "last_updated": "2026-04-29T16:20:27.453387+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 77.9,
-        "uptime_7d": 72.5,
-        "uptime_30d": 69.1,
+        "uptime_7d": 72.6,
+        "uptime_30d": 69.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 91.0
+        "uptime_30d": 91.1
       },
       {
         "name": "pfSense Gateway",
@@ -1680,7 +1680,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://pdf.viktorbarzin.me"
       }
     ],
