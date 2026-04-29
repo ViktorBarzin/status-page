@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T05:15:20.967668+00:00",
+  "last_updated": "2026-04-29T05:20:25.822832+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 66.7,
+        "uptime_7d": 66.2,
         "uptime_30d": 75.5
       }
     ],
