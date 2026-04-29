@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T05:10:25.678788+00:00",
+  "last_updated": "2026-04-29T05:15:20.967668+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.7,
-        "uptime_7d": 69.9,
-        "uptime_30d": 66.2,
+        "uptime_7d": 70.0,
+        "uptime_30d": 66.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -788,7 +788,7 @@
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 87.9
       },
       {
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 67.2,
+        "uptime_7d": 66.7,
         "uptime_30d": 75.5
       }
     ],
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.8,
-        "uptime_7d": 33.1,
-        "uptime_30d": 43.2
+        "uptime_24h": 7.7,
+        "uptime_7d": 32.8,
+        "uptime_30d": 43.0
       }
     ],
     "External Reachability": [
