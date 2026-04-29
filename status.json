@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T03:40:25.742194+00:00",
+  "last_updated": "2026-04-29T03:45:20.849298+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.8,
+        "uptime_30d": 87.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.8,
-        "uptime_7d": 68.7,
-        "uptime_30d": 65.1,
+        "uptime_24h": 73.1,
+        "uptime_7d": 68.8,
+        "uptime_30d": 65.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 90.0
+        "uptime_30d": 90.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.5,
-        "uptime_30d": 87.3
+        "uptime_30d": 87.4
       },
       {
         "name": "pfSense Gateway",
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 74.1,
+        "uptime_7d": 73.8,
         "uptime_30d": 75.5
       }
     ],
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.8,
-        "uptime_7d": 33.8,
-        "uptime_30d": 43.6
+        "uptime_24h": 7.7,
+        "uptime_7d": 33.6,
+        "uptime_30d": 43.4
       }
     ],
     "External Reachability": [
