@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T04:45:21.032502+00:00",
+  "last_updated": "2026-04-29T04:50:25.416786+00:00",
   "groups": {
     "HTTP": [
       {
@@ -190,8 +190,8 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.7,
-        "uptime_7d": 69.6,
-        "uptime_30d": 65.9,
+        "uptime_7d": 69.7,
+        "uptime_30d": 66.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.6,
-        "uptime_30d": 87.7
+        "uptime_30d": 87.8
       },
       {
         "name": "pfSense Gateway",
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 69.4,
+        "uptime_7d": 69.0,
         "uptime_30d": 75.5
       }
     ],
