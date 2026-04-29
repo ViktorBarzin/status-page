@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-29T11:20:26.759822+00:00",
+  "last_updated": "2026-04-29T11:25:20.458843+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.3,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -119,7 +119,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://10.0.20.100:6443"
       },
       {
@@ -167,7 +167,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.8,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -239,7 +239,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 97.8,
         "url": "https://health.viktorbarzin.me"
       },
@@ -286,7 +286,7 @@
         "name": "Ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.5,
         "url": "https://ntfy.viktorbarzin.me"
       },
@@ -295,7 +295,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -350,7 +350,7 @@
         "name": "Tandoor",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://tandoor.viktorbarzin.me"
       },
@@ -358,7 +358,7 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.8,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -382,7 +382,7 @@
         "name": "Homepage",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.3,
         "url": "https://home.viktorbarzin.me"
       },
@@ -494,7 +494,7 @@
         "name": "Insta2Spotify",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.3,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.8,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -542,7 +542,7 @@
         "name": "MeshCentral",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.3,
         "url": "https://meshcentral.viktorbarzin.me"
       },
@@ -583,14 +583,14 @@
         "status": "up",
         "uptime_24h": 73.4,
         "uptime_7d": 70.9,
-        "uptime_30d": 67.4,
+        "uptime_30d": 67.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.5,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -724,7 +724,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7
+        "uptime_30d": 99.8
       },
       {
         "name": "Mailserver HAProxy SMTP (pfSense :25)",
@@ -813,7 +813,7 @@
         "name": "Redis",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.2
       }
     ],
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.7,
+        "uptime_24h": 7.8,
         "uptime_7d": 29.6,
         "uptime_30d": 41.5
       }
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -1103,7 +1103,7 @@
         "name": "[External] f1",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://f1.viktorbarzin.me"
       },
@@ -1167,7 +1167,7 @@
         "name": "[External] health",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://health.viktorbarzin.me"
       },
@@ -1287,7 +1287,7 @@
         "name": "[External] n8n",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -1303,7 +1303,7 @@
         "name": "[External] novelapp",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -1311,7 +1311,7 @@
         "name": "[External] ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://ntfy.viktorbarzin.me"
       },
@@ -1399,7 +1399,7 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -1407,7 +1407,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.8,
         "url": "https://music-assistant.viktorbarzin.me"
       },
@@ -1551,7 +1551,7 @@
         "name": "[External] tandoor",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://tandoor.viktorbarzin.me"
       },
@@ -1559,7 +1559,7 @@
         "name": "[External] technitium",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -1584,14 +1584,14 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://traefik.viktorbarzin.me"
       },
       {
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
@@ -1663,7 +1663,7 @@
         "name": "[External] yt",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://yt.viktorbarzin.me"
       },
