@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T10:56:31.542905+00:00",
+  "last_updated": "2026-04-29T11:00:36.871715+00:00",
   "groups": {
     "HTTP": [
       {
@@ -260,7 +260,7 @@
       },
       {
         "name": "Rybbit Analytics",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.5,
         "uptime_30d": 98.3,
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.4,
-        "uptime_7d": 70.6,
+        "uptime_7d": 70.7,
         "uptime_30d": 67.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.8
+        "uptime_30d": 90.9
       },
       {
         "name": "Valchedrym Video System",
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 100.0,
+        "uptime_7d": null,
         "uptime_30d": 75.5
       }
     ],
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.1
+        "uptime_30d": 99.2
       }
     ],
     "Push": [
