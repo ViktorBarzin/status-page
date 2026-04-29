@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T05:50:25.821976+00:00",
+  "last_updated": "2026-04-29T05:55:19.094401+00:00",
   "groups": {
     "HTTP": [
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 88.2,
+        "uptime_30d": 88.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -580,7 +580,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 72.7,
         "uptime_7d": 69.6,
         "uptime_30d": 66.0,
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": null,
-        "uptime_7d": 62.7,
+        "uptime_7d": 62.1,
         "uptime_30d": 75.5
       }
     ],
@@ -821,8 +821,8 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 7.7,
-        "uptime_7d": 32.6,
+        "uptime_24h": 7.8,
+        "uptime_7d": 32.8,
         "uptime_30d": 42.9
       }
     ],
