@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T22:20:25.684174+00:00",
+  "last_updated": "2026-04-30T22:25:20.269918+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.1,
+        "uptime_30d": 93.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.2,
+        "uptime_24h": 76.4,
         "uptime_7d": 72.7,
         "uptime_30d": 69.3,
         "url": "https://docker.viktorbarzin.me"
