@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T22:55:19.608036+00:00",
+  "last_updated": "2026-04-30T23:00:32.775555+00:00",
   "groups": {
     "HTTP": [
       {
@@ -68,7 +68,7 @@
       },
       {
         "name": "Grafana",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
         "uptime_30d": 99.3,
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.9,
-        "uptime_7d": 72.9,
+        "uptime_24h": 77.4,
+        "uptime_7d": 73.0,
         "uptime_30d": 69.6,
         "url": "https://docker.viktorbarzin.me"
       },
