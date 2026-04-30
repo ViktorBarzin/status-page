@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T17:00:32.264281+00:00",
+  "last_updated": "2026-04-30T17:05:19.475242+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.3,
+        "uptime_30d": 92.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 73.4,
-        "uptime_7d": 71.8,
+        "uptime_7d": 71.9,
         "uptime_30d": 68.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -1184,7 +1184,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
