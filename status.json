@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T19:15:20.242358+00:00",
+  "last_updated": "2026-04-30T19:20:26.867875+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 72.9,
-        "uptime_7d": 71.7,
-        "uptime_30d": 68.3,
+        "uptime_7d": 71.8,
+        "uptime_30d": 68.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
