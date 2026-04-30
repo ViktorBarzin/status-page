@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T07:40:26.310374+00:00",
+  "last_updated": "2026-04-30T07:46:12.662143+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.1,
+        "uptime_30d": 89.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 79.5,
+        "uptime_24h": 79.8,
         "uptime_7d": 72.4,
         "uptime_30d": 68.0,
         "url": "https://docker.viktorbarzin.me"
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.3
+        "uptime_30d": 91.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 9.4,
-        "uptime_30d": 34.4
+        "uptime_30d": 34.3
       }
     ],
     "External Reachability": [
