@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T04:30:31.605785+00:00",
+  "last_updated": "2026-04-30T04:35:20.674830+00:00",
   "groups": {
     "HTTP": [
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.1,
+        "uptime_30d": 88.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 78.0,
-        "uptime_7d": 71.2,
+        "uptime_7d": 71.3,
         "uptime_30d": 67.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.3
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
