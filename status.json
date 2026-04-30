@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T05:10:24.021571+00:00",
+  "last_updated": "2026-04-30T05:15:21.702343+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 76.9,
+        "status": "up",
+        "uptime_24h": 76.6,
         "uptime_7d": 71.0,
-        "uptime_30d": 66.9,
+        "uptime_30d": 66.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 88.2
+        "uptime_30d": 88.3
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 9.8,
-        "uptime_30d": 35.0
+        "uptime_30d": 34.9
       }
     ],
     "External Reachability": [
