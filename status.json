@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T18:55:20.006000+00:00",
+  "last_updated": "2026-05-01T19:00:34.165018+00:00",
   "groups": {
     "HTTP": [
       {
@@ -37,7 +37,7 @@
       {
         "name": "Shlink (URL Shortener)",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.6,
         "uptime_30d": 98.4,
         "url": "https://shlink.viktorbarzin.me"
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.2,
         "uptime_30d": 97.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -405,7 +405,7 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.6,
         "uptime_30d": 97.8,
         "url": "https://speedtest.viktorbarzin.me"
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 74.9,
-        "uptime_7d": 71.4,
-        "uptime_30d": 67.8,
+        "status": "down",
+        "uptime_24h": 74.6,
+        "uptime_7d": 71.2,
+        "uptime_30d": 67.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.9,
         "uptime_30d": 99.7,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.2,
         "uptime_30d": 97.3,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1606,7 +1606,7 @@
       {
         "name": "[External] url",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.2,
         "uptime_30d": 98.8,
         "url": "https://url.viktorbarzin.me"
