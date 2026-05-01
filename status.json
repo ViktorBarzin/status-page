@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T08:35:20.085383+00:00",
+  "last_updated": "2026-05-01T08:40:25.720401+00:00",
   "groups": {
     "HTTP": [
       {
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 77.7,
-        "uptime_7d": 73.0,
-        "uptime_30d": 68.6,
+        "status": "down",
+        "uptime_24h": 77.2,
+        "uptime_7d": 72.6,
+        "uptime_30d": 68.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.4
+        "uptime_30d": 90.5
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 89.4
+        "uptime_30d": 89.5
       },
       {
         "name": "pfSense Gateway",
