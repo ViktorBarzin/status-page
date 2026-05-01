@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T13:10:26.017811+00:00",
+  "last_updated": "2026-05-01T13:15:20.063038+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 97.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.8,
+        "uptime_24h": 78.6,
         "uptime_7d": 73.0,
-        "uptime_30d": 68.8,
+        "uptime_30d": 68.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 3.8,
-        "uptime_30d": 32.3
+        "uptime_30d": 32.2
       }
     ],
     "External Reachability": [
@@ -927,7 +927,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 96.8,
         "url": "https://nextcloud.viktorbarzin.me"
       },
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://registry.viktorbarzin.me"
       },
       {
