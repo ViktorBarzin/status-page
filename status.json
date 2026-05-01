@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T14:05:20.077813+00:00",
+  "last_updated": "2026-05-01T14:10:24.207495+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 76.9,
         "uptime_7d": 72.0,
-        "uptime_30d": 68.1,
+        "uptime_30d": 68.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
