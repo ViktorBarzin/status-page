@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T14:40:26.189834+00:00",
+  "last_updated": "2026-05-02T14:45:21.134241+00:00",
   "groups": {
     "HTTP": [
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -581,15 +581,15 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 72.3,
+        "uptime_24h": 72.0,
         "uptime_7d": 68.7,
-        "uptime_30d": 65.1,
+        "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 98.9,
         "uptime_30d": 97.6,
         "url": "https://ci.viktorbarzin.me"
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.9
+        "uptime_30d": 93.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 1.6,
-        "uptime_30d": 31.3
+        "uptime_7d": 1.5,
+        "uptime_30d": 31.2
       }
     ],
     "External Reachability": [
@@ -1646,7 +1646,7 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 98.9,
         "uptime_30d": 98.4,
         "url": "https://ci.viktorbarzin.me"
