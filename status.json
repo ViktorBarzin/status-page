@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T10:10:25.713357+00:00",
+  "last_updated": "2026-05-02T10:15:20.396982+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.5,
+        "uptime_30d": 91.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 74.9,
-        "uptime_7d": 69.4,
+        "uptime_7d": 69.5,
         "uptime_30d": 65.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.8
+        "uptime_30d": 90.9
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 89.8
+        "uptime_30d": 89.9
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 1.7,
-        "uptime_30d": 32.4
+        "uptime_30d": 32.3
       }
     ],
     "External Reachability": [
