@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T18:50:25.763890+00:00",
+  "last_updated": "2026-05-02T18:55:19.935357+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 72.8,
-        "uptime_7d": 68.3,
-        "uptime_30d": 64.9,
+        "status": "up",
+        "uptime_24h": 73.0,
+        "uptime_7d": 68.4,
+        "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 91.6
+        "uptime_30d": 91.7
       },
       {
         "name": "pfSense Gateway",
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
