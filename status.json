@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T14:36:11.648233+00:00",
+  "last_updated": "2026-05-02T14:40:26.189834+00:00",
   "groups": {
     "HTTP": [
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 90.5,
+        "uptime_30d": 90.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -580,16 +580,16 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 73.0,
-        "uptime_7d": 69.0,
-        "uptime_30d": 65.4,
+        "status": "down",
+        "uptime_24h": 72.3,
+        "uptime_7d": 68.7,
+        "uptime_30d": 65.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 98.9,
         "uptime_30d": 97.6,
         "url": "https://ci.viktorbarzin.me"
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.9
+        "uptime_30d": 92.0
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 90.8
+        "uptime_30d": 90.9
       },
       {
         "name": "pfSense Gateway",
@@ -1400,7 +1400,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1646,7 +1646,7 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.7,
         "uptime_7d": 98.9,
         "uptime_30d": 98.4,
         "url": "https://ci.viktorbarzin.me"
