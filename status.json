@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T21:20:26.045670+00:00",
+  "last_updated": "2026-05-02T21:25:19.215948+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -479,7 +479,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.8,
-        "uptime_7d": 67.9,
+        "uptime_7d": 68.0,
         "uptime_30d": 64.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 92.0
+        "uptime_30d": 92.1
       },
       {
         "name": "pfSense Gateway",
