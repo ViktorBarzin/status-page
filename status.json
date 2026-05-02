@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T14:15:21.070574+00:00",
+  "last_updated": "2026-05-02T14:20:25.808161+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 73.6,
-        "uptime_7d": 69.1,
+        "uptime_24h": 73.3,
+        "uptime_7d": 69.0,
         "uptime_30d": 65.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -590,7 +590,7 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 97.5,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
