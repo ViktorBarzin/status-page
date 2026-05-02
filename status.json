@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:40:26.537024+00:00",
+  "last_updated": "2026-05-02T04:45:21.410057+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.5,
+        "uptime_30d": 89.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.8,
-        "uptime_7d": 67.8,
-        "uptime_30d": 63.8,
+        "uptime_24h": 72.5,
+        "uptime_7d": 67.9,
+        "uptime_30d": 63.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,14 +768,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.3
+        "uptime_30d": 89.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.5
+        "uptime_30d": 90.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 1.8,
-        "uptime_30d": 33.6
+        "uptime_30d": 33.5
       }
     ],
     "External Reachability": [
@@ -1648,7 +1648,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.4,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://ci.viktorbarzin.me"
       },
       {
