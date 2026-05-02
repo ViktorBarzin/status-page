@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T13:55:19.860099+00:00",
+  "last_updated": "2026-05-02T14:00:29.861726+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.8,
+        "uptime_30d": 90.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 74.6,
-        "uptime_7d": 69.8,
-        "uptime_30d": 65.9,
+        "status": "down",
+        "uptime_24h": 74.1,
+        "uptime_7d": 69.4,
+        "uptime_30d": 65.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.6
+        "uptime_30d": 91.7
       },
       {
         "name": "Valchedrym Video System",
