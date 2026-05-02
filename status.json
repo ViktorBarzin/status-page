@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T15:01:17.047130+00:00",
+  "last_updated": "2026-05-02T15:05:20.200582+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.2,
-        "uptime_7d": 68.8,
-        "uptime_30d": 65.2,
+        "uptime_24h": 72.0,
+        "uptime_7d": 68.7,
+        "uptime_30d": 65.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.4
+        "uptime_30d": 98.5
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 1.5,
-        "uptime_30d": 31.2
+        "uptime_30d": 31.1
       }
     ],
     "External Reachability": [
@@ -1152,7 +1152,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://hackmd.viktorbarzin.me"
       },
       {
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://registry.viktorbarzin.me"
       },
       {
