@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T09:45:20.793083+00:00",
+  "last_updated": "2026-05-02T09:50:26.100081+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.7,
+        "uptime_30d": 89.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.6,
-        "uptime_7d": 69.1,
-        "uptime_30d": 65.2,
+        "uptime_24h": 74.9,
+        "uptime_7d": 69.2,
+        "uptime_30d": 65.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.7
+        "uptime_30d": 90.8
       },
       {
         "name": "Valchedrym Video System",
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "Sofia RPI",
