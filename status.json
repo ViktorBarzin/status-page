@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T05:45:21.517162+00:00",
+  "last_updated": "2026-05-02T05:50:25.690254+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 73.6,
-        "uptime_7d": 68.4,
-        "uptime_30d": 64.3,
+        "status": "down",
+        "uptime_24h": 72.9,
+        "uptime_7d": 68.0,
+        "uptime_30d": 64.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.8
+        "uptime_30d": 90.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0
+        "uptime_30d": 99.1
       }
     ],
     "Push": [
