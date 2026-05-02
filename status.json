@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T05:30:27.348860+00:00",
+  "last_updated": "2026-05-02T05:35:19.549350+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 88.1,
+        "uptime_30d": 88.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.1,
-        "uptime_7d": 68.1,
-        "uptime_30d": 64.1,
+        "uptime_7d": 68.2,
+        "uptime_30d": 64.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
