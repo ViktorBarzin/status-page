@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T17:45:20.811654+00:00",
+  "last_updated": "2026-05-02T17:50:25.724559+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,17 +580,17 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
+        "status": "down",
         "uptime_24h": 72.5,
-        "uptime_7d": 68.9,
-        "uptime_30d": 65.4,
+        "uptime_7d": 68.6,
+        "uptime_30d": 65.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 97.8,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 91.4
+        "uptime_30d": 91.5
       },
       {
         "name": "pfSense Gateway",
@@ -1648,7 +1648,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://ci.viktorbarzin.me"
       },
       {
