@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T05:55:24.931680+00:00",
+  "last_updated": "2026-05-03T06:00:34.471101+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.1,
-        "uptime_7d": 65.8,
-        "uptime_30d": 61.9,
+        "uptime_7d": 65.9,
+        "uptime_30d": 62.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.7,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.8,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.9
+        "uptime_30d": 90.0
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 88.6
+        "uptime_30d": 88.7
       },
       {
         "name": "pfSense Gateway",
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://registry.viktorbarzin.me"
       },
       {
