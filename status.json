@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T12:26:11.655677+00:00",
+  "last_updated": "2026-05-03T12:30:28.186366+00:00",
   "groups": {
     "HTTP": [
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 67.2,
-        "uptime_7d": 66.1,
+        "uptime_7d": 66.2,
         "uptime_30d": 62.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.5
+        "uptime_30d": 92.6
       },
       {
         "name": "Valchedrym DDNS",
