@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T10:40:28.194176+00:00",
+  "last_updated": "2026-05-03T10:45:21.226070+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 89.6,
+        "uptime_30d": 89.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 69.1,
+        "uptime_24h": 69.4,
         "uptime_7d": 67.1,
-        "uptime_30d": 63.1,
+        "uptime_30d": 63.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.1
+        "uptime_30d": 91.2
       },
       {
         "name": "Valchedrym Video System",
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 0.8,
-        "uptime_30d": 32.0
+        "uptime_30d": 31.9
       }
     ],
     "External Reachability": [
