@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T19:00:31.891830+00:00",
+  "last_updated": "2026-05-03T19:05:19.720219+00:00",
   "groups": {
     "HTTP": [
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 98.8,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 68.0,
-        "uptime_7d": 66.5,
-        "uptime_30d": 63.0,
+        "uptime_24h": 68.2,
+        "uptime_7d": 66.6,
+        "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 0.7,
-        "uptime_30d": 30.2
+        "uptime_30d": 30.3
       }
     ],
     "External Reachability": [
