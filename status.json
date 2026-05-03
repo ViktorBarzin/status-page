@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T14:45:21.224265+00:00",
+  "last_updated": "2026-05-03T14:50:22.756938+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 67.8,
-        "uptime_7d": 66.5,
-        "uptime_30d": 62.8,
+        "status": "down",
+        "uptime_24h": 67.2,
+        "uptime_7d": 66.2,
+        "uptime_30d": 62.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.9
+        "uptime_30d": 93.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 91.0
+        "uptime_30d": 91.1
       },
       {
         "name": "pfSense Gateway",
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
