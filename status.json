@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T09:50:27.106919+00:00",
+  "last_updated": "2026-05-03T09:55:20.635443+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 67.6,
-        "uptime_7d": 66.7,
+        "status": "up",
+        "uptime_24h": 67.4,
+        "uptime_7d": 66.6,
         "uptime_30d": 62.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -768,14 +768,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.9
+        "uptime_30d": 91.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.0
+        "uptime_30d": 92.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 89.7
+        "uptime_30d": 89.8
       },
       {
         "name": "pfSense Gateway",
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://registry.viktorbarzin.me"
       },
       {
