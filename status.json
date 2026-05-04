@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T11:55:19.427973+00:00",
+  "last_updated": "2026-05-04T12:05:20.500850+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -190,7 +190,7 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 97.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 97.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 89.9,
+        "uptime_30d": 90.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.8,
-        "uptime_7d": 66.1,
-        "uptime_30d": 62.1,
+        "uptime_24h": 71.1,
+        "uptime_7d": 66.2,
+        "uptime_30d": 62.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.4
+        "uptime_30d": 92.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 90.4
+        "uptime_30d": 90.5
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 23.1,
-        "uptime_7d": 10.3,
-        "uptime_30d": 34.1
+        "uptime_24h": 24.5,
+        "uptime_7d": 11.0,
+        "uptime_30d": 34.3
       }
     ],
     "External Reachability": [
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -935,7 +935,7 @@
         "name": "[External] pb",
         "status": "up",
         "uptime_24h": 97.3,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 97.8,
         "url": "https://pb.viktorbarzin.me"
       },
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "[External] aiostreams",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.0,
         "uptime_30d": 98.8,
@@ -1055,7 +1055,7 @@
         "name": "[External] dashy",
         "status": "up",
         "uptime_24h": 97.3,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 98.1,
         "url": "https://dashy.viktorbarzin.me"
       },
@@ -1175,7 +1175,7 @@
         "name": "[External] home",
         "status": "up",
         "uptime_24h": 93.9,
-        "uptime_7d": 95.6,
+        "uptime_7d": 95.7,
         "uptime_30d": 95.4,
         "url": "https://home.viktorbarzin.me"
       },
