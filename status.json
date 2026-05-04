@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T13:16:12.540373+00:00",
+  "last_updated": "2026-05-04T13:20:24.021598+00:00",
   "groups": {
     "HTTP": [
       {
@@ -518,8 +518,8 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 90.2,
+        "uptime_7d": 99.8,
+        "uptime_30d": 90.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.9,
+        "uptime_24h": 73.0,
         "uptime_7d": 66.9,
         "uptime_30d": 62.8,
         "url": "https://docker.viktorbarzin.me"
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.9,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.7,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.9,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.8,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -1295,7 +1295,7 @@
         "name": "[External] netbox",
         "status": "up",
         "uptime_24h": 94.3,
-        "uptime_7d": 96.0,
+        "uptime_7d": 96.1,
         "uptime_30d": 96.1,
         "url": "https://netbox.viktorbarzin.me"
       },
@@ -1407,7 +1407,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 98.8,
         "url": "https://music-assistant.viktorbarzin.me"
       },
