@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T19:35:19.758305+00:00",
+  "last_updated": "2026-05-04T19:40:26.484967+00:00",
   "groups": {
     "HTTP": [
       {
@@ -189,9 +189,9 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 95.7,
-        "uptime_7d": 97.5,
-        "uptime_30d": 97.3,
+        "uptime_24h": 95.5,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.0,
-        "uptime_7d": 67.0,
-        "uptime_30d": 63.2,
+        "uptime_24h": 71.6,
+        "uptime_7d": 66.9,
+        "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.0
+        "uptime_30d": 92.1
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 58.3,
-        "uptime_7d": 24.3,
-        "uptime_30d": 38.5
+        "uptime_24h": 59.0,
+        "uptime_7d": 24.8,
+        "uptime_30d": 38.7
       }
     ],
     "External Reachability": [
@@ -1272,7 +1272,7 @@
         "status": "up",
         "uptime_24h": 93.9,
         "uptime_7d": 96.4,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1296,7 +1296,7 @@
         "status": "up",
         "uptime_24h": 94.3,
         "uptime_7d": 96.6,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
