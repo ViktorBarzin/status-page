@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T06:15:20.089298+00:00",
+  "last_updated": "2026-05-04T06:20:27.368963+00:00",
   "groups": {
     "HTTP": [
       {
@@ -188,7 +188,7 @@
       },
       {
         "name": "Tuya-Bridge",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.1,
         "uptime_30d": 98.8,
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.9,
-        "uptime_7d": 65.1,
+        "uptime_7d": 65.2,
         "uptime_30d": 61.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 88.9
+        "uptime_30d": 89.0
       },
       {
         "name": "pfSense Gateway",
@@ -1269,10 +1269,10 @@
       },
       {
         "name": "[External] alertmanager",
-        "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "status": "down",
+        "uptime_24h": 97.9,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1293,10 +1293,10 @@
       },
       {
         "name": "[External] netbox",
-        "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "status": "down",
+        "uptime_24h": 97.9,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1558,9 +1558,9 @@
       {
         "name": "[External] technitium",
         "status": "down",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.1,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.5,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -1568,7 +1568,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://terminal.viktorbarzin.me"
       },
       {
@@ -1576,7 +1576,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
       {
