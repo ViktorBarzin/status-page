@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T08:50:26.136468+00:00",
+  "last_updated": "2026-05-04T08:56:11.578814+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.6,
-        "uptime_30d": 88.6,
+        "uptime_7d": 98.7,
+        "uptime_30d": 88.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 89.1,
+        "uptime_30d": 89.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.1,
-        "uptime_7d": 66.1,
-        "uptime_30d": 61.9,
+        "uptime_24h": 70.9,
+        "uptime_7d": 66.0,
+        "uptime_30d": 61.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -942,9 +942,9 @@
       {
         "name": "[External] rybbit",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -1111,7 +1111,7 @@
         "name": "[External] foolery",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.7,
         "url": "https://foolery.viktorbarzin.me"
       },
@@ -1175,7 +1175,7 @@
         "name": "[External] home",
         "status": "up",
         "uptime_24h": 96.2,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 96.8,
         "url": "https://home.viktorbarzin.me"
       },
@@ -1223,7 +1223,7 @@
         "name": "[External] k8s",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.7,
         "url": "https://k8s.viktorbarzin.me"
       },
@@ -1261,10 +1261,10 @@
       },
       {
         "name": "[External] grafana",
-        "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "status": "up",
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -1296,7 +1296,7 @@
         "status": "up",
         "uptime_24h": 95.6,
         "uptime_7d": 96.5,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1423,7 +1423,7 @@
         "name": "[External] london",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.7,
         "url": "https://london.viktorbarzin.me"
       },
@@ -1589,10 +1589,10 @@
       },
       {
         "name": "[External] tuya-bridge",
-        "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 98.9,
+        "status": "down",
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1669,10 +1669,10 @@
       },
       {
         "name": "[External] beadboard",
-        "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "status": "up",
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://beadboard.viktorbarzin.me"
       },
       {
