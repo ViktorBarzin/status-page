@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T01:40:26.879039+00:00",
+  "last_updated": "2026-05-04T01:45:21.695925+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 68.8,
+        "uptime_24h": 69.3,
         "uptime_7d": 67.8,
         "uptime_30d": 64.2,
         "url": "https://docker.viktorbarzin.me"
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 0.7,
-        "uptime_30d": 28.6
+        "uptime_30d": 28.5
       }
     ],
     "External Reachability": [
