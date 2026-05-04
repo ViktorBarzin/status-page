@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T01:55:19.807460+00:00",
+  "last_updated": "2026-05-04T02:01:45.150895+00:00",
   "groups": {
     "HTTP": [
       {
@@ -436,10 +436,10 @@
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.9,
+        "status": "down",
+        "uptime_24h": 99.9,
+        "uptime_7d": 99.9,
+        "uptime_30d": 99.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 69.6,
-        "uptime_7d": 67.7,
-        "uptime_30d": 64.2,
+        "uptime_24h": 68.9,
+        "uptime_7d": 67.5,
+        "uptime_30d": 64.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 100.0,
+        "uptime_24h": 99.9,
         "uptime_7d": 99.9,
         "uptime_30d": 99.8,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -742,9 +742,9 @@
       },
       {
         "name": "Mail SMTP (port 25 external)",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.9,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.6
       },
       {
@@ -756,9 +756,9 @@
       },
       {
         "name": "TP-Link Gateway (192.168.1.1)",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.9,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.9
       }
     ],
@@ -837,18 +837,18 @@
       },
       {
         "name": "[External] cc",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://cc.viktorbarzin.me"
       },
       {
         "name": "[External] dawarich",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -926,9 +926,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 98.2,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 98.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1077,10 +1077,10 @@
       },
       {
         "name": "[External] audiobookshelf",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.7,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -1357,10 +1357,10 @@
       },
       {
         "name": "[External] plotting-book",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -1381,10 +1381,10 @@
       },
       {
         "name": "[External] files",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://files.viktorbarzin.me"
       },
       {
@@ -1501,10 +1501,10 @@
       },
       {
         "name": "[External] flaresolverr",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -1517,10 +1517,10 @@
       },
       {
         "name": "[External] prowlarr",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://prowlarr.viktorbarzin.me"
       },
       {
@@ -1533,18 +1533,18 @@
       },
       {
         "name": "[External] speedtest",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "[External] stirling-pdf",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -1565,18 +1565,18 @@
       },
       {
         "name": "[External] terminal",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://terminal.viktorbarzin.me"
       },
       {
         "name": "[External] terminal-ro",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
       {
