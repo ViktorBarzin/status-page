@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T11:40:26.888752+00:00",
+  "last_updated": "2026-05-04T11:45:21.167773+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -580,8 +580,8 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 69.9,
+        "status": "up",
+        "uptime_24h": 70.2,
         "uptime_7d": 66.0,
         "uptime_30d": 62.0,
         "url": "https://docker.viktorbarzin.me"
@@ -599,7 +599,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.3
+        "uptime_30d": 91.4
       },
       {
         "name": "Valchedrym Video System",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 22.6,
+        "uptime_24h": 23.1,
         "uptime_7d": 10.3,
         "uptime_30d": 34.1
       }
@@ -839,7 +839,7 @@
         "name": "[External] cc",
         "status": "up",
         "uptime_24h": 93.3,
-        "uptime_7d": 95.1,
+        "uptime_7d": 95.2,
         "uptime_30d": 95.2,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -1567,7 +1567,7 @@
         "name": "[External] terminal",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 97.6,
         "url": "https://terminal.viktorbarzin.me"
       },
@@ -1575,7 +1575,7 @@
         "name": "[External] terminal-ro",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.5,
+        "uptime_7d": 97.6,
         "uptime_30d": 97.6,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
