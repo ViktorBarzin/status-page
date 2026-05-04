@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T22:20:22.624877+00:00",
+  "last_updated": "2026-05-04T22:25:19.641679+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.6,
-        "uptime_7d": 67.5,
+        "uptime_7d": 67.6,
         "uptime_30d": 63.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 69.4,
-        "uptime_7d": 28.2,
-        "uptime_30d": 39.9
+        "uptime_24h": 69.8,
+        "uptime_7d": 28.7,
+        "uptime_30d": 40.1
       }
     ],
     "External Reachability": [
@@ -959,7 +959,7 @@
         "name": "[External] budget-anca",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://budget-anca.viktorbarzin.me"
       },
@@ -1175,7 +1175,7 @@
         "name": "[External] home",
         "status": "up",
         "uptime_24h": 93.9,
-        "uptime_7d": 96.6,
+        "uptime_7d": 96.7,
         "uptime_30d": 96.5,
         "url": "https://home.viktorbarzin.me"
       },
@@ -1264,7 +1264,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -1295,7 +1295,7 @@
         "name": "[External] netbox",
         "status": "up",
         "uptime_24h": 94.3,
-        "uptime_7d": 96.8,
+        "uptime_7d": 96.9,
         "uptime_30d": 96.9,
         "url": "https://netbox.viktorbarzin.me"
       },
@@ -1320,7 +1320,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -1351,7 +1351,7 @@
         "name": "[External] phpipam",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://phpipam.viktorbarzin.me"
       },
@@ -1584,7 +1584,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://traefik.viktorbarzin.me"
       },
       {
