@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T15:35:20.194586+00:00",
+  "last_updated": "2026-05-04T15:40:26.373114+00:00",
   "groups": {
     "HTTP": [
       {
@@ -189,9 +189,9 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 97.8,
-        "uptime_30d": 97.6,
+        "uptime_24h": 96.4,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.7,
+        "uptime_30d": 90.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 73.3,
         "uptime_7d": 67.3,
-        "uptime_30d": 63.2,
+        "uptime_30d": 63.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.2
+        "uptime_30d": 93.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.3
+        "uptime_30d": 91.4
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 41.1,
-        "uptime_7d": 17.5,
-        "uptime_30d": 36.2
+        "uptime_24h": 42.1,
+        "uptime_7d": 18.1,
+        "uptime_30d": 36.4
       }
     ],
     "External Reachability": [
@@ -839,7 +839,7 @@
         "name": "[External] cc",
         "status": "up",
         "uptime_24h": 93.3,
-        "uptime_7d": 95.6,
+        "uptime_7d": 95.7,
         "uptime_30d": 95.7,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -1589,7 +1589,7 @@
       },
       {
         "name": "[External] tuya-bridge",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 98.0,
         "uptime_30d": 97.8,
