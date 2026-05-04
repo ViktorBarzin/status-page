@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T06:10:25.905375+00:00",
+  "last_updated": "2026-05-04T06:15:20.089298+00:00",
   "groups": {
     "HTTP": [
       {
@@ -188,10 +188,10 @@
       },
       {
         "name": "Tuya-Bridge",
-        "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 98.9,
+        "status": "down",
+        "uptime_24h": 98.9,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.8,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -479,7 +479,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.9,
-        "uptime_7d": 65.0,
-        "uptime_30d": 60.9,
+        "uptime_7d": 65.1,
+        "uptime_30d": 61.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 0.9,
-        "uptime_30d": 32.1
+        "uptime_30d": 32.0
       }
     ],
     "External Reachability": [
@@ -1557,10 +1557,10 @@
       },
       {
         "name": "[External] technitium",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.1,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
