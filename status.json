@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T09:05:19.690314+00:00",
+  "last_updated": "2026-05-04T09:10:27.656713+00:00",
   "groups": {
     "HTTP": [
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 70.9,
         "uptime_7d": 66.2,
-        "uptime_30d": 61.9,
+        "uptime_30d": 62.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.7
+        "uptime_30d": 90.8
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 89.7
+        "uptime_30d": 89.8
       },
       {
         "name": "pfSense Gateway",
@@ -910,9 +910,9 @@
       {
         "name": "[External] navidrome",
         "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -1270,9 +1270,9 @@
       {
         "name": "[External] alertmanager",
         "status": "down",
-        "uptime_24h": 94.9,
-        "uptime_7d": 96.0,
-        "uptime_30d": 96.0,
+        "uptime_24h": 93.9,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1294,9 +1294,9 @@
       {
         "name": "[External] netbox",
         "status": "down",
-        "uptime_24h": 95.3,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_24h": 94.3,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.5,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1558,16 +1558,16 @@
       {
         "name": "[External] technitium",
         "status": "down",
-        "uptime_24h": 94.6,
-        "uptime_7d": 95.8,
-        "uptime_30d": 95.5,
+        "uptime_24h": 94.2,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.3,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
         "name": "[External] terminal",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 97.4,
         "url": "https://terminal.viktorbarzin.me"
       },
@@ -1575,7 +1575,7 @@
         "name": "[External] terminal-ro",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 97.4,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
