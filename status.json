@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T20:15:20.442702+00:00",
+  "last_updated": "2026-05-04T20:20:26.155760+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.4,
+        "uptime_30d": 93.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 72.6,
         "uptime_7d": 66.9,
-        "uptime_30d": 63.1,
+        "uptime_30d": 63.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 61.7,
-        "uptime_7d": 25.3,
-        "uptime_30d": 38.9
+        "uptime_24h": 62.3,
+        "uptime_7d": 25.8,
+        "uptime_30d": 39.0
       }
     ],
     "External Reachability": [
@@ -1568,7 +1568,7 @@
         "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 98.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://terminal.viktorbarzin.me"
       },
       {
@@ -1576,7 +1576,7 @@
         "status": "up",
         "uptime_24h": 96.6,
         "uptime_7d": 98.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
       {
