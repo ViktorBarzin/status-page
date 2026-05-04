@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T22:30:29.373229+00:00",
+  "last_updated": "2026-05-04T22:35:19.669727+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.7,
+        "uptime_30d": 93.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.6,
-        "uptime_7d": 67.6,
-        "uptime_30d": 63.8,
+        "uptime_7d": 67.7,
+        "uptime_30d": 63.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "uptime_30d": 99.9,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -759,7 +759,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.8
+        "uptime_30d": 99.9
       }
     ],
     "Ping": [
@@ -1511,7 +1511,7 @@
         "name": "[External] listenarr",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://listenarr.viktorbarzin.me"
       },
@@ -1655,7 +1655,7 @@
         "name": "[External] yt-highlights",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://yt-highlights.viktorbarzin.me"
       },
@@ -1671,7 +1671,7 @@
         "name": "[External] beadboard",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://beadboard.viktorbarzin.me"
       },
