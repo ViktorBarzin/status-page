@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T08:00:29.510559+00:00",
+  "last_updated": "2026-05-04T08:05:21.446328+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.3,
-        "uptime_7d": 65.6,
-        "uptime_30d": 61.5,
+        "uptime_7d": 65.7,
+        "uptime_30d": 61.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -820,10 +820,10 @@
     "Push": [
       {
         "name": "Email Roundtrip E2E",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.9,
-        "uptime_30d": 31.6
+        "status": "up",
+        "uptime_24h": 2.0,
+        "uptime_7d": 1.7,
+        "uptime_30d": 31.8
       }
     ],
     "External Reachability": [
@@ -839,7 +839,7 @@
         "name": "[External] cc",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.2,
+        "uptime_7d": 97.3,
         "uptime_30d": 97.3,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -877,7 +877,7 @@
       },
       {
         "name": "[External] calibre",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.9,
         "uptime_30d": 98.4,
@@ -1038,9 +1038,9 @@
       {
         "name": "[External] city-guesser",
         "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.6,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -1269,10 +1269,10 @@
       },
       {
         "name": "[External] alertmanager",
-        "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 97.5,
-        "uptime_30d": 97.5,
+        "status": "down",
+        "uptime_24h": 95.6,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1293,10 +1293,10 @@
       },
       {
         "name": "[External] netbox",
-        "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "status": "down",
+        "uptime_24h": 95.9,
+        "uptime_7d": 96.7,
+        "uptime_30d": 96.7,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1558,9 +1558,9 @@
       {
         "name": "[External] technitium",
         "status": "down",
-        "uptime_24h": 96.6,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.0,
+        "uptime_24h": 96.2,
+        "uptime_7d": 97.0,
+        "uptime_30d": 96.7,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -1568,7 +1568,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://terminal.viktorbarzin.me"
       },
       {
