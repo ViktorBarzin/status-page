@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T06:20:27.368963+00:00",
+  "last_updated": "2026-05-04T06:25:19.322666+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.9,
-        "uptime_7d": 65.2,
-        "uptime_30d": 61.0,
+        "uptime_7d": 65.3,
+        "uptime_30d": 61.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1270,9 +1270,9 @@
       {
         "name": "[External] alertmanager",
         "status": "down",
-        "uptime_24h": 97.9,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.3,
+        "uptime_24h": 97.6,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1294,9 +1294,9 @@
       {
         "name": "[External] netbox",
         "status": "down",
-        "uptime_24h": 97.9,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.3,
+        "uptime_24h": 97.6,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1558,16 +1558,16 @@
       {
         "name": "[External] technitium",
         "status": "down",
-        "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.5,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.5,
+        "uptime_30d": 98.3,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
         "name": "[External] terminal",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 98.3,
         "url": "https://terminal.viktorbarzin.me"
       },
@@ -1575,7 +1575,7 @@
         "name": "[External] terminal-ro",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 98.3,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
