@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T13:36:11.561560+00:00",
+  "last_updated": "2026-05-04T13:40:27.347312+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 90.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.9,
-        "uptime_7d": 67.1,
+        "uptime_24h": 73.0,
+        "uptime_7d": 67.2,
         "uptime_30d": 63.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.7
+        "uptime_30d": 92.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 31.5,
-        "uptime_7d": 13.7,
-        "uptime_30d": 35.0
+        "uptime_24h": 32.7,
+        "uptime_7d": 14.4,
+        "uptime_30d": 35.2
       }
     ],
     "External Reachability": [
