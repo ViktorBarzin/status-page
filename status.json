@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T19:00:25.392882+00:00",
+  "last_updated": "2026-05-04T19:05:23.375574+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 72.3,
-        "uptime_7d": 66.8,
+        "uptime_24h": 72.0,
+        "uptime_7d": 66.7,
         "uptime_30d": 63.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.7
+        "uptime_30d": 93.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 55.9,
-        "uptime_7d": 23.3,
-        "uptime_30d": 38.1
+        "uptime_24h": 56.7,
+        "uptime_7d": 23.8,
+        "uptime_30d": 38.3
       }
     ],
     "External Reachability": [
