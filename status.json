@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T06:30:30.729949+00:00",
+  "last_updated": "2026-05-04T06:35:19.893271+00:00",
   "groups": {
     "HTTP": [
       {
@@ -189,9 +189,9 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 98.9,
-        "uptime_7d": 99.1,
-        "uptime_30d": 98.8,
+        "uptime_24h": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -247,7 +247,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.9,
-        "uptime_7d": 65.3,
+        "uptime_7d": 65.4,
         "uptime_30d": 61.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.2
+        "uptime_30d": 91.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -1270,9 +1270,9 @@
       {
         "name": "[External] alertmanager",
         "status": "down",
-        "uptime_24h": 97.3,
-        "uptime_7d": 97.7,
-        "uptime_30d": 97.7,
+        "uptime_24h": 96.9,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1293,7 +1293,7 @@
       },
       {
         "name": "[External] netbox",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 97.3,
         "uptime_7d": 97.7,
         "uptime_30d": 97.7,
@@ -1557,7 +1557,7 @@
       },
       {
         "name": "[External] technitium",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.2,
         "uptime_30d": 98.0,
