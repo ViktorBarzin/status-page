@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T10:40:26.394232+00:00",
+  "last_updated": "2026-05-04T10:45:20.588586+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.7,
-        "uptime_30d": 89.1,
+        "uptime_30d": 89.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 89.6,
+        "uptime_30d": 89.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 69.9,
+        "uptime_24h": 69.6,
         "uptime_7d": 66.1,
         "uptime_30d": 62.0,
         "url": "https://docker.viktorbarzin.me"
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 90.1
+        "uptime_30d": 90.2
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 17.3,
+        "uptime_24h": 17.6,
         "uptime_7d": 8.1,
         "uptime_30d": 33.4
       }
@@ -838,9 +838,9 @@
       {
         "name": "[External] cc",
         "status": "down",
-        "uptime_24h": 93.6,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.3,
+        "uptime_24h": 93.3,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -1174,9 +1174,9 @@
       {
         "name": "[External] home",
         "status": "down",
-        "uptime_24h": 94.3,
-        "uptime_7d": 95.7,
-        "uptime_30d": 95.5,
+        "uptime_24h": 93.9,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.3,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -1295,7 +1295,7 @@
         "name": "[External] netbox",
         "status": "up",
         "uptime_24h": 94.3,
-        "uptime_7d": 95.7,
+        "uptime_7d": 95.8,
         "uptime_30d": 95.8,
         "url": "https://netbox.viktorbarzin.me"
       },
@@ -1590,9 +1590,9 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 98.3,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.5,
+        "uptime_24h": 98.0,
+        "uptime_7d": 98.5,
+        "uptime_30d": 98.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
