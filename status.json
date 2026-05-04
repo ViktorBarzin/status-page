@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T07:10:25.876559+00:00",
+  "last_updated": "2026-05-04T07:16:13.957180+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -333,9 +333,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 89.2,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 89.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -503,7 +503,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 71.3,
         "uptime_7d": 65.5,
-        "uptime_30d": 61.3,
+        "uptime_30d": 61.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -623,7 +623,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 0.9,
-        "uptime_30d": 31.8
+        "uptime_30d": 31.7
       }
     ],
     "External Reachability": [
@@ -1271,7 +1271,7 @@
         "name": "[External] alertmanager",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 97.4,
+        "uptime_7d": 97.5,
         "uptime_30d": 97.5,
         "url": "https://alertmanager.viktorbarzin.me"
       },
@@ -1480,7 +1480,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1680,7 +1680,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://pdf.viktorbarzin.me"
       }
     ],
