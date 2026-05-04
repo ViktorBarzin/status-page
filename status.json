@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T07:50:26.582776+00:00",
+  "last_updated": "2026-05-04T07:55:20.134492+00:00",
   "groups": {
     "HTTP": [
       {
@@ -189,9 +189,9 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 98.5,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.6,
+        "uptime_24h": 98.1,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 70.8,
-        "uptime_7d": 65.5,
-        "uptime_30d": 61.4,
+        "status": "up",
+        "uptime_24h": 71.3,
+        "uptime_7d": 65.6,
+        "uptime_30d": 61.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.4
+        "uptime_30d": 90.5
       },
       {
         "name": "Valchedrym Video System",
@@ -838,9 +838,9 @@
       {
         "name": "[External] cc",
         "status": "down",
-        "uptime_24h": 96.9,
-        "uptime_7d": 97.5,
-        "uptime_30d": 97.5,
+        "uptime_24h": 96.6,
+        "uptime_7d": 97.2,
+        "uptime_30d": 97.2,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -861,10 +861,10 @@
       },
       {
         "name": "[External] pma",
-        "status": "down",
-        "uptime_24h": 97.9,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "status": "up",
+        "uptime_24h": 97.6,
+        "uptime_7d": 98.1,
+        "uptime_30d": 98.1,
         "url": "https://pma.viktorbarzin.me"
       },
       {
@@ -877,10 +877,10 @@
       },
       {
         "name": "[External] calibre",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.2,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -933,7 +933,7 @@
       },
       {
         "name": "[External] pb",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.9,
         "uptime_30d": 98.6,
@@ -1174,9 +1174,9 @@
       {
         "name": "[External] home",
         "status": "down",
-        "uptime_24h": 98.3,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.3,
+        "uptime_24h": 97.9,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.1,
         "url": "https://home.viktorbarzin.me"
       },
       {
