@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T14:40:26.773761+00:00",
+  "last_updated": "2026-05-04T14:45:21.369246+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 73.8,
-        "uptime_7d": 67.5,
+        "uptime_24h": 73.7,
+        "uptime_7d": 67.6,
         "uptime_30d": 63.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 37.5,
+        "uptime_24h": 38.2,
         "uptime_7d": 16.3,
         "uptime_30d": 35.8
       }
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 93.3,
         "uptime_7d": 95.5,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -1567,7 +1567,7 @@
         "name": "[External] terminal",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 97.8,
         "url": "https://terminal.viktorbarzin.me"
       },
@@ -1575,7 +1575,7 @@
         "name": "[External] terminal-ro",
         "status": "up",
         "uptime_24h": 96.6,
-        "uptime_7d": 97.7,
+        "uptime_7d": 97.8,
         "uptime_30d": 97.8,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
