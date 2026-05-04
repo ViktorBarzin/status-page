@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T11:45:21.167773+00:00",
+  "last_updated": "2026-05-04T11:50:25.526122+00:00",
   "groups": {
     "HTTP": [
       {
@@ -191,7 +191,7 @@
         "status": "up",
         "uptime_24h": 97.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.2,
-        "uptime_7d": 66.0,
-        "uptime_30d": 62.0,
+        "uptime_24h": 70.5,
+        "uptime_7d": 66.1,
+        "uptime_30d": 62.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1005,10 +1005,10 @@
       },
       {
         "name": "[External] aiostreams",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.0,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1272,7 +1272,7 @@
         "status": "up",
         "uptime_24h": 93.9,
         "uptime_7d": 95.6,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1559,7 +1559,7 @@
         "name": "[External] technitium",
         "status": "up",
         "uptime_24h": 94.2,
-        "uptime_7d": 95.8,
+        "uptime_7d": 95.9,
         "uptime_30d": 95.6,
         "url": "https://technitium.viktorbarzin.me"
       },
