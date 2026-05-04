@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T14:30:29.868214+00:00",
+  "last_updated": "2026-05-04T14:36:11.466527+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.2,
+        "uptime_30d": 92.3,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 73.8,
+        "uptime_24h": 73.7,
         "uptime_7d": 67.4,
-        "uptime_30d": 63.2,
+        "uptime_30d": 63.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.1
+        "uptime_30d": 91.2
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 36.4,
         "uptime_7d": 15.7,
-        "uptime_30d": 35.5
+        "uptime_30d": 35.6
       }
     ],
     "External Reachability": [
