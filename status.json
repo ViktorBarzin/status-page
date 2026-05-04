@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T09:46:13.905208+00:00",
+  "last_updated": "2026-05-04T09:50:27.038414+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 71.1,
-        "uptime_7d": 66.4,
-        "uptime_30d": 62.1,
+        "uptime_24h": 70.9,
+        "uptime_7d": 66.1,
+        "uptime_30d": 62.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1053,10 +1053,10 @@
       },
       {
         "name": "[External] dashy",
-        "status": "up",
-        "uptime_24h": 98.6,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "status": "down",
+        "uptime_24h": 97.9,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://dashy.viktorbarzin.me"
       },
       {
@@ -1197,10 +1197,10 @@
       },
       {
         "name": "[External] json",
-        "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.2,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.0,
         "url": "https://json.viktorbarzin.me"
       },
       {
