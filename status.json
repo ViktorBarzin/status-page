@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T08:10:25.956433+00:00",
+  "last_updated": "2026-05-05T08:15:20.602685+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,7 +7,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -23,7 +23,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -143,7 +143,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -247,7 +247,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -303,12 +303,12 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
         "name": "ha-london",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
         "uptime_30d": 95.0,
@@ -333,9 +333,9 @@
       {
         "name": "Blog",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 88.4,
+        "uptime_30d": 88.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.1,
-        "uptime_7d": 66.4,
+        "uptime_7d": 66.5,
         "uptime_30d": 62.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -689,21 +689,21 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "ShadowSocks Proxy",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "KMS (Windows Activation Service)",
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.0
+        "uptime_30d": 92.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.6
+        "uptime_30d": 89.7
       },
       {
         "name": "pfSense Gateway",
@@ -1080,7 +1080,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -1184,7 +1184,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1199,7 +1199,7 @@
         "name": "[External] json",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 98.1,
         "url": "https://json.viktorbarzin.me"
       },
@@ -1223,7 +1223,7 @@
         "name": "[External] k8s",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 98.4,
         "url": "https://k8s.viktorbarzin.me"
       },
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
