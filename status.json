@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T17:55:19.573654+00:00",
+  "last_updated": "2026-05-05T18:00:30.953997+00:00",
   "groups": {
     "HTTP": [
       {
@@ -190,7 +190,7 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 99.4,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 97.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "down",
         "uptime_24h": 68.7,
-        "uptime_7d": 66.8,
-        "uptime_30d": 63.0,
+        "uptime_7d": 66.7,
+        "uptime_30d": 62.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.4
+        "uptime_30d": 95.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 69.1,
-        "uptime_30d": 58.5
+        "uptime_7d": 69.3,
+        "uptime_30d": 58.6
       }
     ],
     "External Reachability": [
@@ -831,7 +831,7 @@
         "name": "[External] crowdsec-web",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.6,
         "uptime_30d": 98.6,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
@@ -1368,7 +1368,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://priority-pass.viktorbarzin.me"
       },
       {
