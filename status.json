@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T23:35:19.269578+00:00",
+  "last_updated": "2026-05-05T23:40:26.606837+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.6,
+        "uptime_24h": 71.4,
         "uptime_7d": 68.1,
         "uptime_30d": 64.4,
         "url": "https://docker.viktorbarzin.me"
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 72.7,
-        "uptime_30d": 60.8
+        "uptime_7d": 72.9,
+        "uptime_30d": 60.9
       }
     ],
     "External Reachability": [
@@ -1056,7 +1056,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://dashy.viktorbarzin.me"
       },
       {
@@ -1400,7 +1400,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
