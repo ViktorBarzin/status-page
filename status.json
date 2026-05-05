@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T19:00:32.822825+00:00",
+  "last_updated": "2026-05-05T19:05:20.727624+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.5,
-        "uptime_7d": 67.1,
-        "uptime_30d": 63.3,
+        "uptime_24h": 70.8,
+        "uptime_7d": 67.2,
+        "uptime_30d": 63.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
