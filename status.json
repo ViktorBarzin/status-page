@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T18:00:30.953997+00:00",
+  "last_updated": "2026-05-05T18:06:11.416771+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -580,8 +580,8 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 68.7,
+        "status": "up",
+        "uptime_24h": 68.9,
         "uptime_7d": 66.7,
         "uptime_30d": 62.9,
         "url": "https://docker.viktorbarzin.me"
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -738,7 +738,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7
+        "uptime_30d": 99.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -936,7 +936,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -1056,7 +1056,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://dashy.viktorbarzin.me"
       },
       {
@@ -1367,7 +1367,7 @@
         "name": "[External] priority-pass",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.6,
         "uptime_30d": 98.6,
         "url": "https://priority-pass.viktorbarzin.me"
       },
@@ -1592,7 +1592,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
