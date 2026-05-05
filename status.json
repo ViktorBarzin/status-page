@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T01:56:11.436322+00:00",
+  "last_updated": "2026-05-05T02:00:29.932852+00:00",
   "groups": {
     "HTTP": [
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.1,
-        "uptime_7d": 67.6,
-        "uptime_30d": 63.9,
+        "uptime_24h": 71.7,
+        "uptime_7d": 67.5,
+        "uptime_30d": 63.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -745,7 +745,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "PVE NFS (2049)",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 81.8,
-        "uptime_7d": 32.9,
-        "uptime_30d": 41.8
+        "uptime_24h": 82.1,
+        "uptime_7d": 33.3,
+        "uptime_30d": 42.0
       }
     ],
     "External Reachability": [
@@ -926,7 +926,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 98.0,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1502,7 +1502,7 @@
       {
         "name": "[External] flaresolverr",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.6,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://flaresolverr.viktorbarzin.me"
@@ -1518,7 +1518,7 @@
       {
         "name": "[External] prowlarr",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.6,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://prowlarr.viktorbarzin.me"
@@ -1534,7 +1534,7 @@
       {
         "name": "[External] speedtest",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://speedtest.viktorbarzin.me"
@@ -1542,7 +1542,7 @@
       {
         "name": "[External] stirling-pdf",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.3,
         "uptime_7d": 99.5,
         "uptime_30d": 99.5,
         "url": "https://stirling-pdf.viktorbarzin.me"
@@ -1566,7 +1566,7 @@
       {
         "name": "[External] terminal",
         "status": "up",
-        "uptime_24h": 96.6,
+        "uptime_24h": 96.9,
         "uptime_7d": 98.3,
         "uptime_30d": 98.3,
         "url": "https://terminal.viktorbarzin.me"
@@ -1574,7 +1574,7 @@
       {
         "name": "[External] terminal-ro",
         "status": "up",
-        "uptime_24h": 96.6,
+        "uptime_24h": 96.9,
         "uptime_7d": 98.3,
         "uptime_30d": 98.3,
         "url": "https://terminal-ro.viktorbarzin.me"
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 97.0,
+        "uptime_24h": 96.9,
         "uptime_7d": 98.4,
         "uptime_30d": 98.3,
         "url": "https://tuya-bridge.viktorbarzin.me"
