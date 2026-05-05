@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T22:35:19.301178+00:00",
+  "last_updated": "2026-05-05T22:40:23.327989+00:00",
   "groups": {
     "HTTP": [
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       },
       {
         "name": "pfSense Gateway",
@@ -1559,7 +1559,7 @@
         "name": "[External] technitium",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.8,
+        "uptime_7d": 96.9,
         "uptime_30d": 96.7,
         "url": "https://technitium.viktorbarzin.me"
       },
