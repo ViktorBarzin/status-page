@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T06:55:19.824722+00:00",
+  "last_updated": "2026-05-05T07:00:28.525430+00:00",
   "groups": {
     "HTTP": [
       {
@@ -189,8 +189,8 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 96.3,
+        "uptime_24h": 97.0,
+        "uptime_7d": 96.4,
         "uptime_30d": 96.1,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.6,
-        "uptime_30d": 88.0,
+        "uptime_30d": 88.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.9,
-        "uptime_7d": 65.5,
-        "uptime_30d": 61.3,
+        "uptime_7d": 65.6,
+        "uptime_30d": 61.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.7
+        "uptime_30d": 91.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 60.3,
-        "uptime_30d": 54.0
+        "uptime_7d": 60.7,
+        "uptime_30d": 54.2
       }
     ],
     "External Reachability": [
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 93.6,
         "uptime_7d": 94.6,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -879,7 +879,7 @@
         "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.3,
         "url": "https://calibre.viktorbarzin.me"
       },
@@ -1007,7 +1007,7 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -1176,7 +1176,7 @@
         "status": "up",
         "uptime_24h": 93.9,
         "uptime_7d": 94.9,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -1222,7 +1222,7 @@
       {
         "name": "[External] k8s",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 99.3,
         "uptime_7d": 98.3,
         "uptime_30d": 98.3,
         "url": "https://k8s.viktorbarzin.me"
@@ -1263,7 +1263,7 @@
         "name": "[External] grafana",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -1319,7 +1319,7 @@
         "name": "[External] onlyoffice",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
@@ -1512,7 +1512,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://listenarr.viktorbarzin.me"
       },
       {
@@ -1614,8 +1614,8 @@
       {
         "name": "[External] vault",
         "status": "up",
-        "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
+        "uptime_24h": 100.0,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.6,
         "url": "https://vault.viktorbarzin.me"
       },
@@ -1656,7 +1656,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://yt-highlights.viktorbarzin.me"
       },
       {
@@ -1672,7 +1672,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://beadboard.viktorbarzin.me"
       },
       {
