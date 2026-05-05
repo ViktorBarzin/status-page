@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T00:20:29.481831+00:00",
+  "last_updated": "2026-05-05T00:26:13.041528+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.9,
+        "uptime_24h": 70.8,
         "uptime_7d": 67.3,
         "uptime_30d": 63.6,
         "url": "https://docker.viktorbarzin.me"
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.7
+        "uptime_30d": 92.8
       },
       {
         "name": "pfSense Gateway",
@@ -831,7 +831,7 @@
         "name": "[External] crowdsec-web",
         "status": "up",
         "uptime_24h": 97.6,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.8,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
@@ -1367,8 +1367,8 @@
         "name": "[External] priority-pass",
         "status": "up",
         "uptime_24h": 97.6,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://priority-pass.viktorbarzin.me"
       },
       {
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 96.9,
+        "uptime_24h": 97.0,
         "uptime_7d": 98.4,
         "uptime_30d": 98.2,
         "url": "https://tuya-bridge.viktorbarzin.me"
