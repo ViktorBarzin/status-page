@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T20:50:27.725476+00:00",
+  "last_updated": "2026-05-05T20:55:26.535691+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.5,
+        "uptime_30d": 92.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -580,7 +580,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 70.6,
         "uptime_7d": 67.5,
         "uptime_30d": 63.8,
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.1,
+        "uptime_7d": 70.9,
         "uptime_30d": 59.8
       }
     ],
@@ -832,7 +832,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
       {
@@ -1200,7 +1200,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://json.viktorbarzin.me"
       },
       {
@@ -1271,7 +1271,7 @@
         "name": "[External] alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.5,
+        "uptime_7d": 96.6,
         "uptime_30d": 96.6,
         "url": "https://alertmanager.viktorbarzin.me"
       },
@@ -1560,14 +1560,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.7,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
         "name": "[External] terminal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 98.5,
         "url": "https://terminal.viktorbarzin.me"
       },
@@ -1575,7 +1575,7 @@
         "name": "[External] terminal-ro",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 98.5,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
