@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T21:36:11.872569+00:00",
+  "last_updated": "2026-05-05T21:40:26.307547+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 91.8,
+        "uptime_30d": 91.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.4,
-        "uptime_7d": 67.8,
+        "uptime_7d": 67.9,
         "uptime_30d": 64.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 71.2,
-        "uptime_30d": 60.1
+        "uptime_7d": 71.4,
+        "uptime_30d": 60.2
       }
     ],
     "External Reachability": [
@@ -1008,7 +1008,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1040,7 +1040,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -1616,7 +1616,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://vault.viktorbarzin.me"
       },
       {
