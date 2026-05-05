@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T04:40:22.932806+00:00",
+  "last_updated": "2026-05-05T04:45:20.405529+00:00",
   "groups": {
     "HTTP": [
       {
@@ -190,7 +190,7 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 96.0,
-        "uptime_7d": 96.0,
+        "uptime_7d": 96.1,
         "uptime_30d": 95.8,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.3,
+        "uptime_30d": 90.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.6,
+        "uptime_30d": 94.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.4,
-        "uptime_7d": 64.6,
+        "uptime_7d": 64.7,
         "uptime_30d": 60.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 89.9,
-        "uptime_7d": 57.8,
-        "uptime_30d": 52.9
+        "uptime_24h": 91.3,
+        "uptime_7d": 58.2,
+        "uptime_30d": 53.1
       }
     ],
     "External Reachability": [
@@ -1007,8 +1007,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.4,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.5,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1039,7 +1039,7 @@
         "name": "[External] city-guesser",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 98.5,
         "url": "https://city-guesser.viktorbarzin.me"
       },
@@ -1511,7 +1511,7 @@
         "name": "[External] listenarr",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.8,
         "url": "https://listenarr.viktorbarzin.me"
       },
@@ -1592,7 +1592,7 @@
         "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -1655,7 +1655,7 @@
         "name": "[External] yt-highlights",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.8,
         "url": "https://yt-highlights.viktorbarzin.me"
       },
@@ -1671,7 +1671,7 @@
         "name": "[External] beadboard",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.8,
         "url": "https://beadboard.viktorbarzin.me"
       },
