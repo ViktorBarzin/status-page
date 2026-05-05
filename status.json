@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T06:20:23.631941+00:00",
+  "last_updated": "2026-05-05T06:25:19.603564+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.5,
-        "uptime_30d": 87.8,
+        "uptime_30d": 87.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.9,
-        "uptime_7d": 65.2,
+        "uptime_7d": 65.3,
         "uptime_30d": 61.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 95.7,
-        "uptime_7d": 59.6,
-        "uptime_30d": 53.7
+        "uptime_24h": 95.8,
+        "uptime_7d": 60.0,
+        "uptime_30d": 53.9
       }
     ],
     "External Reachability": [
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 93.6,
         "uptime_7d": 94.5,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1176,7 +1176,7 @@
         "status": "up",
         "uptime_24h": 93.9,
         "uptime_7d": 94.8,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -1224,7 +1224,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://k8s.viktorbarzin.me"
       },
       {
@@ -1270,7 +1270,7 @@
       {
         "name": "[External] alertmanager",
         "status": "up",
-        "uptime_24h": 95.9,
+        "uptime_24h": 96.2,
         "uptime_7d": 94.8,
         "uptime_30d": 94.8,
         "url": "https://alertmanager.viktorbarzin.me"
@@ -1294,7 +1294,7 @@
       {
         "name": "[External] netbox",
         "status": "up",
-        "uptime_24h": 96.2,
+        "uptime_24h": 96.6,
         "uptime_7d": 95.1,
         "uptime_30d": 95.1,
         "url": "https://netbox.viktorbarzin.me"
@@ -1558,7 +1558,7 @@
       {
         "name": "[External] technitium",
         "status": "up",
-        "uptime_24h": 95.6,
+        "uptime_24h": 95.9,
         "uptime_7d": 95.1,
         "uptime_30d": 94.8,
         "url": "https://technitium.viktorbarzin.me"
