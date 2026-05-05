@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T04:30:28.227727+00:00",
+  "last_updated": "2026-05-05T04:35:19.756121+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 69.4,
-        "uptime_7d": 64.4,
+        "uptime_7d": 64.5,
         "uptime_30d": 60.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.5
+        "uptime_30d": 88.6
       },
       {
         "name": "pfSense Gateway",
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -959,7 +959,7 @@
         "name": "[External] budget-anca",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.8,
         "url": "https://budget-anca.viktorbarzin.me"
       },
@@ -1264,7 +1264,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -1320,7 +1320,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -1351,7 +1351,7 @@
         "name": "[External] phpipam",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.8,
         "url": "https://phpipam.viktorbarzin.me"
       },
