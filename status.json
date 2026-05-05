@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T01:40:26.820182+00:00",
+  "last_updated": "2026-05-05T01:45:20.600396+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 72.1,
-        "uptime_7d": 67.9,
-        "uptime_30d": 64.2,
+        "status": "down",
+        "uptime_24h": 71.6,
+        "uptime_7d": 67.6,
+        "uptime_30d": 64.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -781,7 +781,7 @@
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.3
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 80.6,
+        "uptime_24h": 81.8,
         "uptime_7d": 32.9,
         "uptime_30d": 41.8
       }
@@ -911,7 +911,7 @@
         "name": "[External] navidrome",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://navidrome.viktorbarzin.me"
       },
@@ -975,7 +975,7 @@
         "name": "[External] budget-viktor",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://budget-viktor.viktorbarzin.me"
       },
@@ -1071,7 +1071,7 @@
         "name": "[External] ebook2audiobook",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://ebook2audiobook.viktorbarzin.me"
       },
@@ -1079,7 +1079,7 @@
         "name": "[External] audiobookshelf",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -1239,7 +1239,7 @@
         "name": "[External] mail",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://mail.viktorbarzin.me"
       },
@@ -1535,7 +1535,7 @@
         "name": "[External] speedtest",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -1559,7 +1559,7 @@
         "name": "[External] technitium",
         "status": "up",
         "uptime_24h": 94.2,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 96.9,
         "url": "https://technitium.viktorbarzin.me"
       },
