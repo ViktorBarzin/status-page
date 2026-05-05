@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T17:40:26.716659+00:00",
+  "last_updated": "2026-05-05T17:45:20.674959+00:00",
   "groups": {
     "HTTP": [
       {
@@ -223,7 +223,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -334,7 +334,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 91.0,
         "url": "http://blog.website.svc"
       },
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 68.9,
-        "uptime_7d": 67.1,
-        "uptime_30d": 63.2,
+        "status": "up",
+        "uptime_24h": 68.7,
+        "uptime_7d": 67.0,
+        "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       },
       {
         "name": "Valchedrym Video System",
@@ -847,8 +847,8 @@
         "name": "[External] dawarich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.7,
+        "uptime_7d": 99.0,
+        "uptime_30d": 98.8,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -1111,7 +1111,7 @@
         "name": "[External] foolery",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 99.0,
         "url": "https://foolery.viktorbarzin.me"
       },
@@ -1423,7 +1423,7 @@
         "name": "[External] london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 99.0,
         "url": "https://london.viktorbarzin.me"
       },
@@ -1583,7 +1583,7 @@
         "name": "[External] traefik",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 99.0,
         "url": "https://traefik.viktorbarzin.me"
       },
