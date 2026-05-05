@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T20:55:26.535691+00:00",
+  "last_updated": "2026-05-05T21:00:32.684656+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.6,
-        "uptime_7d": 67.5,
+        "uptime_7d": 67.6,
         "uptime_30d": 63.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 70.9,
-        "uptime_30d": 59.8
+        "uptime_7d": 71.1,
+        "uptime_30d": 59.9
       }
     ],
     "External Reachability": [
@@ -831,7 +831,7 @@
         "name": "[External] crowdsec-web",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.7,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
@@ -1296,7 +1296,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.7,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1368,7 +1368,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://priority-pass.viktorbarzin.me"
       },
       {
