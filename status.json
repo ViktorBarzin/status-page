@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T14:10:27.199483+00:00",
+  "last_updated": "2026-05-05T14:16:12.666558+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -189,7 +189,7 @@
       {
         "name": "Tuya-Bridge",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 98.8,
         "uptime_7d": 97.1,
         "uptime_30d": 96.9,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -334,7 +334,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 90.0,
         "url": "http://blog.website.svc"
       },
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 72.3,
-        "uptime_7d": 68.7,
-        "uptime_30d": 64.1,
+        "status": "down",
+        "uptime_24h": 72.4,
+        "uptime_7d": 68.6,
+        "uptime_30d": 64.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.8
+        "uptime_30d": 92.9
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.5
+        "uptime_30d": 91.6
       },
       {
         "name": "pfSense Gateway",
@@ -847,7 +847,7 @@
         "name": "[External] dawarich",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.6,
         "url": "https://dawarich.viktorbarzin.me"
       },
@@ -1111,7 +1111,7 @@
         "name": "[External] foolery",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://foolery.viktorbarzin.me"
       },
@@ -1295,7 +1295,7 @@
         "name": "[External] netbox",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.1,
+        "uptime_7d": 96.2,
         "uptime_30d": 96.2,
         "url": "https://netbox.viktorbarzin.me"
       },
@@ -1423,7 +1423,7 @@
         "name": "[External] london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://london.viktorbarzin.me"
       },
@@ -1583,7 +1583,7 @@
         "name": "[External] traefik",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://traefik.viktorbarzin.me"
       },
@@ -1591,7 +1591,7 @@
         "name": "[External] tuya-bridge",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 97.9,
+        "uptime_7d": 98.0,
         "uptime_30d": 97.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
