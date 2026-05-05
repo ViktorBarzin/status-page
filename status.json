@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T02:40:24.228883+00:00",
+  "last_updated": "2026-05-05T02:46:12.667997+00:00",
   "groups": {
     "HTTP": [
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.5,
+        "uptime_30d": 94.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 87.1,
+        "uptime_30d": 87.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 71.9,
-        "uptime_7d": 65.5,
-        "uptime_30d": 60.9,
+        "status": "up",
+        "uptime_24h": 71.5,
+        "uptime_7d": 65.3,
+        "uptime_30d": 60.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 83.6,
-        "uptime_7d": 55.3,
-        "uptime_30d": 51.9
+        "uptime_24h": 85.1,
+        "uptime_7d": 55.8,
+        "uptime_30d": 52.1
       }
     ],
     "External Reachability": [
@@ -839,7 +839,7 @@
         "name": "[External] cc",
         "status": "up",
         "uptime_24h": 93.6,
-        "uptime_7d": 93.7,
+        "uptime_7d": 93.8,
         "uptime_30d": 93.8,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -863,7 +863,7 @@
         "name": "[External] pma",
         "status": "up",
         "uptime_24h": 96.3,
-        "uptime_7d": 96.3,
+        "uptime_7d": 96.4,
         "uptime_30d": 96.4,
         "url": "https://pma.viktorbarzin.me"
       },
@@ -879,7 +879,7 @@
         "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.0,
         "url": "https://calibre.viktorbarzin.me"
       },
@@ -1007,7 +1007,7 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.3,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -1263,7 +1263,7 @@
         "name": "[External] grafana",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.7,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -1319,7 +1319,7 @@
         "name": "[External] onlyoffice",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.7,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
@@ -1511,8 +1511,8 @@
         "name": "[External] listenarr",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://listenarr.viktorbarzin.me"
       },
       {
@@ -1559,7 +1559,7 @@
         "name": "[External] technitium",
         "status": "up",
         "uptime_24h": 94.2,
-        "uptime_7d": 94.3,
+        "uptime_7d": 94.4,
         "uptime_30d": 94.1,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -1590,7 +1590,7 @@
       {
         "name": "[External] tuya-bridge",
         "status": "up",
-        "uptime_24h": 96.9,
+        "uptime_24h": 97.0,
         "uptime_7d": 97.0,
         "uptime_30d": 96.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
@@ -1615,7 +1615,7 @@
         "name": "[External] vault",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.3,
         "url": "https://vault.viktorbarzin.me"
       },
@@ -1655,8 +1655,8 @@
         "name": "[External] yt-highlights",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://yt-highlights.viktorbarzin.me"
       },
       {
@@ -1671,8 +1671,8 @@
         "name": "[External] beadboard",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://beadboard.viktorbarzin.me"
       },
       {
