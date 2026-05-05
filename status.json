@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T00:40:24.913848+00:00",
+  "last_updated": "2026-05-05T00:45:23.637147+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.9,
-        "uptime_7d": 67.4,
+        "uptime_7d": 67.5,
         "uptime_30d": 63.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 77.3,
+        "uptime_24h": 78.5,
         "uptime_7d": 31.7,
         "uptime_30d": 41.3
       }
