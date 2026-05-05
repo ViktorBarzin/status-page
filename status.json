@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T09:15:21.352778+00:00",
+  "last_updated": "2026-05-05T09:20:26.446668+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 88.7,
+        "uptime_30d": 88.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.0,
-        "uptime_7d": 66.8,
-        "uptime_30d": 62.4,
+        "uptime_7d": 66.9,
+        "uptime_30d": 62.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 89.9
+        "uptime_30d": 90.0
       },
       {
         "name": "pfSense Gateway",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 62.6,
-        "uptime_30d": 55.1
+        "uptime_7d": 62.9,
+        "uptime_30d": 55.2
       }
     ],
     "External Reachability": [
@@ -831,7 +831,7 @@
         "name": "[External] crowdsec-web",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 98.2,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
@@ -840,13 +840,13 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 95.0,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://cc.viktorbarzin.me"
       },
       {
         "name": "[External] dawarich",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 98.7,
         "uptime_30d": 98.4,
         "url": "https://dawarich.viktorbarzin.me"
@@ -958,7 +958,7 @@
       {
         "name": "[External] budget-anca",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 99.0,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://budget-anca.viktorbarzin.me"
@@ -1176,7 +1176,7 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 95.3,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -1295,7 +1295,7 @@
         "name": "[External] netbox",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.5,
+        "uptime_7d": 95.6,
         "uptime_30d": 95.6,
         "url": "https://netbox.viktorbarzin.me"
       },
@@ -1368,7 +1368,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://priority-pass.viktorbarzin.me"
       },
       {
