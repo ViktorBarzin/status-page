@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T07:15:21.013804+00:00",
+  "last_updated": "2026-05-06T07:20:25.658502+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.8,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -780,16 +780,16 @@
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.4,
-        "uptime_30d": 98.9
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.6
       },
       {
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.7
+        "uptime_30d": 92.9
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 70.2
+        "uptime_30d": 70.3
       }
     ],
     "External Reachability": [
