@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T00:25:20.898332+00:00",
+  "last_updated": "2026-05-06T00:30:36.648111+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.0,
-        "uptime_7d": 67.8,
-        "uptime_30d": 64.3,
+        "uptime_7d": 67.9,
+        "uptime_30d": 64.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 99.8,
         "uptime_7d": 99.8,
         "uptime_30d": 99.6,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.9
+        "uptime_30d": 97.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.5
+        "uptime_30d": 94.6
       },
       {
         "name": "pfSense Gateway",
@@ -1367,7 +1367,7 @@
         "name": "[External] priority-pass",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.8,
         "url": "https://priority-pass.viktorbarzin.me"
       },
