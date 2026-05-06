@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T16:00:28.883523+00:00",
+  "last_updated": "2026-05-06T16:06:12.759766+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.1,
+        "uptime_30d": 93.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 73.9,
+        "uptime_24h": 74.2,
         "uptime_7d": 67.5,
         "uptime_30d": 63.8,
         "url": "https://docker.viktorbarzin.me"
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6
+        "uptime_30d": 99.7
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 73.1
+        "uptime_30d": 73.4
       }
     ],
     "External Reachability": [
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -936,7 +936,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
