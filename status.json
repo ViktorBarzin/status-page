@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:20:23.246823+00:00",
+  "last_updated": "2026-05-06T04:25:19.427244+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.8,
+        "uptime_30d": 88.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.1,
-        "uptime_7d": 64.6,
+        "uptime_24h": 72.4,
+        "uptime_7d": 64.7,
         "uptime_30d": 60.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,14 +775,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.4
+        "uptime_30d": 95.7
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.7
+        "uptime_30d": 98.8
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 69.1
+        "uptime_30d": 69.2
       }
     ],
     "External Reachability": [
