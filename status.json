@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T13:15:20.522464+00:00",
+  "last_updated": "2026-05-06T13:20:25.939161+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 69.0,
-        "uptime_7d": 66.8,
-        "uptime_30d": 63.1,
+        "uptime_24h": 68.5,
+        "uptime_7d": 66.6,
+        "uptime_30d": 62.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 99.8,
+        "uptime_24h": 99.9,
         "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -669,7 +669,7 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 99.7,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
@@ -677,7 +677,7 @@
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 100.0,
         "uptime_30d": 99.8,
         "url": "http://192.168.1.8:8123/manifest.json"
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 72.2
+        "uptime_30d": 72.3
       }
     ],
     "External Reachability": [
