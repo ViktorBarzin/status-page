@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T17:56:13.074990+00:00",
+  "last_updated": "2026-05-06T18:00:31.436695+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.3,
+        "uptime_24h": 76.6,
         "uptime_7d": 68.5,
         "uptime_30d": 64.7,
         "url": "https://docker.viktorbarzin.me"
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.7
+        "uptime_30d": 94.8
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 73.8
+        "uptime_30d": 73.9
       }
     ],
     "External Reachability": [
