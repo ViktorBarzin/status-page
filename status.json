@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T18:00:31.436695+00:00",
+  "last_updated": "2026-05-06T18:06:13.260712+00:00",
   "groups": {
     "HTTP": [
       {
@@ -191,7 +191,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 76.6,
-        "uptime_7d": 68.5,
-        "uptime_30d": 64.7,
+        "uptime_7d": 68.6,
+        "uptime_30d": 64.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -781,8 +781,8 @@
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.1
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.2
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 73.9
+        "uptime_30d": 74.0
       }
     ],
     "External Reachability": [
