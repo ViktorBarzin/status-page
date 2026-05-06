@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T11:16:14.027030+00:00",
+  "last_updated": "2026-05-06T11:20:28.444480+00:00",
   "groups": {
     "HTTP": [
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -583,14 +583,14 @@
         "status": "up",
         "uptime_24h": 70.0,
         "uptime_7d": 66.8,
-        "uptime_30d": 62.9,
+        "uptime_30d": 63.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.8,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -639,7 +639,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -647,7 +647,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.0
+        "uptime_30d": 96.1
       },
       {
         "name": "Valchedrym Video System",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 71.7
+        "uptime_30d": 71.8
       }
     ],
     "External Reachability": [
@@ -831,7 +831,7 @@
         "name": "[External] crowdsec-web",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
@@ -1007,7 +1007,7 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -1056,7 +1056,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://dashy.viktorbarzin.me"
       },
       {
@@ -1080,7 +1080,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -1224,7 +1224,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://k8s.viktorbarzin.me"
       },
       {
@@ -1263,7 +1263,7 @@
         "name": "[External] grafana",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -1288,7 +1288,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -1304,7 +1304,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -1320,7 +1320,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -1448,7 +1448,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://nas.viktorbarzin.me"
       },
       {
@@ -1615,7 +1615,7 @@
         "name": "[External] vault",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://vault.viktorbarzin.me"
       },
@@ -1640,7 +1640,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://webhook.viktorbarzin.me"
       },
       {
