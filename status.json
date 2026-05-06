@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T10:55:25.697909+00:00",
+  "last_updated": "2026-05-06T11:01:00.861532+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 95.3,
+        "uptime_30d": 95.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.4,
+        "uptime_30d": 91.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 70.3,
-        "uptime_7d": 66.8,
+        "status": "down",
+        "uptime_24h": 70.2,
+        "uptime_7d": 66.7,
         "uptime_30d": 62.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.7
+        "uptime_30d": 98.8
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 71.6
+        "uptime_30d": 71.7
       }
     ],
     "External Reachability": [
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -936,7 +936,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://pb.viktorbarzin.me"
       },
       {
