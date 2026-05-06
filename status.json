@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T12:35:19.612100+00:00",
+  "last_updated": "2026-05-06T12:40:26.589970+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 70.0,
-        "uptime_7d": 67.1,
-        "uptime_30d": 63.3,
+        "status": "down",
+        "uptime_24h": 69.3,
+        "uptime_7d": 66.8,
+        "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -779,7 +779,7 @@
       },
       {
         "name": "Valchedrym DDNS",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.6,
         "uptime_30d": 98.1
@@ -1176,7 +1176,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -1408,7 +1408,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1560,7 +1560,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
