@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T08:00:31.403233+00:00",
+  "last_updated": "2026-05-06T08:05:19.605827+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 70.6,
-        "uptime_7d": 65.5,
+        "uptime_7d": 65.6,
         "uptime_30d": 61.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.0
+        "uptime_30d": 93.1
       },
       {
         "name": "pfSense Gateway",
@@ -848,7 +848,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -1616,7 +1616,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://vault.viktorbarzin.me"
       },
       {
