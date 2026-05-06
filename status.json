@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:40:26.077662+00:00",
+  "last_updated": "2026-05-06T04:45:21.103118+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 88.9,
+        "uptime_30d": 89.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 72.7,
-        "uptime_7d": 64.9,
-        "uptime_30d": 61.0,
+        "uptime_7d": 65.0,
+        "uptime_30d": 61.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.8
+        "uptime_30d": 91.9
       },
       {
         "name": "pfSense Gateway",
