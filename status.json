@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T10:20:23.596530+00:00",
+  "last_updated": "2026-05-06T10:26:11.923118+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.7,
+        "uptime_24h": 70.6,
         "uptime_7d": 66.7,
         "uptime_30d": 62.8,
         "url": "https://docker.viktorbarzin.me"
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.9
+        "uptime_30d": 96.0
       },
       {
         "name": "Valchedrym Video System",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 71.4
+        "uptime_30d": 71.5
       }
     ],
     "External Reachability": [
@@ -1400,7 +1400,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
