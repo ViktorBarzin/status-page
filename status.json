@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:45:21.103118+00:00",
+  "last_updated": "2026-05-06T04:50:25.667981+00:00",
   "groups": {
     "HTTP": [
       {
@@ -738,7 +738,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7
+        "uptime_30d": 99.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.7
+        "uptime_30d": 96.0
       },
       {
         "name": "Valchedrym DDNS",
