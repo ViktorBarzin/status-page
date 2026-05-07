@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T07:35:19.348892+00:00",
+  "last_updated": "2026-05-07T07:40:25.709953+00:00",
   "groups": {
     "HTTP": [
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.4,
+        "uptime_30d": 94.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.2,
-        "uptime_7d": 71.6,
+        "uptime_7d": 71.7,
         "uptime_30d": 66.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -731,7 +731,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "Mailserver HAProxy IMAPS (pfSense :993)",
@@ -766,23 +766,23 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 92.7,
-        "uptime_7d": 94.1,
-        "uptime_30d": 90.4
+        "uptime_24h": 92.4,
+        "uptime_7d": 93.8,
+        "uptime_30d": 90.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 92.7,
-        "uptime_7d": 94.1,
-        "uptime_30d": 91.9
+        "uptime_24h": 92.4,
+        "uptime_7d": 93.8,
+        "uptime_30d": 91.7
       },
       {
         "name": "Valchedrym DDNS",
         "status": "down",
-        "uptime_24h": 91.4,
-        "uptime_7d": 92.7,
-        "uptime_30d": 92.2
+        "uptime_24h": 91.1,
+        "uptime_7d": 92.5,
+        "uptime_30d": 92.0
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 97.5,
-        "uptime_30d": 70.2
+        "uptime_30d": 70.3
       }
     ],
     "External Reachability": [
