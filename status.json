@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T16:50:56.839771+00:00",
+  "last_updated": "2026-05-07T16:56:13.016224+00:00",
   "groups": {
     "HTTP": [
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -292,7 +292,7 @@
       },
       {
         "name": "Forgejo",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 83.1,
+        "uptime_24h": 82.9,
         "uptime_7d": 73.1,
-        "uptime_30d": 67.8,
+        "uptime_30d": 67.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 54.1,
-        "uptime_7d": 71.4,
-        "uptime_30d": 70.1
+        "uptime_24h": 53.8,
+        "uptime_7d": 71.2,
+        "uptime_30d": 69.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 54.1,
-        "uptime_7d": 71.4,
-        "uptime_30d": 70.7
+        "uptime_24h": 53.8,
+        "uptime_7d": 71.2,
+        "uptime_30d": 70.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -1118,9 +1118,9 @@
       {
         "name": "[External] forgejo",
         "status": "down",
-        "uptime_24h": 98.6,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
