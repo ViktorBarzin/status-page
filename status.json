@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T22:45:21.971960+00:00",
+  "last_updated": "2026-05-07T22:50:29.275418+00:00",
   "groups": {
     "HTTP": [
       {
@@ -69,9 +69,9 @@
       {
         "name": "Grafana",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 79.6,
-        "uptime_7d": 73.0,
-        "uptime_30d": 68.0,
+        "uptime_24h": 79.0,
+        "uptime_7d": 72.8,
+        "uptime_30d": 67.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,14 +768,14 @@
         "status": "up",
         "uptime_24h": 36.9,
         "uptime_7d": 65.9,
-        "uptime_30d": 65.0
+        "uptime_30d": 65.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
         "uptime_7d": 65.9,
-        "uptime_30d": 65.4
+        "uptime_30d": 65.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -1262,9 +1262,9 @@
       {
         "name": "[External] grafana",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 83.6,
-        "uptime_7d": 91.1,
-        "uptime_30d": 89.8,
+        "uptime_24h": 83.2,
+        "uptime_7d": 90.9,
+        "uptime_30d": 89.6,
         "url": "https://registry.viktorbarzin.me"
       },
       {
