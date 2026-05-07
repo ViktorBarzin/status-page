@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T22:35:20.367749+00:00",
+  "last_updated": "2026-05-07T22:40:24.855273+00:00",
   "groups": {
     "HTTP": [
       {
@@ -294,8 +294,8 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 79.9,
-        "uptime_7d": 73.0,
-        "uptime_30d": 68.0,
+        "uptime_7d": 73.1,
+        "uptime_30d": 68.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,21 +767,21 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 65.7,
-        "uptime_30d": 64.9
+        "uptime_7d": 65.8,
+        "uptime_30d": 65.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 65.7,
+        "uptime_7d": 65.8,
         "uptime_30d": 65.3
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 87.4,
-        "uptime_7d": 92.2,
+        "uptime_7d": 92.3,
         "uptime_30d": 91.9
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.2
+        "uptime_30d": 95.3
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 98.2,
-        "uptime_30d": 74.4
+        "uptime_30d": 74.5
       }
     ],
     "External Reachability": [
@@ -1102,9 +1102,9 @@
       {
         "name": "[External] f1",
         "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.1,
-        "uptime_30d": 98.7,
+        "uptime_24h": 99.0,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.5,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -1382,7 +1382,7 @@
       {
         "name": "[External] files",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 99.6,
         "uptime_30d": 99.6,
         "url": "https://files.viktorbarzin.me"
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 84.2,
-        "uptime_7d": 91.4,
-        "uptime_30d": 90.1,
+        "uptime_24h": 83.9,
+        "uptime_7d": 91.3,
+        "uptime_30d": 89.9,
         "url": "https://registry.viktorbarzin.me"
       },
       {
