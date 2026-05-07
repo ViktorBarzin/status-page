@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:55:20.034899+00:00",
+  "last_updated": "2026-05-07T05:00:32.587866+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 80.4,
-        "uptime_7d": 70.0,
+        "uptime_7d": 70.1,
         "uptime_30d": 64.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.3
+        "uptime_30d": 97.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 70.3
+        "uptime_30d": 70.4
       }
     ],
     "External Reachability": [
