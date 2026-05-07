@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T22:20:23.925667+00:00",
+  "last_updated": "2026-05-07T22:25:19.594147+00:00",
   "groups": {
     "HTTP": [
       {
@@ -437,7 +437,7 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 99.9,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.8,
         "uptime_30d": 99.7,
         "url": "https://novelapp.viktorbarzin.me"
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 79.9,
-        "uptime_7d": 72.9,
-        "uptime_30d": 67.9,
+        "uptime_7d": 73.0,
+        "uptime_30d": 68.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 65.5,
-        "uptime_30d": 64.7
+        "uptime_7d": 65.6,
+        "uptime_30d": 64.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 65.5,
-        "uptime_30d": 65.1
+        "uptime_7d": 65.6,
+        "uptime_30d": 65.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 85.3,
-        "uptime_7d": 91.9,
-        "uptime_30d": 90.6,
+        "uptime_24h": 84.9,
+        "uptime_7d": 91.8,
+        "uptime_30d": 90.4,
         "url": "https://registry.viktorbarzin.me"
       },
       {
