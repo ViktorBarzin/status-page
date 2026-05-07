@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:46:12.829552+00:00",
+  "last_updated": "2026-05-07T04:50:25.869858+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "http://blog.website.svc"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 80.7,
-        "uptime_7d": 70.0,
-        "uptime_30d": 64.7,
+        "status": "up",
+        "uptime_24h": 80.4,
+        "uptime_7d": 69.9,
+        "uptime_30d": 64.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.4
+        "uptime_30d": 95.5
       },
       {
         "name": "Valchedrym Video System",
@@ -781,7 +781,7 @@
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 97.9
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.5
+        "uptime_30d": 92.6
       },
       {
         "name": "pfSense Gateway",
