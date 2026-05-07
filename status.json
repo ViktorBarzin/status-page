@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T08:20:26.091117+00:00",
+  "last_updated": "2026-05-07T08:25:19.488135+00:00",
   "groups": {
     "HTTP": [
       {
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 99.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 83.9,
-        "uptime_7d": 72.0,
+        "uptime_7d": 72.1,
         "uptime_30d": 66.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,23 +766,23 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 89.6,
-        "uptime_7d": 91.7,
-        "uptime_30d": 88.4
+        "uptime_24h": 89.3,
+        "uptime_7d": 91.5,
+        "uptime_30d": 88.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 89.6,
-        "uptime_7d": 91.7,
-        "uptime_30d": 89.8
+        "uptime_24h": 89.3,
+        "uptime_7d": 91.5,
+        "uptime_30d": 89.5
       },
       {
         "name": "Valchedrym DDNS",
         "status": "down",
-        "uptime_24h": 88.3,
-        "uptime_7d": 90.4,
-        "uptime_30d": 90.0
+        "uptime_24h": 88.0,
+        "uptime_7d": 90.2,
+        "uptime_30d": 89.8
       },
       {
         "name": "Sofia RPI",
@@ -1182,7 +1182,7 @@
       {
         "name": "[External] immich",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 98.4,
         "url": "https://immich.viktorbarzin.me"
@@ -1527,7 +1527,7 @@
         "name": "[External] qbittorrent",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 99.5,
         "url": "https://qbittorrent.viktorbarzin.me"
       },
