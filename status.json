@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T11:36:12.024595+00:00",
+  "last_updated": "2026-05-07T11:40:24.774095+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.2,
+        "uptime_30d": 95.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.0,
+        "uptime_30d": 95.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 83.3,
-        "uptime_7d": 72.5,
-        "uptime_30d": 67.1,
+        "uptime_24h": 83.8,
+        "uptime_7d": 72.6,
+        "uptime_30d": 67.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,14 +766,14 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 75.9,
+        "uptime_24h": 75.8,
         "uptime_7d": 82.6,
         "uptime_30d": 80.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 75.9,
+        "uptime_24h": 75.8,
         "uptime_7d": 82.6,
         "uptime_30d": 81.2
       },
@@ -781,8 +781,8 @@
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 86.1,
-        "uptime_7d": 89.7,
-        "uptime_30d": 89.3
+        "uptime_7d": 89.8,
+        "uptime_30d": 89.4
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 97.7,
-        "uptime_30d": 71.4
+        "uptime_30d": 71.5
       }
     ],
     "External Reachability": [
