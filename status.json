@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T17:20:28.284855+00:00",
+  "last_updated": "2026-05-07T17:26:15.887522+00:00",
   "groups": {
     "HTTP": [
       {
@@ -294,8 +294,8 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.6,
+        "uptime_24h": 82.4,
         "uptime_7d": 73.1,
         "uptime_30d": 67.8,
         "url": "https://docker.viktorbarzin.me"
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 52.2,
-        "uptime_7d": 70.6,
-        "uptime_30d": 69.4
+        "uptime_24h": 51.7,
+        "uptime_7d": 70.3,
+        "uptime_30d": 69.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 52.2,
-        "uptime_7d": 70.6,
-        "uptime_30d": 69.9
+        "uptime_24h": 51.7,
+        "uptime_7d": 70.3,
+        "uptime_30d": 69.7
       },
       {
         "name": "Valchedrym DDNS",
