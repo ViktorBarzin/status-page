@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:40:27.397835+00:00",
+  "last_updated": "2026-05-07T04:46:12.829552+00:00",
   "groups": {
     "HTTP": [
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 81.0,
-        "uptime_7d": 70.1,
-        "uptime_30d": 64.8,
+        "status": "down",
+        "uptime_24h": 80.7,
+        "uptime_7d": 70.0,
+        "uptime_30d": 64.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -738,7 +738,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7
+        "uptime_30d": 99.8
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.4,
-        "uptime_30d": 97.8
+        "uptime_30d": 97.9
       },
       {
         "name": "Sofia RPI",
