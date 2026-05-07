@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T10:00:30.746581+00:00",
+  "last_updated": "2026-05-07T10:05:19.315903+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 83.1,
-        "uptime_7d": 72.2,
+        "uptime_24h": 83.3,
+        "uptime_7d": 72.3,
         "uptime_30d": 66.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,23 +766,23 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 82.7,
-        "uptime_7d": 86.9,
-        "uptime_30d": 84.1
+        "uptime_24h": 82.4,
+        "uptime_7d": 86.7,
+        "uptime_30d": 83.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 82.7,
-        "uptime_7d": 86.9,
-        "uptime_30d": 85.3
+        "uptime_24h": 82.4,
+        "uptime_7d": 86.7,
+        "uptime_30d": 85.1
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 86.1,
-        "uptime_7d": 89.2,
-        "uptime_30d": 88.8
+        "uptime_7d": 89.3,
+        "uptime_30d": 88.9
       },
       {
         "name": "Sofia RPI",
