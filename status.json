@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T11:00:32.291581+00:00",
+  "last_updated": "2026-05-07T11:05:20.095247+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 83.6,
-        "uptime_7d": 72.5,
+        "uptime_24h": 83.5,
+        "uptime_7d": 72.4,
         "uptime_30d": 67.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 78.5,
-        "uptime_7d": 84.3,
-        "uptime_30d": 81.7
+        "uptime_24h": 78.2,
+        "uptime_7d": 84.1,
+        "uptime_30d": 81.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 78.5,
-        "uptime_7d": 84.3,
-        "uptime_30d": 82.8
+        "uptime_24h": 78.2,
+        "uptime_7d": 84.1,
+        "uptime_30d": 82.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.3
       }
     ],
     "Push": [
@@ -839,7 +839,7 @@
         "name": "[External] cc",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -1078,9 +1078,9 @@
       {
         "name": "[External] audiobookshelf",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -1272,7 +1272,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1296,7 +1296,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1608,7 +1608,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://url.viktorbarzin.me"
       },
       {
@@ -1648,7 +1648,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://ci.viktorbarzin.me"
       },
       {
