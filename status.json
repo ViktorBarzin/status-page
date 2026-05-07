@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T21:35:20.037969+00:00",
+  "last_updated": "2026-05-07T21:40:24.762363+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -767,29 +767,29 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 64.9,
-        "uptime_30d": 64.1
+        "uptime_7d": 65.0,
+        "uptime_30d": 64.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 64.9,
-        "uptime_30d": 64.5
+        "uptime_7d": 65.0,
+        "uptime_30d": 64.6
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 87.4,
         "uptime_7d": 92.1,
-        "uptime_30d": 91.7
+        "uptime_30d": 91.8
       },
       {
         "name": "Sofia RPI",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.1
+        "uptime_30d": 95.2
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 98.1,
-        "uptime_30d": 74.1
+        "uptime_30d": 74.2
       }
     ],
     "External Reachability": [
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 88.4,
-        "uptime_7d": 93.5,
-        "uptime_30d": 92.1,
+        "uptime_24h": 88.0,
+        "uptime_7d": 93.3,
+        "uptime_30d": 91.9,
         "url": "https://registry.viktorbarzin.me"
       },
       {
