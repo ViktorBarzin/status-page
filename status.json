@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T19:00:50.013897+00:00",
+  "last_updated": "2026-05-07T19:05:20.832991+00:00",
   "groups": {
     "HTTP": [
       {
@@ -36,7 +36,7 @@
       },
       {
         "name": "Shlink (URL Shortener)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
         "uptime_30d": 98.4,
@@ -157,9 +157,9 @@
       {
         "name": "Nextcloud",
         "status": "down",
-        "uptime_24h": 98.3,
-        "uptime_7d": 99.0,
-        "uptime_30d": 98.6,
+        "uptime_24h": 97.9,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -180,7 +180,7 @@
       },
       {
         "name": "Wrongmove API",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
         "uptime_30d": 99.4,
@@ -404,7 +404,7 @@
       },
       {
         "name": "Speedtest",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
         "uptime_30d": 98.8,
@@ -580,8 +580,8 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 79.2,
+        "status": "up",
+        "uptime_24h": 79.5,
         "uptime_7d": 72.2,
         "uptime_30d": 67.2,
         "url": "https://docker.viktorbarzin.me"
@@ -766,23 +766,23 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 45.3,
-        "uptime_7d": 67.8,
-        "uptime_30d": 66.7
+        "uptime_24h": 45.0,
+        "uptime_7d": 67.6,
+        "uptime_30d": 66.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 45.3,
-        "uptime_7d": 67.8,
-        "uptime_30d": 67.2
+        "uptime_24h": 45.0,
+        "uptime_7d": 67.6,
+        "uptime_30d": 67.1
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 87.4,
         "uptime_7d": 91.6,
-        "uptime_30d": 91.2
+        "uptime_30d": 91.3
       },
       {
         "name": "Sofia RPI",
@@ -925,7 +925,7 @@
       },
       {
         "name": "[External] nextcloud",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.2,
         "uptime_30d": 97.1,
@@ -1605,7 +1605,7 @@
       },
       {
         "name": "[External] url",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.2,
         "uptime_30d": 98.6,
