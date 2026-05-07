@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T17:31:16.258564+00:00",
+  "last_updated": "2026-05-07T17:35:19.942461+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.4,
-        "uptime_7d": 73.1,
-        "uptime_30d": 67.8,
+        "uptime_7d": 73.2,
+        "uptime_30d": 67.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,14 +766,14 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 51.4,
+        "uptime_24h": 51.2,
         "uptime_7d": 70.2,
         "uptime_30d": 69.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 51.4,
+        "uptime_24h": 51.2,
         "uptime_7d": 70.2,
         "uptime_30d": 69.5
       },
@@ -781,7 +781,7 @@
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 87.4,
-        "uptime_7d": 91.2,
+        "uptime_7d": 91.3,
         "uptime_30d": 90.9
       },
       {
