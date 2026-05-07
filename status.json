@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T10:30:30.364851+00:00",
+  "last_updated": "2026-05-07T10:35:20.390977+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 83.3,
-        "uptime_7d": 72.5,
+        "uptime_7d": 72.6,
         "uptime_30d": 67.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 80.6,
-        "uptime_7d": 85.6,
-        "uptime_30d": 82.9
+        "uptime_24h": 80.3,
+        "uptime_7d": 85.3,
+        "uptime_30d": 82.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 80.6,
-        "uptime_7d": 85.6,
-        "uptime_30d": 84.0
+        "uptime_24h": 80.3,
+        "uptime_7d": 85.3,
+        "uptime_30d": 83.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -1682,6 +1682,14 @@
         "uptime_7d": 100.0,
         "uptime_30d": 99.2,
         "url": "https://pdf.viktorbarzin.me"
+      },
+      {
+        "name": "[External] chrome",
+        "status": "up",
+        "uptime_24h": 100.0,
+        "uptime_7d": 100.0,
+        "uptime_30d": 100.0,
+        "url": "https://chrome.viktorbarzin.me"
       }
     ],
     "MySQL": [
