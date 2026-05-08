@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T15:40:26.716207+00:00",
+  "last_updated": "2026-05-08T15:45:21.545168+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.7,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.1,
+        "uptime_24h": 75.4,
         "uptime_7d": 72.1,
-        "uptime_30d": 66.6,
+        "uptime_30d": 66.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 77.8,
-        "uptime_7d": 59.4,
-        "uptime_30d": 58.9
+        "uptime_24h": 78.1,
+        "uptime_7d": 59.5,
+        "uptime_30d": 59.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 77.6,
-        "uptime_7d": 59.2,
-        "uptime_30d": 59.0
+        "uptime_24h": 78.0,
+        "uptime_7d": 59.3,
+        "uptime_30d": 59.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.6
+        "uptime_30d": 94.7
       },
       {
         "name": "pfSense Gateway",
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 14.0,
-        "uptime_7d": 44.7,
-        "uptime_30d": 45.0,
+        "uptime_24h": 13.7,
+        "uptime_7d": 44.6,
+        "uptime_30d": 44.9,
         "url": "https://registry.viktorbarzin.me"
       },
       {
