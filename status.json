@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T02:50:26.621206+00:00",
+  "last_updated": "2026-05-08T02:55:19.688388+00:00",
   "groups": {
     "HTTP": [
       {
@@ -294,8 +294,8 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 77.9,
-        "uptime_7d": 69.0,
+        "uptime_7d": 69.1,
         "uptime_30d": 63.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -767,22 +767,22 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 38.4,
-        "uptime_30d": 39.7
+        "uptime_7d": 38.6,
+        "uptime_30d": 39.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 38.4,
-        "uptime_30d": 39.2
+        "uptime_7d": 38.6,
+        "uptime_30d": 39.4
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 87.4,
-        "uptime_7d": 87.4,
-        "uptime_30d": 86.9
+        "uptime_7d": 87.5,
+        "uptime_30d": 87.0
       },
       {
         "name": "Sofia RPI",
@@ -1104,7 +1104,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 66.8,
-        "uptime_7d": 67.7,
-        "uptime_30d": 66.8,
+        "uptime_24h": 66.4,
+        "uptime_7d": 67.4,
+        "uptime_30d": 66.6,
         "url": "https://registry.viktorbarzin.me"
       },
       {
