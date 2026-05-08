@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T01:40:22.707085+00:00",
+  "last_updated": "2026-05-08T01:46:12.449417+00:00",
   "groups": {
     "HTTP": [
       {
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 80.3,
-        "uptime_7d": 73.3,
-        "uptime_30d": 68.5,
+        "uptime_24h": 79.8,
+        "uptime_7d": 73.2,
+        "uptime_30d": 68.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 87.4,
         "uptime_7d": 92.7,
-        "uptime_30d": 92.4
+        "uptime_30d": 92.5
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 98.3,
-        "uptime_30d": 75.2
+        "uptime_30d": 75.3
       }
     ],
     "External Reachability": [
@@ -1263,7 +1263,7 @@
         "name": "[External] grafana",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -1383,7 +1383,7 @@
         "name": "[External] files",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://files.viktorbarzin.me"
       },
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 71.6,
-        "uptime_7d": 85.5,
-        "uptime_30d": 84.5,
+        "uptime_24h": 71.0,
+        "uptime_7d": 85.2,
+        "uptime_30d": 84.2,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1527,7 +1527,7 @@
         "name": "[External] qbittorrent",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://qbittorrent.viktorbarzin.me"
       },
