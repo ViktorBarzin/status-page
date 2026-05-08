@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T19:40:26.381602+00:00",
+  "last_updated": "2026-05-08T19:45:21.100245+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 80.5,
-        "uptime_7d": 73.8,
+        "uptime_7d": 73.9,
         "uptime_30d": 68.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 94.4,
-        "uptime_7d": 63.3,
-        "uptime_30d": 62.6
+        "uptime_24h": 94.8,
+        "uptime_7d": 63.4,
+        "uptime_30d": 62.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 94.4,
-        "uptime_7d": 63.2,
-        "uptime_30d": 62.8
+        "uptime_24h": 94.8,
+        "uptime_7d": 63.3,
+        "uptime_30d": 62.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 97.3,
+        "uptime_24h": 97.2,
         "uptime_7d": 96.8,
         "uptime_30d": 74.2
       }
@@ -1480,7 +1480,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 40.4,
-        "uptime_30d": 40.9,
+        "uptime_30d": 40.8,
         "url": "https://registry.viktorbarzin.me"
       },
       {
