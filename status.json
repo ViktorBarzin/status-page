@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T06:20:27.431360+00:00",
+  "last_updated": "2026-05-08T06:25:20.270343+00:00",
   "groups": {
     "HTTP": [
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 77.7,
-        "uptime_7d": 70.9,
+        "uptime_7d": 71.0,
         "uptime_30d": 65.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 38.9,
-        "uptime_7d": 46.0,
-        "uptime_30d": 46.5
+        "uptime_24h": 39.2,
+        "uptime_7d": 46.2,
+        "uptime_30d": 46.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 38.9,
-        "uptime_7d": 46.0,
-        "uptime_30d": 46.4
+        "uptime_24h": 39.2,
+        "uptime_7d": 46.2,
+        "uptime_30d": 46.5
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 89.7,
+        "uptime_24h": 90.0,
         "uptime_7d": 89.0,
         "uptime_30d": 88.5
       },
@@ -1408,7 +1408,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 52.4,
-        "uptime_7d": 59.4,
-        "uptime_30d": 59.0,
+        "uptime_24h": 52.1,
+        "uptime_7d": 59.2,
+        "uptime_30d": 58.8,
         "url": "https://registry.viktorbarzin.me"
       },
       {
