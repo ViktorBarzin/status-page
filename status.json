@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T00:10:27.072084+00:00",
+  "last_updated": "2026-05-08T00:16:16.773226+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 66.9,
-        "uptime_30d": 66.0
+        "uptime_7d": 67.0,
+        "uptime_30d": 66.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 66.9,
-        "uptime_30d": 66.4
+        "uptime_7d": 67.0,
+        "uptime_30d": 66.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 77.7,
-        "uptime_7d": 88.3,
-        "uptime_30d": 87.1,
+        "uptime_24h": 77.1,
+        "uptime_7d": 88.0,
+        "uptime_30d": 86.8,
         "url": "https://registry.viktorbarzin.me"
       },
       {
