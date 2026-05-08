@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T01:16:13.641718+00:00",
+  "last_updated": "2026-05-08T01:20:26.745373+00:00",
   "groups": {
     "HTTP": [
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.6
+        "uptime_30d": 95.7
       },
       {
         "name": "pfSense Gateway",
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 95.9,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 75.2
       }
     ],
@@ -1478,7 +1478,7 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 73.0,
+        "uptime_24h": 72.9,
         "uptime_7d": 86.1,
         "uptime_30d": 85.1,
         "url": "https://registry.viktorbarzin.me"
