@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T16:15:20.227859+00:00",
+  "last_updated": "2026-05-08T16:20:26.698983+00:00",
   "groups": {
     "HTTP": [
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.0,
+        "uptime_24h": 76.3,
         "uptime_7d": 72.4,
         "uptime_30d": 66.9,
         "url": "https://docker.viktorbarzin.me"
@@ -766,23 +766,23 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 80.2,
-        "uptime_7d": 60.0,
-        "uptime_30d": 59.5
+        "uptime_24h": 80.6,
+        "uptime_7d": 60.1,
+        "uptime_30d": 59.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 80.1,
-        "uptime_7d": 59.9,
-        "uptime_30d": 59.6
+        "uptime_24h": 80.4,
+        "uptime_7d": 60.0,
+        "uptime_30d": 59.7
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.8,
-        "uptime_30d": 91.4
+        "uptime_30d": 91.5
       },
       {
         "name": "Sofia RPI",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 73.9
+        "uptime_30d": 74.0
       }
     ],
     "External Reachability": [
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 11.6,
-        "uptime_7d": 44.0,
-        "uptime_30d": 44.4,
+        "uptime_24h": 11.3,
+        "uptime_7d": 43.9,
+        "uptime_30d": 44.3,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1680,7 +1680,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
