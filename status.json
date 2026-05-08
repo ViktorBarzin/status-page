@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T21:40:27.385536+00:00",
+  "last_updated": "2026-05-08T21:45:22.481201+00:00",
   "groups": {
     "HTTP": [
       {
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 65.0,
-        "uptime_30d": 64.2
+        "uptime_7d": 65.1,
+        "uptime_30d": 64.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 64.9,
-        "uptime_30d": 64.4
+        "uptime_30d": 64.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 91.5,
+        "uptime_24h": 91.4,
         "uptime_7d": 94.3,
         "uptime_30d": 73.2
       }
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 38.6,
-        "uptime_30d": 39.1,
+        "uptime_7d": 38.5,
+        "uptime_30d": 39.0,
         "url": "https://registry.viktorbarzin.me"
       },
       {
