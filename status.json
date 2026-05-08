@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T22:40:26.152657+00:00",
+  "last_updated": "2026-05-08T22:45:20.570249+00:00",
   "groups": {
     "HTTP": [
       {
@@ -294,8 +294,8 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.6,
-        "uptime_7d": 74.8,
+        "uptime_24h": 82.2,
+        "uptime_7d": 74.9,
         "uptime_30d": 69.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -767,7 +767,7 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 65.8,
+        "uptime_7d": 65.9,
         "uptime_30d": 65.0
       },
       {
@@ -775,14 +775,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 65.7,
-        "uptime_30d": 65.2
+        "uptime_30d": 65.3
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.0,
-        "uptime_30d": 92.6
+        "uptime_30d": 92.7
       },
       {
         "name": "Sofia RPI",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 88.6,
+        "uptime_24h": 88.4,
         "uptime_7d": 93.1,
         "uptime_30d": 72.7
       }
