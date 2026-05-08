@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T05:35:19.565732+00:00",
+  "last_updated": "2026-05-08T05:40:27.373031+00:00",
   "groups": {
     "HTTP": [
       {
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 44.5,
-        "uptime_30d": 45.2
+        "uptime_7d": 44.7,
+        "uptime_30d": 45.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 44.5,
-        "uptime_30d": 45.0
+        "uptime_7d": 44.7,
+        "uptime_30d": 45.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 97.3,
-        "uptime_30d": 69.5
+        "uptime_30d": 69.7
       }
     ],
     "External Reachability": [
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 55.5,
-        "uptime_7d": 61.0,
-        "uptime_30d": 60.5,
+        "uptime_24h": 55.1,
+        "uptime_7d": 60.8,
+        "uptime_30d": 60.3,
         "url": "https://registry.viktorbarzin.me"
       },
       {
