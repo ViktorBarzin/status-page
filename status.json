@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T07:00:32.350262+00:00",
+  "last_updated": "2026-05-08T07:05:20.297416+00:00",
   "groups": {
     "HTTP": [
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.3,
+        "uptime_30d": 94.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 76.6,
-        "uptime_7d": 70.7,
-        "uptime_30d": 65.0,
+        "uptime_7d": 70.8,
+        "uptime_30d": 65.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 41.7,
-        "uptime_7d": 47.3,
-        "uptime_30d": 47.6
+        "uptime_24h": 42.0,
+        "uptime_7d": 47.4,
+        "uptime_30d": 47.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 41.7,
-        "uptime_7d": 47.3,
-        "uptime_30d": 47.5
+        "uptime_24h": 42.0,
+        "uptime_7d": 47.4,
+        "uptime_30d": 47.7
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 92.4,
+        "uptime_24h": 92.8,
         "uptime_7d": 89.2,
         "uptime_30d": 88.8
       },
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 70.1
+        "uptime_30d": 70.3
       }
     ],
     "External Reachability": [
@@ -839,7 +839,7 @@
         "name": "[External] cc",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 99.2,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -936,7 +936,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -1272,7 +1272,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1296,7 +1296,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 49.7,
-        "uptime_7d": 58.0,
-        "uptime_30d": 57.7,
+        "uptime_24h": 49.3,
+        "uptime_7d": 57.8,
+        "uptime_30d": 57.6,
         "url": "https://registry.viktorbarzin.me"
       },
       {
