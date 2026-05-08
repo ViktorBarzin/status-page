@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T00:05:21.573883+00:00",
+  "last_updated": "2026-05-08T00:10:27.072084+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 80.3,
-        "uptime_7d": 72.9,
+        "uptime_24h": 80.6,
+        "uptime_7d": 73.0,
         "uptime_30d": 68.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -767,14 +767,14 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 66.8,
+        "uptime_7d": 66.9,
         "uptime_30d": 66.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 66.8,
+        "uptime_7d": 66.9,
         "uptime_30d": 66.4
       },
       {
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 78.1,
-        "uptime_7d": 88.5,
-        "uptime_30d": 87.3,
+        "uptime_24h": 77.7,
+        "uptime_7d": 88.3,
+        "uptime_30d": 87.1,
         "url": "https://registry.viktorbarzin.me"
       },
       {
