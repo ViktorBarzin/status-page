@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T21:20:26.070795+00:00",
+  "last_updated": "2026-05-08T21:25:19.751219+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 81.3,
         "uptime_7d": 74.6,
-        "uptime_30d": 68.7,
+        "uptime_30d": 68.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,21 +767,21 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 64.7,
-        "uptime_30d": 63.9
+        "uptime_7d": 64.8,
+        "uptime_30d": 64.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 64.6,
+        "uptime_7d": 64.7,
         "uptime_30d": 64.2
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.7,
+        "uptime_7d": 92.8,
         "uptime_30d": 92.4
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 93.0,
+        "uptime_24h": 92.9,
         "uptime_7d": 94.9,
         "uptime_30d": 73.4
       }
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 38.9,
-        "uptime_30d": 39.4,
+        "uptime_7d": 38.8,
+        "uptime_30d": 39.3,
         "url": "https://registry.viktorbarzin.me"
       },
       {
