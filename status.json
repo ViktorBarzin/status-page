@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T09:30:32.567203+00:00",
+  "last_updated": "2026-05-08T09:35:20.420733+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.7,
+        "uptime_30d": 95.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 73.2,
-        "uptime_7d": 69.8,
-        "uptime_30d": 64.6,
+        "uptime_24h": 72.9,
+        "uptime_7d": 69.7,
+        "uptime_30d": 64.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,23 +766,23 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 52.1,
-        "uptime_7d": 51.5,
-        "uptime_30d": 51.5
+        "uptime_24h": 52.4,
+        "uptime_7d": 51.6,
+        "uptime_30d": 51.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 52.1,
-        "uptime_7d": 51.5,
-        "uptime_30d": 51.5
+        "uptime_24h": 52.4,
+        "uptime_7d": 51.6,
+        "uptime_30d": 51.6
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 90.1,
-        "uptime_30d": 89.6
+        "uptime_30d": 89.7
       },
       {
         "name": "Sofia RPI",
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 39.4,
-        "uptime_7d": 53.4,
-        "uptime_30d": 53.4,
+        "uptime_24h": 39.0,
+        "uptime_7d": 53.3,
+        "uptime_30d": 53.2,
         "url": "https://registry.viktorbarzin.me"
       },
       {
