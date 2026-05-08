@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T03:40:24.669505+00:00",
+  "last_updated": "2026-05-08T03:45:21.046062+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.1,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 77.9,
-        "uptime_7d": 69.6,
-        "uptime_30d": 64.0,
+        "status": "down",
+        "uptime_24h": 77.6,
+        "uptime_7d": 69.5,
+        "uptime_30d": 63.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,22 +767,22 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 40.4,
-        "uptime_30d": 41.5
+        "uptime_7d": 40.6,
+        "uptime_30d": 41.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 40.4,
-        "uptime_30d": 41.1
+        "uptime_7d": 40.6,
+        "uptime_30d": 41.3
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 87.4,
-        "uptime_7d": 87.8,
-        "uptime_30d": 87.3
+        "uptime_7d": 87.9,
+        "uptime_30d": 87.4
       },
       {
         "name": "Sofia RPI",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 95.9,
-        "uptime_7d": 97.1,
-        "uptime_30d": 68.8
+        "uptime_7d": 97.2,
+        "uptime_30d": 69.0
       }
     ],
     "External Reachability": [
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 63.4,
-        "uptime_7d": 65.5,
-        "uptime_30d": 64.7,
+        "uptime_24h": 63.0,
+        "uptime_7d": 65.3,
+        "uptime_30d": 64.5,
         "url": "https://registry.viktorbarzin.me"
       },
       {
