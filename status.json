@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T22:30:30.106339+00:00",
+  "last_updated": "2026-05-08T22:35:19.711965+00:00",
   "groups": {
     "HTTP": [
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "uptime_30d": 99.9,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -583,14 +583,14 @@
         "status": "up",
         "uptime_24h": 81.6,
         "uptime_7d": 74.8,
-        "uptime_30d": 68.9,
+        "uptime_30d": 69.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.3,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -738,7 +738,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.8
+        "uptime_30d": 99.9
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 65.7,
-        "uptime_30d": 64.8
+        "uptime_30d": 64.9
       },
       {
         "name": "Valchedrym Video System",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 89.9,
-        "uptime_7d": 93.7,
-        "uptime_30d": 72.9
+        "uptime_24h": 88.6,
+        "uptime_7d": 93.1,
+        "uptime_30d": 72.7
       }
     ],
     "External Reachability": [
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 37.9,
-        "uptime_30d": 38.4,
+        "uptime_7d": 37.8,
+        "uptime_30d": 38.3,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1607,7 +1607,7 @@
         "name": "[External] url",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.7,
         "url": "https://url.viktorbarzin.me"
       },
