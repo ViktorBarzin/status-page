@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T21:00:34.461586+00:00",
+  "last_updated": "2026-05-08T21:05:20.004296+00:00",
   "groups": {
     "HTTP": [
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.0,
-        "uptime_7d": 74.4,
+        "uptime_24h": 81.3,
+        "uptime_7d": 74.5,
         "uptime_30d": 68.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 64.5,
-        "uptime_30d": 63.7
+        "uptime_30d": 63.8
       },
       {
         "name": "Valchedrym Video System",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.2
+        "uptime_30d": 95.3
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 94.4,
-        "uptime_7d": 95.5,
-        "uptime_30d": 73.7
+        "uptime_24h": 93.0,
+        "uptime_7d": 94.9,
+        "uptime_30d": 73.4
       }
     ],
     "External Reachability": [
@@ -1479,8 +1479,8 @@
         "name": "[External] registry",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 39.2,
-        "uptime_30d": 39.7,
+        "uptime_7d": 39.1,
+        "uptime_30d": 39.6,
         "url": "https://registry.viktorbarzin.me"
       },
       {
