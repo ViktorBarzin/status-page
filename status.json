@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T16:10:26.616362+00:00",
+  "last_updated": "2026-05-08T16:15:20.227859+00:00",
   "groups": {
     "HTTP": [
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 76.0,
-        "uptime_7d": 72.3,
+        "uptime_7d": 72.4,
         "uptime_30d": 66.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 79.9,
+        "uptime_24h": 80.2,
         "uptime_7d": 60.0,
-        "uptime_30d": 59.4
+        "uptime_30d": 59.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 79.7,
-        "uptime_7d": 59.8,
-        "uptime_30d": 59.5
+        "uptime_24h": 80.1,
+        "uptime_7d": 59.9,
+        "uptime_30d": 59.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       }
     ],
     "Push": [
@@ -936,7 +936,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -1175,7 +1175,7 @@
         "name": "[External] home",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.1,
         "url": "https://home.viktorbarzin.me"
       },
@@ -1271,7 +1271,7 @@
         "name": "[External] alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "https://alertmanager.viktorbarzin.me"
       },
@@ -1295,7 +1295,7 @@
         "name": "[External] netbox",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "https://netbox.viktorbarzin.me"
       },
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 12.0,
-        "uptime_7d": 44.1,
-        "uptime_30d": 44.5,
+        "uptime_24h": 11.6,
+        "uptime_7d": 44.0,
+        "uptime_30d": 44.4,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1559,7 +1559,7 @@
         "name": "[External] technitium",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.1,
         "url": "https://technitium.viktorbarzin.me"
       },
