@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T03:20:26.650287+00:00",
+  "last_updated": "2026-05-08T03:25:19.592103+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 77.9,
-        "uptime_7d": 69.4,
+        "uptime_7d": 69.5,
         "uptime_30d": 63.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 39.6,
-        "uptime_30d": 40.8
+        "uptime_7d": 39.8,
+        "uptime_30d": 40.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 36.9,
-        "uptime_7d": 39.6,
-        "uptime_30d": 40.4
+        "uptime_7d": 39.8,
+        "uptime_30d": 40.6
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 92.4
+        "uptime_30d": 92.5
       },
       {
         "name": "pfSense Gateway",
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 64.7,
-        "uptime_7d": 66.3,
-        "uptime_30d": 65.5,
+        "uptime_24h": 64.4,
+        "uptime_7d": 66.1,
+        "uptime_30d": 65.3,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1608,7 +1608,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.7,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://url.viktorbarzin.me"
       },
       {
@@ -1616,7 +1616,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://vault.viktorbarzin.me"
       },
       {
