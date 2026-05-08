@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T11:25:20.287715+00:00",
+  "last_updated": "2026-05-08T11:30:30.133214+00:00",
   "groups": {
     "HTTP": [
       {
@@ -70,7 +70,7 @@
         "name": "Grafana",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -422,8 +422,8 @@
         "name": "Registry Cache - DockerHub",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "http://10.0.20.10:5000/v2"
       },
       {
@@ -462,7 +462,7 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -518,7 +518,7 @@
         "name": "Music Assistant",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 95.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 73.3,
         "uptime_7d": 70.3,
-        "uptime_30d": 65.0,
+        "uptime_30d": 65.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 60.1,
-        "uptime_7d": 54.2,
-        "uptime_30d": 54.0
+        "uptime_24h": 60.4,
+        "uptime_7d": 54.4,
+        "uptime_30d": 54.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 60.1,
-        "uptime_7d": 54.2,
-        "uptime_30d": 54.2
+        "uptime_24h": 60.4,
+        "uptime_7d": 54.4,
+        "uptime_30d": 54.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       },
       {
         "name": "pfSense Gateway",
@@ -1079,7 +1079,7 @@
         "name": "[External] audiobookshelf",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -1239,7 +1239,7 @@
         "name": "[External] mail",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://mail.viktorbarzin.me"
       },
@@ -1327,7 +1327,7 @@
         "name": "[External] openclaw",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -1383,7 +1383,7 @@
         "name": "[External] files",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://files.viktorbarzin.me"
       },
@@ -1407,7 +1407,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 98.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 31.5,
-        "uptime_7d": 50.4,
-        "uptime_30d": 50.5,
+        "uptime_24h": 31.2,
+        "uptime_7d": 50.2,
+        "uptime_30d": 50.4,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1527,7 +1527,7 @@
         "name": "[External] qbittorrent",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://qbittorrent.viktorbarzin.me"
       },
