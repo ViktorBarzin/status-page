@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T16:45:20.528405+00:00",
+  "last_updated": "2026-05-08T16:50:26.419415+00:00",
   "groups": {
     "HTTP": [
       {
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -293,7 +293,7 @@
       {
         "name": "Forgejo",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://forgejo.viktorbarzin.me"
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -766,23 +766,23 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 82.3,
+        "uptime_24h": 82.6,
         "uptime_7d": 60.6,
         "uptime_30d": 60.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 82.2,
-        "uptime_7d": 60.4,
-        "uptime_30d": 60.1
+        "uptime_24h": 82.5,
+        "uptime_7d": 60.5,
+        "uptime_30d": 60.2
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.9,
-        "uptime_30d": 91.5
+        "uptime_30d": 91.6
       },
       {
         "name": "Sofia RPI",
@@ -1118,7 +1118,7 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 99.7,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 9.6,
-        "uptime_7d": 43.5,
-        "uptime_30d": 43.8,
+        "uptime_24h": 9.2,
+        "uptime_7d": 43.4,
+        "uptime_30d": 43.7,
         "url": "https://registry.viktorbarzin.me"
       },
       {
