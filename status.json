@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T16:30:30.240396+00:00",
+  "last_updated": "2026-05-08T16:35:19.565113+00:00",
   "groups": {
     "HTTP": [
       {
@@ -766,14 +766,14 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 81.2,
-        "uptime_7d": 60.3,
-        "uptime_30d": 59.7
+        "uptime_24h": 81.6,
+        "uptime_7d": 60.4,
+        "uptime_30d": 59.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 81.2,
+        "uptime_24h": 81.5,
         "uptime_7d": 60.2,
         "uptime_30d": 59.9
       },
@@ -781,7 +781,7 @@
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.8,
+        "uptime_7d": 91.9,
         "uptime_30d": 91.5
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.7
+        "uptime_30d": 94.8
       },
       {
         "name": "pfSense Gateway",
@@ -1478,9 +1478,9 @@
       {
         "name": "[External] registry",
         "status": "down",
-        "uptime_24h": 10.6,
-        "uptime_7d": 43.8,
-        "uptime_30d": 44.1,
+        "uptime_24h": 10.3,
+        "uptime_7d": 43.7,
+        "uptime_30d": 44.0,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1494,9 +1494,9 @@
       {
         "name": "[External] send",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://send.viktorbarzin.me"
       },
       {
