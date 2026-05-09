@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T06:00:33.461519+00:00",
+  "last_updated": "2026-05-09T06:06:13.474985+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 94.1,
+        "uptime_30d": 94.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -745,7 +745,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "PVE NFS (2049)",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.0
+        "uptime_30d": 93.1
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 64.5,
-        "uptime_7d": 79.1,
-        "uptime_30d": 62.6
+        "uptime_24h": 62.9,
+        "uptime_7d": 78.4,
+        "uptime_30d": 62.4
       }
     ],
     "External Reachability": [
@@ -1694,9 +1694,9 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 92.8,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.8,
+        "uptime_24h": 92.9,
+        "uptime_7d": 92.9,
+        "uptime_30d": 92.9,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
