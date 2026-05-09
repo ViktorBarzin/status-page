@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T14:31:20.611192+00:00",
+  "last_updated": "2026-05-09T14:35:39.214387+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,14 +582,14 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.1,
-        "uptime_7d": 73.2,
-        "uptime_30d": 66.7,
+        "uptime_7d": 73.3,
+        "uptime_30d": 66.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
         "status": "up",
-        "uptime_24h": 98.6,
+        "uptime_24h": 99.3,
         "uptime_7d": 99.1,
         "uptime_30d": 98.0,
         "url": "https://ci.viktorbarzin.me"
@@ -1638,7 +1638,7 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 99.3,
         "uptime_7d": 98.9,
         "uptime_30d": 98.2,
         "url": "https://ci.viktorbarzin.me"
