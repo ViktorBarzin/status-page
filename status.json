@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T13:20:34.599275+00:00",
+  "last_updated": "2026-05-09T13:25:22.507365+00:00",
   "groups": {
     "HTTP": [
       {
@@ -268,7 +268,7 @@
       },
       {
         "name": "AFFiNE",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.5,
         "uptime_30d": 99.1,
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 82.9,
-        "uptime_7d": 72.9,
-        "uptime_30d": 66.5,
+        "uptime_24h": 82.6,
+        "uptime_7d": 72.8,
+        "uptime_30d": 66.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
