@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T04:00:28.392375+00:00",
+  "last_updated": "2026-05-09T04:05:20.789465+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.3,
-        "uptime_7d": 71.7,
-        "uptime_30d": 64.9,
+        "uptime_7d": 71.8,
+        "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -814,16 +814,16 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0
+        "uptime_30d": 99.1
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 71.9,
-        "uptime_7d": 82.1,
-        "uptime_30d": 63.6
+        "uptime_24h": 70.3,
+        "uptime_7d": 81.3,
+        "uptime_30d": 63.3
       }
     ],
     "External Reachability": [
@@ -936,7 +936,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -1175,7 +1175,7 @@
         "name": "[External] home",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.7,
         "url": "https://home.viktorbarzin.me"
       },
@@ -1271,7 +1271,7 @@
         "name": "[External] alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://alertmanager.viktorbarzin.me"
       },
@@ -1295,7 +1295,7 @@
         "name": "[External] netbox",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://netbox.viktorbarzin.me"
       },
@@ -1559,7 +1559,7 @@
         "name": "[External] technitium",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.7,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -1694,17 +1694,17 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 88.9,
-        "uptime_7d": 88.9,
-        "uptime_30d": 88.9,
+        "uptime_24h": 89.1,
+        "uptime_7d": 89.1,
+        "uptime_30d": 89.1,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
         "name": "[External] postiz",
         "status": "up",
-        "uptime_24h": 95.0,
-        "uptime_7d": 95.0,
-        "uptime_30d": 95.0,
+        "uptime_24h": 95.1,
+        "uptime_7d": 95.1,
+        "uptime_30d": 95.1,
         "url": "https://postiz.viktorbarzin.me"
       }
     ],
