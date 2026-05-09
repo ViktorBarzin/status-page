@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T05:35:19.850094+00:00",
+  "last_updated": "2026-05-09T05:40:27.527007+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 81.4,
-        "uptime_7d": 72.1,
-        "uptime_30d": 65.3,
+        "uptime_7d": 72.2,
+        "uptime_30d": 65.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -779,10 +779,10 @@
       },
       {
         "name": "Valchedrym DDNS",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 98.8
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.5
       },
       {
         "name": "Sofia RPI",
@@ -1694,17 +1694,17 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 92.2,
-        "uptime_7d": 92.2,
-        "uptime_30d": 92.2,
+        "uptime_24h": 92.3,
+        "uptime_7d": 92.3,
+        "uptime_30d": 92.3,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
         "name": "[External] postiz",
         "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 96.6,
-        "uptime_30d": 96.6,
+        "uptime_24h": 96.7,
+        "uptime_7d": 96.7,
+        "uptime_30d": 96.7,
         "url": "https://postiz.viktorbarzin.me"
       }
     ],
