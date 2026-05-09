@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T14:25:34.451571+00:00",
+  "last_updated": "2026-05-09T14:31:20.611192+00:00",
   "groups": {
     "HTTP": [
       {
@@ -356,7 +356,7 @@
       },
       {
         "name": "N8N",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 98.4,
         "uptime_30d": 98.2,
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 97.1
+        "uptime_30d": 97.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -1285,7 +1285,7 @@
       },
       {
         "name": "[External] n8n",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.6,
         "uptime_30d": 98.4,
