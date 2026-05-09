@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T00:55:20.549826+00:00",
+  "last_updated": "2026-05-09T01:00:32.966437+00:00",
   "groups": {
     "HTTP": [
       {
@@ -356,7 +356,7 @@
       },
       {
         "name": "N8N",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.5,
         "uptime_30d": 99.3,
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.0,
+        "uptime_24h": 81.2,
         "uptime_7d": 74.6,
         "uptime_30d": 69.0,
         "url": "https://docker.viktorbarzin.me"
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 67.4,
+        "uptime_7d": 67.5,
         "uptime_30d": 66.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 67.3,
-        "uptime_30d": 66.8
+        "uptime_7d": 67.4,
+        "uptime_30d": 67.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -1408,7 +1408,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1480,7 +1480,7 @@
         "status": "down",
         "uptime_24h": 0.0,
         "uptime_7d": 35.9,
-        "uptime_30d": 36.5,
+        "uptime_30d": 36.4,
         "url": "https://registry.viktorbarzin.me"
       },
       {
@@ -1694,17 +1694,17 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 37.5,
-        "uptime_7d": 37.5,
-        "uptime_30d": 37.5,
+        "uptime_24h": 44.4,
+        "uptime_7d": 44.4,
+        "uptime_30d": 44.4,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
         "name": "[External] postiz",
         "status": "up",
-        "uptime_24h": 33.3,
-        "uptime_7d": 33.3,
-        "uptime_30d": 33.3,
+        "uptime_24h": 50.0,
+        "uptime_7d": 50.0,
+        "uptime_30d": 50.0,
         "url": "https://postiz.viktorbarzin.me"
       }
     ],
