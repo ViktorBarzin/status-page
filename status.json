@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T04:50:26.423207+00:00",
+  "last_updated": "2026-05-09T04:55:20.018110+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 81.7,
-        "uptime_7d": 71.8,
+        "status": "up",
+        "uptime_24h": 81.4,
+        "uptime_7d": 71.7,
         "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -1439,7 +1439,7 @@
         "name": "[External] music-assistant",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 97.0,
         "url": "https://music-assistant.viktorbarzin.me"
       },
@@ -1694,17 +1694,17 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 90.9,
-        "uptime_7d": 90.9,
-        "uptime_30d": 90.9,
+        "uptime_24h": 91.1,
+        "uptime_7d": 91.1,
+        "uptime_30d": 91.1,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
         "name": "[External] postiz",
         "status": "up",
-        "uptime_24h": 96.0,
-        "uptime_7d": 96.0,
-        "uptime_30d": 96.0,
+        "uptime_24h": 96.1,
+        "uptime_7d": 96.1,
+        "uptime_30d": 96.1,
         "url": "https://postiz.viktorbarzin.me"
       }
     ],
