@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T11:00:33.551649+00:00",
+  "last_updated": "2026-05-09T11:05:36.098197+00:00",
   "groups": {
     "HTTP": [
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 85.4,
         "uptime_7d": 73.6,
-        "uptime_30d": 66.7,
+        "uptime_30d": 66.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 95.3
+        "uptime_30d": 95.4
       },
       {
         "name": "Valchedrym Video System",
@@ -814,14 +814,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.3
       }
     ],
     "Push": [
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 45.8,
+        "uptime_24h": 44.8,
         "uptime_7d": 73.0,
         "uptime_30d": 60.5
       }
@@ -839,7 +839,7 @@
         "name": "[External] cc",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://cc.viktorbarzin.me"
       },
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -936,7 +936,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -1272,7 +1272,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1296,7 +1296,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://netbox.viktorbarzin.me"
       },
       {
@@ -1474,14 +1474,6 @@
         "uptime_7d": 100.0,
         "uptime_30d": 100.0,
         "url": "https://proxmox.viktorbarzin.me"
-      },
-      {
-        "name": "[External] registry",
-        "status": "down",
-        "uptime_24h": 0.0,
-        "uptime_7d": 0.0,
-        "uptime_30d": 2.4,
-        "url": "https://registry.viktorbarzin.me"
       },
       {
         "name": "[External] valchedrym",
@@ -1694,9 +1686,9 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 96.1,
-        "uptime_7d": 96.1,
-        "uptime_30d": 96.1,
+        "uptime_24h": 96.2,
+        "uptime_7d": 96.2,
+        "uptime_30d": 96.2,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
