@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T08:30:30.969392+00:00",
+  "last_updated": "2026-05-09T08:35:20.501254+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 83.2,
-        "uptime_7d": 72.5,
+        "uptime_24h": 83.5,
+        "uptime_7d": 72.6,
         "uptime_30d": 65.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.5
+        "uptime_30d": 93.6
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 54.2,
-        "uptime_7d": 75.7,
-        "uptime_30d": 61.4
+        "uptime_24h": 53.3,
+        "uptime_7d": 75.0,
+        "uptime_30d": 61.2
       }
     ],
     "External Reachability": [
@@ -1400,7 +1400,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.6,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
@@ -1648,7 +1648,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.6,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -1694,9 +1694,9 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 94.9,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.9,
+        "uptime_24h": 95.0,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
