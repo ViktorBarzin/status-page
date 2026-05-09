@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T01:40:27.223067+00:00",
+  "last_updated": "2026-05-09T01:45:21.009877+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 81.2,
-        "uptime_7d": 74.9,
+        "uptime_24h": 81.7,
+        "uptime_7d": 75.0,
         "uptime_30d": 69.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -774,8 +774,8 @@
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 67.8,
-        "uptime_30d": 67.3
+        "uptime_7d": 67.9,
+        "uptime_30d": 67.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 79.1,
+        "uptime_24h": 78.8,
         "uptime_7d": 89.8,
         "uptime_30d": 71.3
       }
@@ -1407,7 +1407,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1479,7 +1479,7 @@
         "name": "[External] registry",
         "status": "down",
         "uptime_24h": 0.0,
-        "uptime_7d": 35.4,
+        "uptime_7d": 35.3,
         "uptime_30d": 35.9,
         "url": "https://registry.viktorbarzin.me"
       },
@@ -1694,17 +1694,17 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 70.6,
-        "uptime_7d": 70.6,
-        "uptime_30d": 70.6,
+        "uptime_24h": 72.2,
+        "uptime_7d": 72.2,
+        "uptime_30d": 72.2,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
         "name": "[External] postiz",
         "status": "up",
-        "uptime_24h": 83.3,
-        "uptime_7d": 83.3,
-        "uptime_30d": 83.3,
+        "uptime_24h": 84.6,
+        "uptime_7d": 84.6,
+        "uptime_30d": 84.6,
         "url": "https://postiz.viktorbarzin.me"
       }
     ],
