@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T22:06:13.327281+00:00",
+  "last_updated": "2026-05-09T22:10:27.419488+00:00",
   "groups": {
     "HTTP": [
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.7,
-        "uptime_7d": 72.3,
+        "uptime_24h": 72.8,
+        "uptime_7d": 72.4,
         "uptime_30d": 66.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -660,7 +660,7 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.8,
         "uptime_30d": 99.6,
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.4
+        "uptime_30d": 96.5
       },
       {
         "name": "Valchedrym Video System",
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://music-assistant.viktorbarzin.me"
       },
       {
