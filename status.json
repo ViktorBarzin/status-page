@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T22:45:23.377717+00:00",
+  "last_updated": "2026-05-09T22:50:25.166810+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 72.3,
         "uptime_7d": 72.4,
-        "uptime_30d": 66.5,
+        "uptime_30d": 66.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1686,9 +1686,9 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 98.1,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_24h": 98.2,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
