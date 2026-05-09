@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T03:20:27.049185+00:00",
+  "last_updated": "2026-05-09T03:25:19.998194+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 82.0,
-        "uptime_7d": 71.4,
-        "uptime_30d": 64.6,
+        "uptime_7d": 71.5,
+        "uptime_30d": 64.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "down",
-        "uptime_24h": 73.8,
+        "uptime_24h": 73.4,
         "uptime_7d": 82.9,
         "uptime_30d": 63.9
       }
@@ -1616,7 +1616,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://vault.viktorbarzin.me"
       },
       {
@@ -1647,7 +1647,7 @@
         "name": "[External] ci",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 97.4,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -1694,17 +1694,17 @@
       {
         "name": "[External] instagram-poster",
         "status": "up",
-        "uptime_24h": 86.5,
-        "uptime_7d": 86.5,
-        "uptime_30d": 86.5,
+        "uptime_24h": 86.8,
+        "uptime_7d": 86.8,
+        "uptime_30d": 86.8,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
         "name": "[External] postiz",
         "status": "up",
-        "uptime_24h": 93.8,
-        "uptime_7d": 93.8,
-        "uptime_30d": 93.8,
+        "uptime_24h": 93.9,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.9,
         "url": "https://postiz.viktorbarzin.me"
       }
     ],
