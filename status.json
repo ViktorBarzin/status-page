@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T08:40:24.238835+00:00",
+  "last_updated": "2026-05-10T08:46:15.226779+00:00",
   "groups": {
     "HTTP": [
       {
@@ -358,7 +358,7 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.4,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.5,
-        "uptime_7d": 67.4,
-        "uptime_30d": 61.7,
+        "uptime_24h": 71.1,
+        "uptime_7d": 67.2,
+        "uptime_30d": 61.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 96.6
+        "uptime_30d": 96.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 94.3,
-        "uptime_7d": 73.0,
-        "uptime_30d": 61.1
+        "uptime_24h": 94.4,
+        "uptime_7d": 73.2,
+        "uptime_30d": 61.3
       }
     ],
     "External Reachability": [
