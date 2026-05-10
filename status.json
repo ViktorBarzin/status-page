@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T15:30:30.813127+00:00",
+  "last_updated": "2026-05-10T15:36:11.793339+00:00",
   "groups": {
     "HTTP": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "name": "Immich ML",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 94.2,
         "uptime_7d": 96.2,
         "uptime_30d": 95.2,
@@ -212,7 +212,7 @@
       },
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
         "uptime_30d": 97.0,
@@ -412,10 +412,10 @@
       },
       {
         "name": "Wealthfolio",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -524,7 +524,7 @@
       },
       {
         "name": "OpenClaw",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.7,
         "uptime_30d": 98.5,
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 71.2,
+        "status": "up",
+        "uptime_24h": 71.3,
         "uptime_7d": 68.8,
-        "uptime_30d": 62.9,
+        "uptime_30d": 63.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1646,9 +1646,9 @@
       {
         "name": "[External] yt-highlights",
         "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://yt-highlights.viktorbarzin.me"
       },
       {
