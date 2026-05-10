@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T19:35:25.514152+00:00",
+  "last_updated": "2026-05-10T19:40:33.034777+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 74.3,
-        "uptime_7d": 70.1,
-        "uptime_30d": 64.1,
+        "uptime_7d": 70.2,
+        "uptime_30d": 64.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.2
+        "uptime_30d": 96.3
       },
       {
         "name": "Valchedrym Video System",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.7,
-        "uptime_30d": 66.2
+        "uptime_7d": 78.8,
+        "uptime_30d": 66.3
       }
     ],
     "External Reachability": [
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 44.4,
-        "uptime_7d": 44.4,
-        "uptime_30d": 44.4,
+        "uptime_24h": 47.4,
+        "uptime_7d": 47.4,
+        "uptime_30d": 47.4,
         "url": "https://public-auth.viktorbarzin.me"
       }
     ],
