@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-10T22:25:20.908678+00:00",
+  "last_updated": "2026-05-10T22:32:08.363424+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.1,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 91.2,
         "uptime_7d": 95.0,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -268,18 +268,18 @@
       },
       {
         "name": "AFFiNE",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.3,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.2,
+        "uptime_30d": 98.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "Health Dashboard",
         "status": "up",
-        "uptime_24h": 98.3,
-        "uptime_7d": 99.1,
-        "uptime_30d": 98.5,
+        "uptime_24h": 97.6,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.2,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -532,10 +532,10 @@
       },
       {
         "name": "Matrix",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.3,
-        "uptime_7d": 70.2,
+        "uptime_7d": 70.3,
         "uptime_30d": 64.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -605,9 +605,9 @@
       {
         "name": "Networking Toolbox",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.6
+        "uptime_30d": 97.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -1245,10 +1245,10 @@
       },
       {
         "name": "[External] matrix",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -1287,7 +1287,7 @@
         "name": "[External] n8n",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 97.9,
+        "uptime_7d": 98.0,
         "uptime_30d": 97.8,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -1543,7 +1543,7 @@
         "name": "[External] tandoor",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.9,
         "url": "https://tandoor.viktorbarzin.me"
       },
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 80.8,
-        "uptime_7d": 80.8,
-        "uptime_30d": 80.8,
+        "uptime_24h": 81.1,
+        "uptime_7d": 81.1,
+        "uptime_30d": 81.1,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
