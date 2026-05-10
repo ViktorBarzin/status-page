@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T00:45:28.898969+00:00",
+  "last_updated": "2026-05-10T00:50:25.981830+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,9 +181,9 @@
       {
         "name": "Wrongmove API",
         "status": "down",
-        "uptime_24h": 95.5,
-        "uptime_7d": 97.5,
-        "uptime_30d": 97.3,
+        "uptime_24h": 95.2,
+        "uptime_7d": 97.3,
+        "uptime_30d": 97.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -357,7 +357,7 @@
       {
         "name": "N8N",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 98.3,
         "uptime_7d": 98.8,
         "uptime_30d": 98.6,
         "url": "https://n8n.viktorbarzin.me"
@@ -1694,7 +1694,7 @@
       {
         "name": "[External] postiz",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 99.3,
         "uptime_30d": 99.3,
         "url": "https://postiz.viktorbarzin.me"
