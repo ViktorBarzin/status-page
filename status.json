@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T19:05:20.870067+00:00",
+  "last_updated": "2026-05-10T19:10:29.631552+00:00",
   "groups": {
     "HTTP": [
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 73.5,
         "uptime_7d": 70.1,
-        "uptime_30d": 64.0,
+        "uptime_30d": 64.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.0
+        "uptime_30d": 95.1
       },
       {
         "name": "pfSense Gateway",
@@ -1718,9 +1718,9 @@
       {
         "name": "[External] xray-grpc",
         "status": "up",
-        "uptime_24h": 99.5,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_24h": 99.6,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://xray-grpc.viktorbarzin.me"
       },
       {
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 16.7,
-        "uptime_7d": 16.7,
-        "uptime_30d": 16.7,
+        "uptime_24h": 23.1,
+        "uptime_7d": 23.1,
+        "uptime_30d": 23.1,
         "url": "https://public-auth.viktorbarzin.me"
       }
     ],
