@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T22:32:08.363424+00:00",
+  "last_updated": "2026-05-10T22:35:28.208023+00:00",
   "groups": {
     "HTTP": [
       {
@@ -269,9 +269,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.2,
-        "uptime_30d": 98.9,
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.7,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -669,7 +669,7 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 99.8,
+        "uptime_24h": 99.9,
         "uptime_7d": 99.9,
         "uptime_30d": 99.7,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
@@ -738,7 +738,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.8
+        "uptime_30d": 99.9
       },
       {
         "name": "Mail SMTP (port 25 external)",
@@ -1245,7 +1245,7 @@
       },
       {
         "name": "[External] matrix",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.4,
         "uptime_30d": 99.4,
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 81.1,
-        "uptime_7d": 81.1,
-        "uptime_30d": 81.1,
+        "uptime_24h": 81.5,
+        "uptime_7d": 81.5,
+        "uptime_30d": 81.5,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
