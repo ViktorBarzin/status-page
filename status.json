@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T19:10:29.631552+00:00",
+  "last_updated": "2026-05-10T19:16:18.125949+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 94.2,
         "uptime_7d": 96.6,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 73.5,
         "uptime_7d": 70.1,
-        "uptime_30d": 64.1,
+        "uptime_30d": 64.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 23.1,
-        "uptime_7d": 23.1,
-        "uptime_30d": 23.1,
+        "uptime_24h": 28.6,
+        "uptime_7d": 28.6,
+        "uptime_30d": 28.6,
         "url": "https://public-auth.viktorbarzin.me"
       }
     ],
