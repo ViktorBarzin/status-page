@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T21:30:28.056693+00:00",
+  "last_updated": "2026-05-10T21:35:22.571981+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 94.2,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 95.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.5,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 76.2,
         "uptime_7d": 70.3,
-        "uptime_30d": 64.3,
+        "uptime_30d": 64.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 75.6,
-        "uptime_7d": 75.6,
-        "uptime_30d": 75.6,
+        "uptime_24h": 76.2,
+        "uptime_7d": 76.2,
+        "uptime_30d": 76.2,
         "url": "https://public-auth.viktorbarzin.me"
       }
     ],
