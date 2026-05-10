@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T22:06:14.210484+00:00",
+  "last_updated": "2026-05-10T22:10:29.040057+00:00",
   "groups": {
     "HTTP": [
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 75.3,
         "uptime_7d": 70.1,
-        "uptime_30d": 64.2,
+        "uptime_30d": 64.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.4
+        "uptime_30d": 96.5
       },
       {
         "name": "Valchedrym Video System",
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 79.2,
-        "uptime_7d": 79.2,
-        "uptime_30d": 79.2,
+        "uptime_24h": 79.6,
+        "uptime_7d": 79.6,
+        "uptime_30d": 79.6,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
