@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T16:10:22.885667+00:00",
+  "last_updated": "2026-05-10T16:16:13.294582+00:00",
   "groups": {
     "HTTP": [
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.2,
-        "uptime_7d": 69.2,
-        "uptime_30d": 63.2,
+        "uptime_24h": 71.3,
+        "uptime_7d": 69.3,
+        "uptime_30d": 63.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       }
     ],
     "Push": [
@@ -936,7 +936,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -1175,7 +1175,7 @@
         "name": "[External] home",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.1,
         "url": "https://home.viktorbarzin.me"
       },
@@ -1271,7 +1271,7 @@
         "name": "[External] alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "https://alertmanager.viktorbarzin.me"
       },
@@ -1295,7 +1295,7 @@
         "name": "[External] netbox",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "https://netbox.viktorbarzin.me"
       },
