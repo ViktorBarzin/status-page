@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T23:00:33.278949+00:00",
+  "last_updated": "2026-05-10T23:05:20.865769+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.0,
-        "uptime_7d": 70.5,
+        "uptime_24h": 76.3,
+        "uptime_7d": 70.6,
         "uptime_30d": 64.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://cc.viktorbarzin.me"
       },
       {
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 83.1,
-        "uptime_7d": 83.1,
-        "uptime_30d": 83.1,
+        "uptime_24h": 83.3,
+        "uptime_7d": 83.3,
+        "uptime_30d": 83.3,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
