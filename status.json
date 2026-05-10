@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T21:20:30.450302+00:00",
+  "last_updated": "2026-05-10T21:25:22.629448+00:00",
   "groups": {
     "HTTP": [
       {
@@ -180,7 +180,7 @@
       },
       {
         "name": "Wrongmove API",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 91.2,
         "uptime_7d": 94.9,
         "uptime_30d": 94.7,
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.7,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 76.2,
-        "uptime_7d": 70.2,
+        "uptime_7d": 70.3,
         "uptime_30d": 64.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 74.4,
-        "uptime_7d": 74.4,
-        "uptime_30d": 74.4,
+        "uptime_24h": 75.0,
+        "uptime_7d": 75.0,
+        "uptime_30d": 75.0,
         "url": "https://public-auth.viktorbarzin.me"
       }
     ],
