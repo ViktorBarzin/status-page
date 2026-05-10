@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T06:00:38.048004+00:00",
+  "last_updated": "2026-05-10T06:06:12.124483+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 95.2,
-        "uptime_7d": 95.8,
+        "uptime_7d": 95.9,
         "uptime_30d": 95.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 69.5,
-        "uptime_7d": 65.5,
-        "uptime_30d": 60.3,
+        "uptime_24h": 69.6,
+        "uptime_7d": 65.6,
+        "uptime_30d": 60.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 99.8,
+        "uptime_7d": 99.9,
         "uptime_30d": 99.6,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -745,7 +745,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "PVE NFS (2049)",
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 96.3
+        "uptime_30d": 96.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.0
+        "uptime_30d": 93.1
       },
       {
         "name": "pfSense Gateway",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 85.5,
+        "uptime_24h": 86.8,
         "uptime_7d": 71.3,
-        "uptime_30d": 59.8
+        "uptime_30d": 59.9
       }
     ],
     "External Reachability": [
