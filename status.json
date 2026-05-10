@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T01:36:12.963157+00:00",
+  "last_updated": "2026-05-10T01:40:22.552967+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.5,
+        "uptime_24h": 71.4,
         "uptime_7d": 72.2,
         "uptime_30d": 66.6,
         "url": "https://docker.viktorbarzin.me"
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 71.4,
-        "uptime_7d": 80.0,
-        "uptime_30d": 66.6
+        "uptime_24h": 71.9,
+        "uptime_7d": 80.1,
+        "uptime_30d": 66.7
       }
     ],
     "External Reachability": [
@@ -1152,7 +1152,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://hackmd.viktorbarzin.me"
       },
       {
@@ -1575,7 +1575,7 @@
         "name": "[External] traefik",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://traefik.viktorbarzin.me"
       },
