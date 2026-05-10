@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T08:00:33.551099+00:00",
+  "last_updated": "2026-05-10T08:06:13.395270+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.6,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.7,
-        "uptime_7d": 67.0,
+        "uptime_7d": 67.1,
         "uptime_30d": 61.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.4
+        "uptime_30d": 93.5
       },
       {
         "name": "pfSense Gateway",
@@ -821,7 +821,7 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 91.5,
+        "uptime_24h": 92.9,
         "uptime_7d": 72.7,
         "uptime_30d": 60.9
       }
