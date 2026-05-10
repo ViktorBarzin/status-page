@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T14:30:34.261341+00:00",
+  "last_updated": "2026-05-10T14:35:21.130103+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.7,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -133,9 +133,9 @@
       {
         "name": "Immich ML",
         "status": "down",
-        "uptime_24h": 98.6,
-        "uptime_7d": 99.1,
-        "uptime_30d": 98.0,
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.9,
+        "uptime_30d": 97.8,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 72.4,
-        "uptime_7d": 69.1,
-        "uptime_30d": 63.1,
+        "uptime_7d": 69.2,
+        "uptime_30d": 63.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
