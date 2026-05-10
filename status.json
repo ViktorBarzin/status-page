@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T14:16:26.966527+00:00",
+  "last_updated": "2026-05-10T14:20:27.541123+00:00",
   "groups": {
     "HTTP": [
       {
@@ -132,10 +132,10 @@
       },
       {
         "name": "Immich ML",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 98.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -357,7 +357,7 @@
       {
         "name": "N8N",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.7,
         "uptime_7d": 98.9,
         "uptime_30d": 98.6,
         "url": "https://n8n.viktorbarzin.me"
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 72.6,
-        "uptime_7d": 69.1,
-        "uptime_30d": 63.1,
+        "uptime_24h": 72.4,
+        "uptime_7d": 69.0,
+        "uptime_30d": 63.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 76.3,
-        "uptime_30d": 63.8
+        "uptime_7d": 76.4,
+        "uptime_30d": 64.0
       }
     ],
     "External Reachability": [
@@ -1286,7 +1286,7 @@
       {
         "name": "[External] n8n",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.6,
         "uptime_7d": 98.6,
         "uptime_30d": 98.4,
         "url": "https://n8n.viktorbarzin.me"
