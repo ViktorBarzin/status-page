@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T11:25:21.132805+00:00",
+  "last_updated": "2026-05-10T11:30:29.057582+00:00",
   "groups": {
     "HTTP": [
       {
@@ -294,8 +294,8 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 72.2,
-        "uptime_7d": 68.8,
+        "uptime_7d": 68.9,
         "uptime_30d": 62.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -759,7 +759,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.8
+        "uptime_30d": 99.9
       }
     ],
     "Ping": [
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.0
+        "uptime_30d": 94.1
       },
       {
         "name": "pfSense Gateway",
@@ -831,7 +831,7 @@
         "name": "[External] crowdsec-web",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
@@ -1000,7 +1000,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -1047,7 +1047,7 @@
         "name": "[External] claude-memory",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://claude-memory.viktorbarzin.me"
       },
@@ -1063,7 +1063,7 @@
         "name": "[External] audiblez",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://audiblez.viktorbarzin.me"
       },
@@ -1695,8 +1695,8 @@
         "name": "[External] postiz",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.8,
         "url": "https://postiz.viktorbarzin.me"
       },
       {
