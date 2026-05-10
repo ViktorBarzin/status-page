@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T18:40:36.631996+00:00",
+  "last_updated": "2026-05-10T18:45:21.600692+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
+        "status": "down",
         "uptime_24h": 73.4,
         "uptime_7d": 70.3,
-        "uptime_30d": 64.2,
+        "uptime_30d": 64.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1717,7 +1717,7 @@
       },
       {
         "name": "[External] xray-grpc",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.5,
         "uptime_7d": 99.5,
         "uptime_30d": 99.5,
