@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T07:50:25.749523+00:00",
+  "last_updated": "2026-05-11T07:55:20.623900+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 94.2,
         "uptime_7d": 95.3,
-        "uptime_30d": 94.0,
+        "uptime_30d": 94.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 95.6,
-        "uptime_7d": 96.1,
+        "uptime_7d": 96.2,
         "uptime_30d": 95.9,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -190,7 +190,7 @@
         "name": "Tuya-Bridge",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.9,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 97.6,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 97.3,
         "url": "https://health.viktorbarzin.me"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 75.8,
         "uptime_7d": 69.7,
-        "uptime_30d": 62.6,
+        "uptime_30d": 62.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.6
+        "uptime_30d": 93.7
       },
       {
         "name": "pfSense Gateway",
@@ -1544,7 +1544,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.9,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 93.9,
-        "uptime_7d": 93.9,
-        "uptime_30d": 93.9,
+        "uptime_24h": 94.0,
+        "uptime_7d": 94.0,
+        "uptime_30d": 94.0,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
