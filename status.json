@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T22:26:11.852702+00:00",
+  "last_updated": "2026-05-11T22:30:27.137195+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 95.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 97.2,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -277,7 +277,7 @@
       {
         "name": "Health Dashboard",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 99.6,
         "uptime_7d": 98.7,
         "uptime_30d": 98.1,
         "url": "https://health.viktorbarzin.me"
@@ -533,7 +533,7 @@
       {
         "name": "Matrix",
         "status": "up",
-        "uptime_24h": 98.9,
+        "uptime_24h": 99.6,
         "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "https://matrix.viktorbarzin.me"
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.9,
-        "uptime_7d": 72.0,
+        "uptime_7d": 72.1,
         "uptime_30d": 65.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -605,7 +605,7 @@
       {
         "name": "Networking Toolbox",
         "status": "up",
-        "uptime_24h": 99.6,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
         "url": "https://networking-toolbox.viktorbarzin.me"
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 79.1
+        "uptime_30d": 79.3
       }
     ],
     "Redis": [
