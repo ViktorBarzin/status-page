@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:40:28.609043+00:00",
+  "last_updated": "2026-05-11T06:45:22.213504+00:00",
   "groups": {
     "HTTP": [
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 97.6,
         "uptime_7d": 98.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 78.4,
-        "uptime_7d": 70.5,
-        "uptime_30d": 63.1,
+        "status": "down",
+        "uptime_24h": 77.6,
+        "uptime_7d": 70.1,
+        "uptime_30d": 62.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 95.2
+        "uptime_30d": 95.3
       },
       {
         "name": "Valchedrym Video System",
@@ -911,7 +911,7 @@
         "name": "[External] navidrome",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.6,
         "uptime_30d": 98.6,
         "url": "https://navidrome.viktorbarzin.me"
       },
