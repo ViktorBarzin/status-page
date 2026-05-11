@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T02:01:46.802250+00:00",
+  "last_updated": "2026-05-11T02:05:21.370458+00:00",
   "groups": {
     "HTTP": [
       {
@@ -436,7 +436,7 @@
       },
       {
         "name": "Novelapp (Gheorghe's App)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
         "uptime_30d": 99.9,
@@ -660,7 +660,7 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.5,
@@ -742,7 +742,7 @@
       },
       {
         "name": "Mail SMTP (port 25 external)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 100.0,
         "uptime_30d": 99.6
@@ -845,7 +845,7 @@
       },
       {
         "name": "[External] dawarich",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.5,
@@ -933,7 +933,7 @@
       },
       {
         "name": "[External] pb",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.5,
         "uptime_30d": 99.3,
@@ -949,7 +949,7 @@
       },
       {
         "name": "[External] uptime",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.7,
@@ -973,7 +973,7 @@
       },
       {
         "name": "[External] budget-viktor",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -997,7 +997,7 @@
       },
       {
         "name": "[External] affine",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
         "uptime_30d": 99.3,
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "[External] dolt-workbench",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1109,7 +1109,7 @@
       },
       {
         "name": "[External] foolery",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1365,7 +1365,7 @@
       },
       {
         "name": "[External] priority-pass",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1421,7 +1421,7 @@
       },
       {
         "name": "[External] london",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1485,7 +1485,7 @@
       },
       {
         "name": "[External] send",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1493,7 +1493,7 @@
       },
       {
         "name": "[External] flaresolverr",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1501,7 +1501,7 @@
       },
       {
         "name": "[External] listenarr",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1517,7 +1517,7 @@
       },
       {
         "name": "[External] qbittorrent",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.5,
         "uptime_30d": 99.5,
@@ -1549,7 +1549,7 @@
       },
       {
         "name": "[External] technitium",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.6,
         "uptime_30d": 98.5,
@@ -1581,7 +1581,7 @@
       },
       {
         "name": "[External] tuya-bridge",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.7,
@@ -1645,7 +1645,7 @@
       },
       {
         "name": "[External] yt-highlights",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
@@ -1661,7 +1661,7 @@
       },
       {
         "name": "[External] beadboard",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
@@ -1701,7 +1701,7 @@
       },
       {
         "name": "[External] fire-planner",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
         "uptime_30d": 99.4,
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 89.5,
-        "uptime_7d": 89.5,
-        "uptime_30d": 89.5,
+        "uptime_24h": 89.6,
+        "uptime_7d": 89.6,
+        "uptime_30d": 89.6,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
