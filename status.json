@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T00:15:25.919052+00:00",
+  "last_updated": "2026-05-11T00:20:30.985352+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,7 +181,7 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 93.2,
+        "uptime_24h": 93.5,
         "uptime_7d": 95.2,
         "uptime_30d": 95.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 77.7,
-        "uptime_7d": 71.0,
-        "uptime_30d": 65.0,
+        "uptime_7d": 71.1,
+        "uptime_30d": 65.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -781,7 +781,7 @@
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.6
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.5,
-        "uptime_30d": 68.0
+        "uptime_7d": 80.6,
+        "uptime_30d": 68.1
       }
     ],
     "External Reachability": [
@@ -1168,7 +1168,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 86.5,
-        "uptime_7d": 86.5,
-        "uptime_30d": 86.5,
+        "uptime_24h": 86.7,
+        "uptime_7d": 86.7,
+        "uptime_30d": 86.7,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
