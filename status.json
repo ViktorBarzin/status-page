@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T18:20:28.248440+00:00",
+  "last_updated": "2026-05-11T18:25:20.655223+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 97.3,
         "uptime_7d": 97.1,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.2,
-        "uptime_7d": 71.8,
-        "uptime_30d": 64.9,
+        "uptime_7d": 71.9,
+        "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1742,7 +1742,7 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 96.6,
+        "uptime_24h": 97.9,
         "uptime_7d": 96.6,
         "uptime_30d": 96.6,
         "url": "https://public-auth.viktorbarzin.me"
