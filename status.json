@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T01:50:27.764608+00:00",
+  "last_updated": "2026-05-11T01:55:20.639140+00:00",
   "groups": {
     "HTTP": [
       {
@@ -580,7 +580,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 78.3,
         "uptime_7d": 71.4,
         "uptime_30d": 65.4,
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 89.2,
-        "uptime_7d": 89.2,
-        "uptime_30d": 89.2,
+        "uptime_24h": 89.4,
+        "uptime_7d": 89.4,
+        "uptime_30d": 89.4,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
