@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T05:50:27.738363+00:00",
+  "last_updated": "2026-05-11T05:56:12.315374+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.3,
+        "uptime_30d": 95.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -415,7 +415,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 79.3,
-        "uptime_7d": 70.8,
-        "uptime_30d": 63.1,
+        "status": "up",
+        "uptime_24h": 79.8,
+        "uptime_7d": 70.9,
+        "uptime_30d": 63.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.2
+        "uptime_30d": 93.3
       },
       {
         "name": "pfSense Gateway",
@@ -1503,7 +1503,7 @@
         "name": "[External] listenarr",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.4,
         "url": "https://listenarr.viktorbarzin.me"
       },
@@ -1647,7 +1647,7 @@
         "name": "[External] yt-highlights",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.5,
         "url": "https://yt-highlights.viktorbarzin.me"
       },
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 92.9,
-        "uptime_7d": 92.9,
-        "uptime_30d": 92.9,
+        "uptime_24h": 93.0,
+        "uptime_7d": 93.0,
+        "uptime_30d": 93.0,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
