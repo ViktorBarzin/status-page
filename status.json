@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T03:45:21.732446+00:00",
+  "last_updated": "2026-05-11T03:50:27.796570+00:00",
   "groups": {
     "HTTP": [
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 95.6,
-        "uptime_7d": 95.5,
+        "uptime_7d": 95.6,
         "uptime_30d": 95.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 79.9,
-        "uptime_7d": 71.5,
-        "uptime_30d": 63.3,
+        "uptime_24h": 79.6,
+        "uptime_7d": 71.4,
+        "uptime_30d": 63.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1742,17 +1742,17 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 91.4,
-        "uptime_7d": 91.4,
-        "uptime_30d": 91.4,
+        "uptime_24h": 91.5,
+        "uptime_7d": 91.5,
+        "uptime_30d": 91.5,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
         "name": "[External] resume",
         "status": "up",
-        "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_24h": 98.7,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.7,
         "url": "https://resume.viktorbarzin.me"
       },
       {
