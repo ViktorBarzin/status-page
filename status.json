@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:45:22.213504+00:00",
+  "last_updated": "2026-05-11T06:50:28.723188+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 95.6,
         "uptime_7d": 96.0,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 77.6,
-        "uptime_7d": 70.1,
+        "uptime_24h": 77.3,
+        "uptime_7d": 70.0,
         "uptime_30d": 62.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.4
+        "uptime_30d": 93.5
       },
       {
         "name": "pfSense Gateway",
@@ -1167,7 +1167,7 @@
         "name": "[External] health",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.6,
         "uptime_30d": 98.0,
         "url": "https://health.viktorbarzin.me"
       },
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 93.4,
-        "uptime_7d": 93.4,
-        "uptime_30d": 93.4,
+        "uptime_24h": 93.5,
+        "uptime_7d": 93.5,
+        "uptime_30d": 93.5,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
