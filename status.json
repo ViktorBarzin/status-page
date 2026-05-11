@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T18:10:25.130758+00:00",
+  "last_updated": "2026-05-11T18:15:22.670349+00:00",
   "groups": {
     "HTTP": [
       {
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.6,
         "uptime_30d": 98.0,
         "url": "https://health.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.2,
-        "uptime_7d": 71.7,
+        "uptime_7d": 71.8,
         "uptime_30d": 64.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 96.5,
-        "uptime_7d": 96.5,
-        "uptime_30d": 96.5,
+        "uptime_24h": 96.6,
+        "uptime_7d": 96.6,
+        "uptime_30d": 96.6,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
