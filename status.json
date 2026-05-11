@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T07:20:25.967369+00:00",
+  "last_updated": "2026-05-11T07:25:21.171251+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 94.2,
         "uptime_7d": 95.2,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.9,
+        "uptime_24h": 76.1,
         "uptime_7d": 69.4,
         "uptime_30d": 62.5,
         "url": "https://docker.viktorbarzin.me"
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.0
+        "uptime_30d": 97.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.5
+        "uptime_30d": 93.6
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 74.9
+        "uptime_30d": 75.0
       }
     ],
     "External Reachability": [
@@ -1247,7 +1247,7 @@
         "name": "[External] matrix",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 99.2,
         "url": "https://matrix.viktorbarzin.me"
       },
@@ -1519,7 +1519,7 @@
         "name": "[External] qbittorrent",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 99.2,
         "url": "https://qbittorrent.viktorbarzin.me"
       },
@@ -1742,17 +1742,17 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 93.7,
-        "uptime_7d": 93.7,
-        "uptime_30d": 93.7,
+        "uptime_24h": 93.8,
+        "uptime_7d": 93.8,
+        "uptime_30d": 93.8,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
         "name": "[External] resume",
         "status": "up",
-        "uptime_24h": 99.1,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_24h": 99.2,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://resume.viktorbarzin.me"
       },
       {
