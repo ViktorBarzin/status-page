@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T22:10:23.877393+00:00",
+  "last_updated": "2026-05-11T22:16:11.975006+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.7,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 76.1,
-        "uptime_7d": 72.0,
-        "uptime_30d": 65.2,
+        "uptime_7d": 72.1,
+        "uptime_30d": 65.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 96.7
+        "uptime_30d": 96.8
       },
       {
         "name": "Valchedrym Video System",
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 78.5
+        "uptime_30d": 78.7
       }
     ],
     "Redis": [
@@ -1231,8 +1231,8 @@
         "name": "[External] resume",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://resume.viktorbarzin.me"
       },
       {
