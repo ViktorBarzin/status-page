@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T15:00:33.185312+00:00",
+  "last_updated": "2026-05-11T15:05:21.216577+00:00",
   "groups": {
     "HTTP": [
       {
@@ -133,7 +133,7 @@
       {
         "name": "Immich ML",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 97.9,
         "uptime_7d": 96.2,
         "uptime_30d": 95.2,
         "url": "http://immich-machine-learning.immich:3003"
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 74.8,
-        "uptime_7d": 70.9,
+        "uptime_7d": 71.0,
         "uptime_30d": 64.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -590,7 +590,7 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.5,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 99.8,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 77.2
+        "uptime_30d": 77.3
       }
     ],
     "External Reachability": [
@@ -1119,7 +1119,7 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 99.6,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
@@ -1152,7 +1152,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "https://hackmd.viktorbarzin.me"
       },
       {
@@ -1542,7 +1542,7 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.1,
         "uptime_30d": 98.7,
         "url": "https://tandoor.viktorbarzin.me"
@@ -1599,7 +1599,7 @@
         "name": "[External] url",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.9,
         "url": "https://url.viktorbarzin.me"
       },
@@ -1639,7 +1639,7 @@
         "name": "[External] ci",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
+        "uptime_7d": 99.6,
         "uptime_30d": 98.9,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -1687,8 +1687,8 @@
         "name": "[External] instagram-poster",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
@@ -1703,8 +1703,8 @@
         "name": "[External] fire-planner",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://fire-planner.viktorbarzin.me"
       },
       {
