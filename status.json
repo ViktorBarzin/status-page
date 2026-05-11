@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T04:55:20.801545+00:00",
+  "last_updated": "2026-05-11T05:00:35.754970+00:00",
   "groups": {
     "HTTP": [
       {
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 97.9,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 78.7,
-        "uptime_7d": 71.1,
+        "uptime_24h": 78.4,
+        "uptime_7d": 70.9,
         "uptime_30d": 63.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 93.0
+        "uptime_30d": 93.1
       },
       {
         "name": "pfSense Gateway",
@@ -1167,7 +1167,7 @@
         "name": "[External] health",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 97.9,
         "url": "https://health.viktorbarzin.me"
       },
@@ -1287,7 +1287,7 @@
         "name": "[External] n8n",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 97.9,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 92.3,
-        "uptime_7d": 92.3,
-        "uptime_30d": 92.3,
+        "uptime_24h": 92.4,
+        "uptime_7d": 92.4,
+        "uptime_30d": 92.4,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
