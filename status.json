@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T00:40:30.725932+00:00",
+  "last_updated": "2026-05-11T00:45:22.227080+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 94.2,
         "uptime_7d": 97.0,
-        "uptime_30d": 96.1,
+        "uptime_30d": 96.2,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -181,7 +181,7 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 94.9,
+        "uptime_24h": 95.2,
         "uptime_7d": 95.2,
         "uptime_30d": 95.1,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 97.6,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.4,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.7,
-        "uptime_7d": 71.2,
+        "uptime_24h": 77.9,
+        "uptime_7d": 71.3,
         "uptime_30d": 65.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.7
+        "uptime_30d": 95.8
       },
       {
         "name": "pfSense Gateway",
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 87.3,
-        "uptime_7d": 87.3,
-        "uptime_30d": 87.3,
+        "uptime_24h": 87.5,
+        "uptime_7d": 87.5,
+        "uptime_30d": 87.5,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
