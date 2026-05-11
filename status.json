@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T00:10:28.328695+00:00",
+  "last_updated": "2026-05-11T00:15:25.919052+00:00",
   "groups": {
     "HTTP": [
       {
@@ -181,7 +181,7 @@
       {
         "name": "Wrongmove API",
         "status": "up",
-        "uptime_24h": 92.9,
+        "uptime_24h": 93.2,
         "uptime_7d": 95.2,
         "uptime_30d": 95.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.5,
+        "uptime_24h": 77.7,
         "uptime_7d": 71.0,
         "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 86.3,
-        "uptime_7d": 86.3,
-        "uptime_30d": 86.3,
+        "uptime_24h": 86.5,
+        "uptime_7d": 86.5,
+        "uptime_30d": 86.5,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
