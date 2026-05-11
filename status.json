@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T14:35:20.913314+00:00",
+  "last_updated": "2026-05-11T14:40:25.372661+00:00",
   "groups": {
     "HTTP": [
       {
@@ -133,7 +133,7 @@
       {
         "name": "Immich ML",
         "status": "up",
-        "uptime_24h": 95.9,
+        "uptime_24h": 96.2,
         "uptime_7d": 96.1,
         "uptime_30d": 95.1,
         "url": "http://immich-machine-learning.immich:3003"
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 95.6,
-        "uptime_7d": 96.8,
+        "uptime_7d": 96.9,
         "uptime_30d": 96.6,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -589,7 +589,7 @@
       {
         "name": "Woodpecker CI",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 98.4,
         "url": "https://ci.viktorbarzin.me"
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 77.1
+        "uptime_30d": 77.2
       }
     ],
     "External Reachability": [
@@ -1400,7 +1400,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1542,9 +1542,9 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.3,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -1638,7 +1638,7 @@
       {
         "name": "[External] ci",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 98.9,
         "url": "https://ci.viktorbarzin.me"
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] public-auth",
         "status": "up",
-        "uptime_24h": 95.9,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9,
+        "uptime_24h": 96.0,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
