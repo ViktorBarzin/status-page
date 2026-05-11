@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T20:45:41.397333+00:00",
+  "last_updated": "2026-05-11T20:50:32.246379+00:00",
   "groups": {
     "HTTP": [
       {
@@ -526,9 +526,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 75.9,
-        "uptime_7d": 72.2,
+        "uptime_7d": 72.3,
         "uptime_30d": 65.4
       },
       {
@@ -725,7 +725,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.5
+        "uptime_30d": 95.6
       },
       {
         "name": "pfSense Gateway",
@@ -944,7 +944,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1576,7 +1576,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "https://ci.viktorbarzin.me"
       },
       {
