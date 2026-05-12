@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T13:40:26.285169+00:00",
+  "last_updated": "2026-05-12T13:45:22.406162+00:00",
   "groups": {
     "HTTP": [
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 89.0,
-        "uptime_7d": 92.5,
-        "uptime_30d": 92.5,
+        "uptime_7d": 92.6,
+        "uptime_30d": 92.6,
         "url": "http://blog.website.svc"
       },
       {
@@ -510,8 +510,8 @@
         "name": "Plotting Book",
         "status": "up",
         "uptime_24h": 97.8,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.5,
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.6,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.8,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 75.6,
-        "uptime_7d": 68.9,
-        "uptime_30d": 62.0,
+        "status": "down",
+        "uptime_24h": 74.8,
+        "uptime_7d": 68.5,
+        "uptime_30d": 61.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.3,
-        "uptime_30d": 95.7
+        "uptime_30d": 95.8
       },
       {
         "name": "Valchedrym Video System",
@@ -1294,9 +1294,9 @@
       {
         "name": "[External] claude-memory",
         "status": "up",
-        "uptime_24h": 98.9,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -1598,9 +1598,9 @@
       {
         "name": "[External] navidrome",
         "status": "up",
-        "uptime_24h": 94.2,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2,
+        "uptime_24h": 94.3,
+        "uptime_7d": 94.3,
+        "uptime_30d": 94.3,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -1638,9 +1638,9 @@
       {
         "name": "[External] ntfy",
         "status": "up",
-        "uptime_24h": 96.8,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.8,
+        "uptime_24h": 96.9,
+        "uptime_7d": 96.9,
+        "uptime_30d": 96.9,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
