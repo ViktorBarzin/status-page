@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T17:35:20.221764+00:00",
+  "last_updated": "2026-05-12T17:40:26.554958+00:00",
   "groups": {
     "HTTP": [
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Rybbit Analytics",
         "status": "up",
         "uptime_24h": 96.8,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 97.6,
         "url": "https://rybbit.viktorbarzin.me"
       },
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 93.0,
-        "uptime_7d": 95.7,
+        "uptime_7d": 95.8,
         "uptime_30d": 92.7,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -455,7 +455,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://uptime.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.4,
-        "uptime_7d": 70.3,
+        "uptime_7d": 70.4,
         "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -590,7 +590,7 @@
         "name": "Woodpecker CI",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.5,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -689,14 +689,14 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "ShadowSocks Proxy",
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 98.7,
         "uptime_7d": 98.7,
-        "uptime_30d": 90.9
+        "uptime_30d": 91.0
       }
     ],
     "Redis": [
@@ -856,7 +856,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -872,7 +872,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://gw.viktorbarzin.me"
       },
       {
@@ -896,7 +896,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://idrac.viktorbarzin.me"
       },
       {
@@ -1574,9 +1574,9 @@
       {
         "name": "[External] matrix",
         "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 96.6,
-        "uptime_30d": 96.6,
+        "uptime_24h": 96.7,
+        "uptime_7d": 96.7,
+        "uptime_30d": 96.7,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
