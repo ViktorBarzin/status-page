@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T21:36:15.784804+00:00",
+  "last_updated": "2026-05-12T21:40:28.345008+00:00",
   "groups": {
     "HTTP": [
       {
@@ -191,7 +191,7 @@
         "status": "up",
         "uptime_24h": 99.4,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -205,7 +205,7 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 93.1,
+        "uptime_24h": 93.2,
         "uptime_7d": 96.1,
         "uptime_30d": 94.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
@@ -302,8 +302,8 @@
         "name": "Navidrome",
         "status": "up",
         "uptime_24h": 96.5,
-        "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 91.3,
         "uptime_7d": 95.2,
-        "uptime_30d": 95.1,
+        "uptime_30d": 95.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -534,8 +534,8 @@
         "name": "Matrix",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 98.0,
-        "uptime_30d": 98.0,
+        "uptime_7d": 98.1,
+        "uptime_30d": 98.1,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 74.7,
-        "uptime_7d": 70.9,
-        "uptime_30d": 63.8,
+        "status": "down",
+        "uptime_24h": 74.2,
+        "uptime_7d": 70.7,
+        "uptime_30d": 63.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 98.9,
-        "uptime_30d": 92.2
+        "uptime_30d": 92.3
       }
     ],
     "Redis": [
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 80.0
+        "uptime_30d": 80.1
       }
     ],
     "External Reachability": [
@@ -1078,7 +1078,7 @@
       {
         "name": "[External] url",
         "status": "up",
-        "uptime_24h": 98.2,
+        "uptime_24h": 98.3,
         "uptime_7d": 98.8,
         "uptime_30d": 98.3,
         "url": "https://url.viktorbarzin.me"
@@ -1558,9 +1558,9 @@
       {
         "name": "[External] linkwarden",
         "status": "up",
-        "uptime_24h": 98.9,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://linkwarden.viktorbarzin.me"
       },
       {
@@ -1654,9 +1654,9 @@
       {
         "name": "[External] openclaw",
         "status": "up",
-        "uptime_24h": 98.9,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
