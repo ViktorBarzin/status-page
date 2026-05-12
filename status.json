@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T17:50:26.110855+00:00",
+  "last_updated": "2026-05-12T17:55:20.236409+00:00",
   "groups": {
     "HTTP": [
       {
@@ -263,7 +263,7 @@
         "status": "up",
         "uptime_24h": 96.8,
         "uptime_7d": 98.1,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
@@ -526,8 +526,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 96.8,
-        "uptime_7d": 97.6,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.6,
-        "uptime_7d": 70.5,
+        "uptime_7d": 70.6,
         "uptime_30d": 63.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -630,8 +630,8 @@
         "name": "QBittorrent",
         "status": "up",
         "uptime_24h": 96.1,
-        "uptime_7d": 97.6,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.5,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -803,9 +803,9 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.7,
-        "uptime_7d": 98.7,
-        "uptime_30d": 91.0
+        "uptime_24h": 98.8,
+        "uptime_7d": 98.8,
+        "uptime_30d": 91.1
       }
     ],
     "Redis": [
@@ -967,7 +967,7 @@
         "name": "[External] send",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.4,
         "url": "https://send.viktorbarzin.me"
       },
@@ -1047,7 +1047,7 @@
         "name": "[External] terminal-ro",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.9,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
@@ -1430,9 +1430,9 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 86.4,
-        "uptime_7d": 86.4,
-        "uptime_30d": 86.4,
+        "uptime_24h": 86.5,
+        "uptime_7d": 86.5,
+        "uptime_30d": 86.5,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1598,9 +1598,9 @@
       {
         "name": "[External] navidrome",
         "status": "up",
-        "uptime_24h": 95.4,
-        "uptime_7d": 95.4,
-        "uptime_30d": 95.4,
+        "uptime_24h": 95.5,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.5,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
