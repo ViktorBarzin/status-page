@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T11:20:25.458059+00:00",
+  "last_updated": "2026-05-12T11:25:20.692952+00:00",
   "groups": {
     "HTTP": [
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 98.2,
         "uptime_7d": 98.4,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 97.5,
         "uptime_7d": 98.2,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 78.3,
-        "uptime_7d": 69.9,
+        "status": "up",
+        "uptime_24h": 78.6,
+        "uptime_7d": 70.0,
         "uptime_30d": 62.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 98.1,
         "uptime_7d": 98.1,
-        "uptime_30d": 87.7
+        "uptime_30d": 87.8
       }
     ],
     "Redis": [
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 77.0
+        "uptime_30d": 77.1
       }
     ],
     "External Reachability": [
@@ -904,7 +904,7 @@
         "status": "up",
         "uptime_24h": 98.2,
         "uptime_7d": 98.7,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://london.viktorbarzin.me"
       },
       {
@@ -1119,7 +1119,7 @@
         "name": "[External] ci",
         "status": "up",
         "uptime_24h": 97.5,
-        "uptime_7d": 97.9,
+        "uptime_7d": 98.0,
         "uptime_30d": 97.2,
         "url": "https://ci.viktorbarzin.me"
       },
@@ -1254,9 +1254,9 @@
       {
         "name": "[External] aiostreams",
         "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_24h": 96.4,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.4,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1286,9 +1286,9 @@
       {
         "name": "[External] city-guesser",
         "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_24h": 96.4,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.4,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -1430,9 +1430,9 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 80.7,
-        "uptime_7d": 80.7,
-        "uptime_30d": 80.7,
+        "uptime_24h": 80.9,
+        "uptime_7d": 80.9,
+        "uptime_30d": 80.9,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1502,17 +1502,17 @@
       {
         "name": "[External] highlights-immich",
         "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9,
+        "uptime_24h": 97.0,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
         "name": "[External] immich",
         "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9,
+        "uptime_24h": 97.0,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1558,9 +1558,9 @@
       {
         "name": "[External] linkwarden",
         "status": "up",
-        "uptime_24h": 98.1,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_24h": 98.2,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://linkwarden.viktorbarzin.me"
       },
       {
@@ -1654,9 +1654,9 @@
       {
         "name": "[External] openclaw",
         "status": "up",
-        "uptime_24h": 98.1,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_24h": 98.2,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -1686,9 +1686,9 @@
       {
         "name": "[External] plotting-book",
         "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_24h": 96.4,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.4,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -1718,9 +1718,9 @@
       {
         "name": "[External] rybbit",
         "status": "up",
-        "uptime_24h": 96.3,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_24h": 96.4,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.4,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
