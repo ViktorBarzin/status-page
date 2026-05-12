@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T19:35:22.256567+00:00",
+  "last_updated": "2026-05-12T19:40:25.124281+00:00",
   "groups": {
     "HTTP": [
       {
@@ -38,7 +38,7 @@
         "name": "Shlink (URL Shortener)",
         "status": "up",
         "uptime_24h": 97.4,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 97.4,
         "url": "https://shlink.viktorbarzin.me"
       },
@@ -566,7 +566,7 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 96.4,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 96.4,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -803,9 +803,9 @@
       {
         "name": "Immich postgresql",
         "status": "up",
-        "uptime_24h": 98.8,
-        "uptime_7d": 98.8,
-        "uptime_30d": 91.6
+        "uptime_24h": 98.9,
+        "uptime_7d": 98.9,
+        "uptime_30d": 91.7
       }
     ],
     "Redis": [
@@ -1023,7 +1023,7 @@
         "name": "[External] tandoor",
         "status": "up",
         "uptime_24h": 97.1,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 97.8,
         "url": "https://tandoor.viktorbarzin.me"
       },
@@ -1342,25 +1342,25 @@
       {
         "name": "[External] pma",
         "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_24h": 97.4,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://pma.viktorbarzin.me"
       },
       {
         "name": "[External] audiblez",
         "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_24h": 97.4,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://audiblez.viktorbarzin.me"
       },
       {
         "name": "[External] ebook2audiobook",
         "status": "up",
-        "uptime_24h": 97.3,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_24h": 97.4,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://ebook2audiobook.viktorbarzin.me"
       },
       {
@@ -1430,9 +1430,9 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 87.4,
-        "uptime_7d": 87.4,
-        "uptime_30d": 87.4,
+        "uptime_24h": 87.5,
+        "uptime_7d": 87.5,
+        "uptime_30d": 87.5,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1574,9 +1574,9 @@
       {
         "name": "[External] matrix",
         "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9,
+        "uptime_24h": 97.0,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
