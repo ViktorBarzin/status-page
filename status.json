@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T21:55:21.779069+00:00",
+  "last_updated": "2026-05-12T22:00:34.745057+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 93.3,
         "uptime_7d": 96.2,
-        "uptime_30d": 93.3,
+        "uptime_30d": 93.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 89.4,
-        "uptime_7d": 93.9,
-        "uptime_30d": 93.9,
+        "uptime_7d": 94.0,
+        "uptime_30d": 94.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.1,
+        "uptime_24h": 74.3,
         "uptime_7d": 70.7,
-        "uptime_30d": 63.7,
+        "uptime_30d": 63.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 92.3
+        "uptime_30d": 92.4
       }
     ],
     "Redis": [
@@ -1023,7 +1023,7 @@
         "name": "[External] tandoor",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 97.9,
         "url": "https://tandoor.viktorbarzin.me"
       },
@@ -1144,7 +1144,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://beadboard.viktorbarzin.me"
       },
       {
@@ -1279,8 +1279,8 @@
         "name": "[External] changedetection",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -1375,24 +1375,24 @@
         "name": "[External] book-search",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://book-search.viktorbarzin.me"
       },
       {
         "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
         "name": "[External] stacks",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://stacks.viktorbarzin.me"
       },
       {
@@ -1431,16 +1431,16 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 88.5,
-        "uptime_7d": 88.5,
-        "uptime_30d": 88.5,
+        "uptime_7d": 88.6,
+        "uptime_30d": 88.6,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
         "name": "[External] music-emo",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://music-emo.viktorbarzin.me"
       },
       {
@@ -1463,8 +1463,8 @@
         "name": "[External] frigate",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 97.9,
-        "uptime_30d": 97.9,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -1575,8 +1575,8 @@
         "name": "[External] matrix",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.2,
+        "uptime_7d": 97.3,
+        "uptime_30d": 97.3,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
