@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T09:10:29.024353+00:00",
+  "last_updated": "2026-05-12T09:16:16.079407+00:00",
   "groups": {
     "HTTP": [
       {
@@ -534,8 +534,8 @@
         "name": "Matrix",
         "status": "up",
         "uptime_24h": 96.8,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.2,
+        "uptime_7d": 97.3,
+        "uptime_30d": 97.3,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -566,8 +566,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 94.7,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.1,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.5,
+        "uptime_24h": 77.4,
         "uptime_7d": 70.1,
         "uptime_30d": 62.3,
         "url": "https://docker.viktorbarzin.me"
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 96.8
+        "uptime_30d": 96.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 97.8,
         "uptime_7d": 97.8,
-        "uptime_30d": 86.0
+        "uptime_30d": 86.1
       }
     ],
     "Redis": [
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.7,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1230,9 +1230,9 @@
       {
         "name": "[External] budget-emo",
         "status": "up",
-        "uptime_24h": 97.0,
-        "uptime_7d": 97.0,
-        "uptime_30d": 97.0,
+        "uptime_24h": 97.1,
+        "uptime_7d": 97.1,
+        "uptime_30d": 97.1,
         "url": "https://budget-emo.viktorbarzin.me"
       },
       {
@@ -1326,9 +1326,9 @@
       {
         "name": "[External] dawarich",
         "status": "up",
-        "uptime_24h": 97.0,
-        "uptime_7d": 97.0,
-        "uptime_30d": 97.0,
+        "uptime_24h": 97.1,
+        "uptime_7d": 97.1,
+        "uptime_30d": 97.1,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -1430,9 +1430,9 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 77.6,
-        "uptime_7d": 77.6,
-        "uptime_30d": 77.6,
+        "uptime_24h": 77.8,
+        "uptime_7d": 77.8,
+        "uptime_30d": 77.8,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1622,9 +1622,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 95.6,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6,
+        "uptime_24h": 95.7,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
