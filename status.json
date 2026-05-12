@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T13:35:19.944115+00:00",
+  "last_updated": "2026-05-12T13:40:26.285169+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.6,
+        "uptime_30d": 97.7,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -270,7 +270,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 98.2,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.6,
         "uptime_30d": 98.3,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -302,8 +302,8 @@
         "name": "Navidrome",
         "status": "up",
         "uptime_24h": 96.4,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 91.3,
-        "uptime_7d": 94.3,
-        "uptime_30d": 94.2,
+        "uptime_24h": 91.1,
+        "uptime_7d": 94.2,
+        "uptime_30d": 94.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.3,
-        "uptime_7d": 68.8,
+        "uptime_24h": 75.6,
+        "uptime_7d": 68.9,
         "uptime_30d": 62.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 98.4,
         "uptime_7d": 98.4,
-        "uptime_30d": 89.1
+        "uptime_30d": 89.2
       }
     ],
     "Redis": [
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 78.0
+        "uptime_30d": 78.1
       }
     ],
     "External Reachability": [
@@ -1430,9 +1430,9 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 83.2,
-        "uptime_7d": 83.2,
-        "uptime_30d": 83.2,
+        "uptime_24h": 83.3,
+        "uptime_7d": 83.3,
+        "uptime_30d": 83.3,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1622,9 +1622,9 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 96.8,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.8,
+        "uptime_24h": 96.9,
+        "uptime_7d": 96.9,
+        "uptime_30d": 96.9,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
