@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T13:45:23.358488+00:00",
+  "last_updated": "2026-05-13T13:50:24.661385+00:00",
   "groups": {
     "HTTP": [
       {
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.6,
-        "uptime_30d": 93.6,
+        "uptime_7d": 95.7,
+        "uptime_30d": 93.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.4,
+        "uptime_7d": 95.5,
         "uptime_30d": 92.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -580,8 +580,8 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 76.6,
+        "status": "up",
+        "uptime_24h": 76.9,
         "uptime_7d": 69.8,
         "uptime_30d": 62.4,
         "url": "https://docker.viktorbarzin.me"
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 94.7
+        "uptime_30d": 94.8
       },
       {
         "name": "pfSense Gateway",
@@ -888,7 +888,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.9,
+        "uptime_30d": 98.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
