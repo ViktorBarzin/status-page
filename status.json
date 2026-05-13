@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T03:20:27.884634+00:00",
+  "last_updated": "2026-05-13T03:25:21.783641+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 93.3,
-        "uptime_7d": 93.5,
+        "uptime_7d": 93.6,
         "uptime_30d": 90.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 94.2,
         "uptime_7d": 93.9,
-        "uptime_30d": 91.2,
+        "uptime_30d": 91.3,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 93.4,
-        "uptime_7d": 93.6,
+        "uptime_7d": 93.7,
         "uptime_30d": 89.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 92.7,
         "uptime_7d": 92.9,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -566,8 +566,8 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 97.7,
-        "uptime_30d": 97.1,
+        "uptime_7d": 97.8,
+        "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 74.7,
         "uptime_7d": 69.3,
-        "uptime_30d": 60.9,
+        "uptime_30d": 61.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1088,7 +1088,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://vault.viktorbarzin.me"
       },
       {
