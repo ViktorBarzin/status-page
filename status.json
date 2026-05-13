@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T18:35:22.063402+00:00",
+  "last_updated": "2026-05-13T18:40:28.761990+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.9,
+        "uptime_7d": 96.0,
         "uptime_30d": 94.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.1,
-        "uptime_7d": 71.2,
-        "uptime_30d": 63.8,
+        "uptime_24h": 76.9,
+        "uptime_7d": 71.0,
+        "uptime_30d": 63.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -745,7 +745,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5
+        "uptime_30d": 99.6
       },
       {
         "name": "PVE NFS (2049)",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 79.4
+        "uptime_30d": 79.5
       }
     ],
     "External Reachability": [
