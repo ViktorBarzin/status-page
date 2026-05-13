@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T03:25:21.783641+00:00",
+  "last_updated": "2026-05-13T03:30:32.321508+00:00",
   "groups": {
     "HTTP": [
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.0,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.7,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 93.3,
         "uptime_7d": 93.6,
-        "uptime_30d": 90.9,
+        "uptime_30d": 91.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -270,7 +270,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.0,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 98.4,
         "url": "https://health.viktorbarzin.me"
       },
@@ -294,8 +294,8 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 74.7,
-        "uptime_7d": 69.3,
+        "uptime_7d": 69.4,
         "uptime_30d": 61.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -888,7 +888,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.4,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -904,7 +904,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://london.viktorbarzin.me"
       },
       {
@@ -958,7 +958,7 @@
       {
         "name": "[External] valchedrym",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://valchedrym.viktorbarzin.me"
@@ -1040,7 +1040,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://terminal.viktorbarzin.me"
       },
       {
@@ -1382,7 +1382,7 @@
       {
         "name": "[External] calibre",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://calibre.viktorbarzin.me"
@@ -1390,7 +1390,7 @@
       {
         "name": "[External] stacks",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://stacks.viktorbarzin.me"
