@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T00:50:23.736653+00:00",
+  "last_updated": "2026-05-13T00:55:20.713678+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 93.4,
         "uptime_7d": 96.4,
-        "uptime_30d": 93.7,
+        "uptime_30d": 93.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.4,
-        "uptime_7d": 71.7,
+        "uptime_24h": 74.2,
+        "uptime_7d": 71.6,
         "uptime_30d": 64.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -805,7 +805,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 93.0
+        "uptime_30d": 93.1
       }
     ],
     "Redis": [
@@ -862,7 +862,7 @@
       {
         "name": "[External] files",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.6,
         "uptime_30d": 99.6,
         "url": "https://files.viktorbarzin.me"
@@ -967,7 +967,7 @@
         "name": "[External] send",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 99.5,
         "url": "https://send.viktorbarzin.me"
       },
@@ -1047,7 +1047,7 @@
         "name": "[External] terminal-ro",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 99.1,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
@@ -1639,8 +1639,8 @@
         "name": "[External] ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
