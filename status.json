@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T20:35:21.760026+00:00",
+  "last_updated": "2026-05-13T20:40:28.692005+00:00",
   "groups": {
     "HTTP": [
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.8,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.9,
         "url": "http://blog.website.svc"
       },
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 95.8,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -566,7 +566,7 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.3,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 74.7,
-        "uptime_7d": 70.7,
+        "uptime_7d": 70.6,
         "uptime_30d": 63.6,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.6
+        "uptime_30d": 98.7
       },
       {
         "name": "Sofia RPI",
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
-        "uptime_30d": 79.9
+        "uptime_7d": 98.8,
+        "uptime_30d": 80.0
       }
     ],
     "External Reachability": [
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.8,
-        "uptime_30d": 93.8,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.9,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
