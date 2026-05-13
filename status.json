@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T16:35:34.309969+00:00",
+  "last_updated": "2026-05-13T16:40:25.963275+00:00",
   "groups": {
     "HTTP": [
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 78.9
+        "uptime_30d": 79.0
       }
     ],
     "External Reachability": [
@@ -1431,8 +1431,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.2,
-        "uptime_30d": 93.2,
+        "uptime_7d": 93.3,
+        "uptime_30d": 93.3,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1742,9 +1742,9 @@
       {
         "name": "[External] term",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "uptime_24h": null,
+        "uptime_7d": null,
+        "uptime_30d": null,
         "url": "https://term.viktorbarzin.me"
       }
     ],
