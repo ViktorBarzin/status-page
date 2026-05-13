@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T05:30:32.978275+00:00",
+  "last_updated": "2026-05-13T05:35:21.575708+00:00",
   "groups": {
     "HTTP": [
       {
@@ -205,8 +205,8 @@
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
-        "uptime_24h": 95.3,
-        "uptime_7d": 94.0,
+        "uptime_24h": 95.6,
+        "uptime_7d": 94.1,
         "uptime_30d": 91.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 94.9,
-        "uptime_7d": 92.1,
-        "uptime_30d": 92.1,
+        "uptime_7d": 92.2,
+        "uptime_30d": 92.2,
         "url": "http://blog.website.svc"
       },
       {
@@ -437,9 +437,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 94.9,
-        "uptime_7d": 93.4,
-        "uptime_30d": 93.3,
+        "uptime_24h": 95.0,
+        "uptime_7d": 93.5,
+        "uptime_30d": 93.4,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.7,
-        "uptime_7d": 70.9,
+        "uptime_24h": 76.0,
+        "uptime_7d": 71.0,
         "uptime_30d": 62.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 95.6,
+        "uptime_24h": 95.7,
         "uptime_7d": 94.3,
         "uptime_30d": 94.0,
         "url": "https://ha-sofia.viktorbarzin.me"
