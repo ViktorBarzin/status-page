@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:45:22.847300+00:00",
+  "last_updated": "2026-05-13T04:50:28.130462+00:00",
   "groups": {
     "HTTP": [
       {
@@ -309,7 +309,7 @@
       {
         "name": "ha-london",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 95.0,
         "uptime_7d": 94.0,
         "uptime_30d": 89.9,
         "url": "https://ha-london.viktorbarzin.me"
@@ -437,9 +437,9 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 93.7,
-        "uptime_7d": 93.2,
-        "uptime_30d": 93.1,
+        "uptime_24h": 94.0,
+        "uptime_7d": 93.3,
+        "uptime_30d": 93.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 75.7,
         "uptime_7d": 70.4,
-        "uptime_30d": 61.7,
+        "uptime_30d": 61.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -655,13 +655,13 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.7,
+        "uptime_30d": 99.8,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 94.7,
+        "uptime_24h": 94.9,
         "uptime_7d": 94.1,
         "uptime_30d": 93.8,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 94.6
+        "uptime_30d": 94.7
       },
       {
         "name": "Valchedrym Video System",
@@ -887,7 +887,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 97.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -1430,7 +1430,7 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 91.9,
+        "uptime_24h": 92.2,
         "uptime_7d": 90.5,
         "uptime_30d": 90.5,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
