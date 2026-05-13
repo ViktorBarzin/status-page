@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T08:45:24.368467+00:00",
+  "last_updated": "2026-05-13T08:50:28.835669+00:00",
   "groups": {
     "HTTP": [
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.9,
+        "uptime_7d": 95.0,
         "uptime_30d": 92.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.7,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.9,
-        "uptime_30d": 92.9,
+        "uptime_7d": 93.0,
+        "uptime_30d": 93.0,
         "url": "http://blog.website.svc"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 75.1,
-        "uptime_7d": 70.2,
-        "uptime_30d": 62.1,
+        "uptime_7d": 70.3,
+        "uptime_30d": 62.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -887,7 +887,7 @@
         "name": "[External] ha-sofia",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 97.6,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
