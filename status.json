@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T07:30:33.342876+00:00",
+  "last_updated": "2026-05-13T07:35:21.766692+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 94.4,
+        "uptime_7d": 94.5,
         "uptime_30d": 92.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 94.7,
+        "uptime_7d": 94.8,
         "uptime_30d": 92.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 92.6,
-        "uptime_30d": 92.6,
+        "uptime_7d": 92.7,
+        "uptime_30d": 92.7,
         "url": "http://blog.website.svc"
       },
       {
@@ -437,7 +437,7 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 98.5,
+        "uptime_24h": 98.6,
         "uptime_7d": 93.9,
         "uptime_30d": 93.8,
         "url": "https://novelapp.viktorbarzin.me"
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.0,
+        "uptime_24h": 76.2,
         "uptime_7d": 71.0,
         "uptime_30d": 62.5,
         "url": "https://docker.viktorbarzin.me"
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 98.0,
+        "uptime_24h": 98.1,
         "uptime_7d": 94.7,
         "uptime_30d": 94.4,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -814,7 +814,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.0
+        "uptime_30d": 99.1
       }
     ],
     "Push": [
@@ -1120,7 +1120,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -1430,7 +1430,7 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 97.6,
+        "uptime_24h": 98.0,
         "uptime_7d": 91.3,
         "uptime_30d": 91.3,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
