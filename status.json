@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T00:10:23.633109+00:00",
+  "last_updated": "2026-05-13T00:15:26.243217+00:00",
   "groups": {
     "HTTP": [
       {
@@ -661,7 +661,7 @@
       {
         "name": "ha-sofia-public",
         "status": "up",
-        "uptime_24h": 93.5,
+        "uptime_24h": 93.6,
         "uptime_7d": 96.5,
         "uptime_30d": 96.3,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -804,7 +804,7 @@
         "name": "Immich postgresql",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 92.9
       }
     ],
@@ -1431,8 +1431,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 89.8,
-        "uptime_7d": 89.4,
-        "uptime_30d": 89.4,
+        "uptime_7d": 89.5,
+        "uptime_30d": 89.5,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
