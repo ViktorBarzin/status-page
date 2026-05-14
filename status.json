@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T00:01:44.307420+00:00",
+  "last_updated": "2026-05-14T00:05:20.923400+00:00",
   "groups": {
     "HTTP": [
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.4,
-        "uptime_30d": 93.9,
+        "uptime_30d": 94.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -566,7 +566,7 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.4,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 76.7,
-        "uptime_7d": 71.8,
+        "uptime_7d": 71.9,
         "uptime_30d": 64.6,
         "url": "https://docker.viktorbarzin.me"
       },
