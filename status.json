@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T01:25:20.933760+00:00",
+  "last_updated": "2026-05-14T01:30:32.301391+00:00",
   "groups": {
     "HTTP": [
       {
@@ -103,7 +103,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -182,7 +182,7 @@
         "name": "Wrongmove API",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.5,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.5,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -270,7 +270,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.5,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.1,
         "url": "https://health.viktorbarzin.me"
       },
@@ -294,8 +294,8 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.5,
+        "uptime_7d": 96.6,
         "uptime_30d": 94.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 75.9,
-        "uptime_7d": 72.0,
-        "uptime_30d": 64.9,
+        "uptime_7d": 72.1,
+        "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -904,7 +904,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://london.viktorbarzin.me"
       },
       {
@@ -1040,7 +1040,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://terminal.viktorbarzin.me"
       },
       {
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.4,
-        "uptime_30d": 94.4,
+        "uptime_7d": 94.5,
+        "uptime_30d": 94.5,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
