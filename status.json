@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T00:15:24.017398+00:00",
+  "last_updated": "2026-05-14T00:20:30.330867+00:00",
   "groups": {
     "HTTP": [
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.6,
-        "uptime_7d": 71.9,
+        "uptime_24h": 76.4,
+        "uptime_7d": 71.8,
         "uptime_30d": 64.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.3,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 81.0
+        "uptime_30d": 81.1
       }
     ],
     "External Reachability": [
