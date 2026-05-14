@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T01:15:21.728566+00:00",
+  "last_updated": "2026-05-14T01:20:26.902371+00:00",
   "groups": {
     "HTTP": [
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.3,
-        "uptime_30d": 95.3,
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -438,7 +438,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.2,
+        "uptime_7d": 96.3,
         "uptime_30d": 96.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.8,
+        "uptime_30d": 96.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.2,
+        "uptime_24h": 75.9,
         "uptime_7d": 72.0,
         "uptime_30d": 64.9,
         "url": "https://docker.viktorbarzin.me"
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 81.2
+        "uptime_7d": 98.9,
+        "uptime_30d": 81.3
       }
     ],
     "External Reachability": [
