@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T06:56:12.127796+00:00",
+  "last_updated": "2026-05-15T07:00:32.074026+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.5,
-        "uptime_7d": 69.0,
-        "uptime_30d": 61.3,
+        "uptime_7d": 69.1,
+        "uptime_30d": 61.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.0
+        "uptime_30d": 98.1
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 77.1
+        "uptime_30d": 77.3
       }
     ],
     "External Reachability": [
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
