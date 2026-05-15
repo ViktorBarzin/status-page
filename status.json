@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T23:36:14.737823+00:00",
+  "last_updated": "2026-05-15T23:40:30.002490+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.2,
-        "uptime_7d": 69.8,
-        "uptime_30d": 63.2,
+        "uptime_24h": 70.9,
+        "uptime_7d": 69.9,
+        "uptime_30d": 63.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.5
+        "uptime_30d": 82.6
       }
     ],
     "External Reachability": [
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
