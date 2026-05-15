@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:50:22.789197+00:00",
+  "last_updated": "2026-05-15T04:55:20.489464+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 75.9,
-        "uptime_7d": 69.1,
-        "uptime_30d": 61.1,
+        "uptime_24h": 75.6,
+        "uptime_7d": 68.9,
+        "uptime_30d": 61.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1615,8 +1615,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
