@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T23:50:25.423410+00:00",
+  "last_updated": "2026-05-15T23:56:13.184122+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 70.5,
+        "status": "up",
+        "uptime_24h": 70.8,
         "uptime_7d": 69.6,
-        "uptime_30d": 63.0,
+        "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
