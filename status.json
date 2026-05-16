@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T17:30:28.777194+00:00",
+  "last_updated": "2026-05-16T17:36:14.954665+00:00",
   "groups": {
     "HTTP": [
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -525,7 +525,7 @@
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 95.2,
+        "uptime_24h": 95.3,
         "uptime_7d": 96.5,
         "uptime_30d": 96.1,
         "url": "https://openclaw.viktorbarzin.me"
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 70.9,
-        "uptime_7d": 66.7,
-        "uptime_30d": 60.6,
+        "status": "down",
+        "uptime_24h": 70.4,
+        "uptime_7d": 66.5,
+        "uptime_30d": 60.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.5
+        "uptime_30d": 98.6
       },
       {
         "name": "Sofia RPI",
