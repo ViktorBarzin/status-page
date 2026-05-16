@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T02:25:21.154727+00:00",
+  "last_updated": "2026-05-16T02:30:29.507405+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.9,
-        "uptime_7d": 64.8,
-        "uptime_30d": 58.2,
+        "uptime_7d": 64.9,
+        "uptime_30d": 58.3,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -662,8 +662,8 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.2,
-        "uptime_30d": 98.8,
+        "uptime_7d": 99.3,
+        "uptime_30d": 98.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
