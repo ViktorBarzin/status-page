@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T13:16:22.391166+00:00",
+  "last_updated": "2026-05-16T13:20:27.639385+00:00",
   "groups": {
     "HTTP": [
       {
@@ -341,9 +341,9 @@
       {
         "name": "Audiobookshelf",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.8,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.8,
+        "uptime_30d": 99.5,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.2,
-        "uptime_7d": 66.3,
-        "uptime_30d": 60.0,
+        "uptime_7d": 66.4,
+        "uptime_30d": 60.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.6
+        "uptime_30d": 81.7
       }
     ],
     "External Reachability": [
