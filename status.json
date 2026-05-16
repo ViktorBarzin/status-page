@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T05:50:23.752679+00:00",
+  "last_updated": "2026-05-16T05:55:20.282512+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.3,
-        "uptime_7d": 65.1,
-        "uptime_30d": 58.7,
+        "uptime_7d": 65.2,
+        "uptime_30d": 58.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -779,10 +779,10 @@
       },
       {
         "name": "Valchedrym DDNS",
-        "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.4,
-        "uptime_30d": 98.2
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.0
       },
       {
         "name": "Sofia RPI",
