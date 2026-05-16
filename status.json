@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T21:30:32.222659+00:00",
+  "last_updated": "2026-05-16T21:36:13.514682+00:00",
   "groups": {
     "HTTP": [
       {
@@ -525,9 +525,9 @@
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 95.2,
+        "uptime_24h": 95.3,
         "uptime_7d": 96.8,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 71.4,
-        "uptime_7d": 68.1,
-        "uptime_30d": 61.6,
+        "status": "down",
+        "uptime_24h": 70.7,
+        "uptime_7d": 67.8,
+        "uptime_30d": 61.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.6,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
