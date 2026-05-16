@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T12:43:09.719788+00:00",
+  "last_updated": "2026-05-16T12:45:28.632365+00:00",
   "groups": {
     "HTTP": [
       {
@@ -460,10 +460,10 @@
       },
       {
         "name": "AIOStreams",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.1,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.0,
+        "uptime_30d": 98.8,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -572,7 +572,7 @@
       },
       {
         "name": "Goldilocks (VPA)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.3,
         "uptime_30d": 99.3,
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 69.8,
-        "uptime_7d": 65.8,
-        "uptime_30d": 59.7,
+        "uptime_7d": 65.9,
+        "uptime_30d": 59.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.3
+        "uptime_30d": 98.4
       },
       {
         "name": "Sofia RPI",
@@ -1238,17 +1238,17 @@
       {
         "name": "[External] affine",
         "status": "up",
-        "uptime_24h": 97.6,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_24h": 97.3,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "[External] aiostreams",
-        "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.5,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
