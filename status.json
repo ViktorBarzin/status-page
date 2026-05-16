@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T22:55:21.589867+00:00",
+  "last_updated": "2026-05-16T23:00:45.471761+00:00",
   "groups": {
     "HTTP": [
       {
@@ -412,10 +412,10 @@
       },
       {
         "name": "Wealthfolio",
-        "status": "up",
-        "uptime_24h": 99.7,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.1,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 98.9,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 72.2,
-        "uptime_7d": 68.1,
-        "uptime_30d": 61.7,
+        "status": "down",
+        "uptime_24h": 71.9,
+        "uptime_7d": 68.0,
+        "uptime_30d": 61.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.8
+        "uptime_30d": 83.9
       }
     ],
     "External Reachability": [
