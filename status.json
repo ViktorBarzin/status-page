@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T12:50:50.738199+00:00",
+  "last_updated": "2026-05-16T12:56:24.052445+00:00",
   "groups": {
     "HTTP": [
       {
@@ -180,10 +180,10 @@
       },
       {
         "name": "Wrongmove API",
-        "status": "up",
-        "uptime_24h": 99.0,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.6,
+        "status": "down",
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -269,9 +269,9 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 97.9,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_24h": 97.6,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "AIOStreams",
         "status": "down",
-        "uptime_24h": 99.0,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.4,
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.1,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 69.8,
+        "uptime_24h": 70.2,
         "uptime_7d": 66.0,
-        "uptime_30d": 59.8,
+        "uptime_30d": 59.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1238,17 +1238,17 @@
       {
         "name": "[External] affine",
         "status": "down",
-        "uptime_24h": 96.3,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.2,
+        "uptime_24h": 95.9,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "[External] aiostreams",
         "status": "down",
-        "uptime_24h": 98.3,
-        "uptime_7d": 98.6,
-        "uptime_30d": 98.6,
+        "uptime_24h": 97.9,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.3,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
