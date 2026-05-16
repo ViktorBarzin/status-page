@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T23:45:38.583240+00:00",
+  "last_updated": "2026-05-16T23:50:40.764120+00:00",
   "groups": {
     "HTTP": [
       {
@@ -292,7 +292,7 @@
       },
       {
         "name": "Forgejo",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.3,
         "uptime_30d": 99.1,
@@ -412,7 +412,7 @@
       },
       {
         "name": "Wealthfolio",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.9,
         "uptime_30d": 98.6,
@@ -564,7 +564,7 @@
       },
       {
         "name": "Prometheus",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 98.6,
         "uptime_30d": 98.4,
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.6,
+        "uptime_24h": 71.9,
         "uptime_7d": 68.0,
         "uptime_30d": 61.7,
         "url": "https://docker.viktorbarzin.me"
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.7
+        "uptime_30d": 96.8
       },
       {
         "name": "pfSense Gateway",
@@ -1325,7 +1325,7 @@
       },
       {
         "name": "[External] pgadmin",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -1421,7 +1421,7 @@
       },
       {
         "name": "[External] forgejo",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
