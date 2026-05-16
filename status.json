@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T13:05:50.406681+00:00",
+  "last_updated": "2026-05-16T13:10:30.651551+00:00",
   "groups": {
     "HTTP": [
       {
@@ -268,7 +268,7 @@
       },
       {
         "name": "AFFiNE",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 96.9,
         "uptime_7d": 97.4,
         "uptime_30d": 97.4,
@@ -460,7 +460,7 @@
       },
       {
         "name": "AIOStreams",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.9,
         "uptime_30d": 97.7,
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.2,
-        "uptime_7d": 66.1,
-        "uptime_30d": 59.9,
+        "uptime_7d": 66.2,
+        "uptime_30d": 60.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.4,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1237,7 +1237,7 @@
       },
       {
         "name": "[External] affine",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 95.3,
         "uptime_7d": 96.5,
         "uptime_30d": 96.5,
@@ -1247,8 +1247,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
