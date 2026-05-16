@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T18:30:29.900295+00:00",
+  "last_updated": "2026-05-16T18:36:13.921950+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -525,7 +525,7 @@
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 95.2,
+        "uptime_24h": 95.3,
         "uptime_7d": 96.6,
         "uptime_30d": 96.2,
         "url": "https://openclaw.viktorbarzin.me"
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 72.0,
-        "uptime_7d": 67.1,
+        "uptime_7d": 67.2,
         "uptime_30d": 60.9,
         "url": "https://docker.viktorbarzin.me"
       },
