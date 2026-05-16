@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T00:01:48.046641+00:00",
+  "last_updated": "2026-05-16T00:06:14.511936+00:00",
   "groups": {
     "HTTP": [
       {
@@ -36,7 +36,7 @@
       },
       {
         "name": "Shlink (URL Shortener)",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 98.9,
         "uptime_30d": 97.9,
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 70.8,
-        "uptime_7d": 69.6,
+        "uptime_7d": 69.7,
         "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
       },
