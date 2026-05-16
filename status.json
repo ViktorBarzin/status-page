@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T12:36:20.599505+00:00",
+  "last_updated": "2026-05-16T12:42:27.499428+00:00",
   "groups": {
     "HTTP": [
       {
@@ -117,9 +117,9 @@
       {
         "name": "K8s master",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://10.0.20.100:6443"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -572,16 +572,16 @@
       },
       {
         "name": "Goldilocks (VPA)",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.3,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 69.3,
+        "uptime_24h": 69.8,
         "uptime_7d": 65.8,
         "uptime_30d": 59.7,
         "url": "https://docker.viktorbarzin.me"
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.2
+        "uptime_30d": 97.3
       },
       {
         "name": "Valchedrym Video System",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 81.4
+        "uptime_30d": 81.5
       }
     ],
     "External Reachability": [
