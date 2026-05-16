@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T23:36:23.625970+00:00",
+  "last_updated": "2026-05-16T23:43:41.418935+00:00",
   "groups": {
     "HTTP": [
       {
@@ -76,10 +76,10 @@
       },
       {
         "name": "Formula 1 Stream",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.1,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.3,
+        "uptime_30d": 98.7,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -292,10 +292,10 @@
       },
       {
         "name": "Forgejo",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.6,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.3,
+        "uptime_30d": 99.1,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -364,10 +364,10 @@
       },
       {
         "name": "FreshRSS",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -412,10 +412,10 @@
       },
       {
         "name": "Wealthfolio",
-        "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 98.9,
+        "status": "down",
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.6,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -524,7 +524,7 @@
       },
       {
         "name": "OpenClaw",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 96.4,
         "uptime_30d": 96.1,
@@ -564,10 +564,10 @@
       },
       {
         "name": "Prometheus",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 98.9,
+        "status": "down",
+        "uptime_24h": 99.3,
+        "uptime_7d": 98.7,
+        "uptime_30d": 98.6,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.4,
-        "uptime_7d": 68.1,
-        "uptime_30d": 61.8,
+        "uptime_7d": 68.0,
+        "uptime_30d": 61.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -597,9 +597,9 @@
       {
         "name": "pgAdmin",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "uptime_24h": 99.3,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -775,7 +775,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7
+        "uptime_30d": 98.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -1014,9 +1014,9 @@
       {
         "name": "[External] stirling-pdf",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8,
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.6,
+        "uptime_30d": 99.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -1247,8 +1247,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 97.6,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.5,
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1421,10 +1421,10 @@
       },
       {
         "name": "[External] forgejo",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
-        "uptime_30d": 99.8,
+        "status": "down",
+        "uptime_24h": 98.6,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
