@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T00:50:24.761527+00:00",
+  "last_updated": "2026-05-16T00:56:13.259091+00:00",
   "groups": {
     "HTTP": [
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 97.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 98.3,
         "uptime_7d": 98.6,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -580,7 +580,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 69.0,
         "uptime_7d": 69.3,
         "uptime_30d": 62.9,
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 82.8
+        "uptime_30d": 83.1
       }
     ],
     "External Reachability": [
