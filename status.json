@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T20:55:21.660748+00:00",
+  "last_updated": "2026-05-16T21:01:43.641259+00:00",
   "groups": {
     "HTTP": [
       {
@@ -525,7 +525,7 @@
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 95.2,
+        "uptime_24h": 95.3,
         "uptime_7d": 96.8,
         "uptime_30d": 96.4,
         "url": "https://openclaw.viktorbarzin.me"
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 71.3,
-        "uptime_7d": 67.8,
-        "uptime_30d": 61.4,
+        "uptime_24h": 71.7,
+        "uptime_7d": 68.0,
+        "uptime_30d": 61.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.5
+        "uptime_30d": 96.6
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 83.4
+        "uptime_30d": 83.5
       }
     ],
     "External Reachability": [
