@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T14:25:22.137833+00:00",
+  "last_updated": "2026-05-17T14:30:31.921801+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 66.1,
-        "uptime_7d": 77.5,
+        "uptime_7d": 77.6,
         "uptime_30d": 77.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -198,8 +198,8 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 69.5,
-        "uptime_30d": 69.4,
+        "uptime_7d": 69.6,
+        "uptime_30d": 69.5,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 64.2,
-        "uptime_7d": 75.9,
-        "uptime_30d": 75.3,
+        "uptime_7d": 76.0,
+        "uptime_30d": 75.4,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 86.0,
-        "uptime_7d": 90.4,
-        "uptime_30d": 90.4,
+        "uptime_7d": 90.5,
+        "uptime_30d": 90.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -358,7 +358,7 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 89.9,
-        "uptime_7d": 92.5,
+        "uptime_7d": 92.6,
         "uptime_30d": 92.0,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 96.4,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.3,
+        "uptime_30d": 96.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -573,7 +573,7 @@
       {
         "name": "Goldilocks (VPA)",
         "status": "up",
-        "uptime_24h": 99.6,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://goldilocks.viktorbarzin.me"
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 80.7,
+        "uptime_24h": 80.6,
         "uptime_7d": 71.9,
         "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 46.4,
-        "uptime_7d": 64.9,
-        "uptime_30d": 64.1
+        "uptime_24h": 46.0,
+        "uptime_7d": 64.7,
+        "uptime_30d": 63.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 46.4,
-        "uptime_7d": 64.9,
-        "uptime_30d": 64.4
+        "uptime_24h": 46.0,
+        "uptime_7d": 64.7,
+        "uptime_30d": 64.2
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.2,
         "uptime_7d": 95.8,
         "uptime_30d": 94.9
       },
@@ -1446,7 +1446,7 @@
       {
         "name": "[External] rss",
         "status": "up",
-        "uptime_24h": 95.7,
+        "uptime_24h": 95.8,
         "uptime_7d": 97.0,
         "uptime_30d": 97.0,
         "url": "https://rss.viktorbarzin.me"
