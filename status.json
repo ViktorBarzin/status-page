@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T22:20:30.080036+00:00",
+  "last_updated": "2026-05-17T22:25:21.155248+00:00",
   "groups": {
     "HTTP": [
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 75.1,
+        "uptime_7d": 75.2,
         "uptime_30d": 75.0,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 64.2,
-        "uptime_7d": 80.3,
+        "uptime_7d": 80.4,
         "uptime_30d": 79.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 92.3,
-        "uptime_7d": 95.6,
+        "uptime_7d": 95.7,
         "uptime_30d": 95.1,
         "url": "https://health.viktorbarzin.me"
       },
@@ -374,8 +374,8 @@
         "name": "Stirling PDF",
         "status": "up",
         "uptime_24h": 90.4,
-        "uptime_7d": 94.6,
-        "uptime_30d": 94.6,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 83.3,
         "uptime_7d": 73.0,
-        "uptime_30d": 64.4,
+        "uptime_30d": 64.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 18.0,
-        "uptime_7d": 56.1,
-        "uptime_30d": 55.8
+        "uptime_7d": 56.2,
+        "uptime_30d": 55.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 18.0,
-        "uptime_7d": 56.1,
-        "uptime_30d": 55.9
+        "uptime_7d": 56.2,
+        "uptime_30d": 56.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -1262,9 +1262,9 @@
       {
         "name": "[External] dolt-workbench",
         "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_24h": 98.9,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://dolt-workbench.viktorbarzin.me"
       },
       {
@@ -1446,7 +1446,7 @@
       {
         "name": "[External] rss",
         "status": "up",
-        "uptime_24h": 95.8,
+        "uptime_24h": 95.7,
         "uptime_7d": 97.5,
         "uptime_30d": 97.5,
         "url": "https://rss.viktorbarzin.me"
