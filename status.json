@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T12:05:23.265599+00:00",
+  "last_updated": "2026-05-17T12:10:29.413903+00:00",
   "groups": {
     "HTTP": [
       {
@@ -7,15 +7,15 @@
         "status": "up",
         "uptime_24h": 96.5,
         "uptime_7d": 97.3,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
         "name": "Headscale (Tailscale VPN)",
         "status": "up",
         "uptime_24h": 92.5,
-        "uptime_7d": 94.7,
-        "uptime_30d": 94.7,
+        "uptime_7d": 94.8,
+        "uptime_30d": 94.8,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 66.1,
-        "uptime_7d": 75.8,
-        "uptime_30d": 75.4,
+        "uptime_7d": 75.9,
+        "uptime_30d": 75.5,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -198,15 +198,15 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 67.4,
-        "uptime_30d": 67.3,
+        "uptime_7d": 67.5,
+        "uptime_30d": 67.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 86.3,
-        "uptime_7d": 89.0,
+        "uptime_7d": 89.1,
         "uptime_30d": 87.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -438,7 +438,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 82.9,
-        "uptime_7d": 88.1,
+        "uptime_7d": 88.2,
         "uptime_30d": 88.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -462,7 +462,7 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 82.1,
-        "uptime_7d": 86.8,
+        "uptime_7d": 86.9,
         "uptime_30d": 86.7,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 95.8,
         "uptime_7d": 95.9,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 81.0,
         "uptime_7d": 70.7,
-        "uptime_30d": 62.1,
+        "uptime_30d": 62.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 56.5,
-        "uptime_7d": 69.4,
-        "uptime_30d": 68.3
+        "uptime_24h": 56.1,
+        "uptime_7d": 69.3,
+        "uptime_30d": 68.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 56.5,
-        "uptime_7d": 69.4,
-        "uptime_30d": 68.8
+        "uptime_24h": 56.1,
+        "uptime_7d": 69.3,
+        "uptime_30d": 68.6
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.2,
         "uptime_7d": 95.5,
         "uptime_30d": 94.6
       },
@@ -1024,7 +1024,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -1048,7 +1048,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
       {
@@ -1247,8 +1247,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 85.1,
-        "uptime_7d": 89.0,
-        "uptime_30d": 89.0,
+        "uptime_7d": 89.1,
+        "uptime_30d": 89.1,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1287,8 +1287,8 @@
         "name": "[External] claude-memory",
         "status": "up",
         "uptime_24h": 97.5,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.3,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 84.9,
-        "uptime_7d": 88.9,
-        "uptime_30d": 88.9,
+        "uptime_7d": 89.0,
+        "uptime_30d": 89.0,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1495,16 +1495,16 @@
         "name": "[External] highlights-immich",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1559,8 +1559,8 @@
         "name": "[External] mail",
         "status": "up",
         "uptime_24h": 98.2,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://mail.viktorbarzin.me"
       },
       {
@@ -1575,8 +1575,8 @@
         "name": "[External] meshcentral",
         "status": "up",
         "uptime_24h": 98.2,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -1607,8 +1607,8 @@
         "name": "[External] networking-toolbox",
         "status": "up",
         "uptime_24h": 98.2,
-        "uptime_7d": 98.7,
-        "uptime_30d": 98.7,
+        "uptime_7d": 98.8,
+        "uptime_30d": 98.8,
         "url": "https://networking-toolbox.viktorbarzin.me"
       },
       {
