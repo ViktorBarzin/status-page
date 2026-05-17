@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T17:45:23.370809+00:00",
+  "last_updated": "2026-05-17T17:50:27.636536+00:00",
   "groups": {
     "HTTP": [
       {
@@ -38,7 +38,7 @@
         "name": "Shlink (URL Shortener)",
         "status": "up",
         "uptime_24h": 93.5,
-        "uptime_7d": 95.5,
+        "uptime_7d": 95.6,
         "uptime_30d": 94.4,
         "url": "https://shlink.viktorbarzin.me"
       },
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 66.1,
-        "uptime_7d": 79.5,
-        "uptime_30d": 78.9,
+        "uptime_7d": 79.6,
+        "uptime_30d": 79.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -198,15 +198,15 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 72.2,
-        "uptime_30d": 72.0,
+        "uptime_7d": 72.3,
+        "uptime_30d": 72.1,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 86.3,
-        "uptime_7d": 90.5,
+        "uptime_7d": 90.6,
         "uptime_30d": 89.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -270,8 +270,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 88.5,
-        "uptime_7d": 91.4,
-        "uptime_30d": 91.4,
+        "uptime_7d": 91.5,
+        "uptime_30d": 91.5,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 87.3,
-        "uptime_7d": 91.7,
+        "uptime_7d": 91.8,
         "uptime_30d": 90.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -318,8 +318,8 @@
         "name": "Changedetection",
         "status": "up",
         "uptime_24h": 92.3,
-        "uptime_7d": 95.3,
-        "uptime_30d": 95.3,
+        "uptime_7d": 95.4,
+        "uptime_30d": 95.4,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -406,7 +406,7 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 96.4,
-        "uptime_7d": 97.4,
+        "uptime_7d": 97.5,
         "uptime_30d": 96.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 84.2,
         "uptime_7d": 88.9,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -526,8 +526,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 87.4,
-        "uptime_7d": 90.0,
-        "uptime_30d": 89.5,
+        "uptime_7d": 90.1,
+        "uptime_30d": 89.6,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 81.2,
-        "uptime_7d": 71.4,
-        "uptime_30d": 63.1,
+        "uptime_24h": 80.6,
+        "uptime_7d": 71.1,
+        "uptime_30d": 63.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 88.2,
         "uptime_7d": 92.7,
-        "uptime_30d": 92.4,
+        "uptime_30d": 92.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 32.0,
-        "uptime_7d": 59.3,
-        "uptime_30d": 58.8
+        "uptime_24h": 31.7,
+        "uptime_7d": 59.1,
+        "uptime_30d": 58.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 32.0,
-        "uptime_7d": 59.3,
-        "uptime_30d": 59.0
+        "uptime_24h": 31.7,
+        "uptime_7d": 59.1,
+        "uptime_30d": 58.9
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.2,
         "uptime_7d": 96.1,
         "uptime_30d": 95.4
       },
@@ -1032,7 +1032,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -1391,8 +1391,8 @@
         "name": "[External] echo",
         "status": "up",
         "uptime_24h": 96.1,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.5,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 84.9,
-        "uptime_7d": 90.4,
-        "uptime_30d": 90.4,
+        "uptime_7d": 90.5,
+        "uptime_30d": 90.5,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
