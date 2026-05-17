@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T00:35:33.364855+00:00",
+  "last_updated": "2026-05-17T00:40:33.767798+00:00",
   "groups": {
     "HTTP": [
       {
@@ -77,9 +77,9 @@
       {
         "name": "Formula 1 Stream",
         "status": "down",
-        "uptime_24h": 96.2,
-        "uptime_7d": 97.7,
-        "uptime_30d": 97.2,
+        "uptime_24h": 95.8,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.0,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -197,9 +197,9 @@
       {
         "name": "Frigate",
         "status": "down",
-        "uptime_24h": 96.9,
-        "uptime_7d": 98.0,
-        "uptime_30d": 97.9,
+        "uptime_24h": 96.5,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.7,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -357,9 +357,9 @@
       {
         "name": "N8N",
         "status": "down",
-        "uptime_24h": 96.2,
-        "uptime_7d": 97.7,
-        "uptime_30d": 97.2,
+        "uptime_24h": 95.8,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.0,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -373,9 +373,9 @@
       {
         "name": "Stirling PDF",
         "status": "down",
-        "uptime_24h": 96.9,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_24h": 96.5,
+        "uptime_7d": 98.0,
+        "uptime_30d": 98.0,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -404,10 +404,10 @@
       },
       {
         "name": "Speedtest",
-        "status": "up",
-        "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 98.6,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "AIOStreams",
         "status": "down",
-        "uptime_24h": 94.8,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.6,
+        "uptime_24h": 94.5,
+        "uptime_7d": 96.6,
+        "uptime_30d": 96.5,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -525,9 +525,9 @@
       {
         "name": "OpenClaw",
         "status": "down",
-        "uptime_24h": 92.9,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.6,
+        "uptime_24h": 92.5,
+        "uptime_7d": 94.8,
+        "uptime_30d": 94.4,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 84.1
+        "uptime_30d": 84.2
       }
     ],
     "External Reachability": [
@@ -909,7 +909,7 @@
       },
       {
         "name": "[External] mbp14",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
@@ -925,7 +925,7 @@
       },
       {
         "name": "[External] nas",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.6,
@@ -1246,9 +1246,9 @@
       {
         "name": "[External] aiostreams",
         "status": "down",
-        "uptime_24h": 94.2,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.8,
+        "uptime_24h": 93.9,
+        "uptime_7d": 96.6,
+        "uptime_30d": 96.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1582,9 +1582,9 @@
       {
         "name": "[External] n8n",
         "status": "down",
-        "uptime_24h": 96.5,
-        "uptime_7d": 98.0,
-        "uptime_30d": 98.0,
+        "uptime_24h": 96.2,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
