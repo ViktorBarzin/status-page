@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T10:35:20.092292+00:00",
+  "last_updated": "2026-05-17T10:40:28.298178+00:00",
   "groups": {
     "HTTP": [
       {
@@ -38,7 +38,7 @@
         "name": "Shlink (URL Shortener)",
         "status": "up",
         "uptime_24h": 93.5,
-        "uptime_7d": 94.5,
+        "uptime_7d": 94.6,
         "uptime_30d": 93.2,
         "url": "https://shlink.viktorbarzin.me"
       },
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 98.9,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -78,7 +78,7 @@
         "name": "Formula 1 Stream",
         "status": "up",
         "uptime_24h": 89.6,
-        "uptime_7d": 92.1,
+        "uptime_7d": 92.2,
         "uptime_30d": 91.3,
         "url": "https://f1.viktorbarzin.me"
       },
@@ -126,16 +126,16 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
-        "uptime_30d": 97.4,
+        "uptime_7d": 99.0,
+        "uptime_30d": 97.5,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
         "name": "Immich ML",
         "status": "down",
-        "uptime_24h": 70.0,
-        "uptime_7d": 77.5,
-        "uptime_30d": 77.1,
+        "uptime_24h": 69.6,
+        "uptime_7d": 77.3,
+        "uptime_30d": 76.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 95.8,
         "uptime_7d": 96.9,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -197,9 +197,9 @@
       {
         "name": "Frigate",
         "status": "down",
-        "uptime_24h": 57.7,
-        "uptime_7d": 68.8,
-        "uptime_30d": 68.7,
+        "uptime_24h": 57.3,
+        "uptime_7d": 68.6,
+        "uptime_30d": 68.5,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -213,9 +213,9 @@
       {
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "down",
-        "uptime_24h": 67.7,
-        "uptime_7d": 75.6,
-        "uptime_30d": 74.9,
+        "uptime_24h": 67.4,
+        "uptime_7d": 75.4,
+        "uptime_30d": 74.7,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -358,7 +358,7 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 89.2,
-        "uptime_7d": 91.6,
+        "uptime_7d": 91.7,
         "uptime_30d": 91.0,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -495,7 +495,7 @@
         "status": "up",
         "uptime_24h": 95.3,
         "uptime_7d": 96.3,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 81.6,
-        "uptime_7d": 70.2,
-        "uptime_30d": 61.7,
+        "uptime_7d": 70.3,
+        "uptime_30d": 61.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -598,8 +598,8 @@
         "name": "pgAdmin",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -688,14 +688,14 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 98.7
       },
       {
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 62.9,
-        "uptime_7d": 72.8,
-        "uptime_30d": 71.4
+        "uptime_24h": 62.6,
+        "uptime_7d": 72.6,
+        "uptime_30d": 71.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 62.9,
-        "uptime_7d": 72.8,
-        "uptime_30d": 71.9
+        "uptime_24h": 62.6,
+        "uptime_7d": 72.6,
+        "uptime_30d": 71.8
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.2,
         "uptime_7d": 95.3,
         "uptime_30d": 94.3
       },
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 97.2,
         "uptime_7d": 98.4,
-        "uptime_30d": 79.9
+        "uptime_30d": 80.0
       }
     ],
     "External Reachability": [
@@ -1200,7 +1200,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://xray-ws.viktorbarzin.me"
       },
       {
@@ -1223,16 +1223,16 @@
         "name": "[External] budget-anca",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://budget-anca.viktorbarzin.me"
       },
       {
         "name": "[External] budget-viktor",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://budget-viktor.viktorbarzin.me"
       },
       {
@@ -1287,8 +1287,8 @@
         "name": "[External] claude-memory",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -1390,7 +1390,7 @@
       {
         "name": "[External] echo",
         "status": "up",
-        "uptime_24h": 95.7,
+        "uptime_24h": 95.8,
         "uptime_7d": 96.9,
         "uptime_30d": 96.9,
         "url": "https://echo.viktorbarzin.me"
@@ -1727,8 +1727,8 @@
         "name": "[External] vaultwarden",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_7d": 99.0,
+        "uptime_30d": 99.0,
         "url": "https://vaultwarden.viktorbarzin.me"
       },
       {
