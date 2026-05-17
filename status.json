@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T19:05:23.270801+00:00",
+  "last_updated": "2026-05-17T19:10:29.494482+00:00",
   "groups": {
     "HTTP": [
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 95.8,
         "uptime_7d": 97.5,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 73.1,
+        "uptime_7d": 73.2,
         "uptime_30d": 73.0,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 86.3,
-        "uptime_7d": 90.8,
+        "uptime_7d": 90.9,
         "uptime_30d": 89.9,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 92.3,
         "uptime_7d": 95.3,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 82.9,
         "uptime_7d": 90.3,
-        "uptime_30d": 90.2,
+        "uptime_30d": 90.3,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 80.6,
         "uptime_7d": 71.6,
-        "uptime_30d": 63.3,
+        "uptime_30d": 63.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 26.3,
-        "uptime_7d": 57.3,
-        "uptime_30d": 56.9
+        "uptime_24h": 25.9,
+        "uptime_7d": 57.2,
+        "uptime_30d": 56.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 26.3,
-        "uptime_7d": 57.3,
-        "uptime_30d": 57.1
+        "uptime_24h": 25.9,
+        "uptime_7d": 57.2,
+        "uptime_30d": 57.0
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.2,
         "uptime_7d": 96.3,
         "uptime_30d": 95.5
       },
@@ -1239,8 +1239,8 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 89.5,
-        "uptime_7d": 91.8,
-        "uptime_30d": 91.8,
+        "uptime_7d": 91.9,
+        "uptime_30d": 91.9,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 84.9,
-        "uptime_7d": 90.7,
-        "uptime_30d": 90.7,
+        "uptime_7d": 90.8,
+        "uptime_30d": 90.8,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
