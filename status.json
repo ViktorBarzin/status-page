@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T17:55:21.671261+00:00",
+  "last_updated": "2026-05-17T18:00:36.905214+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 66.1,
-        "uptime_7d": 79.6,
+        "uptime_7d": 79.7,
         "uptime_30d": 79.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 72.3,
+        "uptime_7d": 72.4,
         "uptime_30d": 72.2,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -294,7 +294,7 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 98.9,
-        "uptime_7d": 99.1,
+        "uptime_7d": 99.2,
         "uptime_30d": 98.9,
         "url": "https://forgejo.viktorbarzin.me"
       },
@@ -374,8 +374,8 @@
         "name": "Stirling PDF",
         "status": "up",
         "uptime_24h": 90.4,
-        "uptime_7d": 94.0,
-        "uptime_30d": 94.0,
+        "uptime_7d": 94.1,
+        "uptime_30d": 94.1,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 31.3,
-        "uptime_7d": 59.0,
-        "uptime_30d": 58.6
+        "uptime_24h": 30.9,
+        "uptime_7d": 58.9,
+        "uptime_30d": 58.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 31.3,
-        "uptime_7d": 59.0,
-        "uptime_30d": 58.8
+        "uptime_24h": 30.9,
+        "uptime_7d": 58.9,
+        "uptime_30d": 58.6
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.2,
         "uptime_7d": 96.2,
         "uptime_30d": 95.4
       },
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 82.2
       }
     ],
@@ -1446,7 +1446,7 @@
       {
         "name": "[External] rss",
         "status": "up",
-        "uptime_24h": 95.7,
+        "uptime_24h": 95.8,
         "uptime_7d": 97.3,
         "uptime_30d": 97.3,
         "url": "https://rss.viktorbarzin.me"
