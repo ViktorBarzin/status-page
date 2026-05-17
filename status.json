@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T11:15:29.487941+00:00",
+  "last_updated": "2026-05-17T11:16:30.739777+00:00",
   "groups": {
     "HTTP": [
       {
@@ -1237,7 +1237,7 @@
       },
       {
         "name": "[External] affine",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 87.2,
         "uptime_7d": 90.0,
         "uptime_30d": 90.0,
@@ -1446,7 +1446,7 @@
       {
         "name": "[External] rss",
         "status": "up",
-        "uptime_24h": 95.7,
+        "uptime_24h": 95.8,
         "uptime_7d": 96.7,
         "uptime_30d": 96.7,
         "url": "https://rss.viktorbarzin.me"
