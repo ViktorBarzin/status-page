@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T14:05:21.613617+00:00",
+  "last_updated": "2026-05-17T14:10:28.695101+00:00",
   "groups": {
     "HTTP": [
       {
@@ -30,8 +30,8 @@
         "name": "Excalidraw",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 93.5,
         "uptime_7d": 95.1,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 69.2,
+        "uptime_7d": 69.3,
         "uptime_30d": 69.2,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -214,8 +214,8 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 64.2,
-        "uptime_7d": 75.7,
-        "uptime_30d": 75.1,
+        "uptime_7d": 75.8,
+        "uptime_30d": 75.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -574,16 +574,16 @@
         "name": "Goldilocks (VPA)",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 80.7,
+        "uptime_24h": 80.6,
         "uptime_7d": 71.7,
-        "uptime_30d": 62.9,
+        "uptime_30d": 63.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 88.2,
         "uptime_7d": 91.9,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 47.8,
-        "uptime_7d": 65.5,
-        "uptime_30d": 64.6
+        "uptime_24h": 47.5,
+        "uptime_7d": 65.3,
+        "uptime_30d": 64.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 47.8,
-        "uptime_7d": 65.5,
-        "uptime_30d": 65.0
+        "uptime_24h": 47.5,
+        "uptime_7d": 65.3,
+        "uptime_30d": 64.8
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.2,
         "uptime_7d": 95.7,
         "uptime_30d": 94.9
       },
@@ -1199,7 +1199,7 @@
         "name": "[External] xray-ws",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://xray-ws.viktorbarzin.me"
       },
@@ -1239,16 +1239,16 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 89.5,
-        "uptime_7d": 90.7,
-        "uptime_30d": 90.7,
+        "uptime_7d": 90.8,
+        "uptime_30d": 90.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 87.0,
-        "uptime_7d": 89.6,
-        "uptime_30d": 89.6,
+        "uptime_7d": 89.7,
+        "uptime_30d": 89.7,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1287,8 +1287,8 @@
         "name": "[External] claude-memory",
         "status": "up",
         "uptime_24h": 97.5,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
