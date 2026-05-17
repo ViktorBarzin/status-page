@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T21:30:31.996091+00:00",
+  "last_updated": "2026-05-17T21:35:22.663555+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 66.1,
-        "uptime_7d": 81.3,
-        "uptime_30d": 80.7,
+        "uptime_7d": 81.4,
+        "uptime_30d": 80.8,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 86.3,
         "uptime_7d": 91.3,
-        "uptime_30d": 90.4,
+        "uptime_30d": 90.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -358,7 +358,7 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 89.9,
-        "uptime_7d": 93.9,
+        "uptime_7d": 94.0,
         "uptime_30d": 93.3,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -374,8 +374,8 @@
         "name": "Stirling PDF",
         "status": "up",
         "uptime_24h": 90.4,
-        "uptime_7d": 94.5,
-        "uptime_30d": 94.5,
+        "uptime_7d": 94.6,
+        "uptime_30d": 94.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -446,7 +446,7 @@
         "name": "Book Search Deep Health",
         "status": "up",
         "uptime_24h": 99.1,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 99.3,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 82.0,
-        "uptime_7d": 72.5,
-        "uptime_30d": 64.1,
+        "uptime_24h": 82.6,
+        "uptime_7d": 72.6,
+        "uptime_30d": 64.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 18.0,
-        "uptime_7d": 55.2,
-        "uptime_30d": 55.0
+        "uptime_7d": 55.3,
+        "uptime_30d": 55.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 18.0,
-        "uptime_7d": 55.2,
-        "uptime_30d": 55.1
+        "uptime_7d": 55.3,
+        "uptime_30d": 55.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -1446,7 +1446,7 @@
       {
         "name": "[External] rss",
         "status": "up",
-        "uptime_24h": 95.8,
+        "uptime_24h": 95.7,
         "uptime_7d": 97.5,
         "uptime_30d": 97.5,
         "url": "https://rss.viktorbarzin.me"
