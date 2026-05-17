@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T22:00:38.103683+00:00",
+  "last_updated": "2026-05-17T22:06:15.147725+00:00",
   "groups": {
     "HTTP": [
       {
@@ -14,8 +14,8 @@
         "name": "Headscale (Tailscale VPN)",
         "status": "up",
         "uptime_24h": 92.5,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 93.5,
         "uptime_7d": 96.0,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 89.6,
         "uptime_7d": 94.2,
-        "uptime_30d": 93.5,
+        "uptime_30d": 93.6,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 66.1,
-        "uptime_7d": 81.5,
-        "uptime_30d": 80.9,
+        "uptime_7d": 81.6,
+        "uptime_30d": 81.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 86.3,
         "uptime_7d": 91.4,
-        "uptime_30d": 90.5,
+        "uptime_30d": 90.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 64.2,
         "uptime_7d": 80.2,
-        "uptime_30d": 79.5,
+        "uptime_30d": 79.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -302,7 +302,7 @@
         "name": "Navidrome",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.7,
         "url": "https://navidrome.viktorbarzin.me"
       },
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 89.9,
         "uptime_7d": 94.0,
-        "uptime_30d": 93.3,
+        "uptime_30d": 93.4,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -462,8 +462,8 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 84.2,
-        "uptime_7d": 89.9,
-        "uptime_30d": 89.6,
+        "uptime_7d": 90.0,
+        "uptime_30d": 89.7,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -525,17 +525,17 @@
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 87.4,
+        "uptime_24h": 87.3,
         "uptime_7d": 91.0,
-        "uptime_30d": 90.5,
+        "uptime_30d": 90.6,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
         "name": "Matrix",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.8,
-        "uptime_30d": 98.8,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.9,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.6,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.4,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 99.5,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.5,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 18.0,
-        "uptime_7d": 55.7,
-        "uptime_30d": 55.5
+        "uptime_7d": 55.8,
+        "uptime_30d": 55.6
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 18.0,
-        "uptime_7d": 55.7,
-        "uptime_30d": 55.6
+        "uptime_7d": 55.8,
+        "uptime_30d": 55.7
       },
       {
         "name": "Valchedrym DDNS",
