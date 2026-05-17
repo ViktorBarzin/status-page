@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T12:45:23.827945+00:00",
+  "last_updated": "2026-05-17T12:50:28.952989+00:00",
   "groups": {
     "HTTP": [
       {
@@ -14,8 +14,8 @@
         "name": "Headscale (Tailscale VPN)",
         "status": "up",
         "uptime_24h": 92.5,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.8,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.9,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -78,7 +78,7 @@
         "name": "Formula 1 Stream",
         "status": "up",
         "uptime_24h": 89.6,
-        "uptime_7d": 92.6,
+        "uptime_7d": 92.7,
         "uptime_30d": 91.8,
         "url": "https://f1.viktorbarzin.me"
       },
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 66.1,
         "uptime_7d": 76.3,
-        "uptime_30d": 75.9,
+        "uptime_30d": 76.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 53.8,
-        "uptime_7d": 68.0,
+        "uptime_7d": 68.1,
         "uptime_30d": 68.0,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 86.3,
-        "uptime_7d": 89.2,
+        "uptime_7d": 89.3,
         "uptime_30d": 88.2,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -269,7 +269,7 @@
       {
         "name": "AFFiNE",
         "status": "up",
-        "uptime_24h": 86.5,
+        "uptime_24h": 87.5,
         "uptime_7d": 90.2,
         "uptime_30d": 90.2,
         "url": "https://affine.viktorbarzin.me"
@@ -374,8 +374,8 @@
         "name": "Stirling PDF",
         "status": "up",
         "uptime_24h": 90.4,
-        "uptime_7d": 93.1,
-        "uptime_30d": 93.1,
+        "uptime_7d": 93.2,
+        "uptime_30d": 93.2,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -461,7 +461,7 @@
       {
         "name": "AIOStreams",
         "status": "up",
-        "uptime_24h": 82.5,
+        "uptime_24h": 83.1,
         "uptime_7d": 87.1,
         "uptime_30d": 86.9,
         "url": "https://aiostreams.viktorbarzin.me"
@@ -494,7 +494,7 @@
         "name": "Insta2Spotify",
         "status": "up",
         "uptime_24h": 94.3,
-        "uptime_7d": 95.8,
+        "uptime_7d": 95.9,
         "uptime_30d": 95.4,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
@@ -519,14 +519,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 84.8,
-        "uptime_7d": 88.4,
+        "uptime_7d": 88.5,
         "uptime_30d": 88.1,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -566,7 +566,7 @@
         "name": "Prometheus",
         "status": "up",
         "uptime_24h": 95.8,
-        "uptime_7d": 95.9,
+        "uptime_7d": 96.0,
         "uptime_30d": 95.7,
         "url": "https://grafana.viktorbarzin.me"
       },
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 81.0,
         "uptime_7d": 71.1,
-        "uptime_30d": 62.4,
+        "uptime_30d": 62.5,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 88.3,
-        "uptime_7d": 91.6,
+        "uptime_7d": 91.7,
         "uptime_30d": 91.4,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -766,21 +766,21 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 53.6,
-        "uptime_7d": 68.1,
-        "uptime_30d": 67.1
+        "uptime_24h": 53.2,
+        "uptime_7d": 67.9,
+        "uptime_30d": 66.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 53.6,
-        "uptime_7d": 68.1,
-        "uptime_30d": 67.5
+        "uptime_24h": 53.2,
+        "uptime_7d": 67.9,
+        "uptime_30d": 67.3
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.3,
+        "uptime_24h": 94.2,
         "uptime_7d": 95.6,
         "uptime_30d": 94.7
       },
@@ -1238,7 +1238,7 @@
       {
         "name": "[External] affine",
         "status": "up",
-        "uptime_24h": 87.2,
+        "uptime_24h": 88.4,
         "uptime_7d": 90.4,
         "uptime_30d": 90.4,
         "url": "https://affine.viktorbarzin.me"
@@ -1246,9 +1246,9 @@
       {
         "name": "[External] aiostreams",
         "status": "up",
-        "uptime_24h": 85.4,
-        "uptime_7d": 89.2,
-        "uptime_30d": 89.2,
+        "uptime_24h": 86.4,
+        "uptime_7d": 89.3,
+        "uptime_30d": 89.3,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 84.9,
-        "uptime_7d": 89.1,
-        "uptime_30d": 89.1,
+        "uptime_7d": 89.2,
+        "uptime_30d": 89.2,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
