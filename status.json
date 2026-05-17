@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T01:50:55.514344+00:00",
+  "last_updated": "2026-05-17T01:55:52.217335+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.6,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -197,9 +197,9 @@
       {
         "name": "Frigate",
         "status": "down",
-        "uptime_24h": 95.0,
-        "uptime_7d": 97.2,
-        "uptime_30d": 97.0,
+        "uptime_24h": 94.6,
+        "uptime_7d": 97.0,
+        "uptime_30d": 96.8,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -269,17 +269,17 @@
       {
         "name": "AFFiNE",
         "status": "down",
-        "uptime_24h": 95.0,
-        "uptime_7d": 96.7,
-        "uptime_30d": 96.7,
+        "uptime_24h": 94.7,
+        "uptime_7d": 96.5,
+        "uptime_30d": 96.5,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "Health Dashboard",
         "status": "down",
-        "uptime_24h": 97.5,
-        "uptime_7d": 98.4,
-        "uptime_30d": 98.1,
+        "uptime_24h": 97.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 97.9,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -317,9 +317,9 @@
       {
         "name": "Changedetection",
         "status": "down",
-        "uptime_24h": 96.8,
-        "uptime_7d": 98.4,
-        "uptime_30d": 98.4,
+        "uptime_24h": 96.4,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -365,17 +365,17 @@
       {
         "name": "FreshRSS",
         "status": "down",
-        "uptime_24h": 97.1,
-        "uptime_7d": 98.4,
-        "uptime_30d": 98.4,
+        "uptime_24h": 96.8,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://rss.viktorbarzin.me"
       },
       {
         "name": "Stirling PDF",
         "status": "down",
-        "uptime_24h": 95.3,
-        "uptime_7d": 97.5,
-        "uptime_30d": 97.5,
+        "uptime_24h": 95.0,
+        "uptime_7d": 97.3,
+        "uptime_30d": 97.3,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -413,9 +413,9 @@
       {
         "name": "Wealthfolio",
         "status": "down",
-        "uptime_24h": 97.1,
-        "uptime_7d": 98.2,
-        "uptime_30d": 97.9,
+        "uptime_24h": 96.8,
+        "uptime_7d": 98.1,
+        "uptime_30d": 97.7,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
@@ -461,9 +461,9 @@
       {
         "name": "AIOStreams",
         "status": "down",
-        "uptime_24h": 92.9,
-        "uptime_7d": 96.0,
-        "uptime_30d": 95.8,
+        "uptime_24h": 92.5,
+        "uptime_7d": 95.8,
+        "uptime_30d": 95.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -493,9 +493,9 @@
       {
         "name": "Insta2Spotify",
         "status": "down",
-        "uptime_24h": 96.4,
-        "uptime_7d": 98.0,
-        "uptime_30d": 97.7,
+        "uptime_24h": 96.1,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.5,
         "url": "https://insta2spotify.viktorbarzin.me"
       },
       {
@@ -525,9 +525,9 @@
       {
         "name": "OpenClaw",
         "status": "down",
-        "uptime_24h": 90.9,
-        "uptime_7d": 94.1,
-        "uptime_30d": 93.8,
+        "uptime_24h": 90.5,
+        "uptime_7d": 93.9,
+        "uptime_30d": 93.6,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 72.8,
-        "uptime_7d": 68.5,
+        "uptime_7d": 68.6,
         "uptime_30d": 62.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.6,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -1246,9 +1246,9 @@
       {
         "name": "[External] aiostreams",
         "status": "down",
-        "uptime_24h": 92.6,
-        "uptime_7d": 96.1,
-        "uptime_30d": 96.1,
+        "uptime_24h": 92.2,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1446,9 +1446,9 @@
       {
         "name": "[External] rss",
         "status": "down",
-        "uptime_24h": 97.2,
-        "uptime_7d": 98.4,
-        "uptime_30d": 98.4,
+        "uptime_24h": 96.8,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://rss.viktorbarzin.me"
       },
       {
