@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T16:50:28.706803+00:00",
+  "last_updated": "2026-05-18T16:55:21.461204+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.5,
-        "uptime_30d": 78.9,
+        "uptime_7d": 79.6,
+        "uptime_30d": 79.0,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 75.9,
-        "uptime_30d": 75.6,
+        "uptime_30d": 75.7,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 96.5,
         "url": "https://health.viktorbarzin.me"
       },
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 76.3,
+        "uptime_24h": 76.6,
         "uptime_7d": 73.4,
         "uptime_30d": 64.1,
         "url": "https://docker.viktorbarzin.me"
@@ -662,7 +662,7 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 92.7,
+        "uptime_7d": 92.8,
         "uptime_30d": 92.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 82.6,
-        "uptime_7d": 51.3,
-        "uptime_30d": 51.2
+        "uptime_24h": 83.0,
+        "uptime_7d": 51.4,
+        "uptime_30d": 51.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 82.6,
-        "uptime_7d": 51.3,
-        "uptime_30d": 51.3
+        "uptime_24h": 83.0,
+        "uptime_7d": 51.4,
+        "uptime_30d": 51.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -840,7 +840,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://alertmanager.viktorbarzin.me"
       },
       {
@@ -1024,7 +1024,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -1048,7 +1048,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
       {
@@ -1447,8 +1447,8 @@
         "name": "[External] rss",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -1615,8 +1615,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
