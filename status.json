@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T18:35:21.158937+00:00",
+  "last_updated": "2026-05-18T18:40:31.827489+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.9,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 90.9,
+        "uptime_7d": 91.0,
         "uptime_30d": 90.0,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -326,8 +326,8 @@
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.5,
-        "uptime_30d": 96.5,
+        "uptime_7d": 96.6,
+        "uptime_30d": 96.6,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 78.5,
-        "uptime_7d": 74.0,
+        "uptime_7d": 74.1,
         "uptime_30d": 64.7,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 89.9,
-        "uptime_7d": 53.4,
-        "uptime_30d": 53.2
+        "uptime_24h": 90.3,
+        "uptime_7d": 53.5,
+        "uptime_30d": 53.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 89.9,
-        "uptime_7d": 53.4,
-        "uptime_30d": 53.3
+        "uptime_24h": 90.3,
+        "uptime_7d": 53.5,
+        "uptime_30d": 53.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 84.7
+        "uptime_30d": 84.8
       }
     ],
     "External Reachability": [
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.7,
-        "uptime_30d": 91.7,
+        "uptime_7d": 91.8,
+        "uptime_30d": 91.8,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
