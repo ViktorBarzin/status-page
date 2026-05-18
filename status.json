@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T15:30:32.062124+00:00",
+  "last_updated": "2026-05-18T15:35:22.098704+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.8,
+        "uptime_7d": 78.9,
         "uptime_30d": 78.2,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.0,
+        "uptime_7d": 75.1,
         "uptime_30d": 74.8,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 90.2,
+        "uptime_7d": 90.3,
         "uptime_30d": 89.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -406,7 +406,7 @@
         "name": "Speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 97.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
@@ -580,7 +580,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 76.3,
         "uptime_7d": 73.9,
         "uptime_30d": 64.2,
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 92.5,
-        "uptime_30d": 92.2,
+        "uptime_30d": 92.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 77.1,
-        "uptime_7d": 49.6,
-        "uptime_30d": 49.6
+        "uptime_24h": 77.4,
+        "uptime_7d": 49.7,
+        "uptime_30d": 49.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 77.1,
-        "uptime_7d": 49.6,
-        "uptime_30d": 49.6
+        "uptime_24h": 77.4,
+        "uptime_7d": 49.7,
+        "uptime_30d": 49.7
       },
       {
         "name": "Valchedrym DDNS",
