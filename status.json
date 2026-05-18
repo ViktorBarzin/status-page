@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-18T13:05:22.523921+00:00",
+  "last_updated": "2026-05-18T13:10:30.035237+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
+        "uptime_7d": 97.7,
         "uptime_30d": 97.2,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 97.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 77.4,
-        "uptime_30d": 76.7,
+        "uptime_30d": 76.8,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -270,8 +270,8 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.0,
+        "uptime_7d": 94.3,
+        "uptime_30d": 94.1,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -334,8 +334,8 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 90.3,
-        "uptime_30d": 90.3,
+        "uptime_7d": 90.4,
+        "uptime_30d": 90.4,
         "url": "http://blog.website.svc"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.0,
-        "uptime_30d": 94.3,
+        "uptime_30d": 94.4,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 79.9,
-        "uptime_7d": 75.0,
+        "uptime_7d": 75.1,
         "uptime_30d": 64.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -669,7 +669,7 @@
       {
         "name": "ha-sofia-internal",
         "status": "up",
-        "uptime_24h": 99.8,
+        "uptime_24h": 99.9,
         "uptime_7d": 99.6,
         "uptime_30d": 99.4,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
@@ -677,7 +677,7 @@
       {
         "name": "ha-sofia-direct",
         "status": "up",
-        "uptime_24h": 99.8,
+        "uptime_24h": 99.9,
         "uptime_7d": 99.6,
         "uptime_30d": 99.4,
         "url": "http://192.168.1.8:8123/manifest.json"
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 67.0,
-        "uptime_7d": 46.1,
-        "uptime_30d": 46.3
+        "uptime_24h": 67.4,
+        "uptime_7d": 46.2,
+        "uptime_30d": 46.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 67.0,
-        "uptime_7d": 46.1,
-        "uptime_30d": 46.2
+        "uptime_24h": 67.4,
+        "uptime_7d": 46.2,
+        "uptime_30d": 46.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 95.8
+        "uptime_30d": 95.9
       },
       {
         "name": "pfSense Gateway",
@@ -1239,8 +1239,8 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 94.5,
-        "uptime_30d": 94.5,
+        "uptime_7d": 94.6,
+        "uptime_30d": 94.6,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 90.5,
-        "uptime_30d": 90.5,
+        "uptime_7d": 90.6,
+        "uptime_30d": 90.6,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
