@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T12:50:29.527633+00:00",
+  "last_updated": "2026-05-18T12:55:22.234901+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 77.2,
+        "uptime_7d": 77.3,
         "uptime_30d": 76.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 73.1,
+        "uptime_7d": 73.2,
         "uptime_30d": 72.9,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 89.6,
-        "uptime_30d": 88.5,
+        "uptime_30d": 88.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -303,7 +303,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -374,8 +374,8 @@
         "name": "Stirling PDF",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.1,
-        "uptime_30d": 97.1,
+        "uptime_7d": 97.2,
+        "uptime_30d": 97.2,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -510,8 +510,8 @@
         "name": "Plotting Book",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -622,8 +622,8 @@
         "name": "Flaresolverr",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 99.8,
         "uptime_7d": 91.9,
-        "uptime_30d": 91.6,
+        "uptime_30d": 91.7,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -710,7 +710,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.0
+        "uptime_30d": 99.1
       },
       {
         "name": "Traefik LoadBalancer",
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 66.0,
-        "uptime_7d": 45.7,
-        "uptime_30d": 45.9
+        "uptime_24h": 66.3,
+        "uptime_7d": 45.8,
+        "uptime_30d": 46.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 66.0,
-        "uptime_7d": 45.7,
-        "uptime_30d": 45.8
+        "uptime_24h": 66.3,
+        "uptime_7d": 45.8,
+        "uptime_30d": 45.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 82.7
+        "uptime_30d": 83.1
       }
     ],
     "External Reachability": [
