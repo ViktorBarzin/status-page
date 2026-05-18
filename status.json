@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T23:35:22.224164+00:00",
+  "last_updated": "2026-05-18T23:40:27.748048+00:00",
   "groups": {
     "HTTP": [
       {
@@ -14,8 +14,8 @@
         "name": "Headscale (Tailscale VPN)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.2,
-        "uptime_30d": 96.2,
+        "uptime_7d": 96.3,
+        "uptime_30d": 96.3,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 82.9,
-        "uptime_30d": 82.3,
+        "uptime_30d": 82.4,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -198,8 +198,8 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 76.8,
-        "uptime_30d": 76.6,
+        "uptime_7d": 76.9,
+        "uptime_30d": 76.7,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -262,7 +262,7 @@
         "name": "Rybbit Analytics",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.5,
         "url": "https://rybbit.viktorbarzin.me"
       },
@@ -270,7 +270,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.1,
+        "uptime_7d": 93.2,
         "uptime_30d": 92.8,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.0,
+        "uptime_7d": 93.1,
         "uptime_30d": 91.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.8,
+        "uptime_7d": 92.0,
         "uptime_30d": 91.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 91.7,
-        "uptime_7d": 73.9,
-        "uptime_30d": 64.9,
+        "status": "down",
+        "uptime_24h": 80.8,
+        "uptime_7d": 73.6,
+        "uptime_30d": 64.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,14 +768,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 59.1,
-        "uptime_30d": 58.7
+        "uptime_30d": 58.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 59.1,
-        "uptime_30d": 58.8
+        "uptime_30d": 58.9
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 87.1
+        "uptime_30d": 87.2
       }
     ],
     "External Reachability": [
@@ -903,7 +903,7 @@
         "name": "[External] london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://london.viktorbarzin.me"
       },
@@ -991,7 +991,7 @@
         "name": "[External] prowlarr",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.6,
         "url": "https://prowlarr.viktorbarzin.me"
       },
@@ -1015,7 +1015,7 @@
         "name": "[External] stirling-pdf",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
@@ -1047,7 +1047,7 @@
         "name": "[External] terminal-ro",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.8,
+        "uptime_7d": 100.0,
         "uptime_30d": 99.5,
         "url": "https://terminal-ro.viktorbarzin.me"
       },
