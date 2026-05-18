@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T16:10:28.727077+00:00",
+  "last_updated": "2026-05-18T16:15:22.874856+00:00",
   "groups": {
     "HTTP": [
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -198,8 +198,8 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 75.4,
-        "uptime_30d": 75.2,
+        "uptime_7d": 75.5,
+        "uptime_30d": 75.3,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 90.4,
-        "uptime_30d": 89.4,
+        "uptime_30d": 89.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.6,
-        "uptime_30d": 90.1,
+        "uptime_30d": 90.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.3,
+        "uptime_7d": 95.4,
         "uptime_30d": 94.8,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 77.0,
-        "uptime_7d": 73.9,
+        "uptime_7d": 74.0,
         "uptime_30d": 64.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 79.9,
-        "uptime_7d": 50.4,
-        "uptime_30d": 50.4
+        "uptime_24h": 80.2,
+        "uptime_7d": 50.5,
+        "uptime_30d": 50.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 79.9,
-        "uptime_7d": 50.4,
-        "uptime_30d": 50.4
+        "uptime_24h": 80.2,
+        "uptime_7d": 50.5,
+        "uptime_30d": 50.5
       },
       {
         "name": "Valchedrym DDNS",
