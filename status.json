@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T18:30:40.990648+00:00",
+  "last_updated": "2026-05-18T18:35:21.158937+00:00",
   "groups": {
     "HTTP": [
       {
@@ -198,8 +198,8 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 76.8,
-        "uptime_30d": 76.6,
+        "uptime_7d": 76.9,
+        "uptime_30d": 76.7,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 78.9,
+        "uptime_7d": 79.0,
         "uptime_30d": 78.3,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -374,8 +374,8 @@
         "name": "Stirling PDF",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.5,
-        "uptime_30d": 97.5,
+        "uptime_7d": 97.6,
+        "uptime_30d": 97.6,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 78.4,
+        "uptime_24h": 78.5,
         "uptime_7d": 74.0,
         "uptime_30d": 64.7,
         "url": "https://docker.viktorbarzin.me"
@@ -662,7 +662,7 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 93.0,
+        "uptime_7d": 93.1,
         "uptime_30d": 92.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -766,23 +766,23 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 89.6,
-        "uptime_7d": 53.3,
-        "uptime_30d": 53.1
+        "uptime_24h": 89.9,
+        "uptime_7d": 53.4,
+        "uptime_30d": 53.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 89.6,
-        "uptime_7d": 53.3,
-        "uptime_30d": 53.2
+        "uptime_24h": 89.9,
+        "uptime_7d": 53.4,
+        "uptime_30d": 53.3
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 96.5,
-        "uptime_30d": 95.7
+        "uptime_30d": 95.8
       },
       {
         "name": "Sofia RPI",
@@ -1239,8 +1239,8 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
