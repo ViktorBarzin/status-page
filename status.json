@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T18:00:39.885377+00:00",
+  "last_updated": "2026-05-18T18:05:22.228398+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.1,
-        "uptime_30d": 79.5,
+        "uptime_7d": 80.2,
+        "uptime_30d": 79.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.5,
-        "uptime_30d": 98.3,
+        "uptime_7d": 98.6,
+        "uptime_30d": 98.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 76.6,
-        "uptime_30d": 76.3,
+        "uptime_30d": 76.4,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -271,7 +271,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 94.9,
-        "uptime_30d": 94.7,
+        "uptime_30d": 94.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.0,
-        "uptime_30d": 90.5,
+        "uptime_30d": 90.6,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 78.1,
+        "uptime_24h": 78.0,
         "uptime_7d": 73.8,
         "uptime_30d": 64.5,
         "url": "https://docker.viktorbarzin.me"
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 87.5,
-        "uptime_7d": 52.7,
-        "uptime_30d": 52.6
+        "uptime_24h": 87.8,
+        "uptime_7d": 52.8,
+        "uptime_30d": 52.7
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 87.5,
-        "uptime_7d": 52.7,
-        "uptime_30d": 52.6
+        "uptime_24h": 87.8,
+        "uptime_7d": 52.8,
+        "uptime_30d": 52.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.6,
-        "uptime_30d": 91.6,
+        "uptime_7d": 91.7,
+        "uptime_30d": 91.7,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
