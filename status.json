@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T19:05:22.040037+00:00",
+  "last_updated": "2026-05-18T19:10:27.808192+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 80.6,
-        "uptime_30d": 80.0,
+        "uptime_7d": 80.7,
+        "uptime_30d": 80.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.0,
+        "uptime_7d": 91.1,
         "uptime_30d": 90.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.2,
+        "uptime_7d": 79.3,
         "uptime_30d": 78.6,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 90.7,
-        "uptime_30d": 90.6,
+        "uptime_30d": 90.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -662,7 +662,7 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 99.9,
-        "uptime_7d": 93.1,
+        "uptime_7d": 93.2,
         "uptime_30d": 92.9,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 92.0,
-        "uptime_7d": 54.0,
-        "uptime_30d": 53.8
+        "uptime_24h": 92.4,
+        "uptime_7d": 54.1,
+        "uptime_30d": 53.9
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 92.0,
-        "uptime_7d": 54.0,
-        "uptime_30d": 53.9
+        "uptime_24h": 92.4,
+        "uptime_7d": 54.1,
+        "uptime_30d": 54.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -1423,8 +1423,8 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.8,
-        "uptime_30d": 91.8,
+        "uptime_7d": 91.9,
+        "uptime_30d": 91.9,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
