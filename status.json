@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T16:40:29.633569+00:00",
+  "last_updated": "2026-05-18T16:46:15.985264+00:00",
   "groups": {
     "HTTP": [
       {
@@ -134,8 +134,8 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 79.4,
-        "uptime_30d": 78.8,
+        "uptime_7d": 79.5,
+        "uptime_30d": 78.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 75.8,
-        "uptime_30d": 75.5,
+        "uptime_30d": 75.6,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.0,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -318,8 +318,8 @@
         "name": "Changedetection",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.5,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -366,8 +366,8 @@
         "name": "FreshRSS",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 90.1,
-        "uptime_30d": 90.0,
+        "uptime_30d": 90.1,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.4,
-        "uptime_30d": 94.8,
+        "uptime_30d": 94.9,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 75.7,
+        "status": "up",
+        "uptime_24h": 76.5,
         "uptime_7d": 73.5,
-        "uptime_30d": 64.1,
+        "uptime_30d": 64.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -630,8 +630,8 @@
         "name": "QBittorrent",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.6,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.7,
+        "uptime_30d": 97.5,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 81.9,
-        "uptime_7d": 51.1,
-        "uptime_30d": 51.0
+        "uptime_24h": 82.3,
+        "uptime_7d": 51.2,
+        "uptime_30d": 51.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 81.9,
-        "uptime_7d": 51.1,
-        "uptime_30d": 51.1
+        "uptime_24h": 82.3,
+        "uptime_7d": 51.2,
+        "uptime_30d": 51.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -1215,7 +1215,7 @@
         "name": "[External] resume",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.4,
+        "uptime_7d": 97.5,
         "uptime_30d": 97.5,
         "url": "https://resume.viktorbarzin.me"
       },
