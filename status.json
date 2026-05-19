@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T15:10:29.082540+00:00",
+  "last_updated": "2026-05-19T15:15:26.793708+00:00",
   "groups": {
     "HTTP": [
       {
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 99.5,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.8,
+        "uptime_30d": 98.9,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 99.5,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 95.1,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -270,7 +270,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.0,
+        "uptime_7d": 97.1,
         "uptime_30d": 96.4,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -438,7 +438,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.2,
+        "uptime_7d": 98.3,
         "uptime_30d": 97.7,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 64.0,
-        "uptime_7d": 62.2,
+        "status": "up",
+        "uptime_24h": 63.9,
+        "uptime_7d": 62.1,
         "uptime_30d": 55.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.1,
-        "uptime_30d": 93.1
+        "uptime_7d": 94.2,
+        "uptime_30d": 93.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.1,
-        "uptime_30d": 93.1
+        "uptime_7d": 94.2,
+        "uptime_30d": 93.2
       },
       {
         "name": "Valchedrym DDNS",
