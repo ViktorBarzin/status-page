@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T17:00:40.750592+00:00",
+  "last_updated": "2026-05-19T17:05:24.042401+00:00",
   "groups": {
     "HTTP": [
       {
@@ -53,7 +53,7 @@
       {
         "name": "HackMD",
         "status": "up",
-        "uptime_24h": 99.5,
+        "uptime_24h": 99.6,
         "uptime_7d": 99.3,
         "uptime_30d": 98.9,
         "url": "http://hackmd.hackmd"
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 99.5,
+        "uptime_24h": 99.6,
         "uptime_7d": 98.9,
         "uptime_30d": 98.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 96.9,
+        "uptime_30d": 97.0,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 96.6,
+        "uptime_30d": 96.7,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 65.0,
-        "uptime_7d": 62.9,
+        "uptime_24h": 65.2,
+        "uptime_7d": 63.0,
         "uptime_30d": 56.4,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.2,
+        "uptime_30d": 98.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.5,
+        "uptime_30d": 99.6,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -1424,7 +1424,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1472,7 +1472,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
