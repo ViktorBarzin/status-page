@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T01:35:22.807933+00:00",
+  "last_updated": "2026-05-19T01:40:29.283162+00:00",
   "groups": {
     "HTTP": [
       {
@@ -38,7 +38,7 @@
         "name": "Shlink (URL Shortener)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 95.5,
         "url": "https://shlink.viktorbarzin.me"
       },
@@ -53,7 +53,7 @@
       {
         "name": "HackMD",
         "status": "up",
-        "uptime_24h": 97.3,
+        "uptime_24h": 97.4,
         "uptime_7d": 99.3,
         "uptime_30d": 99.1,
         "url": "http://hackmd.hackmd"
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 83.7,
+        "uptime_7d": 83.8,
         "uptime_30d": 83.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 97.3,
+        "uptime_24h": 97.4,
         "uptime_7d": 97.8,
         "uptime_30d": 97.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.3,
+        "uptime_7d": 92.4,
         "uptime_30d": 91.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -358,7 +358,7 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.8,
+        "uptime_7d": 94.9,
         "uptime_30d": 94.1,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -462,7 +462,7 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.3,
+        "uptime_7d": 91.4,
         "uptime_30d": 90.8,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.8,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 69.0,
-        "uptime_7d": 73.4,
+        "uptime_24h": 69.8,
+        "uptime_7d": 73.5,
         "uptime_30d": 64.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -662,8 +662,8 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.1,
-        "uptime_30d": 93.9,
+        "uptime_7d": 94.2,
+        "uptime_30d": 94.0,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -768,19 +768,19 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 60.8,
-        "uptime_30d": 60.3
+        "uptime_30d": 60.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 60.8,
-        "uptime_30d": 60.5
+        "uptime_30d": 60.6
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 94.6,
+        "uptime_24h": 94.7,
         "uptime_7d": 96.1,
         "uptime_30d": 95.5
       },
@@ -1239,7 +1239,7 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.3,
+        "uptime_7d": 93.4,
         "uptime_30d": 93.2,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -1424,7 +1424,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.4,
-        "uptime_30d": 92.2,
+        "uptime_30d": 92.3,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1447,7 +1447,7 @@
         "name": "[External] rss",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.9,
+        "uptime_7d": 98.0,
         "uptime_30d": 97.8,
         "url": "https://rss.viktorbarzin.me"
       },
@@ -1583,7 +1583,7 @@
         "name": "[External] n8n",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 94.7,
+        "uptime_7d": 94.8,
         "uptime_30d": 94.6,
         "url": "https://n8n.viktorbarzin.me"
       },
