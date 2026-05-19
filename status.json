@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T00:01:04.024861+00:00",
+  "last_updated": "2026-05-19T00:05:25.181291+00:00",
   "groups": {
     "HTTP": [
       {
@@ -53,7 +53,7 @@
       {
         "name": "HackMD",
         "status": "up",
-        "uptime_24h": 95.7,
+        "uptime_24h": 95.8,
         "uptime_7d": 99.3,
         "uptime_30d": 99.1,
         "url": "http://hackmd.hackmd"
@@ -198,8 +198,8 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 77.1,
-        "uptime_30d": 76.8,
+        "uptime_7d": 77.2,
+        "uptime_30d": 76.9,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -214,7 +214,7 @@
         "name": "nvidia-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 81.9,
+        "uptime_7d": 82.0,
         "uptime_30d": 81.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
@@ -318,8 +318,8 @@
         "name": "Changedetection",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.1,
-        "uptime_30d": 96.1,
+        "uptime_7d": 96.2,
+        "uptime_30d": 96.2,
         "url": "https://changedetection.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 70.4,
+        "uptime_24h": 71.4,
         "uptime_7d": 73.4,
         "uptime_30d": 64.7,
         "url": "https://docker.viktorbarzin.me"
@@ -662,8 +662,8 @@
         "name": "ha-sofia-public",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.9,
-        "uptime_30d": 93.7,
+        "uptime_7d": 94.0,
+        "uptime_30d": 93.8,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -767,20 +767,20 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 59.4,
-        "uptime_30d": 59.0
+        "uptime_7d": 59.5,
+        "uptime_30d": 59.1
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 59.4,
-        "uptime_30d": 59.2
+        "uptime_7d": 59.5,
+        "uptime_30d": 59.3
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 92.0,
+        "uptime_24h": 91.7,
         "uptime_7d": 96.0,
         "uptime_30d": 95.3
       },
