@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T18:55:25.367260+00:00",
+  "last_updated": "2026-05-19T19:00:40.871810+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 65.1,
-        "uptime_7d": 63.1,
-        "uptime_30d": 56.7,
+        "uptime_24h": 64.9,
+        "uptime_7d": 63.0,
+        "uptime_30d": 56.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,14 +768,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.0,
-        "uptime_30d": 94.1
+        "uptime_30d": 94.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 95.0,
-        "uptime_30d": 94.1
+        "uptime_30d": 94.2
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 86.1
+        "uptime_30d": 86.2
       }
     ],
     "External Reachability": [
