@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-19T11:05:24.940842+00:00",
+  "last_updated": "2026-05-19T11:10:31.195311+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.1,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -14,8 +14,8 @@
         "name": "Headscale (Tailscale VPN)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -30,15 +30,15 @@
         "name": "Excalidraw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
-        "uptime_30d": 99.0,
+        "uptime_7d": 99.1,
+        "uptime_30d": 99.1,
         "url": "https://draw.viktorbarzin.me"
       },
       {
         "name": "Shlink (URL Shortener)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 95.6,
         "url": "https://shlink.viktorbarzin.me"
       },
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 96.4,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 97.7,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 96.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "http://blog.website.svc"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 65.0,
-        "uptime_7d": 61.8,
-        "uptime_30d": 55.3,
+        "uptime_24h": 65.2,
+        "uptime_7d": 62.1,
+        "uptime_30d": 55.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -710,7 +710,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0
+        "uptime_30d": 99.1
       },
       {
         "name": "Traefik LoadBalancer",
@@ -768,7 +768,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 90.0
+        "uptime_30d": 90.1
       },
       {
         "name": "Valchedrym Video System",
@@ -1168,7 +1168,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
@@ -1208,7 +1208,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
@@ -1615,7 +1615,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
