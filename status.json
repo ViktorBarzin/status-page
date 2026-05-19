@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T17:45:26.866680+00:00",
+  "last_updated": "2026-05-19T17:50:24.104295+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 95.5,
+        "uptime_30d": 95.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -407,7 +407,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 97.0,
+        "uptime_30d": 97.1,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 64.7,
-        "uptime_7d": 62.8,
+        "uptime_24h": 64.9,
+        "uptime_7d": 62.9,
         "uptime_30d": 56.4,
         "url": "https://docker.viktorbarzin.me"
       },
