@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T00:05:25.181291+00:00",
+  "last_updated": "2026-05-19T00:10:27.744717+00:00",
   "groups": {
     "HTTP": [
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 83.2,
-        "uptime_30d": 82.5,
+        "uptime_30d": 82.6,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.1,
-        "uptime_30d": 91.8,
+        "uptime_30d": 91.9,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -366,7 +366,7 @@
         "name": "FreshRSS",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 97.9,
         "url": "https://rss.viktorbarzin.me"
       },
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.4,
-        "uptime_7d": 73.4,
-        "uptime_30d": 64.7,
+        "uptime_7d": 73.5,
+        "uptime_30d": 64.8,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -767,14 +767,14 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 59.5,
-        "uptime_30d": 59.1
+        "uptime_7d": 59.6,
+        "uptime_30d": 59.2
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 59.5,
+        "uptime_7d": 59.6,
         "uptime_30d": 59.3
       },
       {
@@ -1239,7 +1239,7 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.1,
+        "uptime_7d": 93.2,
         "uptime_30d": 93.0,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -1423,7 +1423,7 @@
         "name": "[External] forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.1,
+        "uptime_7d": 92.2,
         "uptime_30d": 92.0,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
