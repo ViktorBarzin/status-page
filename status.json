@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T08:16:22.397836+00:00",
+  "last_updated": "2026-05-19T08:20:34.199636+00:00",
   "groups": {
     "HTTP": [
       {
@@ -53,7 +53,7 @@
       {
         "name": "HackMD",
         "status": "up",
-        "uptime_24h": 99.1,
+        "uptime_24h": 99.2,
         "uptime_7d": 98.9,
         "uptime_30d": 98.3,
         "url": "http://hackmd.hackmd"
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 96.2,
+        "uptime_30d": 96.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 99.1,
+        "uptime_24h": 99.2,
         "uptime_7d": 98.3,
         "uptime_30d": 97.8,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -206,8 +206,8 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.7,
-        "uptime_30d": 91.3,
+        "uptime_7d": 95.8,
+        "uptime_30d": 91.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -270,7 +270,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.7,
+        "uptime_7d": 95.8,
         "uptime_30d": 94.8,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 94.3,
+        "uptime_30d": 94.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 95.7,
+        "uptime_30d": 95.8,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -679,7 +679,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.1,
+        "uptime_30d": 99.2,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
     ],
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.3,
-        "uptime_30d": 87.4
+        "uptime_7d": 91.4,
+        "uptime_30d": 87.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 91.3,
-        "uptime_30d": 88.6
+        "uptime_7d": 91.4,
+        "uptime_30d": 88.7
       },
       {
         "name": "Valchedrym DDNS",
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 91.3
+        "uptime_30d": 91.4
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.3,
-        "uptime_30d": 83.5
+        "uptime_30d": 83.6
       }
     ],
     "External Reachability": [
