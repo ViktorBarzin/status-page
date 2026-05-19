@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T17:30:31.865329+00:00",
+  "last_updated": "2026-05-19T17:35:25.248881+00:00",
   "groups": {
     "HTTP": [
       {
@@ -63,7 +63,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://pb.viktorbarzin.me"
       },
       {
@@ -86,7 +86,7 @@
         "name": "calibre",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.0,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -95,7 +95,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://dawarich.viktorbarzin.me"
       },
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 98.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -142,8 +142,8 @@
         "name": "Actual Budget",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "http://budget-viktor.actualbudget"
       },
       {
@@ -166,8 +166,8 @@
         "name": "Vaultwarden",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "http://vaultwarden.vaultwarden"
       },
       {
@@ -246,8 +246,8 @@
         "name": "Onlyoffice",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
       {
@@ -286,7 +286,7 @@
         "name": "Ntfy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 98.6,
         "url": "https://ntfy.viktorbarzin.me"
       },
@@ -294,7 +294,7 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.0,
         "url": "https://forgejo.viktorbarzin.me"
       },
@@ -302,7 +302,7 @@
         "name": "Navidrome",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 98.6,
         "url": "https://navidrome.viktorbarzin.me"
       },
@@ -334,7 +334,7 @@
         "name": "Blog",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.3,
         "url": "http://blog.website.svc"
       },
@@ -343,14 +343,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
         "name": "Tandoor",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 98.6,
         "url": "https://tandoor.viktorbarzin.me"
       },
@@ -383,7 +383,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://home.viktorbarzin.me"
       },
       {
@@ -391,7 +391,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://send.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 64.6,
-        "uptime_7d": 62.7,
-        "uptime_30d": 56.3,
+        "status": "up",
+        "uptime_24h": 64.7,
+        "uptime_7d": 62.8,
+        "uptime_30d": 56.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -688,22 +688,22 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
-        "uptime_30d": 99.6
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7
       },
       {
         "name": "ShadowSocks Proxy",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6
+        "uptime_30d": 99.7
       },
       {
         "name": "KMS (Windows Activation Service)",
@@ -1176,7 +1176,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://postiz.viktorbarzin.me"
       },
       {
@@ -1240,7 +1240,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.7,
-        "uptime_30d": 97.3,
+        "uptime_30d": 97.4,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -1264,7 +1264,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://dolt-workbench.viktorbarzin.me"
       },
       {
@@ -1440,7 +1440,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://music-viktor.viktorbarzin.me"
       },
       {
@@ -1536,7 +1536,7 @@
         "status": "up",
         "uptime_24h": 99.6,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://kms.viktorbarzin.me"
       },
       {
@@ -1639,7 +1639,7 @@
         "name": "[External] onlyoffice",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.3,
         "url": "https://onlyoffice.viktorbarzin.me"
       },
@@ -1727,7 +1727,7 @@
         "name": "[External] vaultwarden",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.6,
+        "uptime_7d": 99.7,
         "uptime_30d": 99.7,
         "url": "https://vaultwarden.viktorbarzin.me"
       },
