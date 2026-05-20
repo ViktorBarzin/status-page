@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T21:05:27.989590+00:00",
+  "last_updated": "2026-05-20T21:10:36.598047+00:00",
   "groups": {
     "HTTP": [
       {
@@ -524,10 +524,10 @@
       },
       {
         "name": "OpenClaw",
-        "status": "up",
-        "uptime_24h": 96.9,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.0,
+        "status": "down",
+        "uptime_24h": 96.6,
+        "uptime_7d": 96.6,
+        "uptime_30d": 95.8,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.9,
-        "uptime_7d": 66.5,
+        "uptime_7d": 66.6,
         "uptime_30d": 59.9,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -780,7 +780,7 @@
       {
         "name": "Valchedrym DDNS",
         "status": "up",
-        "uptime_24h": 99.0,
+        "uptime_24h": 99.7,
         "uptime_7d": 99.0,
         "uptime_30d": 98.5
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.9
+        "uptime_30d": 98.0
       },
       {
         "name": "pfSense Gateway",
@@ -1248,7 +1248,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
