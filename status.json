@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T20:55:24.204093+00:00",
+  "last_updated": "2026-05-20T21:00:52.044553+00:00",
   "groups": {
     "HTTP": [
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 73.9,
-        "uptime_7d": 66.4,
-        "uptime_30d": 59.8,
+        "uptime_7d": 66.5,
+        "uptime_30d": 59.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -663,7 +663,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 88.6
+        "uptime_30d": 88.7
       }
     ],
     "External Reachability": [
