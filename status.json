@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T21:20:40.538045+00:00",
+  "last_updated": "2026-05-20T21:25:28.160349+00:00",
   "groups": {
     "HTTP": [
       {
@@ -524,10 +524,10 @@
       },
       {
         "name": "OpenClaw",
-        "status": "up",
-        "uptime_24h": 96.6,
-        "uptime_7d": 96.7,
-        "uptime_30d": 95.8,
+        "status": "down",
+        "uptime_24h": 95.6,
+        "uptime_7d": 96.1,
+        "uptime_30d": 95.3,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 73.7,
-        "uptime_7d": 66.6,
+        "uptime_24h": 73.5,
+        "uptime_7d": 66.5,
         "uptime_30d": 59.9,
         "url": "https://docker.viktorbarzin.me"
       },
