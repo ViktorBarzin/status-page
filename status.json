@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:35:27.144544+00:00",
+  "last_updated": "2026-05-21T04:40:39.609797+00:00",
   "groups": {
     "HTTP": [
       {
@@ -308,10 +308,10 @@
       },
       {
         "name": "ha-london",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 98.5,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.1,
+        "uptime_30d": 98.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -583,7 +583,7 @@
         "status": "up",
         "uptime_24h": 76.3,
         "uptime_7d": 69.6,
-        "uptime_30d": 59.9,
+        "uptime_30d": 60.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -660,8 +660,8 @@
       },
       {
         "name": "ha-sofia-public",
-        "status": "up",
-        "uptime_24h": 100.0,
+        "status": "down",
+        "uptime_24h": 99.9,
         "uptime_7d": 99.4,
         "uptime_30d": 98.8,
         "url": "https://ha-sofia.viktorbarzin.me"
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 96.7
+        "uptime_30d": 96.8
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 85.9
+        "uptime_30d": 86.0
       }
     ],
     "External Reachability": [
@@ -877,10 +877,10 @@
       },
       {
         "name": "[External] ha-london",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.4,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
