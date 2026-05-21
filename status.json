@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T12:20:29.566557+00:00",
+  "last_updated": "2026-05-21T12:25:24.057350+00:00",
   "groups": {
     "HTTP": [
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.6,
-        "uptime_7d": 70.0,
+        "uptime_24h": 74.8,
+        "uptime_7d": 70.1,
         "uptime_30d": 61.2,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.4
+        "uptime_30d": 97.5
       },
       {
         "name": "pfSense Gateway",
@@ -1239,7 +1239,7 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 98.1,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -1678,7 +1678,7 @@
       {
         "name": "[External] plotting-book",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "https://plotting-book.viktorbarzin.me"
@@ -1726,7 +1726,7 @@
       {
         "name": "[External] vaultwarden",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 99.5,
         "url": "https://vaultwarden.viktorbarzin.me"
