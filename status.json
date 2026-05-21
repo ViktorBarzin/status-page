@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T16:20:28.412901+00:00",
+  "last_updated": "2026-05-21T16:25:22.462584+00:00",
   "groups": {
     "HTTP": [
       {
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 95.9,
         "uptime_7d": 94.0,
-        "uptime_30d": 93.1,
+        "uptime_30d": 93.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -574,16 +574,16 @@
         "name": "Goldilocks (VPA)",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 73.4,
-        "uptime_7d": 69.1,
-        "uptime_30d": 61.0,
+        "uptime_7d": 69.2,
+        "uptime_30d": 61.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
