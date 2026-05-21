@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T16:00:41.601164+00:00",
+  "last_updated": "2026-05-21T16:06:16.426105+00:00",
   "groups": {
     "HTTP": [
       {
@@ -191,7 +191,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://tuya-bridge.viktorbarzin.me"
       },
       {
@@ -447,7 +447,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -580,9 +580,9 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 74.6,
-        "uptime_7d": 69.7,
+        "status": "down",
+        "uptime_24h": 74.3,
+        "uptime_7d": 69.6,
         "uptime_30d": 61.3,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -1472,7 +1472,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -1616,7 +1616,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
