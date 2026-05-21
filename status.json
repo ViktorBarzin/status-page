@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T18:20:29.016873+00:00",
+  "last_updated": "2026-05-21T18:25:23.605914+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.4,
-        "uptime_30d": 97.2,
+        "uptime_30d": 97.3,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.9,
-        "uptime_7d": 69.3,
-        "uptime_30d": 61.3,
+        "uptime_7d": 69.4,
+        "uptime_30d": 61.4,
         "url": "https://docker.viktorbarzin.me"
       },
       {
