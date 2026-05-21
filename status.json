@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T09:11:47.718731+00:00",
+  "last_updated": "2026-05-21T09:15:27.071035+00:00",
   "groups": {
     "HTTP": [
       {
@@ -374,7 +374,7 @@
         "name": "Stirling PDF",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 98.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
@@ -407,14 +407,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.7,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "Wealthfolio",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 97.9,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -551,7 +551,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 77.5,
-        "uptime_7d": 70.3,
-        "uptime_30d": 60.9,
+        "uptime_7d": 70.4,
+        "uptime_30d": 61.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1032,7 +1032,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -1120,7 +1120,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -1247,7 +1247,7 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.9,
+        "uptime_7d": 99.0,
         "uptime_30d": 98.7,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -1421,9 +1421,9 @@
       },
       {
         "name": "[External] forgejo",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 97.9,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
