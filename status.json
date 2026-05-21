@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T11:46:21.314081+00:00",
+  "last_updated": "2026-05-21T11:50:34.316130+00:00",
   "groups": {
     "HTTP": [
       {
@@ -199,7 +199,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.1,
-        "uptime_30d": 96.7,
+        "uptime_30d": 96.8,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "down",
-        "uptime_24h": 75.1,
-        "uptime_7d": 70.0,
-        "uptime_30d": 61.1,
+        "uptime_24h": 74.9,
+        "uptime_7d": 69.9,
+        "uptime_30d": 61.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.5
+        "uptime_30d": 98.6
       },
       {
         "name": "Sofia RPI",
