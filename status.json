@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T21:40:35.751469+00:00",
+  "last_updated": "2026-05-21T21:46:18.347757+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.5,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 98.5,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -525,7 +525,7 @@
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 99.0,
         "uptime_7d": 94.7,
         "uptime_30d": 93.9,
         "url": "https://openclaw.viktorbarzin.me"
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 71.7,
-        "uptime_7d": 70.1,
-        "uptime_30d": 62.0,
+        "status": "down",
+        "uptime_24h": 71.0,
+        "uptime_7d": 69.8,
+        "uptime_30d": 61.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 99.2,
-        "uptime_30d": 99.0,
+        "uptime_30d": 99.1,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
