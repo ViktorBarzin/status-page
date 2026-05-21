@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T08:51:28.269166+00:00",
+  "last_updated": "2026-05-21T09:10:24.810856+00:00",
   "groups": {
     "HTTP": [
       {
@@ -292,10 +292,10 @@
       },
       {
         "name": "Forgejo",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "status": "down",
+        "uptime_24h": 99.0,
+        "uptime_7d": 98.9,
+        "uptime_30d": 98.4,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -526,8 +526,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 95.9,
-        "uptime_7d": 92.7,
-        "uptime_30d": 91.6,
+        "uptime_7d": 92.8,
+        "uptime_30d": 91.7,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.2,
-        "uptime_7d": 70.1,
-        "uptime_30d": 60.8,
+        "uptime_24h": 77.5,
+        "uptime_7d": 70.3,
+        "uptime_30d": 60.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -671,7 +671,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.9,
-        "uptime_30d": 99.6,
+        "uptime_30d": 99.7,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
       {
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 87.0
+        "uptime_30d": 87.1
       }
     ],
     "External Reachability": [
@@ -1421,10 +1421,10 @@
       },
       {
         "name": "[External] forgejo",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.5,
-        "uptime_30d": 99.2,
+        "status": "down",
+        "uptime_24h": 98.3,
+        "uptime_7d": 98.1,
+        "uptime_30d": 97.9,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
