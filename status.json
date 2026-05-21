@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T18:40:36.475066+00:00",
+  "last_updated": "2026-05-21T18:45:25.670502+00:00",
   "groups": {
     "HTTP": [
       {
@@ -439,7 +439,7 @@
         "status": "up",
         "uptime_24h": 99.9,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.9,
+        "uptime_30d": 99.0,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 71.9,
-        "uptime_7d": 69.5,
+        "uptime_7d": 69.7,
         "uptime_30d": 61.5,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -1429,7 +1429,7 @@
       },
       {
         "name": "[External] music-emo",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.8,
         "uptime_30d": 99.8,
