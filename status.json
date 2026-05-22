@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T11:05:28.087615+00:00",
+  "last_updated": "2026-05-22T11:10:35.340185+00:00",
   "groups": {
     "HTTP": [
       {
@@ -78,7 +78,7 @@
         "name": "Formula 1 Stream",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 98.3,
         "url": "https://f1.viktorbarzin.me"
       },
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -183,7 +183,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "http://realestate-crawler-api.realestate-crawler.svc/api/status"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 96.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -263,14 +263,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://rybbit.viktorbarzin.me"
       },
       {
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.0,
+        "uptime_7d": 98.1,
         "uptime_30d": 97.6,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.8,
-        "uptime_30d": 98.0,
+        "uptime_30d": 98.1,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -287,7 +287,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -310,7 +310,7 @@
         "name": "ha-london",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.7,
+        "uptime_7d": 98.8,
         "uptime_30d": 98.0,
         "url": "https://ha-london.viktorbarzin.me"
       },
@@ -326,7 +326,7 @@
         "name": "Servarr (Prowlarr)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.0,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
@@ -351,22 +351,22 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2,
+        "uptime_30d": 99.3,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
         "name": "N8N",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 98.0,
+        "uptime_7d": 99.3,
+        "uptime_30d": 98.1,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
         "name": "FreshRSS",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
+        "uptime_7d": 99.3,
         "uptime_30d": 99.0,
         "url": "https://rss.viktorbarzin.me"
       },
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 74.3,
-        "uptime_7d": 70.2,
-        "uptime_30d": 60.8,
+        "status": "down",
+        "uptime_24h": 73.8,
+        "uptime_7d": 69.9,
+        "uptime_30d": 60.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -768,14 +768,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.3
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.2
+        "uptime_30d": 99.3
       },
       {
         "name": "Valchedrym DDNS",
@@ -821,9 +821,9 @@
       {
         "name": "Email Roundtrip E2E",
         "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 99.2,
-        "uptime_30d": 89.4
+        "uptime_24h": 98.6,
+        "uptime_7d": 98.5,
+        "uptime_30d": 88.9
       }
     ],
     "External Reachability": [
@@ -880,7 +880,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.0,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
