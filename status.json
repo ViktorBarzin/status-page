@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T13:36:16.283730+00:00",
+  "last_updated": "2026-05-22T13:40:37.947167+00:00",
   "groups": {
     "HTTP": [
       {
@@ -271,14 +271,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.2,
-        "uptime_30d": 97.7,
+        "uptime_30d": 97.8,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.8,
+        "uptime_7d": 98.9,
         "uptime_30d": 98.4,
         "url": "https://health.viktorbarzin.me"
       },
@@ -526,7 +526,7 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 94.2,
-        "uptime_7d": 93.2,
+        "uptime_7d": 93.3,
         "uptime_30d": 92.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 75.9,
+        "uptime_24h": 75.7,
         "uptime_7d": 70.7,
         "uptime_30d": 61.4,
         "url": "https://docker.viktorbarzin.me"
@@ -822,7 +822,7 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.5,
+        "uptime_7d": 98.6,
         "uptime_30d": 89.9
       }
     ],
