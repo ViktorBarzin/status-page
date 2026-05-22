@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-22T08:10:27.349560+00:00",
+  "last_updated": "2026-05-22T08:16:19.487015+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 98.9,
         "url": "https://technitium.viktorbarzin.me"
       },
@@ -14,8 +14,8 @@
         "name": "Headscale (Tailscale VPN)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://headscale.viktorbarzin.me"
       },
       {
@@ -30,8 +30,8 @@
         "name": "Excalidraw",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
-        "uptime_30d": 99.4,
+        "uptime_7d": 99.5,
+        "uptime_30d": 99.5,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -134,7 +134,7 @@
         "name": "Immich ML",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 97.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -197,7 +197,7 @@
       {
         "name": "Frigate",
         "status": "up",
-        "uptime_24h": 99.7,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.2,
         "uptime_30d": 98.4,
         "url": "https://frigate.viktorbarzin.me"
@@ -255,7 +255,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://pdf.viktorbarzin.me"
       },
       {
@@ -335,7 +335,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "http://blog.website.svc"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -462,7 +462,7 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 97.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.0,
+        "uptime_24h": 74.6,
         "uptime_7d": 69.5,
-        "uptime_30d": 60.1,
+        "uptime_30d": 60.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -631,7 +631,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -710,7 +710,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4
+        "uptime_30d": 99.5
       },
       {
         "name": "Traefik LoadBalancer",
@@ -888,7 +888,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://ha-sofia.viktorbarzin.me"
       },
       {
@@ -1080,7 +1080,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.6,
+        "uptime_30d": 98.7,
         "url": "https://url.viktorbarzin.me"
       },
       {
@@ -1168,7 +1168,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://instagram-poster.viktorbarzin.me"
       },
       {
@@ -1208,7 +1208,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://public-auth.viktorbarzin.me"
       },
       {
@@ -1280,7 +1280,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://city-guesser.viktorbarzin.me"
       },
       {
@@ -1680,7 +1680,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
