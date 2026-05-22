@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T07:15:24.991670+00:00",
+  "last_updated": "2026-05-22T07:20:34.783971+00:00",
   "groups": {
     "HTTP": [
       {
@@ -463,7 +463,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.6,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -574,16 +574,16 @@
         "name": "Goldilocks (VPA)",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.1,
-        "uptime_30d": 99.1,
+        "uptime_7d": 99.2,
+        "uptime_30d": 99.2,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.3,
-        "uptime_7d": 69.0,
-        "uptime_30d": 59.8,
+        "uptime_24h": 74.5,
+        "uptime_7d": 69.1,
+        "uptime_30d": 59.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.1,
-        "uptime_30d": 88.1
+        "uptime_7d": 99.2,
+        "uptime_30d": 88.2
       }
     ],
     "External Reachability": [
@@ -1381,10 +1381,10 @@
       },
       {
         "name": "[External] stacks",
-        "status": "up",
-        "uptime_24h": 100.0,
-        "uptime_7d": 100.0,
-        "uptime_30d": 100.0,
+        "status": "down",
+        "uptime_24h": 99.7,
+        "uptime_7d": 99.7,
+        "uptime_30d": 99.7,
         "url": "https://stacks.viktorbarzin.me"
       },
       {
