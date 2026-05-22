@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:50:35.938954+00:00",
+  "last_updated": "2026-05-22T04:55:25.523637+00:00",
   "groups": {
     "HTTP": [
       {
@@ -294,7 +294,7 @@
         "name": "Forgejo",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 97.9,
         "url": "https://forgejo.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 74.2,
-        "uptime_7d": 68.2,
+        "uptime_7d": 68.3,
         "uptime_30d": 59.1,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -670,7 +670,7 @@
         "name": "ha-sofia-internal",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "http://ha-sofia.viktorbarzin.lan:8123/manifest.json"
       },
@@ -678,7 +678,7 @@
         "name": "ha-sofia-direct",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 99.7,
+        "uptime_7d": 99.8,
         "uptime_30d": 99.5,
         "url": "http://192.168.1.8:8123/manifest.json"
       }
@@ -1615,7 +1615,7 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 98.1,
+        "uptime_7d": 98.2,
         "uptime_30d": 97.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
