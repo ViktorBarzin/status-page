@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T14:41:06.013415+00:00",
+  "last_updated": "2026-05-22T14:46:29.338771+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.5,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -268,7 +268,7 @@
       },
       {
         "name": "AFFiNE",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 97.6,
         "uptime_30d": 97.2,
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.9,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.3,
-        "uptime_30d": 98.4,
+        "uptime_30d": 98.5,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -526,8 +526,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 92.6,
-        "uptime_7d": 92.4,
-        "uptime_30d": 91.7,
+        "uptime_7d": 92.5,
+        "uptime_30d": 91.8,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -581,14 +581,14 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 77.4,
+        "uptime_24h": 78.2,
         "uptime_7d": 71.2,
         "uptime_30d": 61.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
         "name": "Woodpecker CI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.3,
         "uptime_30d": 98.7,
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 98.4
+        "uptime_30d": 98.5
       },
       {
         "name": "pfSense Gateway",
@@ -1237,10 +1237,10 @@
       },
       {
         "name": "[External] affine",
-        "status": "down",
-        "uptime_24h": 99.3,
-        "uptime_7d": 98.0,
-        "uptime_30d": 97.8,
+        "status": "up",
+        "uptime_24h": 99.0,
+        "uptime_7d": 97.8,
+        "uptime_30d": 97.6,
         "url": "https://affine.viktorbarzin.me"
       },
       {
