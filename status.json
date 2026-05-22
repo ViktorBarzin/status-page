@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T18:50:32.104918+00:00",
+  "last_updated": "2026-05-22T18:55:23.609287+00:00",
   "groups": {
     "HTTP": [
       {
@@ -157,7 +157,7 @@
       {
         "name": "Nextcloud",
         "status": "up",
-        "uptime_24h": 97.9,
+        "uptime_24h": 98.3,
         "uptime_7d": 98.4,
         "uptime_30d": 98.2,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
@@ -405,7 +405,7 @@
       {
         "name": "Speedtest",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 100.0,
         "uptime_7d": 98.8,
         "uptime_30d": 97.8,
         "url": "https://speedtest.viktorbarzin.me"
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 92.0,
         "uptime_7d": 92.8,
-        "uptime_30d": 92.1,
+        "uptime_30d": 92.2,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -581,8 +581,8 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 79.6,
-        "uptime_7d": 71.8,
+        "uptime_24h": 79.9,
+        "uptime_7d": 71.9,
         "uptime_30d": 62.5,
         "url": "https://docker.viktorbarzin.me"
       },
