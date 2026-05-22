@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T07:55:22.580686+00:00",
+  "last_updated": "2026-05-22T08:00:33.745317+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -135,7 +135,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 97.8,
-        "uptime_30d": 97.5,
+        "uptime_30d": 97.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -206,7 +206,7 @@
         "name": "idrac-redfish-exporter.viktorbarzin.lan",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 96.4,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
@@ -270,7 +270,7 @@
         "name": "AFFiNE",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
+        "uptime_7d": 97.9,
         "uptime_30d": 97.3,
         "url": "https://affine.viktorbarzin.me"
       },
@@ -359,7 +359,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 97.8,
+        "uptime_30d": 97.9,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 74.0,
-        "uptime_7d": 69.2,
-        "uptime_30d": 60.0,
+        "uptime_7d": 69.4,
+        "uptime_30d": 60.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 97.8
+        "uptime_30d": 97.9
       },
       {
         "name": "pfSense Gateway",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 88.2
+        "uptime_30d": 88.3
       }
     ],
     "External Reachability": [
