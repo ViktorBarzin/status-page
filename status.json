@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T08:45:26.209275+00:00",
+  "last_updated": "2026-05-22T08:50:32.641097+00:00",
   "groups": {
     "HTTP": [
       {
@@ -117,7 +117,7 @@
       {
         "name": "K8s master",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.5,
         "uptime_30d": 99.5,
         "url": "https://10.0.20.100:6443"
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.9,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -573,7 +573,7 @@
       {
         "name": "Goldilocks (VPA)",
         "status": "up",
-        "uptime_24h": 99.3,
+        "uptime_24h": 100.0,
         "uptime_7d": 99.2,
         "uptime_30d": 99.2,
         "url": "https://goldilocks.viktorbarzin.me"
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 74.6,
-        "uptime_7d": 69.6,
-        "uptime_30d": 60.3,
+        "uptime_24h": 74.3,
+        "uptime_7d": 69.5,
+        "uptime_30d": 60.2,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -928,7 +928,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 100.0,
-        "uptime_30d": 99.7,
+        "uptime_30d": 100.0,
         "url": "https://nas.viktorbarzin.me"
       },
       {
