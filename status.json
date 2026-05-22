@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T23:45:23.619435+00:00",
+  "last_updated": "2026-05-22T23:50:27.234696+00:00",
   "groups": {
     "HTTP": [
       {
@@ -438,7 +438,7 @@
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.3,
+        "uptime_7d": 99.4,
         "uptime_30d": 99.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 79.9,
         "uptime_7d": 72.1,
-        "uptime_30d": 63.0,
+        "uptime_30d": 63.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
