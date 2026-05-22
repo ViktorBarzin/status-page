@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T02:40:31.094370+00:00",
+  "last_updated": "2026-05-22T02:46:17.418287+00:00",
   "groups": {
     "HTTP": [
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.7,
-        "uptime_30d": 98.3,
+        "uptime_30d": 98.4,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.4,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.3,
+        "uptime_7d": 98.4,
         "uptime_30d": 97.1,
         "url": "https://health.viktorbarzin.me"
       },
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "up",
-        "uptime_24h": 72.9,
-        "uptime_7d": 66.7,
-        "uptime_30d": 58.2,
+        "status": "down",
+        "uptime_24h": 72.4,
+        "uptime_7d": 66.4,
+        "uptime_30d": 58.1,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -879,7 +879,7 @@
         "name": "[External] ha-london",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.3,
         "url": "https://ha-london.viktorbarzin.me"
       },
