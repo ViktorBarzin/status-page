@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:15:26.971490+00:00",
+  "last_updated": "2026-05-23T04:20:35.549466+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.4,
+        "uptime_7d": 98.5,
         "uptime_30d": 97.9,
         "url": "https://health.viktorbarzin.me"
       },
@@ -311,7 +311,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.1,
-        "uptime_30d": 98.1,
+        "uptime_30d": 98.2,
         "url": "https://ha-london.viktorbarzin.me"
       },
       {
@@ -526,8 +526,8 @@
         "name": "OpenClaw",
         "status": "up",
         "uptime_24h": 92.0,
-        "uptime_7d": 89.4,
-        "uptime_30d": 88.3,
+        "uptime_7d": 89.5,
+        "uptime_30d": 88.4,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -822,8 +822,8 @@
         "name": "Email Roundtrip E2E",
         "status": "up",
         "uptime_24h": 98.7,
-        "uptime_7d": 98.1,
-        "uptime_30d": 89.4
+        "uptime_7d": 98.2,
+        "uptime_30d": 89.5
       }
     ],
     "External Reachability": [
@@ -1119,7 +1119,7 @@
         "name": "[External] ci",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 99.0,
+        "uptime_7d": 99.1,
         "uptime_30d": 97.8,
         "url": "https://ci.viktorbarzin.me"
       },
