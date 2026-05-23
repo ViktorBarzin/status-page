@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T08:15:47.742443+00:00",
+  "last_updated": "2026-05-23T08:21:23.002732+00:00",
   "groups": {
     "HTTP": [
       {
@@ -151,7 +151,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 99.7,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "http://linkwarden.linkwarden"
       },
       {
@@ -278,7 +278,7 @@
         "name": "Health Dashboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 98.6,
+        "uptime_7d": 98.7,
         "uptime_30d": 98.1,
         "url": "https://health.viktorbarzin.me"
       },
@@ -516,7 +516,7 @@
       },
       {
         "name": "Music Assistant",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.0,
         "uptime_7d": 99.2,
         "uptime_30d": 98.1,
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 79.0,
-        "uptime_7d": 73.8,
+        "uptime_7d": 73.9,
         "uptime_30d": 62.0,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -917,7 +917,7 @@
       },
       {
         "name": "[External] music-assistant",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 98.6,
         "uptime_7d": 98.9,
         "uptime_30d": 98.4,
@@ -1239,7 +1239,7 @@
         "name": "[External] affine",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 97.3,
+        "uptime_7d": 97.4,
         "uptime_30d": 97.1,
         "url": "https://affine.viktorbarzin.me"
       },
