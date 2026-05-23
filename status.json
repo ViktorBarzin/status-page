@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T09:41:53.474198+00:00",
+  "last_updated": "2026-05-23T09:45:33.839873+00:00",
   "groups": {
     "HTTP": [
       {
@@ -207,7 +207,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 98.0,
-        "uptime_30d": 96.5,
+        "uptime_30d": 96.6,
         "url": "https://idrac-redfish-exporter.viktorbarzin.lan"
       },
       {
@@ -525,9 +525,9 @@
       {
         "name": "OpenClaw",
         "status": "down",
-        "uptime_24h": 90.9,
-        "uptime_7d": 89.7,
-        "uptime_30d": 88.7,
+        "uptime_24h": 90.6,
+        "uptime_7d": 89.4,
+        "uptime_30d": 88.5,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -582,8 +582,8 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 80.0,
-        "uptime_7d": 74.7,
-        "uptime_30d": 62.6,
+        "uptime_7d": 74.8,
+        "uptime_30d": 62.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -870,17 +870,17 @@
       {
         "name": "[External] affine",
         "status": "down",
-        "uptime_24h": 12.5,
-        "uptime_7d": 12.5,
-        "uptime_30d": 12.5,
+        "uptime_24h": 11.1,
+        "uptime_7d": 11.1,
+        "uptime_30d": 11.1,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "[External] aiostreams",
         "status": "up",
-        "uptime_24h": 25.0,
-        "uptime_7d": 25.0,
-        "uptime_30d": 25.0,
+        "uptime_24h": 33.3,
+        "uptime_7d": 33.3,
+        "uptime_30d": 33.3,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -942,9 +942,9 @@
       {
         "name": "[External] claude-memory",
         "status": "up",
-        "uptime_24h": 50.0,
-        "uptime_7d": 50.0,
-        "uptime_30d": 50.0,
+        "uptime_24h": 55.6,
+        "uptime_7d": 55.6,
+        "uptime_30d": 55.6,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -1230,9 +1230,9 @@
       {
         "name": "[External] linkwarden",
         "status": "up",
-        "uptime_24h": 40.0,
-        "uptime_7d": 40.0,
-        "uptime_30d": 40.0,
+        "uptime_24h": 45.5,
+        "uptime_7d": 45.5,
+        "uptime_30d": 45.5,
         "url": "https://linkwarden.viktorbarzin.me"
       },
       {
@@ -1246,9 +1246,9 @@
       {
         "name": "[External] matrix",
         "status": "up",
-        "uptime_24h": 25.0,
-        "uptime_7d": 25.0,
-        "uptime_30d": 25.0,
+        "uptime_24h": 33.3,
+        "uptime_7d": 33.3,
+        "uptime_30d": 33.3,
         "url": "https://matrix.viktorbarzin.me"
       },
       {
@@ -1261,10 +1261,10 @@
       },
       {
         "name": "[External] n8n",
-        "status": "down",
-        "uptime_24h": 12.5,
-        "uptime_7d": 12.5,
-        "uptime_30d": 12.5,
+        "status": "up",
+        "uptime_24h": 22.2,
+        "uptime_7d": 22.2,
+        "uptime_30d": 22.2,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -1302,17 +1302,17 @@
       {
         "name": "[External] novelapp",
         "status": "up",
-        "uptime_24h": 50.0,
-        "uptime_7d": 50.0,
-        "uptime_30d": 50.0,
+        "uptime_24h": 55.6,
+        "uptime_7d": 55.6,
+        "uptime_30d": 55.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
         "name": "[External] ntfy",
         "status": "up",
-        "uptime_24h": 37.5,
-        "uptime_7d": 37.5,
-        "uptime_30d": 37.5,
+        "uptime_24h": 44.4,
+        "uptime_7d": 44.4,
+        "uptime_30d": 44.4,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -1606,9 +1606,9 @@
       {
         "name": "[External] tandoor",
         "status": "up",
-        "uptime_24h": 25.0,
-        "uptime_7d": 25.0,
-        "uptime_30d": 25.0,
+        "uptime_24h": 33.3,
+        "uptime_7d": 33.3,
+        "uptime_30d": 33.3,
         "url": "https://tandoor.viktorbarzin.me"
       },
       {
@@ -1686,9 +1686,9 @@
       {
         "name": "[External] url",
         "status": "up",
-        "uptime_24h": 83.3,
-        "uptime_7d": 83.3,
-        "uptime_30d": 83.3,
+        "uptime_24h": 85.7,
+        "uptime_7d": 85.7,
+        "uptime_30d": 85.7,
         "url": "https://url.viktorbarzin.me"
       },
       {
