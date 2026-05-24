@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T21:00:58.936466+00:00",
+  "last_updated": "2026-05-24T21:05:27.849130+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 91.8,
         "uptime_7d": 93.6,
-        "uptime_30d": 92.6,
+        "uptime_30d": 92.7,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -158,7 +158,7 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 95.2,
-        "uptime_7d": 90.8,
+        "uptime_7d": 90.9,
         "uptime_30d": 90.4,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
@@ -293,9 +293,9 @@
       {
         "name": "Forgejo",
         "status": "down",
-        "uptime_24h": 76.9,
-        "uptime_7d": 86.8,
-        "uptime_30d": 86.4,
+        "uptime_24h": 76.6,
+        "uptime_7d": 86.6,
+        "uptime_30d": 86.2,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -358,8 +358,8 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 97.2,
-        "uptime_7d": 91.4,
-        "uptime_30d": 90.3,
+        "uptime_7d": 91.5,
+        "uptime_30d": 90.4,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -580,7 +580,7 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 85.3,
         "uptime_7d": 80.9,
         "uptime_30d": 67.1,
@@ -765,14 +765,14 @@
     "Ping": [
       {
         "name": "Valchedrym Security System",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 22.4,
         "uptime_7d": 56.1,
         "uptime_30d": 56.0
       },
       {
         "name": "Valchedrym Video System",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 22.4,
         "uptime_7d": 56.1,
         "uptime_30d": 56.0
@@ -782,7 +782,7 @@
         "status": "up",
         "uptime_24h": 89.2,
         "uptime_7d": 93.7,
-        "uptime_30d": 93.0
+        "uptime_30d": 92.9
       },
       {
         "name": "Sofia RPI",
@@ -967,8 +967,8 @@
         "name": "[External] dashy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.4,
-        "uptime_30d": 95.4,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.5,
         "url": "https://dashy.viktorbarzin.me"
       },
       {
@@ -1086,9 +1086,9 @@
       {
         "name": "[External] forgejo",
         "status": "down",
-        "uptime_24h": 76.9,
-        "uptime_7d": 84.4,
-        "uptime_30d": 84.4,
+        "uptime_24h": 76.6,
+        "uptime_7d": 84.2,
+        "uptime_30d": 84.2,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1255,8 +1255,8 @@
         "name": "[External] n8n",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 89.2,
-        "uptime_30d": 89.2,
+        "uptime_7d": 89.3,
+        "uptime_30d": 89.3,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -1487,16 +1487,16 @@
         "name": "[External] nas",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.4,
         "url": "https://nas.viktorbarzin.me"
       },
       {
         "name": "[External] pfsense",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.3,
-        "uptime_30d": 96.3,
+        "uptime_7d": 96.4,
+        "uptime_30d": 96.4,
         "url": "https://pfsense.viktorbarzin.me"
       },
       {
