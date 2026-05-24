@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T16:25:47.804687+00:00",
+  "last_updated": "2026-05-24T16:32:17.685419+00:00",
   "groups": {
     "HTTP": [
       {
@@ -87,7 +87,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 91.2,
-        "uptime_30d": 91.0,
+        "uptime_30d": 91.1,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
       {
@@ -118,8 +118,8 @@
         "name": "K8s master",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://10.0.20.100:6443"
       },
       {
@@ -293,9 +293,9 @@
       {
         "name": "Forgejo",
         "status": "down",
-        "uptime_24h": 95.9,
-        "uptime_7d": 97.2,
-        "uptime_30d": 96.6,
+        "uptime_24h": 95.5,
+        "uptime_7d": 97.0,
+        "uptime_30d": 96.4,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -567,7 +567,7 @@
         "status": "up",
         "uptime_24h": 97.9,
         "uptime_7d": 98.1,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://grafana.viktorbarzin.me"
       },
       {
@@ -591,7 +591,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.3,
+        "uptime_30d": 99.4,
         "url": "https://ci.viktorbarzin.me"
       },
       {
@@ -689,14 +689,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.2,
-        "uptime_30d": 93.0
+        "uptime_30d": 93.1
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.2,
-        "uptime_30d": 93.0
+        "uptime_30d": 93.1
       },
       {
         "name": "ShadowSocks Proxy",
@@ -766,22 +766,22 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 41.4,
-        "uptime_7d": 62.8,
-        "uptime_30d": 62.6
+        "uptime_24h": 40.8,
+        "uptime_7d": 62.7,
+        "uptime_30d": 62.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 41.4,
-        "uptime_7d": 62.8,
-        "uptime_30d": 62.6
+        "uptime_24h": 40.8,
+        "uptime_7d": 62.7,
+        "uptime_30d": 62.4
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 89.2,
-        "uptime_7d": 92.9,
+        "uptime_7d": 93.0,
         "uptime_30d": 92.2
       },
       {
@@ -789,7 +789,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.8,
-        "uptime_30d": 99.3
+        "uptime_30d": 99.4
       },
       {
         "name": "pfSense Gateway",
@@ -879,8 +879,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 94.7,
-        "uptime_30d": 94.7,
+        "uptime_7d": 94.8,
+        "uptime_30d": 94.8,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1086,9 +1086,9 @@
       {
         "name": "[External] forgejo",
         "status": "down",
-        "uptime_24h": 95.8,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.8,
+        "uptime_24h": 95.2,
+        "uptime_7d": 96.3,
+        "uptime_30d": 96.3,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1255,8 +1255,8 @@
         "name": "[External] n8n",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 88.9,
-        "uptime_30d": 88.9,
+        "uptime_7d": 89.0,
+        "uptime_30d": 89.0,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
@@ -1407,16 +1407,16 @@
         "name": "[External] resume",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 89.3,
-        "uptime_30d": 89.3,
+        "uptime_7d": 89.4,
+        "uptime_30d": 89.4,
         "url": "https://resume.viktorbarzin.me"
       },
       {
         "name": "[External] docker",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.8,
-        "uptime_30d": 96.8,
+        "uptime_7d": 96.9,
+        "uptime_30d": 96.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
