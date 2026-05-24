@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T19:30:50.431252+00:00",
+  "last_updated": "2026-05-24T19:35:29.975499+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,7 +79,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.8,
-        "uptime_30d": 95.6,
+        "uptime_30d": 95.7,
         "url": "https://f1.viktorbarzin.me"
       },
       {
@@ -118,8 +118,8 @@
         "name": "K8s master",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.2,
-        "uptime_30d": 96.2,
+        "uptime_7d": 96.3,
+        "uptime_30d": 96.3,
         "url": "https://10.0.20.100:6443"
       },
       {
@@ -159,7 +159,7 @@
         "status": "up",
         "uptime_24h": 95.2,
         "uptime_7d": 90.5,
-        "uptime_30d": 90.0,
+        "uptime_30d": 90.1,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -293,9 +293,9 @@
       {
         "name": "Forgejo",
         "status": "down",
-        "uptime_24h": 83.1,
-        "uptime_7d": 89.9,
-        "uptime_30d": 89.5,
+        "uptime_24h": 82.8,
+        "uptime_7d": 89.8,
+        "uptime_30d": 89.3,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 87.8,
+        "uptime_24h": 88.1,
         "uptime_7d": 82.1,
         "uptime_30d": 67.5,
         "url": "https://docker.viktorbarzin.me"
@@ -688,14 +688,14 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.7,
+        "uptime_7d": 93.8,
         "uptime_30d": 93.6
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.7,
+        "uptime_7d": 93.8,
         "uptime_30d": 93.6
       },
       {
@@ -766,14 +766,14 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 28.6,
+        "uptime_24h": 28.4,
         "uptime_7d": 58.1,
         "uptime_30d": 58.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 28.6,
+        "uptime_24h": 28.4,
         "uptime_7d": 58.1,
         "uptime_30d": 58.0
       },
@@ -967,8 +967,8 @@
         "name": "[External] dashy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "https://dashy.viktorbarzin.me"
       },
       {
@@ -1086,9 +1086,9 @@
       {
         "name": "[External] forgejo",
         "status": "down",
-        "uptime_24h": 83.0,
-        "uptime_7d": 88.1,
-        "uptime_30d": 88.1,
+        "uptime_24h": 82.7,
+        "uptime_7d": 87.9,
+        "uptime_30d": 87.9,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
