@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T11:55:27.255990+00:00",
+  "last_updated": "2026-05-24T11:56:16.037513+00:00",
   "groups": {
     "HTTP": [
       {
@@ -215,7 +215,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 99.3,
-        "uptime_30d": 97.1,
+        "uptime_30d": 97.2,
         "url": "https://nvidia-exporter.viktorbarzin.lan"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 85.7,
-        "uptime_7d": 79.2,
-        "uptime_30d": 64.8,
+        "status": "up",
+        "uptime_24h": 85.8,
+        "uptime_7d": 79.3,
+        "uptime_30d": 64.9,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 60.2,
-        "uptime_7d": 71.4,
-        "uptime_30d": 71.0
+        "uptime_24h": 60.0,
+        "uptime_7d": 71.2,
+        "uptime_30d": 70.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 60.2,
-        "uptime_7d": 71.4,
-        "uptime_30d": 71.0
+        "uptime_24h": 60.0,
+        "uptime_7d": 71.2,
+        "uptime_30d": 70.8
       },
       {
         "name": "Valchedrym DDNS",
@@ -886,7 +886,7 @@
       {
         "name": "[External] authentik",
         "status": "up",
-        "uptime_24h": 96.5,
+        "uptime_24h": 96.9,
         "uptime_7d": 89.4,
         "uptime_30d": 89.4,
         "url": "https://authentik.viktorbarzin.me"
@@ -1046,7 +1046,7 @@
       {
         "name": "[External] echo",
         "status": "up",
-        "uptime_24h": 94.1,
+        "uptime_24h": 94.4,
         "uptime_7d": 87.3,
         "uptime_30d": 87.3,
         "url": "https://echo.viktorbarzin.me"
@@ -1166,7 +1166,7 @@
       {
         "name": "[External] immich",
         "status": "up",
-        "uptime_24h": 98.3,
+        "uptime_24h": 98.6,
         "uptime_7d": 91.0,
         "uptime_30d": 91.0,
         "url": "https://immich.viktorbarzin.me"
@@ -1286,7 +1286,7 @@
       {
         "name": "[External] nextcloud",
         "status": "up",
-        "uptime_24h": 93.2,
+        "uptime_24h": 93.5,
         "uptime_7d": 86.5,
         "uptime_30d": 86.5,
         "url": "https://nextcloud.viktorbarzin.me"
@@ -1406,7 +1406,7 @@
       {
         "name": "[External] resume",
         "status": "up",
-        "uptime_24h": 94.4,
+        "uptime_24h": 94.8,
         "uptime_7d": 87.5,
         "uptime_30d": 87.5,
         "url": "https://resume.viktorbarzin.me"
