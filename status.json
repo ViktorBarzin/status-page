@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T23:29:23.167966+00:00",
+  "last_updated": "2026-05-24T23:31:25.728350+00:00",
   "groups": {
     "HTTP": [
       {
@@ -76,7 +76,7 @@
       },
       {
         "name": "Formula 1 Stream",
-        "status": "down",
+        "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 96.7,
         "uptime_30d": 95.7,
@@ -118,8 +118,8 @@
         "name": "K8s master",
         "status": "up",
         "uptime_24h": 95.5,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2,
+        "uptime_7d": 94.3,
+        "uptime_30d": 94.3,
         "url": "https://10.0.20.100:6443"
       },
       {
@@ -293,8 +293,8 @@
       {
         "name": "Forgejo",
         "status": "up",
-        "uptime_24h": 73.7,
-        "uptime_7d": 85.8,
+        "uptime_24h": 73.8,
+        "uptime_7d": 85.9,
         "uptime_30d": 85.5,
         "url": "https://forgejo.viktorbarzin.me"
       },
@@ -357,7 +357,7 @@
       {
         "name": "N8N",
         "status": "up",
-        "uptime_24h": 97.2,
+        "uptime_24h": 97.3,
         "uptime_7d": 91.9,
         "uptime_30d": 90.9,
         "url": "https://n8n.viktorbarzin.me"
@@ -574,7 +574,7 @@
         "name": "Goldilocks (VPA)",
         "status": "up",
         "uptime_24h": 95.2,
-        "uptime_7d": 94.0,
+        "uptime_7d": 94.1,
         "uptime_30d": 93.9,
         "url": "https://goldilocks.viktorbarzin.me"
       },
@@ -582,7 +582,7 @@
         "name": "Proxmox UI",
         "status": "up",
         "uptime_24h": 85.3,
-        "uptime_7d": 81.6,
+        "uptime_7d": 81.7,
         "uptime_30d": 67.8,
         "url": "https://docker.viktorbarzin.me"
       },
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "up",
-        "uptime_24h": 22.1,
-        "uptime_7d": 58.4,
-        "uptime_30d": 58.3
+        "uptime_24h": 22.4,
+        "uptime_7d": 58.5,
+        "uptime_30d": 58.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
-        "uptime_24h": 22.1,
-        "uptime_7d": 58.4,
-        "uptime_30d": 58.3
+        "uptime_24h": 22.4,
+        "uptime_7d": 58.5,
+        "uptime_30d": 58.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -1055,8 +1055,8 @@
         "name": "[External] draw",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://draw.viktorbarzin.me"
       },
       {
@@ -1255,8 +1255,8 @@
         "name": "[External] n8n",
         "status": "up",
         "uptime_24h": 96.9,
-        "uptime_7d": 89.9,
-        "uptime_30d": 89.9,
+        "uptime_7d": 90.0,
+        "uptime_30d": 90.0,
         "url": "https://n8n.viktorbarzin.me"
       },
       {
