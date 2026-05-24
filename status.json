@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T23:36:23.187620+00:00",
+  "last_updated": "2026-05-24T23:40:41.467626+00:00",
   "groups": {
     "HTTP": [
       {
@@ -14,7 +14,7 @@
         "name": "Headscale (Tailscale VPN)",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 99.1,
         "url": "https://headscale.viktorbarzin.me"
       },
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 91.8,
         "uptime_7d": 94.0,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -198,7 +198,7 @@
         "name": "Frigate",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 99.4,
+        "uptime_7d": 99.5,
         "uptime_30d": 98.7,
         "url": "https://frigate.viktorbarzin.me"
       },
@@ -357,7 +357,7 @@
       {
         "name": "N8N",
         "status": "up",
-        "uptime_24h": 97.3,
+        "uptime_24h": 97.2,
         "uptime_7d": 91.9,
         "uptime_30d": 90.9,
         "url": "https://n8n.viktorbarzin.me"
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 96.9,
-        "uptime_30d": 96.0,
+        "uptime_30d": 96.1,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -767,15 +767,15 @@
         "name": "Valchedrym Security System",
         "status": "up",
         "uptime_24h": 22.4,
-        "uptime_7d": 58.5,
-        "uptime_30d": 58.4
+        "uptime_7d": 58.6,
+        "uptime_30d": 58.5
       },
       {
         "name": "Valchedrym Video System",
         "status": "up",
         "uptime_24h": 22.4,
-        "uptime_7d": 58.5,
-        "uptime_30d": 58.4
+        "uptime_7d": 58.6,
+        "uptime_30d": 58.5
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 93.3,
         "uptime_7d": 94.0,
-        "uptime_30d": 90.6
+        "uptime_30d": 90.7
       }
     ],
     "External Reachability": [
@@ -887,8 +887,8 @@
         "name": "[External] authentik",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 92.6,
-        "uptime_30d": 92.6,
+        "uptime_7d": 92.7,
+        "uptime_30d": 92.7,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
@@ -911,8 +911,8 @@
         "name": "[External] dolt-workbench",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 99.3,
-        "uptime_30d": 99.3,
+        "uptime_7d": 99.4,
+        "uptime_30d": 99.4,
         "url": "https://dolt-workbench.viktorbarzin.me"
       },
       {
@@ -967,8 +967,8 @@
         "name": "[External] dashy",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.7,
-        "uptime_30d": 95.7,
+        "uptime_7d": 95.8,
+        "uptime_30d": 95.8,
         "url": "https://dashy.viktorbarzin.me"
       },
       {
@@ -1023,16 +1023,16 @@
         "name": "[External] book-search",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.1,
-        "uptime_30d": 95.1,
+        "uptime_7d": 95.2,
+        "uptime_30d": 95.2,
         "url": "https://book-search.viktorbarzin.me"
       },
       {
         "name": "[External] calibre",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.9,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0,
         "url": "https://calibre.viktorbarzin.me"
       },
       {
@@ -1223,8 +1223,8 @@
         "name": "[External] linkwarden",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://linkwarden.viktorbarzin.me"
       },
       {
@@ -1287,8 +1287,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 95.9,
-        "uptime_7d": 90.5,
-        "uptime_30d": 90.5,
+        "uptime_7d": 90.6,
+        "uptime_30d": 90.6,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
@@ -1607,8 +1607,8 @@
         "name": "[External] terminal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.8,
-        "uptime_30d": 97.8,
+        "uptime_7d": 97.9,
+        "uptime_30d": 97.9,
         "url": "https://terminal.viktorbarzin.me"
       },
       {
