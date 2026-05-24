@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T17:46:30.168141+00:00",
+  "last_updated": "2026-05-24T17:50:45.633448+00:00",
   "groups": {
     "HTTP": [
       {
@@ -102,8 +102,8 @@
         "name": "authentik-server",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 92.6,
-        "uptime_30d": 92.6,
+        "uptime_7d": 92.7,
+        "uptime_30d": 92.7,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -293,9 +293,9 @@
       {
         "name": "Forgejo",
         "status": "down",
-        "uptime_24h": 90.3,
-        "uptime_7d": 93.9,
-        "uptime_30d": 93.4,
+        "uptime_24h": 90.0,
+        "uptime_7d": 93.7,
+        "uptime_30d": 93.2,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -487,7 +487,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.2,
-        "uptime_30d": 98.7,
+        "uptime_30d": 98.8,
         "url": "https://claude-memory.viktorbarzin.me"
       },
       {
@@ -519,7 +519,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.4,
-        "uptime_30d": 98.5,
+        "uptime_30d": 98.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -581,9 +581,9 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 86.9,
+        "uptime_24h": 87.2,
         "uptime_7d": 81.5,
-        "uptime_30d": 66.9,
+        "uptime_30d": 67.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 35.6,
-        "uptime_7d": 60.7,
-        "uptime_30d": 60.5
+        "uptime_24h": 35.5,
+        "uptime_7d": 60.6,
+        "uptime_30d": 60.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 35.6,
-        "uptime_7d": 60.7,
-        "uptime_30d": 60.5
+        "uptime_24h": 35.5,
+        "uptime_7d": 60.6,
+        "uptime_30d": 60.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -879,8 +879,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 94.9,
-        "uptime_30d": 94.9,
+        "uptime_7d": 95.0,
+        "uptime_30d": 95.0,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1047,8 +1047,8 @@
         "name": "[External] echo",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 89.5,
-        "uptime_30d": 89.5,
+        "uptime_7d": 89.6,
+        "uptime_30d": 89.6,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -1086,9 +1086,9 @@
       {
         "name": "[External] forgejo",
         "status": "down",
-        "uptime_24h": 90.3,
-        "uptime_7d": 92.8,
-        "uptime_30d": 92.8,
+        "uptime_24h": 90.0,
+        "uptime_7d": 92.6,
+        "uptime_30d": 92.6,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1119,16 +1119,16 @@
         "name": "[External] frigate",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
         "name": "[External] hackmd",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "https://hackmd.viktorbarzin.me"
       },
       {
@@ -1231,8 +1231,8 @@
         "name": "[External] mail",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 95.7,
-        "uptime_30d": 95.7,
+        "uptime_7d": 95.8,
+        "uptime_30d": 95.8,
         "url": "https://mail.viktorbarzin.me"
       },
       {
