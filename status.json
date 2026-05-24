@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T13:40:32.024965+00:00",
+  "last_updated": "2026-05-24T13:45:27.579140+00:00",
   "groups": {
     "HTTP": [
       {
@@ -79,14 +79,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.2,
-        "uptime_30d": 94.9,
+        "uptime_30d": 95.0,
         "url": "https://f1.viktorbarzin.me"
       },
       {
         "name": "calibre",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 90.5,
+        "uptime_7d": 90.6,
         "uptime_30d": 90.4,
         "url": "https://audiobookshelf.viktorbarzin.me"
       },
@@ -118,8 +118,8 @@
         "name": "K8s master",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.6,
-        "uptime_30d": 95.6,
+        "uptime_7d": 95.7,
+        "uptime_30d": 95.7,
         "url": "https://10.0.20.100:6443"
       },
       {
@@ -279,7 +279,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 95.3,
-        "uptime_30d": 93.8,
+        "uptime_30d": 93.9,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -543,7 +543,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.7,
-        "uptime_30d": 97.4,
+        "uptime_30d": 97.5,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 85.8,
+        "uptime_24h": 85.7,
         "uptime_7d": 80.0,
         "uptime_30d": 65.6,
         "url": "https://docker.viktorbarzin.me"
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 52.9,
-        "uptime_7d": 67.8,
-        "uptime_30d": 67.5
+        "uptime_24h": 52.6,
+        "uptime_7d": 67.7,
+        "uptime_30d": 67.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 52.9,
-        "uptime_7d": 67.8,
-        "uptime_30d": 67.5
+        "uptime_24h": 52.6,
+        "uptime_7d": 67.7,
+        "uptime_30d": 67.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -839,7 +839,7 @@
         "name": "[External] alertmanager",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.4,
+        "uptime_7d": 97.5,
         "uptime_30d": 96.8,
         "url": "https://alertmanager.viktorbarzin.me"
       },
@@ -879,8 +879,8 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 94.2,
-        "uptime_30d": 94.2,
+        "uptime_7d": 94.3,
+        "uptime_30d": 94.3,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -1047,8 +1047,8 @@
         "name": "[External] echo",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 88.0,
-        "uptime_30d": 88.0,
+        "uptime_7d": 88.1,
+        "uptime_30d": 88.1,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -1143,8 +1143,8 @@
         "name": "[External] health",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 95.4,
-        "uptime_30d": 95.4,
+        "uptime_7d": 95.5,
+        "uptime_30d": 95.5,
         "url": "https://health.viktorbarzin.me"
       },
       {
@@ -1231,8 +1231,8 @@
         "name": "[External] mail",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 95.1,
-        "uptime_30d": 95.1,
+        "uptime_7d": 95.2,
+        "uptime_30d": 95.2,
         "url": "https://mail.viktorbarzin.me"
       },
       {
@@ -1295,8 +1295,8 @@
         "name": "[External] novelapp",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 98.2,
-        "uptime_30d": 98.2,
+        "uptime_7d": 98.3,
+        "uptime_30d": 98.3,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -1367,8 +1367,8 @@
         "name": "[External] plotting-book",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 96.2,
-        "uptime_30d": 96.2,
+        "uptime_7d": 96.3,
+        "uptime_30d": 96.3,
         "url": "https://plotting-book.viktorbarzin.me"
       },
       {
@@ -1415,8 +1415,8 @@
         "name": "[External] docker",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.5,
-        "uptime_30d": 96.5,
+        "uptime_7d": 96.6,
+        "uptime_30d": 96.6,
         "url": "https://docker.viktorbarzin.me"
       },
       {
