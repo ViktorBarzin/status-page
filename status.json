@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T17:06:27.822520+00:00",
+  "last_updated": "2026-05-24T17:11:27.706111+00:00",
   "groups": {
     "HTTP": [
       {
@@ -39,7 +39,7 @@
         "status": "up",
         "uptime_24h": 93.1,
         "uptime_7d": 93.8,
-        "uptime_30d": 92.7,
+        "uptime_30d": 92.8,
         "url": "https://shlink.viktorbarzin.me"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.8,
-        "uptime_30d": 93.0,
+        "uptime_30d": 93.1,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 95.2,
-        "uptime_7d": 89.9,
-        "uptime_30d": 89.4,
+        "uptime_7d": 90.0,
+        "uptime_30d": 89.5,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -293,9 +293,9 @@
       {
         "name": "Forgejo",
         "status": "down",
-        "uptime_24h": 93.1,
-        "uptime_7d": 95.5,
-        "uptime_30d": 94.9,
+        "uptime_24h": 92.8,
+        "uptime_7d": 95.3,
+        "uptime_30d": 94.7,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -327,7 +327,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 97.2,
-        "uptime_30d": 96.4,
+        "uptime_30d": 96.5,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -358,7 +358,7 @@
         "name": "N8N",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 91.4,
+        "uptime_7d": 91.5,
         "uptime_30d": 90.2,
         "url": "https://n8n.viktorbarzin.me"
       },
@@ -462,7 +462,7 @@
         "name": "AIOStreams",
         "status": "up",
         "uptime_24h": 97.9,
-        "uptime_7d": 95.3,
+        "uptime_7d": 95.4,
         "uptime_30d": 93.9,
         "url": "https://aiostreams.viktorbarzin.me"
       },
@@ -527,7 +527,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.4,
-        "uptime_30d": 91.3,
+        "uptime_30d": 91.4,
         "url": "https://openclaw.viktorbarzin.me"
       },
       {
@@ -580,10 +580,10 @@
       },
       {
         "name": "Proxmox UI",
-        "status": "down",
-        "uptime_24h": 86.9,
-        "uptime_7d": 81.4,
-        "uptime_30d": 66.8,
+        "status": "up",
+        "uptime_24h": 86.6,
+        "uptime_7d": 81.3,
+        "uptime_30d": 66.7,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -688,14 +688,14 @@
         "name": "SMTP",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.3,
+        "uptime_7d": 93.4,
         "uptime_30d": 93.2
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 93.3,
+        "uptime_7d": 93.4,
         "uptime_30d": 93.2
       },
       {
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 38.6,
-        "uptime_7d": 61.8,
-        "uptime_30d": 61.5
+        "uptime_24h": 38.3,
+        "uptime_7d": 61.6,
+        "uptime_30d": 61.4
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 38.6,
-        "uptime_7d": 61.8,
-        "uptime_30d": 61.5
+        "uptime_24h": 38.3,
+        "uptime_7d": 61.6,
+        "uptime_30d": 61.4
       },
       {
         "name": "Valchedrym DDNS",
@@ -823,7 +823,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 96.6,
-        "uptime_30d": 91.4
+        "uptime_30d": 92.0
       }
     ],
     "External Reachability": [
@@ -879,16 +879,16 @@
         "name": "[External] aiostreams",
         "status": "up",
         "uptime_24h": 98.3,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.8,
+        "uptime_7d": 94.9,
+        "uptime_30d": 94.9,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
         "name": "[External] authentik",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 91.1,
-        "uptime_30d": 91.1,
+        "uptime_7d": 91.2,
+        "uptime_30d": 91.2,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
@@ -999,16 +999,16 @@
         "name": "[External] audiblez",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 94.6,
-        "uptime_30d": 94.6,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.7,
         "url": "https://audiblez.viktorbarzin.me"
       },
       {
         "name": "[External] ebook2audiobook",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 94.6,
-        "uptime_30d": 94.6,
+        "uptime_7d": 94.7,
+        "uptime_30d": 94.7,
         "url": "https://ebook2audiobook.viktorbarzin.me"
       },
       {
@@ -1047,8 +1047,8 @@
         "name": "[External] echo",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 89.3,
-        "uptime_30d": 89.3,
+        "uptime_7d": 89.4,
+        "uptime_30d": 89.4,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -1086,9 +1086,9 @@
       {
         "name": "[External] forgejo",
         "status": "down",
-        "uptime_24h": 93.1,
-        "uptime_7d": 94.8,
-        "uptime_30d": 94.8,
+        "uptime_24h": 92.7,
+        "uptime_7d": 94.5,
+        "uptime_30d": 94.5,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1199,8 +1199,8 @@
         "name": "[External] k8s-portal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.1,
-        "uptime_30d": 96.1,
+        "uptime_7d": 96.2,
+        "uptime_30d": 96.2,
         "url": "https://k8s-portal.viktorbarzin.me"
       },
       {
@@ -1287,8 +1287,8 @@
         "name": "[External] nextcloud",
         "status": "up",
         "uptime_24h": 95.9,
-        "uptime_7d": 88.6,
-        "uptime_30d": 88.6,
+        "uptime_7d": 88.7,
+        "uptime_30d": 88.7,
         "url": "https://nextcloud.viktorbarzin.me"
       },
       {
