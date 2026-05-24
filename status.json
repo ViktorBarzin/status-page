@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T19:26:20.842914+00:00",
+  "last_updated": "2026-05-24T19:30:50.431252+00:00",
   "groups": {
     "HTTP": [
       {
@@ -78,7 +78,7 @@
         "name": "Formula 1 Stream",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.7,
+        "uptime_7d": 96.8,
         "uptime_30d": 95.6,
         "url": "https://f1.viktorbarzin.me"
       },
@@ -102,8 +102,8 @@
         "name": "authentik-server",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 92.9,
-        "uptime_30d": 92.9,
+        "uptime_7d": 93.0,
+        "uptime_30d": 93.0,
         "url": "http://goauthentik-server.authentik"
       },
       {
@@ -126,7 +126,7 @@
         "name": "Immich server",
         "status": "up",
         "uptime_24h": 94.5,
-        "uptime_7d": 90.9,
+        "uptime_7d": 91.0,
         "uptime_30d": 90.3,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
@@ -293,9 +293,9 @@
       {
         "name": "Forgejo",
         "status": "down",
-        "uptime_24h": 83.4,
-        "uptime_7d": 90.1,
-        "uptime_30d": 89.6,
+        "uptime_24h": 83.1,
+        "uptime_7d": 89.9,
+        "uptime_30d": 89.5,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -357,7 +357,7 @@
       {
         "name": "N8N",
         "status": "up",
-        "uptime_24h": 97.3,
+        "uptime_24h": 97.2,
         "uptime_7d": 91.1,
         "uptime_30d": 90.0,
         "url": "https://n8n.viktorbarzin.me"
@@ -575,7 +575,7 @@
         "status": "up",
         "uptime_24h": 99.7,
         "uptime_7d": 96.0,
-        "uptime_30d": 95.8,
+        "uptime_30d": 95.9,
         "url": "https://goldilocks.viktorbarzin.me"
       },
       {
@@ -689,14 +689,14 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.7,
-        "uptime_30d": 93.5
+        "uptime_30d": 93.6
       },
       {
         "name": "Imap",
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 93.7,
-        "uptime_30d": 93.5
+        "uptime_30d": 93.6
       },
       {
         "name": "ShadowSocks Proxy",
@@ -766,16 +766,16 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 29.0,
-        "uptime_7d": 58.3,
-        "uptime_30d": 58.1
+        "uptime_24h": 28.6,
+        "uptime_7d": 58.1,
+        "uptime_30d": 58.0
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 29.0,
-        "uptime_7d": 58.3,
-        "uptime_30d": 58.1
+        "uptime_24h": 28.6,
+        "uptime_7d": 58.1,
+        "uptime_30d": 58.0
       },
       {
         "name": "Valchedrym DDNS",
@@ -887,8 +887,8 @@
         "name": "[External] authentik",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 91.7,
-        "uptime_30d": 91.7,
+        "uptime_7d": 91.8,
+        "uptime_30d": 91.8,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
@@ -903,8 +903,8 @@
         "name": "[External] beadboard",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 95.2,
-        "uptime_30d": 95.2,
+        "uptime_7d": 95.3,
+        "uptime_30d": 95.3,
         "url": "https://beadboard.viktorbarzin.me"
       },
       {
@@ -951,8 +951,8 @@
         "name": "[External] crowdsec-web",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 95.0,
-        "uptime_30d": 95.0,
+        "uptime_7d": 95.1,
+        "uptime_30d": 95.1,
         "url": "https://crowdsec-web.viktorbarzin.me"
       },
       {
@@ -991,8 +991,8 @@
         "name": "[External] pma",
         "status": "up",
         "uptime_24h": 99.0,
-        "uptime_7d": 95.0,
-        "uptime_30d": 95.0,
+        "uptime_7d": 95.1,
+        "uptime_30d": 95.1,
         "url": "https://pma.viktorbarzin.me"
       },
       {
@@ -1047,8 +1047,8 @@
         "name": "[External] echo",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 90.0,
-        "uptime_30d": 90.0,
+        "uptime_7d": 90.1,
+        "uptime_30d": 90.1,
         "url": "https://echo.viktorbarzin.me"
       },
       {
@@ -1086,9 +1086,9 @@
       {
         "name": "[External] forgejo",
         "status": "down",
-        "uptime_24h": 83.4,
-        "uptime_7d": 88.3,
-        "uptime_30d": 88.3,
+        "uptime_24h": 83.0,
+        "uptime_7d": 88.1,
+        "uptime_30d": 88.1,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1167,8 +1167,8 @@
         "name": "[External] immich",
         "status": "up",
         "uptime_24h": 94.8,
-        "uptime_7d": 89.3,
-        "uptime_30d": 89.3,
+        "uptime_7d": 89.4,
+        "uptime_30d": 89.4,
         "url": "https://immich.viktorbarzin.me"
       },
       {
@@ -1231,8 +1231,8 @@
         "name": "[External] mail",
         "status": "up",
         "uptime_24h": 99.3,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://mail.viktorbarzin.me"
       },
       {
@@ -1375,8 +1375,8 @@
         "name": "[External] priority-pass",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://priority-pass.viktorbarzin.me"
       },
       {
@@ -1543,8 +1543,8 @@
         "name": "[External] flaresolverr",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -1575,16 +1575,16 @@
         "name": "[External] speedtest",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://speedtest.viktorbarzin.me"
       },
       {
         "name": "[External] stirling-pdf",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -1623,8 +1623,8 @@
         "name": "[External] trading",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.3,
-        "uptime_30d": 97.3,
+        "uptime_7d": 97.4,
+        "uptime_30d": 97.4,
         "url": "https://trading.viktorbarzin.me"
       },
       {
