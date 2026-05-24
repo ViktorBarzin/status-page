@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T17:32:58.126689+00:00",
+  "last_updated": "2026-05-24T17:35:51.983362+00:00",
   "groups": {
     "HTTP": [
       {
@@ -158,8 +158,8 @@
         "name": "Nextcloud",
         "status": "up",
         "uptime_24h": 95.2,
-        "uptime_7d": 90.0,
-        "uptime_30d": 89.5,
+        "uptime_7d": 90.1,
+        "uptime_30d": 89.6,
         "url": "http://nextcloud.nextcloud.svc:8080/status.php"
       },
       {
@@ -293,9 +293,9 @@
       {
         "name": "Forgejo",
         "status": "down",
-        "uptime_24h": 91.3,
-        "uptime_7d": 94.5,
-        "uptime_30d": 93.9,
+        "uptime_24h": 91.0,
+        "uptime_7d": 94.3,
+        "uptime_30d": 93.8,
         "url": "https://forgejo.viktorbarzin.me"
       },
       {
@@ -375,7 +375,7 @@
         "status": "up",
         "uptime_24h": 99.3,
         "uptime_7d": 96.4,
-        "uptime_30d": 95.4,
+        "uptime_30d": 95.5,
         "url": "https://stirling-pdf.viktorbarzin.me"
       },
       {
@@ -766,22 +766,22 @@
       {
         "name": "Valchedrym Security System",
         "status": "down",
-        "uptime_24h": 36.7,
-        "uptime_7d": 61.1,
-        "uptime_30d": 60.9
+        "uptime_24h": 36.6,
+        "uptime_7d": 61.0,
+        "uptime_30d": 60.8
       },
       {
         "name": "Valchedrym Video System",
         "status": "down",
-        "uptime_24h": 36.7,
-        "uptime_7d": 61.1,
-        "uptime_30d": 60.9
+        "uptime_24h": 36.6,
+        "uptime_7d": 61.0,
+        "uptime_30d": 60.8
       },
       {
         "name": "Valchedrym DDNS",
         "status": "up",
         "uptime_24h": 89.2,
-        "uptime_7d": 93.1,
+        "uptime_7d": 93.2,
         "uptime_30d": 92.4
       },
       {
@@ -1223,8 +1223,8 @@
         "name": "[External] linkwarden",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.5,
         "url": "https://linkwarden.viktorbarzin.me"
       },
       {
@@ -1415,8 +1415,8 @@
         "name": "[External] docker",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 96.9,
-        "uptime_30d": 96.9,
+        "uptime_7d": 97.0,
+        "uptime_30d": 97.0,
         "url": "https://docker.viktorbarzin.me"
       },
       {
@@ -1551,16 +1551,16 @@
         "name": "[External] listenarr",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://listenarr.viktorbarzin.me"
       },
       {
         "name": "[External] prowlarr",
         "status": "up",
         "uptime_24h": 99.7,
-        "uptime_7d": 95.9,
-        "uptime_30d": 95.9,
+        "uptime_7d": 96.0,
+        "uptime_30d": 96.0,
         "url": "https://prowlarr.viktorbarzin.me"
       },
       {
@@ -1607,8 +1607,8 @@
         "name": "[External] terminal",
         "status": "up",
         "uptime_24h": 100.0,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.5,
         "url": "https://terminal.viktorbarzin.me"
       },
       {
