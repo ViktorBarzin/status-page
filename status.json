@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-25T07:51:28.394297+00:00",
+  "last_updated": "2026-05-25T07:52:49.866943+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "down",
-        "uptime_24h": 70.8,
+        "uptime_24h": 70.7,
         "uptime_7d": 76.3,
         "uptime_30d": 75.8,
         "url": "https://technitium.viktorbarzin.me"
@@ -125,17 +125,17 @@
       {
         "name": "Immich server",
         "status": "up",
-        "uptime_24h": 91.5,
+        "uptime_24h": 91.6,
         "uptime_7d": 92.9,
-        "uptime_30d": 91.9,
+        "uptime_30d": 92.0,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
         "name": "Immich ML",
         "status": "down",
-        "uptime_24h": 70.9,
-        "uptime_7d": 76.3,
-        "uptime_30d": 75.3,
+        "uptime_24h": 70.7,
+        "uptime_7d": 76.1,
+        "uptime_30d": 75.1,
         "url": "http://immich-machine-learning.immich:3003"
       },
       {
@@ -197,9 +197,9 @@
       {
         "name": "Frigate",
         "status": "down",
-        "uptime_24h": 71.3,
-        "uptime_7d": 76.6,
-        "uptime_30d": 76.0,
+        "uptime_24h": 71.0,
+        "uptime_7d": 76.4,
+        "uptime_30d": 75.8,
         "url": "https://frigate.viktorbarzin.me"
       },
       {
@@ -437,8 +437,8 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "down",
-        "uptime_24h": 71.6,
-        "uptime_7d": 77.0,
+        "uptime_24h": 71.5,
+        "uptime_7d": 76.9,
         "uptime_30d": 76.3,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -461,9 +461,9 @@
       {
         "name": "AIOStreams",
         "status": "down",
-        "uptime_24h": 71.3,
-        "uptime_7d": 76.0,
-        "uptime_30d": 74.9,
+        "uptime_24h": 71.0,
+        "uptime_7d": 75.8,
+        "uptime_30d": 74.7,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -581,7 +581,7 @@
       {
         "name": "Proxmox UI",
         "status": "up",
-        "uptime_24h": 91.1,
+        "uptime_24h": 91.7,
         "uptime_7d": 81.1,
         "uptime_30d": 65.0,
         "url": "https://docker.viktorbarzin.me"
@@ -621,9 +621,9 @@
       {
         "name": "Flaresolverr",
         "status": "down",
-        "uptime_24h": 89.3,
-        "uptime_7d": 91.1,
-        "uptime_30d": 90.7,
+        "uptime_24h": 89.0,
+        "uptime_7d": 90.9,
+        "uptime_30d": 90.4,
         "url": "https://flaresolverr.viktorbarzin.me"
       },
       {
@@ -878,7 +878,7 @@
       {
         "name": "[External] aiostreams",
         "status": "down",
-        "uptime_24h": 70.8,
+        "uptime_24h": 70.7,
         "uptime_7d": 76.0,
         "uptime_30d": 76.0,
         "url": "https://aiostreams.viktorbarzin.me"
@@ -1086,9 +1086,9 @@
       {
         "name": "[External] forgejo",
         "status": "up",
-        "uptime_24h": 73.4,
-        "uptime_7d": 78.5,
-        "uptime_30d": 78.5,
+        "uptime_24h": 73.5,
+        "uptime_7d": 78.6,
+        "uptime_30d": 78.6,
         "url": "https://forgejo.viktorbarzin.me/api/healthz"
       },
       {
@@ -1110,9 +1110,9 @@
       {
         "name": "[External] rss",
         "status": "down",
-        "uptime_24h": 71.0,
-        "uptime_7d": 76.5,
-        "uptime_30d": 76.5,
+        "uptime_24h": 70.8,
+        "uptime_7d": 76.3,
+        "uptime_30d": 76.3,
         "url": "https://rss.viktorbarzin.me"
       },
       {
@@ -1262,9 +1262,9 @@
       {
         "name": "[External] navidrome",
         "status": "down",
-        "uptime_24h": 71.0,
-        "uptime_7d": 76.5,
-        "uptime_30d": 76.5,
+        "uptime_24h": 70.8,
+        "uptime_7d": 76.3,
+        "uptime_30d": 76.3,
         "url": "https://navidrome.viktorbarzin.me"
       },
       {
@@ -1294,9 +1294,9 @@
       {
         "name": "[External] novelapp",
         "status": "down",
-        "uptime_24h": 71.0,
-        "uptime_7d": 76.4,
-        "uptime_30d": 76.4,
+        "uptime_24h": 70.8,
+        "uptime_7d": 76.2,
+        "uptime_30d": 76.2,
         "url": "https://novelapp.viktorbarzin.me"
       },
       {
@@ -1495,8 +1495,8 @@
         "name": "[External] pfsense",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://pfsense.viktorbarzin.me"
       },
       {
@@ -1534,7 +1534,7 @@
       {
         "name": "[External] send",
         "status": "down",
-        "uptime_24h": 70.8,
+        "uptime_24h": 70.7,
         "uptime_7d": 76.3,
         "uptime_30d": 76.3,
         "url": "https://send.viktorbarzin.me"
@@ -1695,8 +1695,8 @@
         "name": "[External] wealthfolio",
         "status": "up",
         "uptime_24h": 98.6,
-        "uptime_7d": 98.3,
-        "uptime_30d": 98.3,
+        "uptime_7d": 98.4,
+        "uptime_30d": 98.4,
         "url": "https://wealthfolio.viktorbarzin.me"
       },
       {
