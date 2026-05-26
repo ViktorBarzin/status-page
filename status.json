@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-26T02:41:13.747468+00:00",
+  "last_updated": "2026-05-26T02:42:01.911838+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
-        "uptime_24h": 59.7,
-        "uptime_7d": 58.1,
-        "uptime_30d": 57.9,
+        "uptime_24h": 59.8,
+        "uptime_7d": 58.3,
+        "uptime_30d": 58.1,
         "url": "https://technitium.viktorbarzin.me"
       },
       {
@@ -197,7 +197,7 @@
       {
         "name": "Frigate",
         "status": "down",
-        "uptime_24h": 20.3,
+        "uptime_24h": 20.4,
         "uptime_7d": 20.1,
         "uptime_30d": 20.9,
         "url": "https://frigate.viktorbarzin.me"
@@ -357,7 +357,7 @@
       {
         "name": "N8N",
         "status": "down",
-        "uptime_24h": 63.6,
+        "uptime_24h": 63.5,
         "uptime_7d": 63.9,
         "uptime_30d": 63.2,
         "url": "https://n8n.viktorbarzin.me"
@@ -437,8 +437,8 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 48.6,
-        "uptime_7d": 47.5,
+        "uptime_24h": 48.7,
+        "uptime_7d": 47.6,
         "uptime_30d": 47.6,
         "url": "https://novelapp.viktorbarzin.me"
       },
@@ -838,7 +838,7 @@
       {
         "name": "[External] alertmanager",
         "status": "up",
-        "uptime_24h": 98.8,
+        "uptime_24h": 98.9,
         "uptime_7d": 98.5,
         "uptime_30d": 97.4,
         "url": "https://alertmanager.viktorbarzin.me"
@@ -870,17 +870,17 @@
       {
         "name": "[External] affine",
         "status": "up",
-        "uptime_24h": 63.6,
-        "uptime_7d": 64.2,
-        "uptime_30d": 64.2,
+        "uptime_24h": 63.7,
+        "uptime_7d": 64.3,
+        "uptime_30d": 64.3,
         "url": "https://affine.viktorbarzin.me"
       },
       {
         "name": "[External] aiostreams",
         "status": "down",
-        "uptime_24h": 26.2,
-        "uptime_7d": 26.1,
-        "uptime_30d": 26.1,
+        "uptime_24h": 26.1,
+        "uptime_7d": 26.0,
+        "uptime_30d": 26.0,
         "url": "https://aiostreams.viktorbarzin.me"
       },
       {
@@ -982,9 +982,9 @@
       {
         "name": "[External] pgadmin",
         "status": "up",
-        "uptime_24h": 98.8,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_24h": 98.9,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.5,
         "url": "https://pgadmin.viktorbarzin.me"
       },
       {
@@ -1567,8 +1567,8 @@
         "name": "[External] qbittorrent",
         "status": "up",
         "uptime_24h": 98.8,
-        "uptime_7d": 98.1,
-        "uptime_30d": 98.1,
+        "uptime_7d": 98.2,
+        "uptime_30d": 98.2,
         "url": "https://qbittorrent.viktorbarzin.me"
       },
       {
