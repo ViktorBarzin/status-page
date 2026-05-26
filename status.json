@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-26T01:40:30.832524+00:00",
+  "last_updated": "2026-05-26T01:41:26.779943+00:00",
   "groups": {
     "HTTP": [
       {
         "name": "Technitium (DNS)",
         "status": "up",
-        "uptime_24h": 54.8,
+        "uptime_24h": 55.2,
         "uptime_7d": 76.6,
         "uptime_30d": 76.3,
         "url": "https://technitium.viktorbarzin.me"
@@ -55,7 +55,7 @@
         "status": "up",
         "uptime_24h": 100.0,
         "uptime_7d": 99.6,
-        "uptime_30d": 99.4,
+        "uptime_30d": 99.5,
         "url": "http://hackmd.hackmd"
       },
       {
@@ -127,7 +127,7 @@
         "status": "up",
         "uptime_24h": 95.4,
         "uptime_7d": 93.1,
-        "uptime_30d": 92.6,
+        "uptime_30d": 92.7,
         "url": "https://highlights-immich.viktorbarzin.me"
       },
       {
@@ -268,10 +268,10 @@
       },
       {
         "name": "AFFiNE",
-        "status": "up",
-        "uptime_24h": 68.9,
-        "uptime_7d": 84.6,
-        "uptime_30d": 83.4,
+        "status": "down",
+        "uptime_24h": 68.7,
+        "uptime_7d": 84.4,
+        "uptime_30d": 83.2,
         "url": "https://affine.viktorbarzin.me"
       },
       {
@@ -285,9 +285,9 @@
       {
         "name": "Ntfy",
         "status": "up",
-        "uptime_24h": 69.9,
+        "uptime_24h": 70.0,
         "uptime_7d": 85.0,
-        "uptime_30d": 84.7,
+        "uptime_30d": 84.8,
         "url": "https://ntfy.viktorbarzin.me"
       },
       {
@@ -357,7 +357,7 @@
       {
         "name": "N8N",
         "status": "down",
-        "uptime_24h": 67.3,
+        "uptime_24h": 67.2,
         "uptime_7d": 82.8,
         "uptime_30d": 81.9,
         "url": "https://n8n.viktorbarzin.me"
@@ -437,7 +437,7 @@
       {
         "name": "Novelapp (Gheorghe's App)",
         "status": "up",
-        "uptime_24h": 43.8,
+        "uptime_24h": 43.9,
         "uptime_7d": 72.2,
         "uptime_30d": 71.9,
         "url": "https://novelapp.viktorbarzin.me"
@@ -525,7 +525,7 @@
       {
         "name": "OpenClaw",
         "status": "up",
-        "uptime_24h": 54.1,
+        "uptime_24h": 54.3,
         "uptime_7d": 76.6,
         "uptime_30d": 75.6,
         "url": "https://openclaw.viktorbarzin.me"
@@ -541,15 +541,15 @@
       {
         "name": "MeshCentral",
         "status": "down",
-        "uptime_24h": 67.2,
-        "uptime_7d": 83.9,
-        "uptime_30d": 83.8,
+        "uptime_24h": 66.9,
+        "uptime_7d": 83.7,
+        "uptime_30d": 83.6,
         "url": "https://meshcentral.viktorbarzin.me"
       },
       {
         "name": "Navidrome (Viktor)",
         "status": "up",
-        "uptime_24h": 59.8,
+        "uptime_24h": 60.1,
         "uptime_7d": 79.1,
         "uptime_30d": 78.7,
         "url": "https://navidrome.viktorbarzin.me"
@@ -621,7 +621,7 @@
       {
         "name": "Flaresolverr",
         "status": "up",
-        "uptime_24h": 80.0,
+        "uptime_24h": 79.9,
         "uptime_7d": 89.0,
         "uptime_30d": 88.7,
         "url": "https://flaresolverr.viktorbarzin.me"
@@ -629,7 +629,7 @@
       {
         "name": "QBittorrent",
         "status": "up",
-        "uptime_24h": 55.6,
+        "uptime_24h": 55.8,
         "uptime_7d": 77.1,
         "uptime_30d": 76.7,
         "url": "https://flaresolverr.viktorbarzin.me"
@@ -887,8 +887,8 @@
         "name": "[External] authentik",
         "status": "up",
         "uptime_24h": 97.0,
-        "uptime_7d": 97.4,
-        "uptime_30d": 97.4,
+        "uptime_7d": 97.5,
+        "uptime_30d": 97.5,
         "url": "https://authentik.viktorbarzin.me"
       },
       {
@@ -1254,7 +1254,7 @@
       {
         "name": "[External] n8n",
         "status": "down",
-        "uptime_24h": 66.8,
+        "uptime_24h": 66.7,
         "uptime_7d": 82.3,
         "uptime_30d": 82.3,
         "url": "https://n8n.viktorbarzin.me"
@@ -1462,7 +1462,7 @@
       {
         "name": "[External] london",
         "status": "up",
-        "uptime_24h": 98.9,
+        "uptime_24h": 98.8,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://london.viktorbarzin.me"
@@ -1582,7 +1582,7 @@
       {
         "name": "[External] stirling-pdf",
         "status": "up",
-        "uptime_24h": 98.9,
+        "uptime_24h": 98.8,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://stirling-pdf.viktorbarzin.me"
@@ -1614,7 +1614,7 @@
       {
         "name": "[External] terminal-ro",
         "status": "up",
-        "uptime_24h": 98.9,
+        "uptime_24h": 98.8,
         "uptime_7d": 99.1,
         "uptime_30d": 99.1,
         "url": "https://terminal-ro.viktorbarzin.me"
@@ -1686,7 +1686,7 @@
       {
         "name": "[External] goldilocks",
         "status": "up",
-        "uptime_24h": 98.9,
+        "uptime_24h": 98.8,
         "uptime_7d": 98.9,
         "uptime_30d": 98.9,
         "url": "https://goldilocks.viktorbarzin.me"
